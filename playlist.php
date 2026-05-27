@@ -13,7 +13,7 @@ https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6317&type=dash&toke
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6299&type=drm&token=3d2c7769562715c449bf68193d24f9fe034b1e44ba3f3f96e2ba03060eb48a2b
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6299&type=dash&token=3d2c7769562715c449bf68193d24f9fe034b1e44ba3f3f96e2ba03060eb48a2b
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YMJUP3w6rBzrWrdI0zA_giG0PGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096503/254438.jpg" group-title="Event-LIVE-NOW", Valentin Royer vs Novak Djokovic - Men's Singles | Roland Garros 2026: Round 2 - Day 4 (Court 1) (20:48 - 00:00 * 27-05-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YMJUP3w6rBzrWrdI0zA_giG0PGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096503/254438.jpg" group-title="Event-LIVE-NOW", Valentin Royer vs Novak Djokovic - Men's Singles | Roland Garros 2026: Round 2 - Day 4 (Court 1) (20:48 - 00:48 * 27-05-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -75,61 +75,11 @@ https://pull.livecdn.cc/live/4546192.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.43/hls/KIIIFQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F637495443774140416%2FEk5Gmtj2_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Yanga Princess vs Fountain Gate Princess - Tanzania Ligi Kuu Bara 22.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.43/hls/grgrgrQq.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747938544734085120%2Ft18E9sx8_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Urartu vs Noah - Armenia Premier League 22.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.43/hls/KIIIFQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747938544734085120%2Ft18E9sx8_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Pyunik Yerevan vs Van - Armenia Premier League 22.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.43/hls/KIIIFQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747938544734085120%2Ft18E9sx8_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Ararat-Armenia vs FC Gandzasar - Armenia Premier League 22.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.43/hls/KIIIF.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1304292122686713857%2Flrp_AtSy_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Rajasthan Royals vs Sunrisers Hyderabad - Cricket IPL League 21.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.43/hls/IYYYYQx.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1610490753976832006%2Flga9ESei_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Ertis Pavlodar vs Ulytau - Kazakhstan Premier League 20.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.43/hls/KIII.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1944943931969372160%2FfiLGcaCR_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Buriram vs Selangor - ASEAN Club Championship 19.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.43/hls/grgrgrQqQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 1 - Horse Racing 19.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.194/hls/vavavava.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 2 - Horse Racing 19.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.194/hls/vavavavaq.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1773758182705287168%2Fc8FnoFaF_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Cycling Giro D'italia - Cycling 17.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.43/hls/QQQQZQQQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1404378291599937536%2Fb-r3SWlW_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Ireland vs New Zealand - Cricket 17.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.43/hls/grgrgrQ.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1799246307644612609%2FzULoScyz_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Tennis Roland Garros --- CH 8 - Tennis Masters 16.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -180,27 +130,21 @@ http://193.47.62.44/hls/SAAA23456789.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/SAAA2345678910.m3u8
-#EXTINF:-1 tvg-id="orca-2999" tvg-name="Singapore Open 2026 [CH1]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2Fbd65117b11a213781d2cb0322c9c1467630994fe6ca2130908be8de2d8cf3e3f.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Singapore Open 2026 [CH1] - 27 Mei 09:00 WIB - Badminton - Venue 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
-http://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=29d3a8e2e394e0e7808dec73add2de5a&wsABSTime=1779909653
-#EXTINF:-1 tvg-id="orca-4068" tvg-name="Singapore Open 2026 [CH2]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2Fbd65117b11a213781d2cb0322c9c1467630994fe6ca2130908be8de2d8cf3e3f.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Singapore Open 2026 [CH2] - 27 Mei 09:00 WIB - Badminton - Venue 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
-http://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=1601330917c77f158792fcef92ef664e&wsABSTime=1779909644
-#EXTINF:-1 tvg-id="orca-4069" tvg-name="Singapore Open 2026 [CH3]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2Fbd65117b11a213781d2cb0322c9c1467630994fe6ca2130908be8de2d8cf3e3f.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Singapore Open 2026 [CH3] - 27 Mei 09:00 WIB - Badminton - Venue 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
-http://live1.pro2cdnlive.com/live/channel87.flv?wsSecret=a4a67fcf182d9acc400eddb71c2bc512&wsABSTime=1779909662
-#EXTINF:-1 tvg-id="orca-944" tvg-name="Asean Club Championship [CH1]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2F84071b39cf045aad5f065a2863cc7f1fd95d9b74d021284aa8fb0f7a03986833.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Asean Club Championship [CH1] - 27 Mei 19:00 WIB - Buriram United vs Selangor FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 1 - Horse Racing 19.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.194/hls/vavavava.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 2 - Horse Racing 19.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.194/hls/vavavavaq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1404378291599937536%2Fb-r3SWlW_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Ireland vs New Zealand - Cricket 17.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.43/hls/grgrgrQ.m3u8
 #EXTINF:-1 tvg-id="orca-1408" tvg-name="UEFA Europa Conference League [CH1]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2F9845064fbffd6da18d096647d0c2993f46d89c55813be345ab68977d398409cb.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",UEFA Europa Conference League [CH1] - 28 Mei 02:00 WIB - Crystal Palace vs Rayo Vallecano
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -255,6 +199,50 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 tvg-id="orca-2999" tvg-name="Singapore Open 2026 [CH1]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2Fbd65117b11a213781d2cb0322c9c1467630994fe6ca2130908be8de2d8cf3e3f.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Singapore Open 2026 [CH1] - 28 Mei 09:00 WIB - Badminton - Venue 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
+http://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=29d3a8e2e394e0e7808dec73add2de5a&wsABSTime=1779909653
+#EXTINF:-1 tvg-id="orca-4068" tvg-name="Singapore Open 2026 [CH2]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2Fbd65117b11a213781d2cb0322c9c1467630994fe6ca2130908be8de2d8cf3e3f.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Singapore Open 2026 [CH2] - 28 Mei 09:00 WIB - Badminton - Venue 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
+http://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=1601330917c77f158792fcef92ef664e&wsABSTime=1779909644
+#EXTINF:-1 tvg-id="orca-4069" tvg-name="Singapore Open 2026 [CH3]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2Fbd65117b11a213781d2cb0322c9c1467630994fe6ca2130908be8de2d8cf3e3f.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Singapore Open 2026 [CH3] - 28 Mei 09:00 WIB - Badminton - Venue 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
+http://live1.pro2cdnlive.com/live/channel87.flv?wsSecret=a4a67fcf182d9acc400eddb71c2bc512&wsABSTime=1779909662
+#EXTINF:-1 tvg-id="orca-4016" tvg-name="Pro Futsal League 2 [CH1]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2F7b56779bbaae8d2f07ee7e83743e29f15a958a08303b8db396ef662fe2cbcc51.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Pro Futsal League 2 [CH1] - 28 Mei 12:00 WIB - GIGA FC vs Proton FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://nt-linier.rctiplus.id/hdlive2/futsal.m3u8
+#EXTINF:-1 tvg-id="orca-4017" tvg-name="Pro Futsal League 2 [CH2]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2F7b56779bbaae8d2f07ee7e83743e29f15a958a08303b8db396ef662fe2cbcc51.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Pro Futsal League 2 [CH2] - 28 Mei 14:25 WIB - Elano FC vs KLN Elite
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-origin=https://visionplus.id
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-id="orca-4018" tvg-name="Pro Futsal League 2 [CH3]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2F7b56779bbaae8d2f07ee7e83743e29f15a958a08303b8db396ef662fe2cbcc51.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Pro Futsal League 2 [CH3] - 28 Mei 17:00 WIB - Mbak Adjeng vs Great Grace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-origin=https://visionplus.id
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-id="orca-4019" tvg-name="Pro Futsal League 2 [CH4]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2F7b56779bbaae8d2f07ee7e83743e29f15a958a08303b8db396ef662fe2cbcc51.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Pro Futsal League 2 [CH4] - 28 Mei 19:25 WIB - Maestro Solo vs Hampton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-origin=https://visionplus.id
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #EXTINF:-1 tvg-id="orca-2956" tvg-name="Copa Libertadores [CH1]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2Fa3ab7ba4337d7e1afff2682ff4f866b2e035f1df56ed3a4d73f928f1471146a0.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Copa Libertadores [CH1] - 29 Mei 05:00 WIB - Cerro Porteno vs Sporting Cristal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -267,6 +255,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a201aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="orca-1435" tvg-name="Basketball: NBA [CH1]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2F578d08737688fdcfc5445a53b25e442838b04a154cc6cd231327eec8d768667e.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Basketball: NBA [CH1] - 29 Mei 07:30 WIB - San Antonio Spurs vs Oklahoma City Thunder
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#EXTVLCOPT:http-referrer=https://xlz.livebytexscorez.com/
+#EXTVLCOPT:http-origin=https://xlz.livebytexscorez.com
+https://live2.pro2cdnlive.com/live/channel29.flv
 #EXTINF:-1 tvg-id="orca-4084" tvg-name="Copa Libertadores [CH14]" tvg-logo="https://gatotkaca007.serv00.net/note/logo.php?src=https%3A%2F%2Fapi.orcatv.my.id%2Forca-stream%2Fdata-v1%2Fsource-images%2Fa3ab7ba4337d7e1afff2682ff4f866b2e035f1df56ed3a4d73f928f1471146a0.png&size=300&scale=1.5" group-title="Event-LIVE-NOW",Copa Libertadores [CH14] - 29 Mei 07:30 WIB - Cruzeiro - MG vs Barcelona SC(ECU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -305,718 +298,690 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="FC Ararat-Armenia vs FC Gandzasar" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fdc8217bf1c8219d1265fe704f1dd460b.png%21w80&size=300&scale=1.5", FC Ararat-Armenia vs FC Gandzasar (Giải Bóng đá Ngoại hạng Armenia)
+#EXTINF:-1 tvg-id="" tvg-name="Barcelona Nữ vs Real Sociedad Nữ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Ff31c9ba221ee646ff14f6980a4c938ea.png%21w80&size=300&scale=1.5", Barcelona Nữ vs Real Sociedad Nữ (Giải bóng đá Nữ Siêu cúp Tây Ban Nha)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live4.egmdispatch.com/live/13899677_d5c46c841137b17e37361943116f3861_autoChange.m3u8?auth_key=1779914945-0-0-60eea3f7a5a6d652eccb225f27da35ac
-#EXTINF:-1 tvg-id="" tvg-name="BLV REDBULL" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fdc8217bf1c8219d1265fe704f1dd460b.png%21w80&size=300&scale=1.5", FC Ararat-Armenia vs FC Gandzasar - BLV REDBULL
+https://live3.egmdispatch.com/live/13924316_b2bb60dbdc28ec089ec541fdc7710296_autoChange.m3u8?auth_key=1779917138-0-0-c53b12a04b707440cbaf17a3abca0077
+#EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Ff31c9ba221ee646ff14f6980a4c938ea.png%21w80&size=300&scale=1.5", Barcelona Nữ vs Real Sociedad Nữ - BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/68848594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ilves vs TPS" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F4280f2e6ac46ce596d20b9e4eacfb206.png%21w80&size=300&scale=1.5", Ilves vs TPS (Cúp bóng đá Phần Lan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/13904879_8d1eadb1070a1cd6e9f4ceb5b6b89d1d_autoChange.m3u8?auth_key=1779914948-0-0-b3d231a00e2b413bfe3ff0e88986b538
-#EXTINF:-1 tvg-id="" tvg-name="BLV Cozy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F4280f2e6ac46ce596d20b9e4eacfb206.png%21w80&size=300&scale=1.5", Ilves vs TPS - BLV Cozy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/87379114.m3u8
+https://live05.msdht.app/live/87547578.m3u8
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qAwIM53X7zhIy5RIhbf70SO85qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-6e1303.jpg" group-title="JADWAL EVENT", 07:45 WIB 28/05/26 Universitas Indonesia vs Universitas Pelita Harapan (Grup E | Putri) - CL Basketball 2026 - Regional Jakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/klB7t1Ko36i70NueIFJEhztVXFg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/kff-singapore-badminton-open-2026-round-of-16-court-2-c8a16b.jpg" group-title="JADWAL EVENT", 09:00 WIB 28/05/26 Michelle Li (CAN) vs Akane Yamaguchi (JPN) - Women's Singles Round of 16 | KFF Singapore Badminton Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/i-Yke_XdEsRe3qywhRWC5eFXYZ0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2026-round-of-16-court-1-b4b0b9.jpg" group-title="JADWAL EVENT", 09:00 WIB 28/05/26 Pusarla V. Sindhu (IND) vs Riko Gunji (JPN) - Women's Singles Round of 16 | KFF Singapore Badminton Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/aCmzGgj9DYdQsaHNwm7Ju7I6sXo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5098825/b84377.jpg" group-title="JADWAL EVENT", 09:10 WIB 28/05/26 Sabar Karyaman Gutama/Moh Reza Pahlevi Isfahani (INA) vs Kang Khai Xing/Aaron Tai (MAS) - Men's Doubles Round of 16 | KFF Singapore Badminton Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/pGl3aOMGKX4j56fjClZkQehpB6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096507/2d939d.jpg" group-title="JADWAL EVENT", 17:00 WIB 28/05/26 Road to UFC Season 5 - Day 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2qVGPWK0aKGSEDclrl_e1-4GRNQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092048/3c0fa7.jpg" group-title="JADWAL EVENT", 03:00 WIB 29/05/26 Round 1 - Charles Schwab Challenge 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/uTjDVA6rKHbBvF-MEK2KtYEl9ms=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096557/f1b961.jpg" group-title="JADWAL EVENT", 13:55 WIB 29/05/26 Moto3 Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OSqPEYiOv62kWQ8kq-msbuAqAjk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096510/bc28ea.jpg" group-title="JADWAL EVENT", 18:30 WIB 29/05/26 ONE Friday Fights 156
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/TkTNBp4bEnjMdioL5mEtSDpp3RU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096565/07a5bd.jpg" group-title="JADWAL EVENT", 18:50 WIB 29/05/26 WorldSSP Superpole - WorldSBK Championship 2026 Round 6 Aragon Round
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/G1poZTij598nqFD_Gd5AJSpeOY0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092050/413fd8.jpg" group-title="JADWAL EVENT", 23:00 WIB 29/05/26 Round 1 - ShopRite LPGA powered by Wakefern 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6R8AysrYvYQ45Jq6OZ_DZNHWwrM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/hydroplus-soccer-league-8673ab.jpg" group-title="JADWAL EVENT", 08:00 WIB 30/05/26 Diklat Putri Kota Tangerang vs None Mude - Hydroplus Soccer League U-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/IR2n7UzECNrxYkwQtG0u84f_ZhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091703/ddcd9b.jpg" group-title="JADWAL EVENT", 19:10 WIB 30/05/26 Rajadamnern 2026 Minimumweight Title
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Tg6naIgWQgW7EsL9lc1X0MYJM1c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092052/84111e.jpg" group-title="JADWAL EVENT", 20:00 WIB 30/05/26 Sprint Race: F1H2O 2026 - Grand Prix of Cagliari, Italy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dNtBWcONF21LE3e5WXxEVWpOWAM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092055/864efb.jpg" group-title="JADWAL EVENT", 23:00 WIB 30/05/26 Final: PSG vs Arsenal - UEFA Champions League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/EY-0wF2KHJRiXgK47HxRFoBN--U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21474/tvod-hss-rookie-fight-e1b8c8.jpg" group-title="JADWAL EVENT", 14:00 WIB 31/05/26 HSS Rookie Fight
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/8ZSHyEqJvYgCOM17RFb40bt8TAw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21466/triumph-fight-genesis-e5461b.jpg" group-title="JADWAL EVENT", 17:00 WIB 31/05/26 Triumph Fight "Genesis"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/959laOUQhqSJNgyNU79VEOoiBho=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21490/byon-madness-vol-4-2026-bb64a5.jpg" group-title="JADWAL EVENT", 15:00 WIB 06/06/26 BYON Madness 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" group-title="JADWAL EVENT", 16:00 WIB 06/06/26 nex Road to Champion Vol. 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VhyL9ADj8lDbY6gJqzmPms0mv7g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091513/59ed22.jpg" group-title="LIVE TV", 23:43 WIB 27/05/26 Mega Film Asia : Once Upon A Time in Shanghai (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNS5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9cXAyMTQwMG9vNTAwbzgzcXI3cTZvcjYzcW8wMG9wcW84bjNycTVvcDUxOTIzbjczMXNwODZuczg0OHAxNzk3OXwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNS56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9cXAyMTQwMG9vNTAwbzgzcXI3cTZvcjYzcW8wMG9wcW84bjNycTVvcDUxOTIzbjczMXNwODZuczg0OHAxNzk3OXwxNzgwNTA1NjY1
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNS5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9czAxOG5yc3NvcTU0NjNzczFwMW9ycTIwczI4czhvc3IzMTlvMG82NnAxMG4zbjUxbnFuMTEycjgycXE2bzA0N3wxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNS56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9czAxOG5yc3NvcTU0NjNzczFwMW9ycTIwczI4czhvc3IzMTlvMG82NnAxMG4zbjUxbnFuMTEycjgycXE2bzA0N3wxNzgwNTA4MDAx
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VhyL9ADj8lDbY6gJqzmPms0mv7g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091513/59ed22.jpg" group-title="LIVE TV", 23:43 WIB 27/05/26 Mega Film Asia : Once Upon A Time in Shanghai (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNS5xZXo_cmtjPTE3Nzk5MTE2NjQmZnZ0YT1zbzE3NnA1MTkxczAybjY0bzE0czlzOXFuMnBzcHI4cnJubzg2bjc0czQyc28xcDU3MXBuOW44cDIybzQ2NXEwfDE3ODA1MDU2NjU
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNS56Y3E_cmtjPTE3Nzk5MTE2NjQmZnZ0YT02NjVyMW80NTU0M3I1czZuc3JwczQ0OTVvc3BuMTc1cDEyMzA4MnFyMnIxcTU4bzQ3MzlvbjI0c3Awbzc4MXM5fDE3ODA1MDU2NjU
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/d52Xki8E17WZGLPAtw2v5hEjYK0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390346/ed6f7a.jpg" group-title="JADWAL LIVE TV", 00:30 WIB 28/05/26 Primetime News (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNS5xZXo_cmtjPTE3Nzk5MTQwMDAmZnZ0YT1xcDZvb3Fuc3JxcW8yNzE0NjYyMzIyOG45NThwcG85OW41NnAxbzQwcDg3MzA2OXBzcDdvMTFwNDZvMTI4NzgxfDE3ODA1MDgwMDE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNS56Y3E_cmtjPTE3Nzk5MTQwMDAmZnZ0YT0ycG5xN3A1MDIxNzNwNDBuOG8yMXE3czQwMnBvMDIxNjM5bjI3Nm4xb3E2cnA3czRvbjAzb3AxN28zMjkwbnE4fDE3ODA1MDgwMDE
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/d52Xki8E17WZGLPAtw2v5hEjYK0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390346/ed6f7a.jpg" group-title="LIVE TV", 00:30 WIB 28/05/26 Primetime News (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc3Ny5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9MDJyODVxcnM1cnM2cW82cDMxcG84NDluMm9zcDk1cDQ5NXJubnJvMTNwODA0cDYwbm9vcDg0NnAzMzU4OHE5cXwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc3Ny56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9MDJyODVxcnM1cnM2cW82cDMxcG84NDluMm9zcDk1cDQ5NXJubnJvMTNwODA0cDYwbm9vcDg0NnAzMzU4OHE5cXwxNzgwNTA1NjY1
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/d52Xki8E17WZGLPAtw2v5hEjYK0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390346/ed6f7a.jpg" group-title="JADWAL LIVE TV", 00:30 WIB 28/05/26 Primetime News (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc3Ny5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9cDM5M25vbjM0bnE4czExc3A1NjMwcjIzOG5wNXMwbm5zcW45NDdyczA5NTBzNDJvcjA1cjY5cjVxNjZxODc5MXwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc3Ny56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9cDM5M25vbjM0bnE4czExc3A1NjMwcjIzOG5wNXMwbm5zcW45NDdyczA5NTBzNDJvcjA1cjY5cjVxNjZxODc5MXwxNzgwNTA4MDAx
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/d52Xki8E17WZGLPAtw2v5hEjYK0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390346/ed6f7a.jpg" group-title="LIVE TV", 00:30 WIB 28/05/26 Primetime News (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc3Ny5xZXo_cmtjPTE3Nzk5MTE2NjQmZnZ0YT03M25wcTgyczY3M3ExODQ3bzU4MzcwNjA4NG9yMjMzMzRxcm5vNDVyMzQwMzE1b3NuOTBxMTY0ODkyczA0NzZvfDE3ODA1MDU2NjU
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc3Ny56Y3E_cmtjPTE3Nzk5MTE2NjQmZnZ0YT00M3E5MHNycDE1MnJwcDZvOHNxc3M5OTgyNjBvOHE5OHM3MTRxOTJuNHJwc3M4NTYyb3A4NnMxNXBzbnE2cTBufDE3ODA1MDU2NjU
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc3Ny5xZXo_cmtjPTE3Nzk5MTQwMDAmZnZ0YT1vNzM2MThzcHAzMzdwcjVyOTdzcjMxcjEwMzRwcTIxbjYzczYzcW81bzIyMXBwNzFyc3M1bjc0OThxMDYwbjU0fDE3ODA1MDgwMDE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc3Ny56Y3E_cmtjPTE3Nzk5MTQwMDAmZnZ0YT1uMzI2cHA4MDE0bm42bjZwOXBucm83OW41MHIxcjcyczA3bzRwMzA3Nm41OHE2NXMxOW45MDIwMDQ4czEzOG8zfDE3ODA1MDgwMDE
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/msFe-pf2z1Kv6ZbGaTqeTvLI6ds=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096516/980539.jpg" group-title="JADWAL LIVE TV", 02:45 WIB 28/05/26 Mega Bollywood: Stree (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4Mi5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9bm81MDlzMjVucXA3Mjk2cG80NTM2bjhxNW4wNDQzczc1NXFzODk3cDNwOHI3czcwczc5OG4zczgzNTMxOTNuNXwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4Mi56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9bm81MDlzMjVucXA3Mjk2cG80NTM2bjhxNW4wNDQzczc1NXFzODk3cDNwOHI3czcwczc5OG4zczgzNTMxOTNuNXwxNzgwNTA1NjY1
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4Mi5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9b3Bwcm4ycnMzc3A0czhvNG5wNzZxcDA2cnE5Mjg4bzEzNjA5cXE3NTc2MzNwOTIzMzYyNzRyNjYxbjRycnE5MnwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4Mi56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9b3Bwcm4ycnMzc3A0czhvNG5wNzZxcDA2cnE5Mjg4bzEzNjA5cXE3NTc2MzNwOTIzMzYyNzRyNjYxbjRycnE5MnwxNzgwNTA4MDAx
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/msFe-pf2z1Kv6ZbGaTqeTvLI6ds=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096516/980539.jpg" group-title="JADWAL LIVE TV", 02:45 WIB 28/05/26 Mega Bollywood: Stree (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4Mi5xZXo_cmtjPTE3Nzk5MTE2NjQmZnZ0YT04NTM1MjI4MTQ2Mm9uOTNucHA1cThuNXNzbzNvNTcxMTlwcjQzcW9wbjQ5Nm84cDIzbjM5MDhvNjUwcTNybnE4fDE3ODA1MDU2NjU
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4Mi56Y3E_cmtjPTE3Nzk5MTE2NjQmZnZ0YT0wbzgxNDU5MXJvcjBzODU0MXI5NHMwOXI3czdzODQ0cjE0bzlyNXA5NTk1M3M4NTVvMzQ2cDYzNDE3MnE4bzYyfDE3ODA1MDU2NjU
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4Mi5xZXo_cmtjPTE3Nzk5MTQwMDAmZnZ0YT1vMXNwcjlxc24xcnNxMTRxODYxbjA2NjEwbjQ3cDEyMm5zMzUzcTduNjJzMjQwNjVyMjQwcHAzOHI3MnJyNjc5fDE3ODA1MDgwMDE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4Mi56Y3E_cmtjPTE3Nzk5MTQwMDAmZnZ0YT05MTlxNjMwMTVxNnIzcDJxNnEwcTY5bzQ3b3I3MjNyMzIzMHJwcTZvcjY2czZycnNwNzVxcjBwMm5vNXE3bjgxfDE3ODA1MDgwMDE
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qR6VZD_N0uy6zxYz4Y9KFpSEHv8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/192/1bd02f.jpg" group-title="JADWAL LIVE TV", 03:00 WIB 28/05/26 Kabar Petang (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4My5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9ODU4NTRzOTRzMzhxMDFuODE5cTQ0MjMwMjAwMDRwcDk2bjg1NTg0cTE4cjIxMjIwcTNybjJxNjUxNDY4c3I2MHwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4My56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9ODU4NTRzOTRzMzhxMDFuODE5cTQ0MjMwMjAwMDRwcDk2bjg1NTg0cTE4cjIxMjIwcTNybjJxNjUxNDY4c3I2MHwxNzgwNTA1NjY1
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4My5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9czIwMW42MzVxODYyNW5vbjY4cTJxMjQwcjgybjdvMW85M28zcW44NXA5OTdyNzcwOTQzMjRyNHAyMDBzbjIwOHwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4My56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9czIwMW42MzVxODYyNW5vbjY4cTJxMjQwcjgybjdvMW85M28zcW44NXA5OTdyNzcwOTQzMjRyNHAyMDBzbjIwOHwxNzgwNTA4MDAx
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qR6VZD_N0uy6zxYz4Y9KFpSEHv8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/192/1bd02f.jpg" group-title="JADWAL LIVE TV", 03:00 WIB 28/05/26 Kabar Petang (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4My5xZXo_cmtjPTE3Nzk5MTE2NjQmZnZ0YT02cTdzcjdvMjVwN3BucjFyMDdyNTcxNHM1bjQ1MXBxNnAwODc3ODlyOXIzMDM1cG9uNzhzbjZyNDczNzk1cnJufDE3ODA1MDU2NjU
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4My56Y3E_cmtjPTE3Nzk5MTE2NjQmZnZ0YT01NjNwODMxcTduOXMwN3ByOTVuNDUwNjg3NDNyNG9vMm8wMjMwc3M2MDYzMXA3NTRzcm9yNzQzczQwcTkycjEzfDE3ODA1MDU2NjU
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4My5xZXo_cmtjPTE3Nzk5MTQwMDAmZnZ0YT1vNzA0cjBwOTg2ODY5cjM4NTY0MXAzODQ2MzU5M245czQzOXNwODQ2OTc0cXMyNzc0cHNvNzc4cjQ0cTMwb29yfDE3ODA1MDgwMDE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc4My56Y3E_cmtjPTE3Nzk5MTQwMDAmZnZ0YT1xMzc5bzE0c24xNTFvczg3NzA1NnNxcG5uOW82bzduNW9ycTRyMzg3Mm5yOHNuMHJucXNxNnMyMzk3ODAxODhzfDE3ODA1MDgwMDE
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Lg-HIk7zRiM7-cGeNB9Ik_g8g40=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091051/9074e8.jpg" group-title="JADWAL LIVE TV", 05:00 WIB 28/05/26 Liputan 6 Pagi (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNC5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9NTAxcm4zNzYzMnI2MTRyOG44NjhyN3NwNXE3Mm5yNnBwOTE2bzY5MDIxcjg4cW5zcjQ0OTU3M29xMHJucDdub3wxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNC56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9NTAxcm4zNzYzMnI2MTRyOG44NjhyN3NwNXE3Mm5yNnBwOTE2bzY5MDIxcjg4cW5zcjQ0OTU3M29xMHJucDdub3wxNzgwNTA1NjY1
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNC5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9c3I2MDM1cTc5M25vNzhwMW81Mjg2cjk0MzhuNThwNzc1MjEyMTU2OG4xczZzNDVwMm83bzk5NjE4bjI5cHAwM3wxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNC56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9c3I2MDM1cTc5M25vNzhwMW81Mjg2cjk0MzhuNThwNzc1MjEyMTU2OG4xczZzNDVwMm83bzk5NjE4bjI5cHAwM3wxNzgwNTA4MDAx
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Lg-HIk7zRiM7-cGeNB9Ik_g8g40=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091051/9074e8.jpg" group-title="JADWAL LIVE TV", 05:00 WIB 28/05/26 Liputan 6 Pagi (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNC5xZXo_cmtjPTE3Nzk5MTE2NjQmZnZ0YT1vMDluNHBwcDE3MnFzc3I2OTBxbjRzMjUzOTAyNDAyN28yNnFuMjRzbzhvMzVuNW5zNHA3cnE0NThucHByNm84fDE3ODA1MDU2NjU
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNC56Y3E_cmtjPTE3Nzk5MTE2NjQmZnZ0YT1zMjRxcTYzcjgyNjQ2MnJyNm81NHE2b28xMnE3cnAwczEzNTI4cG81bzRuMzAycXBvODY0NXI3cDRzMzFxNzQyfDE3ODA1MDU2NjU
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNC5xZXo_cmtjPTE3Nzk5MTQwMDAmZnZ0YT0zMW42cjI3N3I5MTJycHMzMDdwN24yczQxM3JuczI1MTFxc3MzMzhxNzIzczczMzM3czc5cTkwc3I3bjc3OW82fDE3ODA1MDgwMDE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNC56Y3E_cmtjPTE3Nzk5MTQwMDAmZnZ0YT03czYxOHExNnMzbm9uMG5vMzQwc3BuN3M5cW9vNDA5M3FxNjU2MTExcm9vNjRuNTI4czdycTI4M3A5MDExNnJxfDE3ODA1MDgwMDE
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2lKg0hcmMQUBnYD-29lguJKlNKc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084468/c542b9.jpg" group-title="JADWAL LIVE TV", 06:15 WIB 28/05/26 Liputan 6 Pagi Moji (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9NG8xcXM2NDU4OTFyNjIwMjg4cW4xNjgwMjY3OTNvMzMxbjQwMjNuNHIzczY0M3JwcDE4bnE2bjg5MDNvcnNzcHwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9NG8xcXM2NDU4OTFyNjIwMjg4cW4xNjgwMjY3OTNvMzMxbjQwMjNuNHIzczY0M3JwcDE4bnE2bjg5MDNvcnNzcHwxNzgwNTA1NjY1
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9cW43Mjg3OThxNHMzMTdzNjQ5cTVyOXE0ODZvcXBzbzgzNDYwMDY1czZzNHI3cDBxNm9zOHIxM3MwNnA2cjhvMnwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9cW43Mjg3OThxNHMzMTdzNjQ5cTVyOXE0ODZvcXBzbzgzNDYwMDY1czZzNHI3cDBxNm9zOHIxM3MwNnA2cjhvMnwxNzgwNTA4MDAx
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2lKg0hcmMQUBnYD-29lguJKlNKc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084468/c542b9.jpg" group-title="JADWAL LIVE TV", 06:15 WIB 28/05/26 Liputan 6 Pagi Moji (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi5xZXo_cmtjPTE3Nzk5MTE2NjQmZnZ0YT04MjI0cjA2cjRuNjY3cjY2cDEwcjk2NTA2OXBxOHIzNDc5cTIwMHM2MDhyM3BvMjMzNDEzNG5uN3E5MDU0cDY5fDE3ODA1MDU2NjU
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi56Y3E_cmtjPTE3Nzk5MTE2NjQmZnZ0YT0xOHM5MDE0bjQycDgzczk3M3MyM25wMzg0cXMwOTE4NzkzOHE4bnFvN25uOHNwMThxODQyMTU0ODg3NzYwcnM3fDE3ODA1MDU2NjU
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi5xZXo_cmtjPTE3Nzk5MTQwMDAmZnZ0YT0xNzI4MW45cHE3N3M3NnE0NzIwMW5xNTJxNjQzcTE4cTFwOXMxNjU4czJzMDluOTJyMnIybjByNTg4NXA4OHI4fDE3ODA1MDgwMDE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzIwNi56Y3E_cmtjPTE3Nzk5MTQwMDAmZnZ0YT1ybjg1Mm5wMzhzMDlvNDkzcTg4MTAycm9xcjBwMTA2czQ0Mjc2Mzg4Nzc2MDc5czkyczY2NXAwMHE2cTc2bzhvfDE3ODA1MDgwMDE
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rue0Ohlp9pe-tnNDwwymVjgJTEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380288/c2c6be.jpg" group-title="JADWAL LIVE TV", 07:00 WIB 28/05/26 Sapa Indonesia Pagi (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NC5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9NzhxbnEyMm4ycHEzNzU5cHNybzYwMXI1cDU0OTc5MTMxcThxNjg3czhwcHA0bzI3OTU4N3IyOTJxb3E2MThwNHwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NC56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9NzhxbnEyMm4ycHEzNzU5cHNybzYwMXI1cDU0OTc5MTMxcThxNjg3czhwcHA0bzI3OTU4N3IyOTJxb3E2MThwNHwxNzgwNTA1NjY1
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NC5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9czQ0NjIzMTAxczJxMTgzNXEwOTBzMjA4MnJwOTBxbzkwNDhzOTkwbjg3NHM1cG83cnFyb3A3cG81bzA3NjIxcHwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NC56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9czQ0NjIzMTAxczJxMTgzNXEwOTBzMjA4MnJwOTBxbzkwNDhzOTkwbjg3NHM1cG83cnFyb3A3cG81bzA3NjIxcHwxNzgwNTA4MDAx
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rue0Ohlp9pe-tnNDwwymVjgJTEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380288/c2c6be.jpg" group-title="JADWAL LIVE TV", 07:00 WIB 28/05/26 Sapa Indonesia Pagi (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NC5xZXo_cmtjPTE3Nzk5MTE2NjQmZnZ0YT00MTU3NHMzbzA4MnM2OTMxMjkycHI5cHA1cDAzMnNyc3EyMDI3NTVwbzQ2MnA2OG85cTY4OTlvMjM2NDQwMzM3fDE3ODA1MDU2NjU
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NC56Y3E_cmtjPTE3Nzk5MTE2NjQmZnZ0YT04bm8yODUzODE5OXByNXBzcjlzNHByNDlwM3IyMHJxOTZxODI0cjFxNzQyMzFwcDJvcjlwbjYyNXA5NzcyMjk4fDE3ODA1MDU2NjU
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NC5xZXo_cmtjPTE3Nzk5MTQwMDAmZnZ0YT1xb3M1czI1MzRwMzgwNm82MzE4MDVucTA5bm5wcTg4czByODdwOTVvNjIzOG5yOXFyMzJucDRuOTNuNTIwN3M0fDE3ODA1MDgwMDE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NC56Y3E_cmtjPTE3Nzk5MTQwMDAmZnZ0YT01MTNubjNuODgwc3Byc28xNjkyNjBycXBvOXAzcjU2ODBwcTMxcHIzczlwcTRzMTQ3cXBxbnA1NjAxNzJubjAzfDE3ODA1MDgwMDE
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-C1dJg3ffV-Bz58hLESk5JKNoFk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/55/622155.jpg" group-title="JADWAL LIVE TV", 08:00 WIB 28/05/26 Tayo The Little Bus (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzgyMzcucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PXMxcTRxbjA0NDVvcTU5c3EwczFwcTBvMTM4bjZzbzZwbzNzb3BwbzE4OTduc280bzY3czU3c29yMHJucjkyNzZ8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzgyMzcuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PXMxcTRxbjA0NDVvcTU5c3EwczFwcTBvMTM4bjZzbzZwbzNzb3BwbzE4OTduc280bzY3czU3c29yMHJucjkyNzZ8MTc4MDUwNTY2NQ
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzgyMzcucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTlwMzE1c3ExNnI5NXE4cDFwMjRvNjE3NnE5cjI4bjIyOG43MG8xcDFuOHJwbm8zOG8zbzI0MG5wb24yMzI3NDF8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzgyMzcuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTlwMzE1c3ExNnI5NXE4cDFwMjRvNjE3NnE5cjI4bjIyOG43MG8xcDFuOHJwbm8zOG8zbzI0MG5wb24yMzI3NDF8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-C1dJg3ffV-Bz58hLESk5JKNoFk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/55/622155.jpg" group-title="JADWAL LIVE TV", 08:00 WIB 28/05/26 Tayo The Little Bus (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzgyMzcucWV6P3JrYz0xNzc5OTExNjY0JmZ2dGE9bnM5NzNzMnM2MjE5NTI3MzVyNnFvMXI0ODcwbm5zNDlvb29wMjQzODdvMzMwM3MzbjM4M3I0cHMxNzQ5bjA0M3wxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzgyMzcuemNxP3JrYz0xNzc5OTExNjY0JmZ2dGE9NHJwODVwMjdxOHJzOXIxNDNvbzc5cW8xMHEwbjJwMjgxNTM5cHFxcjI0MTExODRuMTRwMTBub28zMnByNTZwNXwxNzgwNTA1NjY1
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzgyMzcucWV6P3JrYz0xNzc5OTE0MDAwJmZ2dGE9OHAwcTY0Mzc3MW5yMW9vbzcwcTk2ODQ3M25ucjE3ODFyMTBuNHA2MXNwOXM3MTgzMDEwNnM0M245N29vOHFvcHwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzgyMzcuemNxP3JrYz0xNzc5OTE0MDAwJmZ2dGE9bnFxcDVzNTMwNHBwNW44c3Izc3E0MXFvc3M2c3A2OTlwNHM1czhzNjM4NzE1cG45czIzNTY3MHExcDNwcDZxcnwxNzgwNTA4MDAx
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wGgOyR7FynwlyRp8rHtJdGDWWis=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382340/153991.jpg" group-title="JADWAL LIVE TV", 08:05 WIB 28/05/26 Fakta +62 (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NS5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9bjI0cDQ1NzYyMXE1NzgzcHE4cDUxbzI4MTVuOTE2MXFxNzM2OXBvcTMzNjg1MTNzcDFxbjYyMjAwMnA5N25wcHwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NS56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTExNjY0JnU9bjI0cDQ1NzYyMXE1NzgzcHE4cDUxbzI4MTVuOTE2MXFxNzM2OXBvcTMzNjg1MTNzcDFxbjYyMjAwMnA5N25wcHwxNzgwNTA1NjY1
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NS5xZXo_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9NDM3bnM1cDEzcDQ1cnFwN24zNXE1OXFwNW44cDM0cTkwczFvOHBvMG9zODA5cXE4NzVyOXIxNjU1MjJwNnFuN3wxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NS56Y3E_cXJpX3hueHZfMDkmZz0xNzc5OTE0MDAwJnU9NDM3bnM1cDEzcDQ1cnFwN24zNXE1OXFwNW44cDM0cTkwczFvOHBvMG9zODA5cXE4NzVyOXIxNjU1MjJwNnFuN3wxNzgwNTA4MDAx
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wGgOyR7FynwlyRp8rHtJdGDWWis=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382340/153991.jpg" group-title="JADWAL LIVE TV", 08:05 WIB 28/05/26 Fakta +62 (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NS5xZXo_cmtjPTE3Nzk5MTE2NjQmZnZ0YT0wMDduNTBzOTEzMTc5MzFvMTM1MjJyMTQxbzhvNTQ5NjM4MjE4MHA2bzhybjUyNTQ2cTZxbzkwMDBxNDA0MjJvfDE3ODA1MDU2NjU
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NS56Y3E_cmtjPTE3Nzk5MTE2NjQmZnZ0YT02MzNvcjM3bjg3cW9wNG9uMjZzNW45OTM1MHM4NHBuM3M3MzgwNnAybzQ2cjFwM3MwMTVzcHBuM24zMDk2OG5wfDE3ODA1MDU2NjU
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NS5xZXo_cmtjPTE3Nzk5MTQwMDAmZnZ0YT00cG9xNzhxcXIwOTQ0cm8yb3I4MDI1cm43OTUwczQ5cDYycDc2NTM0NjBvNm42bnEyOHNvMjhyNnE4Mm5xMHE5fDE3ODA1MDgwMDE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3NS56Y3E_cmtjPTE3Nzk5MTQwMDAmZnZ0YT03c3M5Mzk3NnE5NTMxNDNvc3FvNzFyNDgzbzYxNTRxbjRuM3M5cDUzNDE3OTM3bjQ1c3NyMzQ3OTc2cDU4cDFxfDE3ODA1MDgwMDE
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/CYv--Uqkj5pWwDABz8iVKzzUT_E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg" group-title="JADWAL LIVE TV", 15:30 WIB 28/05/26 Ejen Ali (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE1NjEucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PXA3cDVuMDY2NG9uMzM3NDhxcjVycXM5NzluMHA4MW9xbjU3bzgxNjc2c3Azcm9vMDE1NzdwOW9zODY4NXM0cDd8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE1NjEuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PXA3cDVuMDY2NG9uMzM3NDhxcjVycXM5NzluMHA4MW9xbjU3bzgxNjc2c3Azcm9vMDE1NzdwOW9zODY4NXM0cDd8MTc4MDUwNTY2NQ
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE1NjEucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTk1OW43NjFyOHE0cTMxNm5zNDVzcnAzMTFzODJyMjI3NzE1NDI2MnEwOTM4cTg0MjI1OW4zbnM3OTQ2MnJwNW98MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE1NjEuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTk1OW43NjFyOHE0cTMxNm5zNDVzcnAzMTFzODJyMjI3NzE1NDI2MnEwOTM4cTg0MjI1OW4zbnM3OTQ2MnJwNW98MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/CYv--Uqkj5pWwDABz8iVKzzUT_E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg" group-title="JADWAL LIVE TV", 15:30 WIB 28/05/26 Ejen Ali (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE1NjEucWV6P3JrYz0xNzc5OTExNjY0JmZ2dGE9bjc5ODZyNTcxMDAyNzdzNnJwb3JzNzM5bzQ4MnBvNDE4c3I4cjFzcjgzbjU3OW45Njg5M3E5M29zNjE0MHI2OXwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE1NjEuemNxP3JrYz0xNzc5OTExNjY0JmZ2dGE9NTcxOTAyMThuc3EyMTluOTA0OXIwMTE1bnEwb25xODM5cDM2cnFybzc0NXMxN25yNjhuODYzc3BvOTJzNzBxM3wxNzgwNTA1NjY1
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="LIVE TV", 18:01 WIB 24/04/16 Mitos Tengah Malam (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE1NjEucWV6P3JrYz0xNzc5OTE0MDAwJmZ2dGE9Nzc0NjIxcDIxMjE2cHJyc283MG5xNTEzN29vNjkwczgyNnMwMzZuNzNwMjgzcTdvbjA1cnEwczduMTZycm40cXwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE1NjEuemNxP3JrYz0xNzc5OTE0MDAwJmZ2dGE9NDBubzFvNG5xNjU3OW5xb25uczkxODhxcTFzMXBzN3FvbzFvNjdyNzlyc3ByN28xNzhuODYzOTcwNjQzODI3M3wxNzgwNTA4MDAx
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="LIVE TV", 18:01 WIB 24/04/16 One Vault (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzYxNjUucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTZucG8wN280Nzgyczk0MTY4MDAzNTc2OTBuN241bzE4NTRvbnBwczFzNzgyNDFvcTlucDRyNDVxc244NTQwczV8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzYxNjUuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTZucG8wN280Nzgyczk0MTY4MDAzNTc2OTBuN241bzE4NTRvbnBwczFzNzgyNDFvcTlucDRyNDVxc244NTQwczV8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="LIVE TV", 18:01 WIB 24/04/16 Mitos Tengah Malam (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzYxNjUucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PXNxcThwNDQ4MjU3bjJuOG9zNTkxNnI2OTU0c28yN3FzMzNzcDI5NDc5cG5zcTlwMzE5NDRvOTgwNTY1Mjc0b3N8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzYxNjUuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PXNxcThwNDQ4MjU3bjJuOG9zNTkxNnI2OTU0c28yN3FzMzNzcDI5NDc5cG5zcTlwMzE5NDRvOTgwNTY1Mjc0b3N8MTc4MDUwODAwMQ
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="LIVE TV", 18:01 WIB 24/04/16 One Vault (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzYxNjUucWV6P3JrYz0xNzc5OTExNjY0JmZ2dGE9cXM2M3NxcjA5NTJwNXFwOXJwcXM0NXIwczM5cm8wbzQzMjA0MzFzNm43OXE3MDByMTQ2b3E1MDRuc3JzbjRvcXwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzYxNjUuemNxP3JrYz0xNzc5OTExNjY0JmZ2dGE9cjQwNThyMzIxMzBucTJwMTE5Nzc1cDg4MzA1bzM3MXE3c3AxNDc3OXM1NTY3cW9wOG8zOTYwNnByMTJybzY2bnwxNzgwNTA1NjY1
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="LIVE TV", 08:58 WIB 25/02/25 Mitos Tengah Malam (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzYxNjUucWV6P3JrYz0xNzc5OTE0MDAwJmZ2dGE9cDY3cDhxcnE5cTUzb3A4M3ByMDA5czQ5MThzOXAzcm9xNTJyNXAyM244c3AzcDE0c3FvMXJvMzk0ODU3cHJwOHwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzYxNjUuemNxP3JrYz0xNzc5OTE0MDAwJmZ2dGE9Nzg5cXA4NDFwM3E3cXM5bjQ1cm5ucDc0cDY5czg4MHA3OXJuMTVuMzEyMm5wNDQwcTM5MDU5N3BvNjE0NnNxOXwxNzgwNTA4MDAx
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="LIVE TV", 08:58 WIB 25/02/25 One Vault (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MjgwLnFlej9xcmlfeG54dl8wOSZnPTE3Nzk5MTE2NjQmdT1xOTJvNjA0MnNzMHJxcnE1NW8xNm84NW82NjNvcTQ2MXA2N3I1MG8xOG84bnA4OTQyN3I2c280NjZzcDJxbm9zfDE3ODA1MDU2NjU
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MjgwLnpjcT9xcmlfeG54dl8wOSZnPTE3Nzk5MTE2NjQmdT1xOTJvNjA0MnNzMHJxcnE1NW8xNm84NW82NjNvcTQ2MXA2N3I1MG8xOG84bnA4OTQyN3I2c280NjZzcDJxbm9zfDE3ODA1MDU2NjU
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="LIVE TV", 08:58 WIB 25/02/25 Mitos Tengah Malam (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MjgwLnFlej9xcmlfeG54dl8wOSZnPTE3Nzk5MTQwMDAmdT05OHI5NTQzMjAxNDhzMjFzNXA2NjVxODc4MjlycDI4bzlzMzIzMm4xbzc0czVuODFzMnBxMDY2bjdvbnBwcjQxfDE3ODA1MDgwMDE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MjgwLnpjcT9xcmlfeG54dl8wOSZnPTE3Nzk5MTQwMDAmdT05OHI5NTQzMjAxNDhzMjFzNXA2NjVxODc4MjlycDI4bzlzMzIzMm4xbzc0czVuODFzMnBxMDY2bjdvbnBwcjQxfDE3ODA1MDgwMDE
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="LIVE TV", 08:58 WIB 25/02/25 One Vault (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MjgwLnFlej9ya2M9MTc3OTkxMTY2NCZmdnRhPTJuMDQ1b3I2NDkxODNxbnByMjI2bjFucW82czluNzgxcTc2MDM4cnJvbzYxMTA3NXFzMTRucW9wcm81MXEybnN8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MjgwLnpjcT9ya2M9MTc3OTkxMTY2NCZmdnRhPW5yMm8zbzI1MjUzMDA5MnExNjJybnIwNDgwODM5bzEyNTEwb3FwMjFyMDA4bzFycDU4MDIybnI2cXExNHNwOXF8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="LIVE TV", 17:00 WIB 11/12/24 Dibalik Senjata 36 (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MjgwLnFlej9ya2M9MTc3OTkxNDAwMCZmdnRhPTAwNzZzN3NxbzVzcW82MTA4Mm9yNDJxc241bzhuc3A5MG5wMzE2OXI4OTFzbm42bzIyNXNvODg4MzA3czVuN3J8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MjgwLnpjcT9ya2M9MTc3OTkxNDAwMCZmdnRhPXIzNnJzNTk5MW5vNDAwczcyM3ExMjIzOTUyM3JvcTI2Mm45cTY5bjVwcjZwOXEyNXIzcW84NDBxMzFvbjBzM3F8MTc4MDUwODAwMQ
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="LIVE TV", 17:00 WIB 11/12/24 Kriminal 62 287 (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTYyLnFlej9xcmlfeG54dl8wOSZnPTE3Nzk5MTE2NjQmdT1vMXI2OTc5ODAxNThvcTI1cjVzcnBvNzhycnJuNDFvMzAwOHMxNzE1MzVwODc1MDg4MTNzNTFvNzVuNXA4MG5xfDE3ODA1MDU2NjU
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTYyLnpjcT9xcmlfeG54dl8wOSZnPTE3Nzk5MTE2NjQmdT1vMXI2OTc5ODAxNThvcTI1cjVzcnBvNzhycnJuNDFvMzAwOHMxNzE1MzVwODc1MDg4MTNzNTFvNzVuNXA4MG5xfDE3ODA1MDU2NjU
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="LIVE TV", 17:00 WIB 11/12/24 Dibalik Senjata 36 (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTYyLnFlej9xcmlfeG54dl8wOSZnPTE3Nzk5MTQwMDAmdT05ODE5MzMxMDhvODAwMHI0bjRybzAxODJxcDNwMDg5cDlyMzg3OG9wOTcwM280MHA0c3M1NXNyc3FwNTNucjdwfDE3ODA1MDgwMDE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTYyLnpjcT9xcmlfeG54dl8wOSZnPTE3Nzk5MTQwMDAmdT05ODE5MzMxMDhvODAwMHI0bjRybzAxODJxcDNwMDg5cDlyMzg3OG9wOTcwM280MHA0c3M1NXNyc3FwNTNucjdwfDE3ODA1MDgwMDE
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="LIVE TV", 17:00 WIB 11/12/24 Kriminal 62 287 (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTYyLnFlej9ya2M9MTc3OTkxMTY2NCZmdnRhPTQzbjZub3I1Nzg1MDU2bm8wOG85Nm8xcDM2MDQzcm5xMG4zc3I1NXNvNjZuczI3bjkzNzQwc24ycDAzNTA3MTd8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTYyLnpjcT9ya2M9MTc3OTkxMTY2NCZmdnRhPTAwNXAwbzYyODk2NDg3NDQ4bzhxN3IwNjk0MXNwMTFwODEzNTcwN3NyOXMzMzBuM3ByMTk3ODA3MDRycXEyMDV8MTc4MDUwNTY2NQ
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTYyLnFlej9ya2M9MTc3OTkxNDAwMCZmdnRhPXEzbjdvODZxMXAzNTEzNTNxMjk3NjMyMHI0OTQwMXFucTQzMjBxNW44bm5vc25wcDc2cDBuN3A5bzVycDQ1cHJ8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTYyLnpjcT9ya2M9MTc3OTkxNDAwMCZmdnRhPXA3bjI0cTM5bjJucjcwbm5zcXEzcHJzczJwNDRycW8xMTM1czQ5N3Jyc29vNTI4NDY1ODhzcTg2cTc2OXJxbjR8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="LIVE TV", 17:00 WIB 24/04/16 TVRI (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0NDEucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PXIyODlzMjk0MzhzNDgzczE5cW5wNjIzcDI5OHFvOG9vOTNwMW84NzhzNDRwMjg3MTM3MTJyczM0MTEwMzQwNzd8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0NDEuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PXIyODlzMjk0MzhzNDgzczE5cW5wNjIzcDI5OHFvOG9vOTNwMW84NzhzNDRwMjg3MTM3MTJyczM0MTEwMzQwNzd8MTc4MDUwNTY2NQ
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0NDEucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PW45bzJzbjhubjQycXI4OXE5ODQyM3I5cXAxcjc5czVyNDQ1OTE5N3FuMm9xM25wODg3cG5wNTNwb3NucDVzMHJ8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0NDEuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PW45bzJzbjhubjQycXI4OXE5ODQyM3I5cXAxcjc5czVyNDQ1OTE5N3FuMm9xM25wODg3cG5wNTNwb3NucDVzMHJ8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="LIVE TV", 17:00 WIB 24/04/16 TVRI (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0NDEucWV6P3JrYz0xNzc5OTExNjY0JmZ2dGE9cTRvOW5ubjQ1OW43NXIzcDIzNDE2NG44NjVuMHBuMHExNzBwM3NyNTUzczUwMnA4NTE3MTlxODcwNDE1N3Bvc3wxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0NDEuemNxP3JrYz0xNzc5OTExNjY0JmZ2dGE9MTBzc240M3FycjEwODE3MDdxbnBzNDZuNzI1ODY5cjAzNzVxczNwNDJxMzY1MXBzMzhuMjIyMTJyNzM4MDJuN3wxNzgwNTA1NjY1
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="LIVE TV", 00:00 WIB 28/05/16 The Youth Doctor (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0NDEucWV6P3JrYz0xNzc5OTE0MDAwJmZ2dGE9czhvczgwMG4xbnBwNm43cnMxNW9xM3FwNzNubjNzb245MjZzcnBwcDA1MG42cjU3ODlybzgwMTkxcHEzcDY1cHwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0NDEuemNxP3JrYz0xNzc5OTE0MDAwJmZ2dGE9MG8xNnJzNzJxMDEzb3NuOXNubjNvczM3NDZwbjI4OHJyNnA0ODgwNnAwMjlycTVycHIyOXBxbjE0bjQ0bzlwcHwxNzgwNTA4MDAx
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="LIVE TV", 00:00 WIB 28/05/16 Jaktv (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzU0MTUucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTEwMzcyMnE1NTgyNTE4czA4MjBxOHFwcTZxcjNxM3AwbjE1c3NubjI2N28yb280b3M2cG5xM245cTU2MG9vNXF8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzU0MTUuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTEwMzcyMnE1NTgyNTE4czA4MjBxOHFwcTZxcjNxM3AwbjE1c3NubjI2N28yb280b3M2cG5xM245cTU2MG9vNXF8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="LIVE TV", 00:00 WIB 28/05/16 The Youth Doctor (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzU0MTUucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTIwMjA5b3FuNjYzcjNvczJwOHBvNjdvMnMwNzA3cTY2MnE0NzZxNDlzbnI1MTlzNzQybjY0cTNuMjIzcjkwb258MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzU0MTUuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTIwMjA5b3FuNjYzcjNvczJwOHBvNjdvMnMwNzA3cTY2MnE0NzZxNDlzbnI1MTlzNzQybjY0cTNuMjIzcjkwb258MTc4MDUwODAwMQ
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="LIVE TV", 00:00 WIB 28/05/16 Jaktv (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzU0MTUucWV6P3JrYz0xNzc5OTExNjY0JmZ2dGE9bnFvNjVyMXE3cHFwNzMxNDVwczIycTI0MzcycW80MDVxcTM0cjU0cnAzNXExOG5yMTk1cTkxOTBxbzVvbm4xN3wxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzU0MTUuemNxP3JrYz0xNzc5OTExNjY0JmZ2dGE9NTA2bjlwcnE2MTMxcXE1ODE0NTBwMDlyNDgzMG5ycTU0Njg0NTU4NzZuMzA3OW5vc3JxMm41N3JyMW4zcTZyb3wxNzgwNTA1NjY1
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="LIVE TV", 00:00 WIB 04/06/18 Halo Indonesia (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzU0MTUucWV6P3JrYz0xNzc5OTE0MDAwJmZ2dGE9bjc2NG4zcTk2NjE4ODJwN242OTBvNDE2cjlvcDE0NjY4M3IxNTBycm9wcDA2NjUzcHBwNm9vbjY3b24zNXEwMXwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzU0MTUuemNxP3JrYz0xNzc5OTE0MDAwJmZ2dGE9ODlyNW81c3NxODkxcG4xMXBxcXA2bnByMnBycDVwcTFuMzluNDIzNW45MjFuN3EwNXA1NDcybjJzNzJwMTAyNHwxNzgwNTA4MDAx
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="LIVE TV", 00:00 WIB 04/06/18 DAAI TV (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0ODIucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PW9uMHFxNjIzOW5wN3JvOTQ5c3IyMnA1OTc4czU2ODZvODk1MzEyODA5MnAzMW5zOHJyMzAzNDM3b3E3bzM3OXJ8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0ODIuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PW9uMHFxNjIzOW5wN3JvOTQ5c3IyMnA1OTc4czU2ODZvODk1MzEyODA5MnAzMW5zOHJyMzAzNDM3b3E3bzM3OXJ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="LIVE TV", 00:00 WIB 04/06/18 Halo Indonesia (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0ODIucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTExN243MjU0OTE0NDA1cnEwcTc2NXNvMDgybjlyMjdyNTAyc29zb3FucTk1MTVvNzJyczdxczlzcDEybjc4czF8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0ODIuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTExN243MjU0OTE0NDA1cnEwcTc2NXNvMDgybjlyMjdyNTAyc29zb3FucTk1MTVvNzJyczdxczlzcDEybjc4czF8MTc4MDUwODAwMQ
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="LIVE TV", 00:00 WIB 04/06/18 DAAI TV (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0ODIucWV6P3JrYz0xNzc5OTExNjY0JmZ2dGE9NDZyMDY0MDY1NnBzM3A3OXMyb29ucTZyOHA0cjgyNDAxOHBvMHIwMG42cjgyMnFvOXAwcG5vMDgzczhzNzU3NXwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0ODIuemNxP3JrYz0xNzc5OTExNjY0JmZ2dGE9cjIxMnJzOTg1c3JxMzByOXE4bzQxcTcwcTY2ODM2cTIxcG9wMjIyOTFwOTA4MDY3cTduMzdxNXJwbzBvMTMzOHwxNzgwNTA1NjY1
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="LIVE TV", 10:00 WIB 21/10/20 Checkpoint (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0ODIucWV6P3JrYz0xNzc5OTE0MDAwJmZ2dGE9MG44MTduN3AyOHM2MTQzODU4MDVvc28xMTkzMHE2OG5wbzQ0cjBzMDY1NXI5b3E1NnNyNjAxcjVybjc5MTM4MXwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY0ODIuemNxP3JrYz0xNzc5OTE0MDAwJmZ2dGE9bnA5NXBwODNzNzQ4bnJzOTc4cjQ2bjQzbzU5cXMzczBycDRwOHA3cTQyODkxNHEwNjNvMzg1N3FuNjgzMjlvN3wxNzgwNTA4MDAx
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="LIVE TV", 10:00 WIB 21/10/20 Soundcore Dangdut (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0MzIucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTU1ODdyNG83MjdxcTlycDYyNzA2cm5zNjIyczk3OXIwMDFwbjRvcTg5MXFxb29vc28zOTNwMjg1cTQ4OTk5MzJ8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0MzIuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTU1ODdyNG83MjdxcTlycDYyNzA2cm5zNjIyczk3OXIwMDFwbjRvcTg5MXFxb29vc28zOTNwMjg1cTQ4OTk5MzJ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="LIVE TV", 10:00 WIB 21/10/20 Checkpoint (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0MzIucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTYwMTMyNW82bjdycHNuN3E1MnI2czduMDIybzQ4cjByMjY4bnA5MnAzcjU3cnAyMXFzcTcwNTNyNHM4b3Nvc3N8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0MzIuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTYwMTMyNW82bjdycHNuN3E1MnI2czduMDIybzQ4cjByMjY4bnA5MnAzcjU3cnAyMXFzcTcwNTNyNHM4b3Nvc3N8MTc4MDUwODAwMQ
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="LIVE TV", 10:00 WIB 21/10/20 Soundcore Dangdut (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0MzIucWV6P3JrYz0xNzc5OTExNjY0JmZ2dGE9cTRxN3EzMjZyb3FzMDE2bnAxczJvNzM2OHA0cTM0c3A1OTE4cThwMDRxbm80MDJyMjU1MXMyMW83cTY1c3Nzb3wxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0MzIuemNxP3JrYz0xNzc5OTExNjY0JmZ2dGE9OXAzc243bjIzcjMxNjcyNzdvMzE3MXA2MDQyMHM3czQyNDA3OTA1cTZub3E0bzVycTA5czM4b3E3czcyM29ucHwxNzgwNTA1NjY1
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="LIVE TV", 19:45 WIB 26/10/20 Ftv Islami (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0MzIucWV6P3JrYz0xNzc5OTE0MDAwJmZ2dGE9MTQ5MnIzMTlxOTc3MjE2cW9uNXFzcjQxNW4zNDYwODVwbjZzbzI4MDgwbzFuOTZwcHE2Mm8wMW4zcm4yMjdxMnwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0MzIuemNxP3JrYz0xNzc5OTE0MDAwJmZ2dGE9ODUyNDg2cjA3NDJvNW85NzE4OW5xOTQ4ODg5NTM5cjIzcTE5NjYzNzluM3Bwc3JvOTdvNzY5MXI4cm5wNjMxb3wxNzgwNTA4MDAx
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="LIVE TV", 19:45 WIB 26/10/20 30 Hari 30 Juz (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0NjQucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PW4xcW5vcW44MG81bzU0OHIxNDIxNTE0c24zcjJvczM5bnAwNDVyMzhxc3I2cnFwcDEyNjUyNjM4N25ub29yNnF8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0NjQuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PW4xcW5vcW44MG81bzU0OHIxNDIxNTE0c24zcjJvczM5bnAwNDVyMzhxc3I2cnFwcDEyNjUyNjM4N25ub29yNnF8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="LIVE TV", 19:45 WIB 26/10/20 Ftv Islami (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0NjQucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PXM4NTJwMTkwNDA1bjk5M24zMjVxNDlvcThzMDhxbjRwM3IwOXM5cDY0MG8wcXByM3E3NDg5c25yNG84b3M1MnB8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0NjQuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PXM4NTJwMTkwNDA1bjk5M24zMjVxNDlvcThzMDhxbjRwM3IwOXM5cDY0MG8wcXByM3E3NDg5c25yNG84b3M1MnB8MTc4MDUwODAwMQ
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="LIVE TV", 19:45 WIB 26/10/20 30 Hari 30 Juz (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0NjQucWV6P3JrYz0xNzc5OTExNjY0JmZ2dGE9cDQ3bzgyMTI0N3FwM3A1MTc1MjI2MzkycDEyMjc4MHJxc283bjZxczA4MXA4cXI1ODgwOTc5NTU5Mzc2NzlvNnwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0NjQuemNxP3JrYz0xNzc5OTExNjY0JmZ2dGE9MnA2NXAyOTA3NTFuODc2c3JxNTE1M3E2cjYyMjI1NTAwcDNvOHE3NThyMDU3bzNyMm5zMG8zNjJwNTAyOG5ub3wxNzgwNTA1NjY1
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="LIVE TV", 14:00 WIB 06/09/22 Dragon Man (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0NjQucWV6P3JrYz0xNzc5OTE0MDAwJmZ2dGE9OW43bnJzMzk3NW41cnNvMnMzODMwcDAwNjEwNXIwb3AyMDQ2czU1ODY0M282NDM0Mjk2OTExMm4xNDFucTAyb3wxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc0NjQuemNxP3JrYz0xNzc5OTE0MDAwJmZ2dGE9MXM1czZwODc0NXNzNDYwMjg0ODlwcXE3MzM5NDVvczAwcDBwMjMwcTNzMXJzb3MwcXBxNDExNzJyMHFwOG8wMnwxNzgwNTA4MDAx
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="LIVE TV", 14:00 WIB 06/09/22 Bincang-Bincang (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTQucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTRvNDQyb3NvMnNuODQzcm5ucHFyNzRyMjhubzdycDlvb3A5cDVxc245cjk5bzJyMDNzNTg2MG8yOTQ3b3A3NjV8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTQuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTRvNDQyb3NvMnNuODQzcm5ucHFyNzRyMjhubzdycDlvb3A5cDVxc245cjk5bzJyMDNzNTg2MG8yOTQ3b3A3NjV8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="LIVE TV", 14:00 WIB 06/09/22 Dragon Man (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTQucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTEwODM2czA5NTM0MzgyNXFzMm9zNm4wb280bzFzM281NjI0NDk0cjA1NjMyNzA5cnIzczBuMjk4NDVubjY1cjF8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTQuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTEwODM2czA5NTM0MzgyNXFzMm9zNm4wb280bzFzM281NjI0NDk0cjA1NjMyNzA5cnIzczBuMjk4NDVubjY1cjF8MTc4MDUwODAwMQ
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="LIVE TV", 14:00 WIB 06/09/22 Bincang-Bincang (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTQucWV6P3JrYz0xNzc5OTExNjY0JmZ2dGE9NzA0cnM4ODc5MTEzMTFvNzRzOHMwNnExODA4bjQ5cjBwbm8xOTIxNjFxNHIyODAzMjcxMzNwM3JvNDczMHI4NXwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTQuemNxP3JrYz0xNzc5OTExNjY0JmZ2dGE9bzduNDA2NzkzOXBybjBuODM2NnBucDMwcjlxcDk3cHByNHNucTQ1MTE5bzA4cjIwc281MTdycDcwcDMzODNucHwxNzgwNTA1NjY1
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="LIVE TV", 14:00 WIB 06/09/22 Ampun Dj (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTQucWV6P3JrYz0xNzc5OTE0MDAwJmZ2dGE9MXI5MjFzOTA0MTc1NDA1NjZvMXE4czY5MjA4OHFubjkwcTNzMDA5NTNvMDU3cXAzNHBubjY3MTdvbzcwcTYxbnwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTQuemNxP3JrYz0xNzc5OTE0MDAwJmZ2dGE9MTY3bzc5MHM1MXEwcnJuMDg1cG5uMXExNnA0cHFwcTQxODgyOXJwOTEzNjU3OTM1NXE4OHJvcjhxczYyM29xOHwxNzgwNTA4MDAx
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="LIVE TV", 14:00 WIB 06/09/22 Ampun Digoyang (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTMucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTNzcjk5cTQ0cDY4OTIzNnNwcDVxNDVzb28xMXExOG5xMzcwczRyNm5yNHA4cjFvNjEzNjc5bjUyNHA0MTZuMjF8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTMuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTNzcjk5cTQ0cDY4OTIzNnNwcDVxNDVzb28xMXExOG5xMzcwczRyNm5yNHA4cjFvNjEzNjc5bjUyNHA0MTZuMjF8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="LIVE TV", 14:00 WIB 06/09/22 Ampun Dj (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTMucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PW80M3BwNDEyNzVwMzBzcW8zcjE3NDk3MHFycTM0ODg1MnI1cHJucnA1bjE2NzU4NzNzMTkybnJwNTRzc3M0bzh8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTMuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PW80M3BwNDEyNzVwMzBzcW8zcjE3NDk3MHFycTM0ODg1MnI1cHJucnA1bjE2NzU4NzNzMTkybnJwNTRzc3M0bzh8MTc4MDUwODAwMQ
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="LIVE TV", 14:00 WIB 06/09/22 Ampun Digoyang (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTMucWV6P3JrYz0xNzc5OTExNjY0JmZ2dGE9NjlvMDNvNm81czNxMDE0MTYyMzQ1czFucjg0bzc0NjM2M3BzMjZxNzlzMXNuMjEybzc2OTA4cDk3N3M2cjQ1MXwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTMuemNxP3JrYz0xNzc5OTExNjY0JmZ2dGE9NnNvNDBubjVyMDFvMTEycHM3NzluM3M4NjhwMDRwcW9yNzUwcG84ODM1Njg1NDJzbjkzMzk1M3JwNDEycDJxbnwxNzgwNTA1NjY1
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTMucWV6P3JrYz0xNzc5OTE0MDAwJmZ2dGE9bzYyb3ByMzluNjc0bnNvczlzNG81MnAxMjA0cTk0b280czYxODU5NnFvc245bzJxcDc4MHM1c3ByNjlwbzAzMXwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTMuemNxP3JrYz0xNzc5OTE0MDAwJmZ2dGE9ODJwb3MzN3BucTNxM3M2b25yNzRzMnE2NjNzcnI2MXMzcXJxcTFvNXBuMjVucDk3OW4yMzlyOTc2N3MxOHM4OXwxNzgwNTA4MDAx
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LgjZlvzsHgnGnRVWFa-nxjJc0KI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18105/ggs-tv-e2ff0e.jpg" group-title="HIBURAN", 09:00 WIB 20/12/24 GGS TV (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTA1LnFlej9xcmlfeG54dl8wOSZnPTE3Nzk5MTE2NjQmdT05MTI1NTcwc3I4M242c29zMjVzNXFzcjZvcDM1bm5wMjYxb3M5czMwcHEyNTg5bzU5MjU0N3JuMzkycTQ2NjhufDE3ODA1MDU2NjU
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTA1LnpjcT9xcmlfeG54dl8wOSZnPTE3Nzk5MTE2NjQmdT05MTI1NTcwc3I4M242c29zMjVzNXFzcjZvcDM1bm5wMjYxb3M5czMwcHEyNTg5bzU5MjU0N3JuMzkycTQ2NjhufDE3ODA1MDU2NjU
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTA1LnFlej9xcmlfeG54dl8wOSZnPTE3Nzk5MTQwMDAmdT0xc3E3cjhvcDM4M25zMTlxcnFwbzc5cjJzN25wcXFvOHE5MG44MHExb3A1cG4zc3I2MXIzMzlwNzE4M3EzcHI4fDE3ODA1MDgwMDE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTA1LnpjcT9xcmlfeG54dl8wOSZnPTE3Nzk5MTQwMDAmdT0xc3E3cjhvcDM4M25zMTlxcnFwbzc5cjJzN25wcXFvOHE5MG44MHExb3A1cG4zc3I2MXIzMzlwNzE4M3EzcHI4fDE3ODA1MDgwMDE
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LgjZlvzsHgnGnRVWFa-nxjJc0KI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18105/ggs-tv-e2ff0e.jpg" group-title="HIBURAN", 09:00 WIB 20/12/24 GGS TV (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTA1LnFlej9ya2M9MTc3OTkxMTY2NCZmdnRhPTU5N3MzMjZxcXBwNzBxNTMzbzMwOHNxcjUzODYwNnE3bzEyODMzNzIybm84OW45NDBvMjhyM3IwcG81cnEyN258MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTA1LnpjcT9ya2M9MTc3OTkxMTY2NCZmdnRhPTkyNDI0bjk3Nzc5Mzg4NDBvc3E1cDI0MHJwbzJycDRucXEzcDM4cnEwMG82OTFucXEzNXBzMTNwM3M4NjM0MzJ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="HIBURAN", 10:00 WIB 02/05/24 Alterrenative Voyages (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTA1LnFlej9ya2M9MTc3OTkxNDAwMCZmdnRhPTQ4N3JwMjduM3Jvbzk1cTUwOTdwb3FxM3AwNTk4OTg4cW8yNzkyOTRwbjlybzI4czg4MTVxMjlzcjY1cnM5ODJ8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE4MTA1LnpjcT9ya2M9MTc3OTkxNDAwMCZmdnRhPW5zOXBvcW85MjkzcDQ0M3FyMTM3ODBxb3E5NDhzOTg1NXIwczcxcjgyNThyNm5wMjNvNDY0NjFzbjVwNzQxOTF8MTc4MDUwODAwMQ
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="HIBURAN", 10:00 WIB 02/05/24 Capitaine Marleau (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE3Mjc4LnFlej9xcmlfeG54dl8wOSZnPTE3Nzk5MTE2NjQmdT1yMDhxMDE0MTVvNTQ3ODIwOTM4MzcxbjYyNDNxOXBzMTAwNTE4NHFyb24wbzU1c24zOXFwbnI1MDBvc28wcjcxfDE3ODA1MDU2NjU
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE3Mjc4LnpjcT9xcmlfeG54dl8wOSZnPTE3Nzk5MTE2NjQmdT1yMDhxMDE0MTVvNTQ3ODIwOTM4MzcxbjYyNDNxOXBzMTAwNTE4NHFyb24wbzU1c24zOXFwbnI1MDBvc28wcjcxfDE3ODA1MDU2NjU
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="HIBURAN", 10:00 WIB 02/05/24 Alterrenative Voyages (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE3Mjc4LnFlej9xcmlfeG54dl8wOSZnPTE3Nzk5MTQwMDAmdT1vMXNuczQ2bzluNTE5Nm81NTA3cG4wcHFzM3JwNDUxOW9vcDJvODQwN3M5cDBxNzg1MTgzNDRwOW5xcjFuNHNufDE3ODA1MDgwMDE
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE3Mjc4LnpjcT9xcmlfeG54dl8wOSZnPTE3Nzk5MTQwMDAmdT1vMXNuczQ2bzluNTE5Nm81NTA3cG4wcHFzM3JwNDUxOW9vcDJvODQwN3M5cDBxNzg1MTgzNDRwOW5xcjFuNHNufDE3ODA1MDgwMDE
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="HIBURAN", 10:00 WIB 02/05/24 Capitaine Marleau (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE3Mjc4LnFlej9ya2M9MTc3OTkxMTY2NCZmdnRhPTVuODdzOW5zODlwNTJvMXE5NzUyNW5ucTE5Mjg4cXFyNTU3c24zNTZyNzA2cjg4NjNxNDFxcXNvMm82OHJvb3B8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE3Mjc4LnpjcT9ya2M9MTc3OTkxMTY2NCZmdnRhPTlxcTMyN3A1NjEzOHJvMnEyb29ucm5xN3MwM3I1NjU0M3A2bjgzc3E5czE3MjdvNXI4MXNzMHMzNzhyNnI5NXN8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="HIBURAN", 12:00 WIB 22/02/20 Home To Table (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE3Mjc4LnFlej9ya2M9MTc3OTkxNDAwMCZmdnRhPTJuMW8zcm42NDZwMTEzNHA3bnM5cnNwcTQ0NHA2NnJxOHNzMHBucnFub3A2Nzk2MTc2NHFxNTlzNjgzcjc4MzJ8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzE3Mjc4LnpjcT9ya2M9MTc3OTkxNDAwMCZmdnRhPTRwOXJvbjAxOXEzczNvbzRxMzhvMjQ5cXAyMzM4NnJvMjEyNzZvbzFuMzUzMW5xcjk5cXNwbjc0cjFuMTAzbjV8MTc4MDUwODAwMQ
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="HIBURAN", 12:00 WIB 22/02/20 I'm Live (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY3ODQucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTMzM3M5NzQ1czVzczNzNTcyb24ybm42cHJxNHNwNDMwNm43NjIyNjcwNTIxcDEwNzZwM28wMDE4cjk4NzYxNHJ8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY3ODQuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTMzM3M5NzQ1czVzczNzNTcyb24ybm42cHJxNHNwNDMwNm43NjIyNjcwNTIxcDEwNzZwM28wMDE4cjk4NzYxNHJ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="HIBURAN", 12:00 WIB 22/02/20 Home To Table (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY3ODQucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTA5Mzk4MDA2NTQ4M28xbzY1cjhzczM5NjAwNHBzMzE3OThwMTE0MDNwN240ODBxODU5cXE1OW5zc3Ewb240cTZ8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY3ODQuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PTA5Mzk4MDA2NTQ4M28xbzY1cjhzczM5NjAwNHBzMzE3OThwMTE0MDNwN240ODBxODU5cXE1OW5zc3Ewb240cTZ8MTc4MDUwODAwMQ
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="HIBURAN", 12:00 WIB 22/02/20 I'm Live (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY3ODQucWV6P3JrYz0xNzc5OTExNjY0JmZ2dGE9bzEwcTk0M3BycnIybnA2MzE0MzY5cDVzbzhvOG80MTdyMDlxMjg5MTdvbnM1bjRxNG85MHEwNTExcHJycnM2bnwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY3ODQuemNxP3JrYz0xNzc5OTExNjY0JmZ2dGE9Nzg2MDEwczA3NjFzOHIwczFzMzU4MnMyNHJuOW8ycTgwNXAwcnBzcTVzcW9wbjFxMnM5MzY2MTZwNjYwbzRvOHwxNzgwNTA1NjY1
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY3ODQucWV6P3JrYz0xNzc5OTE0MDAwJmZ2dGE9cTUxb3JyMW82b3NvMzM0MTlwc3AwbzNwcTI3Nzc5Njk4MzZzbzVvMzc3OG82NW4zOTEybzkycHA5cDFxbzVwMXwxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY3ODQuemNxP3JrYz0xNzc5OTE0MDAwJmZ2dGE9MzMxNzdzOTVzczduMDE4OHExN3BzMzQ2MXBzNHMyb3NwbjA2bnFycTA2cDJwbzlzc24xMTQ0cTJvcDc1NDAwbnwxNzgwNTA4MDAx
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="HIBURAN", 12:00 WIB 17/07/20 Magna TV (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzcyMzAucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTdwcnNxcHBwMzY3bm9uczE1bzgzbjU2MzYzNm8yMnBxcjI4b3IxN3A3NjQ0czEwcnA5bzI2bzU4MTNuMm5zcHF8MTc4MDUwNTY2NQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzcyMzAuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxMTY2NCZ1PTdwcnNxcHBwMzY3bm9uczE1bzgzbjU2MzYzNm8yMnBxcjI4b3IxN3A3NjQ0czEwcnA5bzI2bzU4MTNuMm5zcHF8MTc4MDUwNTY2NQ
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzcyMzAucWV6P3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PXMycXMwNDU0MDg1bnM5OXBwMDZvcTNvODcyOTZwMnFyMjdzczIwMnA0MW9yOTU4NTkyMDI5M3Nxcm9wcDNxNDZ8MTc4MDUwODAwMQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzcyMzAuemNxP3FyaV94bnh2XzA5Jmc9MTc3OTkxNDAwMCZ1PXMycXMwNDU0MDg1bnM5OXBwMDZvcTNvODcyOTZwMnFyMjdzczIwMnA0MW9yOTU4NTkyMDI5M3Nxcm9wcDNxNDZ8MTc4MDUwODAwMQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="HIBURAN", 12:00 WIB 17/07/20 Magna TV (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzcyMzAucWV6P3JrYz0xNzc5OTExNjY0JmZ2dGE9cW40cDlzNTVyc28ycG44c3JycnExMHAzOXEyNm5yM3Axbm4zNjRzNnMzOXBxNG4zcnAxcnByMDNxNHBxcjU2cHwxNzgwNTA1NjY1
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzcyMzAuemNxP3JrYz0xNzc5OTExNjY0JmZ2dGE9cTlzcDlzMDBzOTczNjhwNnE3NjY1MXEwcXIxM245OTExcW4zc3IwcDJxNThzcTE3MjM1cXI4cTM2NXFzcDByc3wxNzgwNTA1NjY1
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uL43wOfG/poster.jpg?width=720" group-title="LIVE VOLI",Mäder/Kernen (SUI) vs Quiggle/Loreen (USA), Women Pool F on C2 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly92YXYuem55dmF0LmN5L2lvZ2kvaFk0M2pCc1QuejNoOHwxNzgwNTA1NjY1
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7UPYwpyd/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Evandro/Arthur Lanci (BRA) vs Perusic/Sedlak (CZE), Men Pool E on CC | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzcyMzAucWV6P3JrYz0xNzc5OTE0MDAwJmZ2dGE9MnJxMzk5b24yNnJyOTZvMTFzbjBzNXA3NDE0MTU0MnI1ODMxOTIzbjA1MzkzOXJzbzdzN3IwOTMxOG9vbzMxc3wxNzgwNTA4MDAx
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzcyMzAuemNxP3JrYz0xNzc5OTE0MDAwJmZ2dGE9MDU5MHA0MzY1bjQ4czkxczBubzk0bzdvcjFyMThzNHFzNjBwNDg1MXNwMzZvMTk0c3EwODNyb3M1MzdwcjNubnwxNzgwNTA4MDAx
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YYmDV2Q3/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Cherif/Ahmed (QAT) vs Bedritis/Rinkevics (LAT), Men Pool B on C3 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7UPYwpyd/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Evandro/Arthur Lanci (BRA) vs Perusic/Sedlak (CZE), Men Pool E on CC | Ostrava (CZE)
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3OMs2eDL/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Chouikh/Genevieve-Gardoque  (FRA) vs Crabb/Benesh (USA), Men Pool B on C2 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j3ENEn61/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Trousil/Schweiner (CZE) vs Shaw/Partain (USA), Men Pool F on CC | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Ac3HpdQB/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Plavins/Fokerots (LAT) vs Arthur/Adrielson (BRA), Men Pool C on C2 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/h7Zb2Exp/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Boermans/Brouwer (NED) vs Hammarberg/Berger T. (AUT), Men Pool C on C3 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HN4FuikG/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Hölting Nilsson/Andersson E (SWE) vs Dzavoronok/Sepka (CZE), Men Pool D on CC | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/INi8MnXQ/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Rotar/Gauthier-Rat (FRA) vs Capogrosso N./Capogrosso T. (ARG), Men Pool E on C2 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YXnqnBnd/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Daubas/Aye C. (FRA) vs Luini/Immers (NED), Men Pool F on C3 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VKBeAVQK/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Łosiak/Bryl (POL) vs Andre/Renato (BRA), Men Pool A on C2 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iiAHucvP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Åhman/Hellvig (SWE) vs Seidl R./Seiser (AUT), Men Pool A on CC | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Ae0iShYh/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",van de Velde/de Groot (NED) vs Grimalt M./Grimalt E. (CHI), Men Pool D on C3 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fiNu2f18/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Cruz/Brasher (USA) vs Ferch/Van Gunst (USA), Women Pool A on C2 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fRzs0PyN/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Müller/Tillmann (GER) vs Klinger D./Klinger R. (AUT), Women Pool C on C3 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KDardkZh/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Stam/Schoon (NED) vs Dvorníková/Kleiblova (CZE), Women Pool A on CC | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0L0NaNdA/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Mäder/Kernen (SUI) vs Pavelková K./Pavelková A. (CZE), Women Pool F on CC | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/y5PWBs5y/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Gottardi/Orsi Toth R. (ITA) vs Hughes/Batenhorst (USA), Women Pool E on C2 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RgIsdwPz/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Tina/Anastasija (LAT) vs Anouk/Zoé (SUI), Women Pool C on C3 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yZoCt87Z/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Sandra/Anna (GER) vs Davidova/Khmil (UKR), Women Pool E on C3 | Ostrava (CZE)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6YUqSrMh/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Cheng/Kraft (USA) vs Kylie/Maixnerova (CZE), Women Pool B on CC | Ostrava (CZE)
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/541/756541-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] Roland Garros 2026 • Day 4 (15:55 WIB • 27/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="124" tvg-logo="https://www.visionplus.id/images/repository/549/756549-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] Roland Garros 2026 • Day 4 (Court 2) (15:55 WIB • 27/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/572/756572-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] Roland Garros 2026 • Day 4 (Court 3) (15:55 WIB • 27/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/665/756665-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Roland Garros 2026 • Night 4 (01:15 WIB • 28/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/636/756636-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] LIV Golf League 2026 • South Korea - Round 1 (11:00 WIB • 28/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/914/756914-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] PRO Futsal League 2 • Giga FC vs Proton FC (12:00 WIB • 28/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/935/756935-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] PRO Futsal League 2 • Elano FC vs KLN Elite FC (14:25 WIB • 28/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/671/756671-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Roland Garros 2026 • Day 5 (15:55 WIB • 28/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="124" tvg-logo="https://www.visionplus.id/images/repository/677/756677-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Roland Garros 2026 • Day 5 (Court 2) (15:55 WIB • 28/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/698/756698-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Roland Garros 2026 • Day 5 (Court 3) (15:55 WIB • 28/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/971/756971-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] PRO Futsal League 2 • Futsal Mbak Adjeng vs Great Grace Futsal (16:55 WIB • 28/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/945/756945-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] PRO Futsal League 2 • Maestro vs Hampton FC (19:25 WIB • 28/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/772/756772-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Roland Garros 2026 • Night 5 (01:15 WIB • 29/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/727/756727-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] LIV Golf League 2026 • South Korea - Round 2 (11:00 WIB • 29/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/997/756997-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] MotoGP • Brembo Grand Prix of Italy - Free Practice 1 (13:55 WIB • 29/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/793/756793-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Roland Garros 2026 • Day 6 (15:55 WIB • 29/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="124" tvg-logo="https://www.visionplus.id/images/repository/817/756817-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Roland Garros 2026 • Day 6 (Court 2) (15:55 WIB • 29/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/822/756822-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Roland Garros 2026 • Day 6 (Court 3) (15:55 WIB • 29/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/007/757007-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] MotoGP • Brembo Grand Prix of Italy - Practice (18:10 WIB • 29/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/856/756856-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Roland Garros 2026 • Night 6 (01:15 WIB • 30/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/754/756754-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] LIV Golf League 2026 • South Korea - Round 3 (11:00 WIB • 30/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/034/757034-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] MotoGP • Brembo Grand Prix of Italy - Free Practice 2 (13:35 WIB • 30/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/041/757041-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] MotoGP • Brembo Grand Prix of Italy - Qualifying (15:45 WIB • 30/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/879/756879-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Roland Garros 2026 • Day 7 (15:55 WIB • 30/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="124" tvg-logo="https://www.visionplus.id/images/repository/892/756892-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Roland Garros 2026 • Day 7 (Court 2) (15:55 WIB • 30/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/907/756907-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Roland Garros 2026 • Day 7 (Court 3) (15:55 WIB • 30/05/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4MDUwODAwMQ
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/049/757049-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Moto 3&2 • Grand Prix of Italy - Qualifying (17:40 WIB • 30/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/060/757060-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] MotoGP • Brembo Grand Prix of Italy - Sprint (19:30 WIB • 30/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/084/757084-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Red Bull MotoGP Rookies Cup 2026 • Rd 3 Mugello - Race 1 (21:50 WIB • 30/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/841/756841-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] LIV Golf League 2026 • South Korea - Round 4 (11:00 WIB • 31/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/094/757094-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Red Bull MotoGP Rookies Cup 2026 • Rd 3 Mugello - Race 2 (13:35 WIB • 31/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/137/757137-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] MotoGP • Brembo Grand Prix of Italy - Warm Up (14:35 WIB • 31/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/153/757153-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Moto 3 • Grand Prix of Italy - Race (15:45 WIB • 31/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/174/757174-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Moto 2 • Grand Prix of Italy - Race (17:00 WIB • 31/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDU2NjU
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDgwMDE
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/191/757191-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] MotoGP • Brembo Grand Prix of Italy - Race (18:15 WIB • 31/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDU2NjU
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/0504b24f98f8c083439816864fcf485c.png" tvg-logo="https://football-cdn.hub88.club/football/team/7befd62affd9e077714c9942164be43c.png", Duhok SC vs Al-Kahraba Club [LIVE] — Iraq Stars League (Server 1)
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODA1MDgwMDE
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/04c7db4de0acf5b988471ce5641f8747.png" tvg-logo="https://football-cdn.hub88.club/football/team/9e9970037f99f8ea47e9aa7d0ce6f213.png", Urozhaynaya vs FC Molodechno [LIVE] — Belarusian Cup (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci8zbzM5cTFzcTVuc25zOTY5MDA3cDJzNjc2Njg5cTdxbi9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/0504b24f98f8c083439816864fcf485c.png" tvg-logo="https://img.thesports.com/football/team/51314043c4560f92e05af70fd57035be.png", Amanat Baghdad vs Al Gharraf [LIVE] — Iraq Stars League (Server 1)
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci8zNDI2MjFyMTEzNzA3NDE5NDRyNDFubzI4NTU2ODlxby9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwODAwMQ
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/a89e3c5ab69c143b1d703114c9a13ceb.png" tvg-logo="https://football-cdn.hub88.club/football/team/b40f5d9a29e7e7e639b33607b5a275ac.png", Eskilstuna United Women vs Hammarby Women [LIVE] — Sweden Damallsvenskan (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci9uNzRzcDMzNTYxMXIyMDlzcDU2N3I5cXM5cXAwbzduNS9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/0504b24f98f8c083439816864fcf485c.png" tvg-logo="https://football-cdn.hub88.club/football/team/0aacd83d44fdd8d10edd99a4d1202af6.png", Al Karma vs Diala [LIVE] — Iraq Stars League (Server 1)
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci83bzgycjI4b243NXMzM3M4czAzcjRxOXM0NDhvcjE1OC9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwODAwMQ
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/f31c9ba221ee646ff14f6980a4c938ea.png" tvg-logo="https://football-cdn.hub88.club/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png", Barcelona Women vs Real Sociedad Women [LIVE] — Spanish Primera División de la Liga de Fútbol Femenino (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci83bnBzOTRvNjFybzAwbzYwbzhvMjJuMzM4c3M5OTM1NC9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png" tvg-logo="https://football-cdn.hub88.club/football/team/f6526b5434c06d7a6da4a9193fdac95e.png", Ilves Tampere vs TPS Turku [LIVE] — Finland Suomen Cup (Server 1)
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci9vNjAzMHFwNTI3cm8ycjcwbzVzNDMyODcwNDExczNxOS9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwODAwMQ
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/a89e3c5ab69c143b1d703114c9a13ceb.png" tvg-logo="https://img.thesports.com/football/team/9721e7d60394bc676f27028d22e03799.png", AIK Solna Women vs BK Hacken Women [LIVE] — Sweden Damallsvenskan (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci8wMDI1Mjk0cXNvNjI0OHBvcjMxMzRvcTdvcW44cDJwNS9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" tvg-logo="https://img.thesports.com/football/team/8ba6b4f123aa2cf2832d19b58bf194ef.png", Greece U21 vs Qatar U21 [LIVE] — International Friendly (Server 1)
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci81bzc3MXAzNzMxOXFuOXE3NHMwODUxcjU5OXM3b3Eycy9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwODAwMQ
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/0504b24f98f8c083439816864fcf485c.png" tvg-logo="https://football-cdn.hub88.club/football/team/d24ce6a9273a1f719aa3b590e27a7a78.png", Newroz SC vs Mosul FC [LIVE] — Iraq Stars League (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci9vbjdycTAxMTc3OG40MHEyNDFwNTY0NzYwbnA3ODE0cC9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/04c7db4de0acf5b988471ce5641f8747.png" tvg-logo="https://football-cdn.hub88.club/football/team/da1a0eac9c8fd56b1ec59bb561bd283b.png", Neman Mosty vs Niva Dolbizno [LIVE] — Belarusian Cup (Server 1)
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci9wNm9xczUyc3BzOHIxbzQ5NjY3cTM2bzhzNTU2bjE4OS9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwODAwMQ
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/0504b24f98f8c083439816864fcf485c.png" tvg-logo="https://img.thesports.com/football/team/17e3cb55af2ada9d234099c573f8a81e.png", Al Zawraa vs Al-Naft SC [LIVE] — Iraq Stars League (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci83cG8wNjkxb3MzOXFuNTlwNTM2NDVzMzRybzE1NXJuOC9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://img.thesports.com/football/competition/dde44558274f5fa146c8856817409989.png" tvg-logo="https://football-cdn.hub88.club/football/team/fcd8dc280beafdd1681f5e0c6a8e038d.png", JK Tallinna Kalev vs Viimsi JK [LIVE] — Estonian Esiliiga (Server 1)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci9xMzc4bm40NnE3bzI4NjU3MDI0cjI5MjQ4MHE1bjM4MC9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/9267ee08759fdc25c89d3e4642303522.png" tvg-logo="https://football-cdn.hub88.club/football/team/b9c54c71540bb531c7be8efde7ff88ae.png", Klubi 04 Helsinki vs PK-35 Vantaa [LIVE] — Finnish Ykkosliiga (Server 1)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci80cTVuODA4MTQ1cXNub25yMjEwb3I1ODJxMjJvNzE5OS9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/52fed07c0878a37997ddef303dea1f15.png" tvg-logo="https://football-cdn.hub88.club/football/team/61db5a6c416c91b512e659a9d70f0b8e.png", SK Artis Brno vs Synot Slovacko [LIVE] — Chance Národní Liga (Server 1)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci81cDluNzBvMzluc3E4cDEwczcxcHI3MzNzcnNybjE2OC9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/8e757755505af3813ffeeb2056e8e17e.png" tvg-logo="https://football-cdn.hub88.club/football/team/67d9980720aaf9c72aa0c7279414ed09.png", ND Primorje vs NK Nafta [LIVE] — Slovenia 1.Liga (Server 1)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci9wbzQyNzQ5NzZvczhvMDU0MTAxczI0cHBuMTEwODI2MS9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwNTY2NQ
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://football-cdn.hub88.club/football/competition/3856d1c82c6896c8c53370e31f36365d.png" tvg-logo="https://football-cdn.hub88.club/football/team/e32df01ffab4e6ca33eaadc49bc1b652.png", Deportivo Riestra Reserves vs Estudiantes LP Reserves [LIVE] — Argentine Reserve League (Server 1)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci9zMjYzbnEzNjk3b3AxMjE0bnAzNDg3NjY3cG8xc3Ezci9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwNTY2NQ
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9mY2JlZy1xbmduLXR5Ym9ueS5vLXBxYS5hcmcveXZpci82NTY4MzU2NjIzNzk3cHM3NDVuODAwc283MjYwM28wbi9jeW5seXZmZy56M2g4fEVyc3JlcmU9dWdnY2Y6Ly9pZnAtbmN2cXJpLnVyeXZtYmFyZi5wYnovJkJldnR2YT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBieiZIZnJlLU50cmFnPVpibXZ5eW4lMlM1LjArJTI4SnZhcWJqZitBRysxMC4wJTNPK0p2YTY0JTNPK2s2NCUyOStOY2N5ckpyb1h2ZyUyUzUzNy4zNislMjhYVUdaWSUyUCt5dnhyK1RycHhiJTI5K1B1ZWJ6ciUyUzEyMC4wLjAuMCtGbnNuZXYlMlM1MzcuMzZ8MTc4MDUwODAwMQ
