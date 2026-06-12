@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Itux-Kiw0XRYnw9OPzeBccG7bCk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127871/c195a0.jpg" group-title="Event-LIVE-NOW", Men: Japan vs Poland - Volleyball Nations League (18:45 - 21:00 * 12-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Itux-Kiw0XRYnw9OPzeBccG7bCk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127871/c195a0.jpg" group-title="Event-LIVE-NOW", Men: Japan vs Poland - Volleyball Nations League (18:45 - 22:00 * 12-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -25,7 +25,7 @@ https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=17875&type=dash&tok
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6686&type=drm&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6686&type=dash&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YgWYPzlRt-M-Qkprb1lN3oYYr5c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129024/fd98bb.jpg" group-title="Event-LIVE-NOW", Ben Shelton vs Marcos Giron - Round 2 (Post Rain Match) | ATP 250: BOSS Open 2026 (18:21 - 21:00 * 12-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YgWYPzlRt-M-Qkprb1lN3oYYr5c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129024/fd98bb.jpg" group-title="Event-LIVE-NOW", Ben Shelton vs Marcos Giron - Round 2 (Post Rain Match) | ATP 250: BOSS Open 2026 (18:21 - 22:00 * 12-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -44,13 +44,6 @@ https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=16890&type=hls&tok
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=21626&type=drm&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=21626&type=dash&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/c1EHXl45iF3sII-8yqvrOqbv7so=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128059/0ed26d.jpg" group-title="Event-LIVE-NOW", WorldSBK Free Practice 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round (20:00 - 21:00 * 12-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=17139&type=drm&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=17139&type=dash&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/S5_7f0xxxBSR3LjWrefdr1G-YaQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129029/2378c9.jpg" group-title="Event-LIVE-NOW", Benjamin Bonzi vs Alex de Minaur - Quarterfinal | ATP 250: Libema Open 2026 (20:05 - 21:30 * 12-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -58,13 +51,27 @@ https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=17139&type=dash&tok
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20886&type=drm&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20886&type=dash&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/uWbl6KcV2uF3O4wGz23BQCoJWEc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5130213/e7b111.jpg" group-title="Event-LIVE-NOW", Quarter Finals: WTA 500: The HSBC Championships 2026 (20:30 - 22:30 * 12-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sia--fiC2Rwl83i5kAZlPlwqWzI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128062/f36420.jpg" group-title="Event-LIVE-NOW", Qualifying - FIA Formula 2 Championship Barcelona Grand Prix 2026 (20:53 - 21:25 * 12-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6299&type=drm&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6299&type=dash&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/uWbl6KcV2uF3O4wGz23BQCoJWEc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5130213/e7b111.jpg" group-title="Event-LIVE-NOW", Quarter Finals: WTA 500: The HSBC Championships 2026 (21:00 - 22:30 * 12-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20564&type=drm&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20564&type=dash&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/agiJnDQOP_WdTrrpbeqk5q7R69g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128060/54b918.jpg" group-title="Event-LIVE-NOW", WorldSSP Superpole - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round (21:00 - 22:00 * 12-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=17139&type=drm&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=17139&type=dash&token=826f7c6dc715fad33a9701487c42cd51bb01d56d81bc15886046bbc12d3e0679
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1612433922733887489%2F7f5XFklA_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Formula 1 GP Catalunya --- ENG SD - Formula 1 GP --:--
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -79,7 +86,7 @@ http://193.47.62.59/hls/dfffVX.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/40aa2a2b-3054-481c-9d98-ddf12ac5ed88/master.m3u8
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/68b6e4ec-e6ad-4cf5-bf52-b8979471a750/master.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1960307944425132032%2FLz1Iz25N_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Partizan vs Dubai - Basketball ABA League 01.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -417,34 +424,26 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Barangay Ginebra San Miguel vs TNT Tropang Giga" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Fbasketball%2Fcompetition%2F6a0a8ceb1a76decc73b5754cca45d574.png%21w80&size=300&scale=1.5", Barangay Ginebra San Miguel vs TNT Tropang Giga (Cúp Quản trị viên Bóng rổ Philippines)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/71943762_675708c15c50865fdda4581d65194401_autoChange.m3u8?auth_key=1781286366-0-0-f118a8283d2de5f6f672feb72058aa77
-#EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Fbasketball%2Fcompetition%2F6a0a8ceb1a76decc73b5754cca45d574.png%21w80&size=300&scale=1.5", Barangay Ginebra San Miguel vs TNT Tropang Giga - BLV ROCKSTAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kairat Almaty II vs Tobol Kostanai B" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F29d9b5a07b9ef4c89588e271a263027d.png%21w80&size=300&scale=1.5", Kairat Almaty II vs Tobol Kostanai B (Giải hạng nhất quốc gia Kazakhstan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/69854684_9855160df18d48dfb394a0f4a3e84534_autoChange.m3u8?auth_key=1781286367-0-0-2c03c2bbbef5ef18cb6579ce864b1564
-#EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F29d9b5a07b9ef4c89588e271a263027d.png%21w80&size=300&scale=1.5", Kairat Almaty II vs Tobol Kostanai B - BLV 247
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/90865415.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Khan Tengri FC vs Shakhtar Karagandy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F29d9b5a07b9ef4c89588e271a263027d.png%21w80&size=300&scale=1.5", Khan Tengri FC vs Shakhtar Karagandy (Giải hạng nhất quốc gia Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live1.egmdispatch.com/live/69854686_2bc2499c98046286b3bfce60231063fe_autoChange.m3u8?auth_key=1781288358-0-0-41d3d763239bb8cdc934bd78c7320b56
 #EXTINF:-1 tvg-id="" tvg-name="BLV STING" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F29d9b5a07b9ef4c89588e271a263027d.png%21w80&size=300&scale=1.5", Khan Tengri FC vs Shakhtar Karagandy - BLV STING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.msdht.app/live/14707124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Barangay Ginebra San Miguel vs TNT Tropang Giga" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Fbasketball%2Fcompetition%2F6a0a8ceb1a76decc73b5754cca45d574.png%21w80&size=300&scale=1.5", Barangay Ginebra San Miguel vs TNT Tropang Giga (Cúp Quản trị viên Bóng rổ Philippines)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live.egmdispatch.com/live/71943762_675708c15c50865fdda4581d65194401_autoChange.m3u8?auth_key=1781288360-0-0-b5dc337503a2e9cb9c775b0d28af0f4d
+#EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Fbasketball%2Fcompetition%2F6a0a8ceb1a76decc73b5754cca45d574.png%21w80&size=300&scale=1.5", Barangay Ginebra San Miguel vs TNT Tropang Giga - BLV ROCKSTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.msdht.app/live/82054853.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FK Isloch Minsk vs Naftan Novopolock" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fe7475cfacb0bebd6ab81ae3f09efdb28.png%21w80&size=300&scale=1.5", FK Isloch Minsk vs Naftan Novopolock (Giải Bóng đá Ngoại hạng Belarus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live.egmdispatch.com/live/71861622_0fdb2ae2821528cd6bd6023772b8f6d9_autoChange.m3u8?auth_key=1781288358-0-0-8fc2d3b49762f46b4add826d1bb86f78
 #EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fe7475cfacb0bebd6ab81ae3f09efdb28.png%21w80&size=300&scale=1.5", FK Isloch Minsk vs Naftan Novopolock - BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -504,11 +503,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2t
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6dmA0EGGrHvqr2yngNATDKb59NDUCp7f9mh8hjbOJg&s=10" group-title="Piala Dunia 2026 ððâ½", TSN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="Piala Dunia 2026 ððâ½", NHK BS Premium 4K
 http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVzAyuu4w3zlYqHp0PUFBKe-nYYqcFtGGHpGWEIqGzQ&s=10" group-title="Piala Dunia 2026 ððâ½",CCTV 5
@@ -529,18 +523,43 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6dmA0EGGrHvqr2yngNATDKb59NDUCp7f9mh8hjbOJg&s=10" group-title="Piala Dunia 2026 ððâ½", TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
+#EXTINF:-1 tvg-id="TSN4.ca2" tvg-name="TSN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6dmA0EGGrHvqr2yngNATDKb59NDUCp7f9mh8hjbOJg&s=10" group-title="Piala Dunia 2026 ððâ½", TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6dmA0EGGrHvqr2yngNATDKb59NDUCp7f9mh8hjbOJg&s=10" group-title="Piala Dunia 2026 ððâ½", TSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
+https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="Piala Dunia 2026 ððâ½",CAZE TV 1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="Piala Dunia 2026 ððâ½",CAZE TV 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-id="02" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/7ogw2s1775058371.jpg",09:00 WIB - 12 Juni | ð°ð· Korea Selatan vs ð¨ð¿ Ceko | TSN 1 | Gvision TV ðº
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="02" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/7ogw2s1775058371.jpg",09:00 WIB - 12 Juni | ð°ð· Korea Selatan vs ð¨ð¿ Ceko |  CCTV 5+ | Gvision TV ðº
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="02" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/7ogw2s1775058371.jpg",09:00 WIB - 12 Juni | ð°ð· Korea Selatan vs ð¨ð¿ Ceko | RTB ANEKA | Gvision TV ðº
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 tvg-id="03" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/nsv3mc1775058372.jpg",02:00 WIB - 13 Juni | ð¨ð¦ Kanada vs ð§ð¦ Bosnia-Herzegovina | TSN 1 | Gvision TV ðº
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="03" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/nsv3mc1775058372.jpg",02:00 WIB - 13 Juni | ð¨ð¦ Kanada vs ð§ð¦ Bosnia-Herzegovina | TVP SPORT | Gvision TV ðº
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -554,6 +573,11 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="03" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/nsv3mc1775058372.jpg",02:00 WIB - 13 Juni | ð¨ð¦ Kanada vs ð§ð¦ Bosnia-Herzegovina | RTB ANEKA | Gvision TV ðº
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 tvg-id="04" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zzcn9j1775058318.jpg",08:00 WIB - 13 Juni | ðºð¸ Amerika Serikat vs ðµð¾ Paraguay | TSN  1 | Gvision TV ðº
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="04" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zzcn9j1775058318.jpg",08:00 WIB - 13 Juni | ðºð¸ Amerika Serikat vs ðµð¾ Paraguay | CCTV 5+ | Gvision TV ðº
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
@@ -567,6 +591,11 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | ð¶ð¦ Qatar vs ð¨ð­ Swiss | TSN 1 | Gvision TV ðº
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | ð¶ð¦ Qatar vs ð¨ð­ Swiss | TVP SPORT | Gvision TV ðº
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -580,11 +609,6 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | ð¶ð¦ Qatar vs ð¨ð­ Swiss | RTB ANEKA | Gvision TV ðº
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | ð§ð· Brasil vs ð²ð¦ Maroko | TSN 1 | Gvision TV ðº
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | ð§ð· Brasil vs ð²ð¦ Maroko | CCTV 5+ | Gvision TV ðº
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
@@ -634,11 +658,6 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="08" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kgoj1q1775058373.jpg",11:00 WIB - 14 Juni | ð¦ðº Australia vs ð¹ð· Turki | RTB ANEKA | Gvision TV ðº
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="09" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg",00:00 WIB - 15 Juni | ð©ðª Jerman vs ð¨ð¼ CuraÃ§ao | TSN 1 | Gvision TV ðº
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="09" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg",00:00 WIB - 15 Juni | ð©ðª Jerman vs ð¨ð¼ CuraÃ§ao | TVP SPORT | Gvision TV ðº
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -702,6 +721,11 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="14" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/uejz5h1775058325.jpg",02:00 WIB - 16 Juni | ð§ðª Belgia vs ðªð¬ Mesir | RTB ANEKA | Gvision TV ðº
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 tvg-id="15" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhbzh41775058327.jpg",05:00 WIB - 16 Juni | ð¸ð¦ Arab Saudi vs ðºð¾ Uruguay | TSN 1 | Gvision TV ðº
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="15" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhbzh41775058327.jpg",05:00 WIB - 16 Juni | ð¸ð¦ Arab Saudi vs ðºð¾ Uruguay | TVP SPORT | Gvision TV ðº
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -712,6 +736,11 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="15" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhbzh41775058327.jpg",05:00 WIB - 16 Juni | ð¸ð¦ Arab Saudi vs ðºð¾ Uruguay | #EXTINF:-1 tvg-id="14" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/uejz5h1775058325.jpg",02:00 WIB - 16 Juni | ð§ðª Belgia vs ðªð¬ Mesir | RTB ANEKA | Gvision TV ðº
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 tvg-id="16" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qhf26y1775058326.jpg",08:00 WIB - 16 Juni | ð®ð· Iran vs ð³ð¿ Selandia Baru | TSN 1 | Gvision TV ðº
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="16" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qhf26y1775058326.jpg",08:00 WIB - 16 Juni | ð®ð· Iran vs ð³ð¿ Selandia Baru | TVP SPORT | Gvision TV ðº
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -719,6 +748,11 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="17" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/73gvui1775058331.jpg",02:00 WIB - 17 Juni | ð«ð· Prancis vs ð¸ð³ Senegal | TSN 1 | Gvision TV ðº
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="17" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/73gvui1775058331.jpg",02:00 WIB - 17 Juni | ð«ð· Prancis vs ð¸ð³ Senegal | TVP SPORT | Gvision TV ðº
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -726,6 +760,11 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="18" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xbh5yw1775058375.jpg",05:00 WIB - 17 Juni | ð®ð¶ Irak vs ð³ð´ Norwegia | TSN 1 | Gvision TV ðº
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="18" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xbh5yw1775058375.jpg",05:00 WIB - 17 Juni | ð®ð¶ Irak vs ð³ð´ Norwegia | TVP SPORT | Gvision TV ðº
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -733,6 +772,11 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="19" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w4gd291775058329.jpg",08:00 WIB - 17 Juni | ð¦ð· Argentina vs ð©ð¿ Aljazair | TSN 1 | Gvision TV ðº
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="19" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w4gd291775058329.jpg",08:00 WIB - 17 Juni | ð¦ð· Argentina vs ð©ð¿ Aljazair | TVP SPORT | Gvision TV ðº
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
