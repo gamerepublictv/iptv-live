@@ -37,13 +37,25 @@ https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20886&type=dash&tok
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=21648&type=hls&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vFvW9G41bM37ctSHzWW6jAeWRLE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128068/4c17da.jpg" group-title="Event-LIVE-NOW", Qualifying - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026 (20:55 - 22:00 * 13-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vFvW9G41bM37ctSHzWW6jAeWRLE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128068/4c17da.jpg" group-title="Event-LIVE-NOW", Qualifying - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026 (20:55 - 22:30 * 13-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6299&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6299&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Ykhzi_NWeSqXV2oGnNAxJ30vVSM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129498/60f755.jpg" group-title="Event-LIVE-NOW", Valencia P1 Premier Padel - Semifinals (22:00 - 01:00 * 13-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=17875&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=17875&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2020878171302682624%2Fjp8LCE0_.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Glory Collision 9 - Glory Kickboxing 22.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.53/hls/IIII.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ffr%2Fb%2Fb7%2FPsl-logo.png&size=400&scale=1.5" group-title="Event-LIVE-NOW", Magesi vs Milford FC - South Africa Betway Premiership 20.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -78,12 +90,12 @@ http://193.47.62.43/hls/VAAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.43/hls/YNNNQQQQq.m3u8
+http://193.47.62.55/hls/YNNNQQQQq.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1947922197328134144%2F2PBgulm5_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Bath Exeter vs Chiefs - English Premiership Rugby 21.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.43/hls/YNNNQQQQ.m3u8
+http://193.47.62.55/hls/YNNNQQQQ.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1694345453926535168%2F3YJhSCAj_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Fylkir vs Grotta - Iceland Cup 21.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -364,23 +376,15 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #EXTINF:-1 tvg-id="" tvg-name="Thái Lan U19 vs Úc U19" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fc8bdf96ccd4faeab5087c45bd1da30af.png%21w80&size=300&scale=1.5", Thái Lan U19 vs Úc U19 (AFF Championship U19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/72051092_e55efaa76355d73c8843c3f20a6a852f_autoChange.m3u8?auth_key=1781376259-0-0-15b9a63d6f34dae4db890fae4f23de76
+https://live.egmdispatch.com/live/72051092_e55efaa76355d73c8843c3f20a6a852f_autoChange.m3u8?auth_key=1781378061-0-0-2ff93c95dc47662cf9376a95724c82d4
 #EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fc8bdf96ccd4faeab5087c45bd1da30af.png%21w80&size=300&scale=1.5", Thái Lan U19 vs Úc U19 - BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Grobina vs Rigas Futbola skola" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F71ec56470b1f954a153d98413368256e.png%21w80&size=300&scale=1.5", Grobina vs Rigas Futbola skola (Giải bóng đá Cao cấp Latvia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.egmdispatch.com/live/68492566_23d2220867b2180c7af21f6fd8084b6c_autoChange.m3u8?auth_key=1781376259-0-0-77a6c590b5cc009c50b1d03870fa8c7a
-#EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F71ec56470b1f954a153d98413368256e.png%21w80&size=300&scale=1.5", Grobina vs Rigas Futbola skola - BLV 247
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/90865415.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vaasa VPS vs KuPs" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fb247c26e45a61b6eaaab421c3bad22c8.png%21w80&size=300&scale=1.5", Vaasa VPS vs KuPs (Giải Bóng đá Vô địch Quốc gia Phần Lan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/67091346_3ac6de294d37bca269bbef93795cd706_autoChange.m3u8?auth_key=1781376256-0-0-41c7808b30a4419a9a8da9e3a449ac83
+https://live.egmdispatch.com/live/67091346_3ac6de294d37bca269bbef93795cd706_autoChange.m3u8?auth_key=1781378059-0-0-5184155d54e2d0ffdb5ac3ddd8c00fd4
 #EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fb247c26e45a61b6eaaab421c3bad22c8.png%21w80&size=300&scale=1.5", Vaasa VPS vs KuPs - BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -388,11 +392,19 @@ https://live05.msdht.app/live/87547578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jaro vs HJK" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fb247c26e45a61b6eaaab421c3bad22c8.png%21w80&size=300&scale=1.5", Jaro vs HJK (Giải Bóng đá Vô địch Quốc gia Phần Lan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.egmdispatch.com/live/67091344_f312f7fffd12133123fdddd813b1dba8_autoChange.m3u8?auth_key=1781376256-0-0-97346b5dd078d1fceed1af3e9bc24da6
+https://live1.egmdispatch.com/live/67091344_f312f7fffd12133123fdddd813b1dba8_autoChange.m3u8?auth_key=1781378059-0-0-cdafb6bfd4d5e8d0efde26772ee5ba0f
 #EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fb247c26e45a61b6eaaab421c3bad22c8.png%21w80&size=300&scale=1.5", Jaro vs HJK - BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.msdht.app/live/99121525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLB Metalurgi Rustavi vs Fc Meshakhte Tkibuli" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F20add0f0000a914f2e9179af8b4ce8bc.png%21w80&size=300&scale=1.5", CLB Metalurgi Rustavi vs Fc Meshakhte Tkibuli (Giải Vô địch Quốc gia Georgia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live1.egmdispatch.com/live/67912716_a1c3c770c7a8ca73cf93f702053f028c_autoChange.m3u8?auth_key=1781378057-0-0-05d245f1ee064a8d66af513375841585
+#EXTINF:-1 tvg-id="" tvg-name="BLV STING" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F20add0f0000a914f2e9179af8b4ce8bc.png%21w80&size=300&scale=1.5", CLB Metalurgi Rustavi vs Fc Meshakhte Tkibuli - BLV STING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.msdht.app/live/14707124.m3u8
 #EXTINF:-1 tvg-id="02" group-title="EVENT PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/7ogw2s1775058371.jpg",[BELUM MULAI] 09:00 WIB - 12 Juni | ð°ð· Korea Selatan vs ð¨ð¿ Ceko |  CCTV 5+ | Gvision TV ðº
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
@@ -453,6 +465,13 @@ http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVzAyuu4w3zlYqHp0PUFBKe-nYYqcFtGGHpGWEIqGzQ&s=10" group-title="Piala Dunia 2026 ððâ½",CCTV 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="Piala Dunia 2026 ððâ½" tvg-id="Ã¨Â¢Â¦Ã©âÂªÃ¨Â¤ÅÃ¨Â¤â Ã¥Â­ÂÃ¨Â¢â¢" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaW2gQt_6FqTwOGQGdJhAodsQXUQ7x3FtXrZ-kPt2GVA&s=10", MATCH!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
+https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="Piala Dunia 2026 ððâ½",Alwan Sport 1 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="Piala Dunia 2026 ððâ½",Alwan Sport 1 SD
