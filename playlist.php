@@ -4,69 +4,74 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18249&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18249&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18249&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18249&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2K_0ePx4Wuqxw-xUbRCvOm-h_YM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5131824/da2d6a.jpg" group-title="Event-LIVE-NOW", Institut Perbanas vs Universitas Kristen Satya Wacana (Final | Putra) - CL Basketball 2026 - The Nationals (10:00 - 22:00 * 13-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=21210&type=hls&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=21210&type=hls&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VsCRIpWmHrVBMVf1tXpnCH7FwIg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129496/86f8b4.jpg" group-title="Event-LIVE-NOW", Semifinals - WTA 250: Libema Open 2026 (16:00 - 20:00 * 13-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6686&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6686&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6686&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6686&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/f9T54SMlTmpVdLYzy7n9gs2T6XA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129497/baafc2.jpg" group-title="Event-LIVE-NOW", Valencia P1 Premier Padel - Semifinals (17:00 - 20:30 * 13-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=17875&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=17875&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=17875&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=17875&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ZSmKedQR1RAy0NQMaavHBZRBmvw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132041/c6e9e4.jpg" group-title="Event-LIVE-NOW", Semifinal: Korea vs Vietnam - AVC Women's Cup (17:30 - 21:00 * 13-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=21626&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=21626&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QUcn_7ZLFQkL0AFjRR0tPvNBdOY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129487/cca46b.jpg" group-title="Event-LIVE-NOW", WorldSPB Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round (17:50 - 19:00 * 13-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=17139&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=17139&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=21626&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=21626&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/s8df128F55RrbyFzrIFp6sKuo-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132055/d0d177.jpg" group-title="Event-LIVE-NOW", Daniil Medvedev vs Marin Cilic - Quarterfinal (Post Rain Match) | ATP 250: Libema Open 2026 (18:10 - 21:00 * 13-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20886&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20886&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/syHaTxgJHu6aK8_qk1jHW8apOwA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132028/163f29.jpg" group-title="Event-LIVE-NOW", 3rd Place: Ivory Coast vs DR Congo - Maurice Revello (18:25 - 20:30 * 13-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6685&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6685&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20886&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20886&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/82x0bZs7-fNoHIyOnnefrfNMJz8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132050/7b9308.jpg" group-title="Event-LIVE-NOW", Alexander Bublik vs Taylor Fritz - Semifinal | ATP 250: BOSS Open 2026 (18:25 - 21:00 * 13-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20884&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20884&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20884&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20884&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/syHaTxgJHu6aK8_qk1jHW8apOwA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132028/163f29.jpg" group-title="Event-LIVE-NOW", 3rd Place: Ivory Coast vs DR Congo - Maurice Revello (18:25 - 20:30 * 13-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6685&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6685&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/cdiYdroJ-3HCktH1YHR3fWvFXgA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129500/f4019a.jpg" group-title="Event-LIVE-NOW", Semifinals - WTA 500: The HSBC Championships 2026 (18:30 - 23:30 * 13-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6786&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6786&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6786&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6786&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/7k7uQLMzJZ8OpW9hd3eApJ4szSw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129682/d01d42.jpg" group-title="Event-LIVE-NOW", Men: Cuba vs Slovenia - Volleyball Nations League (18:45 - 21:00 * 13-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=21646&type=hls&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/NlBUfvcMjGEgf1sWYXq3pontxp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129488/fc9516.jpg" group-title="Event-LIVE-NOW", WorldSSP Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round (19:00 - 20:10 * 13-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=17139&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=17139&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1612433922733887489%2F7f5XFklA_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Formula 1 GP Catalunya --- ENG SD - Formula 1 GP --:--
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -81,7 +86,7 @@ http://193.47.62.59/hls/dfffVX.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e7411ea9-b7d1-45a7-832e-dea8d0029d02/master.m3u8
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b43c440b-649c-48b0-8eea-e1e0d2a75c30/master.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F637495443774140416%2FEk5Gmtj2_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Mbeya City vs Mtibwa Sugar - Tanzania Ligi Kuu Bara 18.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -92,6 +97,11 @@ http://193.47.62.55/hls/FHHHDDD.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/brrrQQQ.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2061372235508494338%2FLKV69QHd.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", FIA Formula 2 Catalunya - FIA Formula 2 19.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/dfffV.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1899023717914583041%2FrxluldzO_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Inter Turku vs AC Oulu - Finland Veikkausliiga 19.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -177,6 +187,16 @@ http://193.47.62.59/hls/CCCCD.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/CCCC.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1612792567170584577%2FGflNrwUa.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Elfsborg W vs Goteborg W - Sweden Women Elitettan 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/SSSS.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1612792567170584577%2FGflNrwUa.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Alingsas W vs Gamla Upsala W - Sweden Women Elitettan 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/SSSSf.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1111583953910198273%2FhmyjzwP5_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Rosengard W vs Norrkoping W - Sweden Women Allsvenskan 18.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -247,11 +267,6 @@ http://193.47.62.59/hls/brrr.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/brrrX.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2061372301917007872%2FtNkSjoCt_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", FIA Formula 3 Catalunya - FIA Formula 3 15.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/dfffV.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1404378291599937536%2Fb-r3SWlW_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", India vs Afghanistan - Cricket 13.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -392,31 +407,23 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #EXTINF:-1 tvg-id="" tvg-name="Nanjing City vs Shanghai Jiading Huilong" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Faef1f7c3d09f7d1f60e0dde1ee3f1cbc.png%21w80&size=300&scale=1.5", Nanjing City vs Shanghai Jiading Huilong (Giải bóng đá Hạng nhất Trung Quốc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.egmdispatch.com/live/69455918_4098ee5d383318592acd481ce72cee6e_autoChange.m3u8?auth_key=1781365161-0-0-e1dc1e3a2c1d278198d28e32ada20c66
+https://live2.egmdispatch.com/live/69455918_4098ee5d383318592acd481ce72cee6e_autoChange.m3u8?auth_key=1781366962-0-0-caedf01e03284d58f80f3455ba7b10d5
 #EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Faef1f7c3d09f7d1f60e0dde1ee3f1cbc.png%21w80&size=300&scale=1.5", Nanjing City vs Shanghai Jiading Huilong - BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adelaide U21 vs Adelaide City FC" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F077498aa221410ff314434a011e8d65f.png%21w80&size=300&scale=1.5", Adelaide U21 vs Adelaide City FC (Giải bóng đá Hạng nhất Miền Nam của Úc)
+#EXTINF:-1 tvg-id="" tvg-name="HeBei KungFu vs Suzhou Dongwu" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2F0408f34aeb9005f8f65c4c2e80478235.png%21w80&size=300&scale=1.5", HeBei KungFu vs Suzhou Dongwu (Giải bóng đá Hạng nhất Trung Quốc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live5.egmdispatch.com/live/68048912_60108f0c861f397b7145e446b91bb769_autoChange.m3u8?auth_key=1781365160-0-0-7ff70fe009f36563c75b4725777ddd87
-#EXTINF:-1 tvg-id="" tvg-name="BLV PEPSI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F077498aa221410ff314434a011e8d65f.png%21w80&size=300&scale=1.5", Adelaide U21 vs Adelaide City FC - BLV PEPSI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HeBei KungFu vs Suzhou Dongwu" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Faef1f7c3d09f7d1f60e0dde1ee3f1cbc.png%21w80&size=300&scale=1.5", HeBei KungFu vs Suzhou Dongwu (Giải bóng đá Hạng nhất Trung Quốc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live3.egmdispatch.com/live/69455920_894935be0c0550c068ff1b06cc9f0669_autoChange.m3u8?auth_key=1781365161-0-0-dd6205b9823c03a9dbbfa8e74912af82
-#EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Faef1f7c3d09f7d1f60e0dde1ee3f1cbc.png%21w80&size=300&scale=1.5", HeBei KungFu vs Suzhou Dongwu - BLV 7UP
+https://live.egmdispatch.com/live/8lk2dirr2r9bz73_7e17fd27e6a7b104ff00e274f6268b46_autoChange.m3u8?auth_key=1781366008-0-0-93b693096d607d631c14d42640c95ef9
+#EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2F0408f34aeb9005f8f65c4c2e80478235.png%21w80&size=300&scale=1.5", HeBei KungFu vs Suzhou Dongwu - BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.msdht.app/live/78905744.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter Turku vs AC Oulu" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fb247c26e45a61b6eaaab421c3bad22c8.png%21w80&size=300&scale=1.5", Inter Turku vs AC Oulu (Giải Bóng đá Vô địch Quốc gia Phần Lan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live.egmdispatch.com/live/67091340_240cdb7d6b4ac99c3b61507342f135de_autoChange.m3u8?auth_key=1781366960-0-0-10ea92619dfa8692b2d072c7ec91724f
 #EXTINF:-1 tvg-id="" tvg-name="BLV GIÀ LÀNG" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fb247c26e45a61b6eaaab421c3bad22c8.png%21w80&size=300&scale=1.5", Inter Turku vs AC Oulu - BLV GIÀ LÀNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -424,7 +431,7 @@ https://live05.msdht.app/live/14830711.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dingnan Ganlian vs Guangdong GZ-Power" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Faef1f7c3d09f7d1f60e0dde1ee3f1cbc.png%21w80&size=300&scale=1.5", Dingnan Ganlian vs Guangdong GZ-Power (Giải bóng đá Hạng nhất Trung Quốc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live4.egmdispatch.com/live/69455922_0ecb85de1ad9337f88fbe4cf6669b14c_autoChange.m3u8?auth_key=1781366961-0-0-fe970e38e15b044754657fd26a77ed5f
 #EXTINF:-1 tvg-id="" tvg-name="BLV SODA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Faef1f7c3d09f7d1f60e0dde1ee3f1cbc.png%21w80&size=300&scale=1.5", Dingnan Ganlian vs Guangdong GZ-Power - BLV SODA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -432,7 +439,7 @@ https://live05.msdht.app/live/02456966.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ilves vs TPS" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fb247c26e45a61b6eaaab421c3bad22c8.png%21w80&size=300&scale=1.5", Ilves vs TPS (Giải Bóng đá Vô địch Quốc gia Phần Lan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live1.egmdispatch.com/live/67091342_1a87cd95ca4a8f9b94586bac0a9e0788_autoChange.m3u8?auth_key=1781366961-0-0-c3994f8ecafd90b11d0115aba0013627
 #EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fb247c26e45a61b6eaaab421c3bad22c8.png%21w80&size=300&scale=1.5", Ilves vs TPS - BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
