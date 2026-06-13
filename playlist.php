@@ -13,11 +13,6 @@ https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=21633&type=dash&tok
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18249&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18249&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/8G0BTeC0sGj1RvcJSbadtZNzyhc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129681/d7aa88.jpg" group-title="Event-LIVE-NOW", Men: China vs Japan - Volleyball Nations League (15:15 - 18:00 * 13-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=21646&type=hls&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2K_0ePx4Wuqxw-xUbRCvOm-h_YM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5131824/da2d6a.jpg" group-title="Event-LIVE-NOW", Institut Perbanas vs Universitas Kristen Satya Wacana (Final | Putra) - CL Basketball 2026 - The Nationals (10:00 - 22:00 * 13-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -30,20 +25,6 @@ https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=21210&type=hls&tok
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6686&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6686&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/S_62ysGx0aeucHxYNK_WSWK0T9c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129486/c234f6.jpg" group-title="Event-LIVE-NOW", WorldWCR Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round (16:50 - 17:50 * 13-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=17139&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=17139&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hHojtKiS8ru4hMrHeoB7b0JUdps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132049/bf0627.jpg" group-title="Event-LIVE-NOW", Ben Shelton vs Sho Shimabukuro - Quarterfinal (Post Rain Match) | ATP 250: BOSS Open 2026 (17:00 - 18:30 * 13-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20884&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20884&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/f9T54SMlTmpVdLYzy7n9gs2T6XA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129497/baafc2.jpg" group-title="Event-LIVE-NOW", Valencia P1 Premier Padel - Semifinals (17:00 - 20:30 * 13-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -51,6 +32,34 @@ https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20884&type=dash&tok
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=17875&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=17875&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hHojtKiS8ru4hMrHeoB7b0JUdps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132049/bf0627.jpg" group-title="Event-LIVE-NOW", Ben Shelton vs Sho Shimabukuro - Quarterfinal (Post Rain Match) | ATP 250: BOSS Open 2026 (17:00 - 18:30 * 13-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20884&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20884&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YOcfqhsgGGYaTgthT5h-PEJWlhw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128066/b0bec9.jpg" group-title="Event-LIVE-NOW", Practice 3 - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026 (17:25 - 18:30 * 13-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6299&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6299&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ZSmKedQR1RAy0NQMaavHBZRBmvw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132041/c6e9e4.jpg" group-title="Event-LIVE-NOW", Semifinal: Korea vs Vietnam - AVC Women's Cup (17:30 - 21:00 * 13-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=21626&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=21626&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QUcn_7ZLFQkL0AFjRR0tPvNBdOY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129487/cca46b.jpg" group-title="Event-LIVE-NOW", WorldSPB Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round (17:50 - 19:00 * 13-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=17139&type=drm&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=17139&type=dash&token=8c5aa96cd2fd63279d3c97196efb560af86b6bda3b66cec5d8e3f4bfe17299e6
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1612433922733887489%2F7f5XFklA_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Formula 1 GP Catalunya --- ENG SD - Formula 1 GP --:--
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -338,18 +347,10 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Indonesia U19 vs Campuchia U19" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fc8bdf96ccd4faeab5087c45bd1da30af.png%21w80&size=300&scale=1.5", Indonesia U19 vs Campuchia U19 (AFF Championship U19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live3.egmdispatch.com/live/oj7x9ixj9l1c47g_99da5cef335a14ba04997bf4f9569807_autoChange.m3u8?auth_key=1781361194-0-0-0e7000d81c552e31130046c7ec830c47
-#EXTINF:-1 tvg-id="" tvg-name="BLV SPRITE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fc8bdf96ccd4faeab5087c45bd1da30af.png%21w80&size=300&scale=1.5", Indonesia U19 vs Campuchia U19 - BLV SPRITE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/90725470.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Broadbeach United vs St George Willawong" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F83da3307e1d67e67f68520382e22ed93.png%21w80&size=300&scale=1.5", Broadbeach United vs St George Willawong (Giải bóng đá hạng nhất Queensland, Úc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/71880188_f66fa7834fa8012fa7adecb72f790e32_autoChange.m3u8?auth_key=1781361194-0-0-57c563ea00299c492df018addae714e6
+https://live.egmdispatch.com/live/71880188_f66fa7834fa8012fa7adecb72f790e32_autoChange.m3u8?auth_key=1781363053-0-0-e674d3c53df1810647969723ec8d0f4c
 #EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F83da3307e1d67e67f68520382e22ed93.png%21w80&size=300&scale=1.5", Broadbeach United vs St George Willawong - BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -357,11 +358,27 @@ https://live05.msdht.app/live/87547578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adelaide U21 vs Adelaide City FC" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F077498aa221410ff314434a011e8d65f.png%21w80&size=300&scale=1.5", Adelaide U21 vs Adelaide City FC (Giải bóng đá Hạng nhất Miền Nam của Úc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live5.egmdispatch.com/live/68048912_60108f0c861f397b7145e446b91bb769_autoChange.m3u8?auth_key=1781361191-0-0-7b46f467dd6638d2f6baf71cb75e227e
+https://live5.egmdispatch.com/live/68048912_60108f0c861f397b7145e446b91bb769_autoChange.m3u8?auth_key=1781363054-0-0-1542054e9110c4aca5b7bba002b202e0
 #EXTINF:-1 tvg-id="" tvg-name="BLV PEPSI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F077498aa221410ff314434a011e8d65f.png%21w80&size=300&scale=1.5", Adelaide U21 vs Adelaide City FC - BLV PEPSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.msdht.app/live/43612277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HeBei KungFu vs Suzhou Dongwu" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Faef1f7c3d09f7d1f60e0dde1ee3f1cbc.png%21w80&size=300&scale=1.5", HeBei KungFu vs Suzhou Dongwu (Giải bóng đá Hạng nhất Trung Quốc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https
+#EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Faef1f7c3d09f7d1f60e0dde1ee3f1cbc.png%21w80&size=300&scale=1.5", HeBei KungFu vs Suzhou Dongwu - BLV 7UP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.msdht.app/live/78905744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nanjing City vs Shanghai Jiading Huilong" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Faef1f7c3d09f7d1f60e0dde1ee3f1cbc.png%21w80&size=300&scale=1.5", Nanjing City vs Shanghai Jiading Huilong (Giải bóng đá Hạng nhất Trung Quốc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https
+#EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Faef1f7c3d09f7d1f60e0dde1ee3f1cbc.png%21w80&size=300&scale=1.5", Nanjing City vs Shanghai Jiading Huilong - BLV BÍ ĐAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.msdht.app/live/99121525.m3u8
 #EXTINF:-1 tvg-id="02" group-title="EVENT PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/7ogw2s1775058371.jpg",[BELUM MULAI] 09:00 WIB - 12 Juni | ð°ð· Korea Selatan vs ð¨ð¿ Ceko |  CCTV 5+ | Gvision TV ðº
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
