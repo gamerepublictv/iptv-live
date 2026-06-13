@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18189&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18189&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VSLfEt8mGeljH8Ws8Glt9xFMX4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132029/462f84.jpg" group-title="Event-LIVE-NOW", Finals: Portugal vs Tunisia - Maurice Revello (00:00 - 02:00 * 14-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VSLfEt8mGeljH8Ws8Glt9xFMX4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132029/462f84.jpg" group-title="Event-LIVE-NOW", Finals: Portugal vs Tunisia - Maurice Revello (00:00 - 03:00 * 14-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -25,7 +25,7 @@ https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18190&type=dash&tok
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=21648&type=hls&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Qatar vs Switzerland --- HD 1 - FIFA World Cup 02.00 WIB
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Qatar vs Switzerland --- HD 2 - FIFA World Cup 02.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -345,7 +345,7 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #EXTINF:-1 tvg-id="" tvg-name="Qatar vs Thụy Sĩ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Qatar vs Thụy Sĩ (Giải vô địch bóng đá thế giới)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/66456918_db879f17a78f3f28d9590c88f7e08633_autoChange.m3u8?auth_key=1781391269-0-0-7a3bafb54c7b9f6a86ca6521fc1a14f2
+https://live.egmdispatch.com/live/66456918_db879f17a78f3f28d9590c88f7e08633_autoChange.m3u8?auth_key=1781393062-0-0-dfda3dffbb9da55fbeaa68e8588518fa
 #EXTINF:-1 tvg-id="" tvg-name="BLV GIÀ LÀNG" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Qatar vs Thụy Sĩ - BLV GIÀ LÀNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -365,7 +365,7 @@ https://live05.msdht.app/live/14707124.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Samgurali vs Torpedo Kutaisi" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F20add0f0000a914f2e9179af8b4ce8bc.png%21w80&size=300&scale=1.5", Samgurali vs Torpedo Kutaisi (Giải Vô địch Quốc gia Georgia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/67912720_6ef88b3bfd2ce136cd3ab56e8f2067d2_autoChange.m3u8?auth_key=1781391267-0-0-3909cd4100bccafff20da8fcfd3c2c7d
+https://live.egmdispatch.com/live/67912720_6ef88b3bfd2ce136cd3ab56e8f2067d2_autoChange.m3u8?auth_key=1781391402-0-0-239bb2d9b0003204e9aa922d196ccfc7
 #EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F20add0f0000a914f2e9179af8b4ce8bc.png%21w80&size=300&scale=1.5", Samgurali vs Torpedo Kutaisi - BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
