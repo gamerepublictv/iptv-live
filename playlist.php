@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bVpZi-LT3NaidKwbFMUoWetcL-g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134549/803016.jpg" group-title="Event-LIVE-NOW", Semifinals - WTA 500: The HSBC Championships 2026 (23:15 - 01:30 * 13-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6786&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6786&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VSLfEt8mGeljH8Ws8Glt9xFMX4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132029/462f84.jpg" group-title="Event-LIVE-NOW", Finals: Portugal vs Tunisia - Maurice Revello (00:00 - 02:00 * 14-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6685&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6685&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5myEo9YnoICk5nhgwG8m-euTCDg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129478/677065.jpg" group-title="Event-LIVE-NOW", Round 3 - RBC Canadian Open 2026 (00:00 - 05:00 * 14-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -20,6 +6,13 @@ https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6685&type=dash&toke
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18189&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18189&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VSLfEt8mGeljH8Ws8Glt9xFMX4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132029/462f84.jpg" group-title="Event-LIVE-NOW", Finals: Portugal vs Tunisia - Maurice Revello (00:00 - 02:00 * 14-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6685&type=drm&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6685&type=dash&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/IcS1HsYJAw5CHhW8Fv9sgSdJEpw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129503/dd2580.jpg" group-title="Event-LIVE-NOW", Round 3 - Dow Championship 2026 (01:00 - 04:00 * 14-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -32,6 +25,11 @@ https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18190&type=dash&tok
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=21648&type=hls&token=a81ae06c2c5ecc2e07a3b15da8c11f7c76a833f213bfad94d265cc38c7d8df96
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Qatar vs Switzerland --- HD 1 - FIFA World Cup 02.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://live12.xiazhix1.top/live/658534551.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Qatar vs Switzerland --- CN HD - FIFA World Cup 02.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -42,6 +40,11 @@ https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/fooo.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F0%2F0b%2FWBO_logo.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Boxing : Fury vs Hall --- HD - Boxing --:--
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://daffodil.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2020878171302682624%2Fjp8LCE0_.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Glory Collision 9 - Glory Kickboxing 22.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -92,21 +95,6 @@ http://193.47.62.59/hls/fooozQQQQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/fooozQQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1665698199661600769%2FnxoC7o2Q_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Golf LPGA Women Golf Open - Golf LPGA 01.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.43/hls/SSSS.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000810341478%2F69360847336070840a7525743d09d4c7_400x400.png&size=400&scale=1.5" group-title="Event-LIVE-NOW", NSI Runavik vs B36 Torshavn - Faroe Islands Premier League 01.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/fooozQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2016027627778383872%2FKrzKijtT_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Golf Curtis Cup - Golf 00.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/OFFF.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1404378291599937536%2Fb-r3SWlW_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", West Indies W vs New Zealand W - Cricket T20 World Cup 00.30 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -357,7 +345,7 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #EXTINF:-1 tvg-id="" tvg-name="Qatar vs Thụy Sĩ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Qatar vs Thụy Sĩ (Giải vô địch bóng đá thế giới)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live.egmdispatch.com/live/66456918_db879f17a78f3f28d9590c88f7e08633_autoChange.m3u8?auth_key=1781391269-0-0-7a3bafb54c7b9f6a86ca6521fc1a14f2
 #EXTINF:-1 tvg-id="" tvg-name="BLV GIÀ LÀNG" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Qatar vs Thụy Sĩ - BLV GIÀ LÀNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -377,7 +365,7 @@ https://live05.msdht.app/live/14707124.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Samgurali vs Torpedo Kutaisi" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F20add0f0000a914f2e9179af8b4ce8bc.png%21w80&size=300&scale=1.5", Samgurali vs Torpedo Kutaisi (Giải Vô địch Quốc gia Georgia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/67912720_6ef88b3bfd2ce136cd3ab56e8f2067d2_autoChange.m3u8?auth_key=1781389413-0-0-da094d3472e35a9be7791e52e9fb82be
+https://live.egmdispatch.com/live/67912720_6ef88b3bfd2ce136cd3ab56e8f2067d2_autoChange.m3u8?auth_key=1781391267-0-0-3909cd4100bccafff20da8fcfd3c2c7d
 #EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F20add0f0000a914f2e9179af8b4ce8bc.png%21w80&size=300&scale=1.5", Samgurali vs Torpedo Kutaisi - BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -442,13 +430,6 @@ http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVzAyuu4w3zlYqHp0PUFBKe-nYYqcFtGGHpGWEIqGzQ&s=10" group-title="Piala Dunia 2026 ððâ½",CCTV 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="Piala Dunia 2026 ððâ½" tvg-id="Ã¨Â¢Â¦Ã©âÂªÃ¨Â¤ÅÃ¨Â¤â Ã¥Â­ÂÃ¨Â¢â¢" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaW2gQt_6FqTwOGQGdJhAodsQXUQ7x3FtXrZ-kPt2GVA&s=10", MATCH!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
-https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="Piala Dunia 2026 ððâ½",Alwan Sport 1 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="Piala Dunia 2026 ððâ½",Alwan Sport 1 SD
