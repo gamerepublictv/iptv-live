@@ -1,14 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/IsCC-oGyoj3Ci5zwU3e5_m04wU4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133181/b46536.jpg" group-title="Event-LIVE-NOW", Men: Brazil vs Argentina - Volleyball Nations League (03:45 - 06:00 * 15-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/IsCC-oGyoj3Ci5zwU3e5_m04wU4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133181/b46536.jpg" group-title="Event-LIVE-NOW", Men: Brazil vs Argentina - Volleyball Nations League (03:45 - 07:00 * 15-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=21648&type=hls&token=14bf04a080cd542732320d2c9dd02c8d8154ee0c3c53c0a92a93706097eef011
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vBCG4BLlLI3ztzfmr8O181aJrGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133183/0aad10.jpg" group-title="Event-LIVE-NOW", Men: United States vs Italy - Volleyball Nations League (04:45 - 07:00 * 15-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vBCG4BLlLI3ztzfmr8O181aJrGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133183/0aad10.jpg" group-title="Event-LIVE-NOW", Men: United States vs Italy - Volleyball Nations League (04:45 - 08:00 * 15-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=21647&type=hls&token=14bf04a080cd542732320d2c9dd02c8d8154ee0c3c53c0a92a93706097eef011
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Ivory Coast vs Ecuador --- ENG HD - FIFA World Cup 06.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://live12.xiazhix1.top/live/23898522.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Ivory Coast vs Ecuador --- CN HD - FIFA World Cup 06.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -241,7 +246,7 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #EXTINF:-1 tvg-id="" tvg-name="Bờ Biển Ngà vs Ecuador" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Bờ Biển Ngà vs Ecuador (Giải vô địch bóng đá thế giới)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live2.egmdispatch.com/live/66457072_fef308f5cdf72654d8d1d2d1e184262f_autoChange.m3u8?auth_key=1781492671-0-0-9ca87b70c7772a5596a0392d55393406
 #EXTINF:-1 tvg-id="" tvg-name="BLV SODA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Bờ Biển Ngà vs Ecuador - BLV SODA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -261,7 +266,7 @@ https://live05.msdht.app/live/19919577.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Botafogo vs Operario" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F6813ba1ebe40c6bc7bb1b081d916a1a6.png%21w80&size=300&scale=1.5", Botafogo vs Operario (Giải bóng đá Hạng nhì Brasil)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/68822966_8960b3e63f99ab9af32e4e6c117096bb_autoChange.m3u8?auth_key=1781490870-0-0-01de0abf48406f50d647ea23b160503d
+https://live.egmdispatch.com/live/68822966_8960b3e63f99ab9af32e4e6c117096bb_autoChange.m3u8?auth_key=1781492670-0-0-98ef07088d9427eacef5ff32f05ad744
 #EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F6813ba1ebe40c6bc7bb1b081d916a1a6.png%21w80&size=300&scale=1.5", Botafogo vs Operario - BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -269,7 +274,7 @@ https://live05.msdht.app/live/99121525.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gremio Novorizontin vs Nautico" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F6813ba1ebe40c6bc7bb1b081d916a1a6.png%21w80&size=300&scale=1.5", Gremio Novorizontin vs Nautico (Giải bóng đá Hạng nhì Brasil)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.egmdispatch.com/live/68822980_599c669a472374c816de5ec75592b31c_autoChange.m3u8?auth_key=1781490870-0-0-a38508f15a28b60cac6bb3845dfce122
+https://live1.egmdispatch.com/live/68822980_599c669a472374c816de5ec75592b31c_autoChange.m3u8?auth_key=1781492670-0-0-8feb53e9b4778d902a0488eefdf393f0
 #EXTINF:-1 tvg-id="" tvg-name="BLV STING" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F6813ba1ebe40c6bc7bb1b081d916a1a6.png%21w80&size=300&scale=1.5", Gremio Novorizontin vs Nautico - BLV STING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
