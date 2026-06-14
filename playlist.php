@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vUgClLYs_ZCDSenGzXMwzlScVas=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132031/2f7e6b.jpg" group-title="Event-LIVE-NOW", Piala Raja Paku Alam Cup 2026 (08:30 - 16:30 * 14-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vUgClLYs_ZCDSenGzXMwzlScVas=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132031/2f7e6b.jpg" group-title="Event-LIVE-NOW", Piala Raja Paku Alam Cup 2026 (08:30 - 17:30 * 14-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -9,7 +9,14 @@ https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=20718&type=hls&tok
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://summer-cake.openwindow043.workers.dev/prodeot.m3u8?id=21646&type=hls&token=812c0b5fae975a004964ca52bd3953cf3f221ff4b716bd98ed8d58b54db639b6
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3JHl0oODTUddF7vEQ4fuBLHQilU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129491/e865f5.jpg" group-title="Event-LIVE-NOW", WorldSBK Tissot Superpole Race - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round (15:45 - 16:40 * 14-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/FltQTFYKeyauavAaJFcsKV12te8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096989/674f50.jpg" group-title="Event-LIVE-NOW", Race - FIA Formula 2 Championship Barcelona Grand Prix 2026 (16:20 - 17:30 * 14-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6299&type=drm&token=812c0b5fae975a004964ca52bd3953cf3f221ff4b716bd98ed8d58b54db639b6
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6299&type=dash&token=812c0b5fae975a004964ca52bd3953cf3f221ff4b716bd98ed8d58b54db639b6
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/a28Tty2KplSepZ0Cyz0RR_1xD8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129492/fb87d5.jpg" group-title="Event-LIVE-NOW", WorldWCR Race 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round (16:40 - 17:35 * 14-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -198,14 +205,6 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Qingdao Red Lions vs Shanghai Port B" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fb6025970c665a7640122d6b3d156b0b8.png%21w80&size=300&scale=1.5", Qingdao Red Lions vs Shanghai Port B (Giải bóng đá Hạng hai Trung Quốc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/69910694_28d21b20df7144f7c1e0d037840143c7_autoChange.m3u8?auth_key=1781443738-0-0-7a6d666f3e28b986c6a58217384a19fe
-#EXTINF:-1 tvg-id="" tvg-name="BLV STING" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fb6025970c665a7640122d6b3d156b0b8.png%21w80&size=300&scale=1.5", Qingdao Red Lions vs Shanghai Port B - BLV STING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/14707124.m3u8
 #EXTINF:-1 tvg-id="02" group-title="EVENT PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/7ogw2s1775058371.jpg",[BELUM MULAI] 09:00 WIB - 12 Juni | ð°ð· Korea Selatan vs ð¨ð¿ Ceko |  CCTV 5+ | Gvision TV ðº
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
