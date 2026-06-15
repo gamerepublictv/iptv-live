@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bFs0kGu9csXoRAbe_crVsZBmN6c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136648/3a07a8.jpg" group-title="Event-LIVE-NOW", Jack Pinnington Jones vs Denis Shapovalov - Round of 32 | ATP 500: HSBC Championships 2026 (22:00 - 00:30 * 15-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/R2O1h1sGgODko8XZEI1_96J6uMM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136649/4ede12.jpg" group-title="Event-LIVE-NOW", Giovanni Mpetshi Perricard vs Corentin Moutet - Round of 32 | ATP 500: HSBC Championships 2026 (00:39 - 02:30 * 16-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20887&type=drm&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20887&type=dash&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Spain vs Cape Verde --- HD 1 - FIFA World Cup 23.00 WIB
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Belgium vs Egypt --- HD 1 - FIFA World Cup 23.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://live12.szyac.com/live/85042987.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Spain vs Cape Verde --- CN HD - FIFA World Cup 23.00 WIB
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Belgium vs Egypt --- CN HD - FIFA World Cup 23.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -36,21 +36,6 @@ http://193.47.62.41/hls/RARARAQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/RARARAQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1899023717914583041%2FrxluldzO_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", SJK Akatemia vs Haka - Finland Ykkosliiga 22.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/RARARA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 1 - Horse Racing 19.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.194/hls/vavavava.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 2 - Horse Racing 19.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.194/hls/vavavavaq.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1988264011935137792%2FY_AYbwxg_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Tennis WTA Nottingham - Tennis WTA 17.30 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -61,26 +46,21 @@ http://193.47.62.42/hls/GAAAQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/NNNNA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1995612160613920768%2FjdwbOzZi_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Tennis ATP Halle - Tennis ATP 16.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/NNNN.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1818178290231787520%2FUgacIQ2j_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Snooker China Open --- Table 1 - Snooker 15.30 WIB
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1818178290231787520%2FUgacIQ2j_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Snooker China Open --- Table 1 - Snooker --:--
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/brrrQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1818178290231787520%2FUgacIQ2j_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Snooker China Open --- Table 2 - Snooker 15.30 WIB
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1818178290231787520%2FUgacIQ2j_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Snooker China Open --- Table 2 - Snooker --:--
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/brrrQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1818178290231787520%2FUgacIQ2j_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Snooker China Open --- Table 4 - Snooker 15.30 WIB
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1818178290231787520%2FUgacIQ2j_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Snooker China Open --- Table 3 - Snooker --:--
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/brrrX.m3u8
+http://193.47.62.59/hls/brrr.m3u8
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://www.cancunairporttransportations.com/blog/wp-content/uploads/FIFA-world-cup-2026-752x440.webp" ,Piala Dunia 2026 CH1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 http://103.148.44.38:8000/play/a05u/index.m3u8
@@ -235,31 +215,19 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Tây Ban Nha vs Cape Verde" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Cape Verde (Giải vô địch bóng đá thế giới)
+#EXTINF:-1 tvg-id="" tvg-name="Bỉ vs Ai Cập" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Bỉ vs Ai Cập (Giải vô địch bóng đá thế giới)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/66456994_45f92688d362a66879c28de485942709_autoChange.m3u8?auth_key=1781559260-0-0-d61007a852f621cef65f9dd51a53dad6
-#EXTINF:-1 tvg-id="" tvg-name="BLV ÔLONG" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Cape Verde - BLV ÔLONG
+https://live.egmdispatch.com/live/66456982_d4a5e030cc48699f56e55ac1a8e03d5a_autoChange.m3u8?auth_key=1781564357-0-0-c32c021ec3b52f8cd7e357487675a600
+#EXTINF:-1 tvg-id="" tvg-name="BLV C2" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Bỉ vs Ai Cập - BLV C2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/97312754.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLV COCA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Cape Verde - BLV COCA
+https://live05.msdht.app/live/08552895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLV COCA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Bỉ vs Ai Cập - BLV COCA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.msdht.app/live/24561735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLV SODA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Cape Verde - BLV SODA
+#EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Bỉ vs Ai Cập - BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLV GIÀ LÀNG" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Cape Verde - BLV GIÀ LÀNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SJK Akatemia vs Haka" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F9267ee08759fdc25c89d3e4642303522.png%21w80&size=300&scale=1.5", SJK Akatemia vs Haka (Giải hạng 2 Phần Lan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.egmdispatch.com/live/67604856_8c8313b27092b157d64441ae2ae5f5bf_autoChange.m3u8?auth_key=1781558629-0-0-95671615ef62d24d9e116e891d67c659
-#EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F9267ee08759fdc25c89d3e4642303522.png%21w80&size=300&scale=1.5", SJK Akatemia vs Haka - BLV 7UP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/78905744.m3u8
+https://live05.msdht.app/live/90865415.m3u8
