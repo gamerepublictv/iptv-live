@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/O98PXk3AIqzu9SpRuhbzpJ9QIb4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126834/e4fc9b.jpg" group-title="Event-LIVE-NOW", Ilia Topuria vs Justin Gaethje - Lightweight | UFC Freedom 250 (11:12 - 14:00 * 15-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20216&type=drm&token=f7e313145aadbb40d0574620e1f31e6bfb5ed790a17aa0ed900944c1a97b658a
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20216&type=dash&token=f7e313145aadbb40d0574620e1f31e6bfb5ed790a17aa0ed900944c1a97b658a
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1835773190385328128%2F4fVrF1UI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", UFC Freedom 250 : Topouria vs Gaethje --- HD 1 - UFC Fight Night 07.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -250,6 +243,13 @@ http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVzAyuu4w3zlYqHp0PUFBKe-nYYqcFtGGHpGWEIqGzQ&s=10" group-title="Piala Dunia 2026 ððâ½",CCTV 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="Piala Dunia 2026 ððâ½" tvg-id="Ã¨Â¢Â¦Ã©âÂªÃ¨Â¤ÅÃ¨Â¤â Ã¥Â­ÂÃ¨Â¢â¢" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaW2gQt_6FqTwOGQGdJhAodsQXUQ7x3FtXrZ-kPt2GVA&s=10", MATCH!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
+https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="Piala Dunia 2026 ððâ½",Alwan Sport 1 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="Piala Dunia 2026 ððâ½",Alwan Sport 1 SD
