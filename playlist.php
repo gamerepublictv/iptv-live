@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bFs0kGu9csXoRAbe_crVsZBmN6c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136648/3a07a8.jpg" group-title="Event-LIVE-NOW", Jack Pinnington Jones vs Denis Shapovalov - Round of 32 | ATP 500: HSBC Championships 2026 (22:00 - 00:30 * 15-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/R2O1h1sGgODko8XZEI1_96J6uMM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136649/4ede12.jpg" group-title="Event-LIVE-NOW", Giovanni Mpetshi Perricard vs Corentin Moutet - Round of 32 | ATP 500: HSBC Championships 2026 (00:39 - 02:30 * 16-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -238,7 +238,7 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #EXTINF:-1 tvg-id="" tvg-name="Tây Ban Nha vs Cape Verde" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Cape Verde (Giải vô địch bóng đá thế giới)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/66456994_45f92688d362a66879c28de485942709_autoChange.m3u8?auth_key=1781558959-0-0-97891bb66d0acbd1eb83a87b981270be
+https://live.egmdispatch.com/live/66456994_45f92688d362a66879c28de485942709_autoChange.m3u8?auth_key=1781560578-0-0-447762e3ead6304a00e44b6a6e362e67
 #EXTINF:-1 tvg-id="" tvg-name="BLV ÔLONG" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Cape Verde - BLV ÔLONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -255,11 +255,11 @@ https://live05.msdht.app/live/02456966.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SJK Akatemia vs Haka" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F9267ee08759fdc25c89d3e4642303522.png%21w80&size=300&scale=1.5", SJK Akatemia vs Haka (Giải hạng 2 Phần Lan)
+#EXTINF:-1 tvg-id="" tvg-name="KA Akureyri vs Fram Reykjavik" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F290427ceea9b5d643a3216c4ecfe9b80.png%21w80&size=300&scale=1.5", KA Akureyri vs Fram Reykjavik (Giải Bóng đá Vô địch Quốc gia Iceland)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.egmdispatch.com/live/67604856_8c8313b27092b157d64441ae2ae5f5bf_autoChange.m3u8?auth_key=1781558629-0-0-95671615ef62d24d9e116e891d67c659
-#EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F9267ee08759fdc25c89d3e4642303522.png%21w80&size=300&scale=1.5", SJK Akatemia vs Haka - BLV 7UP
+https
+#EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F290427ceea9b5d643a3216c4ecfe9b80.png%21w80&size=300&scale=1.5", KA Akureyri vs Fram Reykjavik - BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.msdht.app/live/78905744.m3u8
