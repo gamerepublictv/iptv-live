@@ -1,19 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sfCKJgwwwxt7dYrnBhq4lxTYCCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136638/4bbda0.jpg" group-title="Event-LIVE-NOW", Terence Atmane vs Martin Landaluce - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026 (18:17 - 23:00 * 15-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20886&type=drm&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20886&type=dash&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/EnxI13H27w1PmI9UJXCfn3VUZww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136634/c0783c.jpg" group-title="Event-LIVE-NOW", Jiri Lehecka/Jakub Mensik vs Luke Johnson/Jan Zielinski - Doubles Round of 16 | ATP 500: HSBC Championships 2026 (19:30 - 23:00 * 15-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20888&type=drm&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20888&type=dash&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/8_YdLsotRi1Kt3SoSZy0nPKSeAw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136643/b42b4a.jpg" group-title="Event-LIVE-NOW", Nuno Borges vs Felix Auger-Aliassime - Round 1 | ATP 500: Terra Wortmann Open 2026 (19:48 - 22:30 * 15-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/8_YdLsotRi1Kt3SoSZy0nPKSeAw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136643/b42b4a.jpg" group-title="Event-LIVE-NOW", Nuno Borges vs Felix Auger-Aliassime - Round 1 | ATP 500: Terra Wortmann Open 2026 (19:48 - 22:00 * 15-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -34,7 +20,14 @@ https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20887&type=dash&tok
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=6786&type=drm&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=6786&type=dash&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JTB5An2ckGh980l7zqNqR8R7fG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136632/ae17d7.jpg" group-title="Event-LIVE-NOW", Alex de Minaur/Cameron Norrie vs Yuki Bhambri/Michael Venus - Doubles Round of 16 | ATP 500: HSBC Championships 2026 (Not Before 21.30 WIB) (20:32 - 23:00 * 15-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2hEGM_7qLnik4vnCIf31hmlPbV0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136639/4108ae.jpg" group-title="Event-LIVE-NOW", Zizou Bergs/Alexander Bublik vs Marcelo Melo/Alexander Zverev - Round 1 (Court 1) | ATP 500: Terra Wortmann Open 2026 (20:56 - 01:00 * 15-06-2026)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20886&type=drm&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
+https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20886&type=dash&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JTB5An2ckGh980l7zqNqR8R7fG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136632/ae17d7.jpg" group-title="Event-LIVE-NOW", Alex de Minaur/Cameron Norrie vs Yuki Bhambri/Michael Venus - Doubles Round of 16 | ATP 500: HSBC Championships 2026 (Not Before 21.30 WIB) (21:18 - 23:00 * 15-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -240,11 +233,3 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="BFF Academy U19 vs FC Paro" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F785cc536013fe705d519fb0ff095b6c1.png%21w80&size=300&scale=1.5", BFF Academy U19 vs FC Paro (Giải bóng đá hàng đầu Bhutan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/527r3i4xvl4t47e_06cac06416039c30e49be4cfd4748d1f_autoChange.m3u8?auth_key=1781546059-0-0-e02365886839c92fc5bd3493051ce278
-#EXTINF:-1 tvg-id="" tvg-name="BLV C2" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F785cc536013fe705d519fb0ff095b6c1.png%21w80&size=300&scale=1.5", BFF Academy U19 vs FC Paro - BLV C2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/08552895.m3u8
