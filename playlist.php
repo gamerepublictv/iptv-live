@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nmBJ5UT6gTTAMyPE-IA8jCST82o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136644/ef98c3.jpg" group-title="Event-LIVE-NOW", Flavio Cobolli vs Frances Tiafoe -Round 1 | ATP 500: Terra Wortmann Open 2026 (21:55 - 00:30 * 15-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20884&type=drm&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20884&type=dash&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bFs0kGu9csXoRAbe_crVsZBmN6c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136648/3a07a8.jpg" group-title="Event-LIVE-NOW", Jack Pinnington Jones vs Denis Shapovalov - Round of 32 | ATP 500: HSBC Championships 2026 (22:00 - 00:30 * 15-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -13,11 +6,6 @@ https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20884&type=dash&tok
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=20887&type=drm&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=20887&type=dash&token=a43d6fb51875d5b994a0d981b1316e18fee36c571157d3bde21511f3ba4597ef
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Spain vs Cape Verde --- ENG HD - FIFA World Cup 23.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/GGGDDDD.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Spain vs Cape Verde --- HD 1 - FIFA World Cup 23.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -250,7 +238,7 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #EXTINF:-1 tvg-id="" tvg-name="Tây Ban Nha vs Cape Verde" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Cape Verde (Giải vô địch bóng đá thế giới)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/66456994_45f92688d362a66879c28de485942709_autoChange.m3u8?auth_key=1781555385-0-0-f8e01403d1f87cc2bd67d06c0a5e2fff
+https://live.egmdispatch.com/live/66456994_45f92688d362a66879c28de485942709_autoChange.m3u8?auth_key=1781557162-0-0-70525ef73e64d4e7e5cbad519526090d
 #EXTINF:-1 tvg-id="" tvg-name="BLV ÔLONG" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Cape Verde - BLV ÔLONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -270,7 +258,7 @@ https://live05.msdht.app/live/14830711.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SJK Akatemia vs Haka" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F9267ee08759fdc25c89d3e4642303522.png%21w80&size=300&scale=1.5", SJK Akatemia vs Haka (Giải hạng 2 Phần Lan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.egmdispatch.com/live/67604856_8c8313b27092b157d64441ae2ae5f5bf_autoChange.m3u8?auth_key=1781555383-0-0-c9d6e9b1327a1e4f4ec6833298b3802d
+https://live1.egmdispatch.com/live/67604856_8c8313b27092b157d64441ae2ae5f5bf_autoChange.m3u8?auth_key=1781557162-0-0-1e7cdc79e99d10329247ee298709947b
 #EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F9267ee08759fdc25c89d3e4642303522.png%21w80&size=300&scale=1.5", SJK Akatemia vs Haka - BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
