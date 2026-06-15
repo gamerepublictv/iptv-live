@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/cKBmL-bXWFrJ2wcXEfgsktVK-OM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126833/b621df.jpg" group-title="Event-LIVE-NOW", Alex Pereira vs Ciryl Gane - Heavyweight | UFC Freedom 250 (10:30 - 12:30 * 15-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/O98PXk3AIqzu9SpRuhbzpJ9QIb4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126834/e4fc9b.jpg" group-title="Event-LIVE-NOW", Ilia Topuria vs Justin Gaethje - Lightweight | UFC Freedom 250 (11:12 - 14:00 * 15-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
