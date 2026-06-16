@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ByiUoXuKI-cHT-HslFpS7_VPqVk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137791/84a7cd.jpg" group-title="Event-LIVE-NOW", Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Choong Hon Jian/Wong Vin Sean (MAS) - Men's Doubles Round of 32 | Macau Open 2026 (19:00 - 21:00 * 16 June 2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/aIymBQ71U5PysKFvsCa-EKRWfVM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137817/91569f.jpg" group-title="Event-LIVE-NOW", Alexander Zverev vs Vit Kopriva - Round 1 | ATP 500: Terra Wortmann Open 2026 (20:00 - 22:00 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=18253&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
-https://dusk.biz.id/fidyu/play.mpd?id=18253&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20884&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
+https://dusk.biz.id/fidyu/play.mpd?id=20884&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_YpMdMx4ENoXN-75txWOoNkys18=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137698/5296e6.jpg" group-title="Event-LIVE-NOW", Chia Weijie/Teo Ee Yi (MAS) vs Su Ching Heng/Tang Kai Wei (TPE) - Men's Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026 (09:00 - 00:00 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -23,14 +23,6 @@ https://dusk.biz.id/fidyu/play.mpd?id=18249&type=dash&token=8e4354318aaed2369cdc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=18250&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
 https://dusk.biz.id/fidyu/play.mpd?id=18250&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gc1g3PXhXemloA8-XVr81OOPiWk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137804/89a93c.jpg" group-title="Event-LIVE-NOW", Low Hang Yee/Ng Eng Cheong (MAS) vs Rodion Alimov/Maksim Ogloblin (RUS) - Men's Doubles Round of 32 | Macau Open 2026 (09:00 - 00:00 * 16 June 2026)
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=18252&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
-https://dusk.biz.id/fidyu/play.mpd?id=18252&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/7dFTtDqeujmBzyCY6VK74oQD62A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134863/c877b4.jpg" group-title="Event-LIVE-NOW", Day 2 - WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026 (16:00 - 22:30 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -47,7 +39,7 @@ https://dusk.biz.id/fidyu/play.mpd?id=6786&type=dash&token=8e4354318aaed2369cdca
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20888&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
 https://dusk.biz.id/fidyu/play.mpd?id=20888&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zudQopj092zltSR1jRugvsVaCsM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137860/a9183f.jpg" group-title="Event-LIVE-NOW", Jakub Mensik vs Adrian Mannarino - Round 1 | ATP 500: HSBC Championships 2026 (17:12 - 20:00 * 16 June 2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zudQopj092zltSR1jRugvsVaCsM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137860/a9183f.jpg" group-title="Event-LIVE-NOW", Jakub Mensik vs Adrian Mannarino - Round 1 | ATP 500: HSBC Championships 2026 (17:12 - 20:30 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -71,7 +63,7 @@ https://dusk.biz.id/fidyu/play.mpd?id=21692&type=dash&token=8e4354318aaed2369cdc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20886&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
 https://dusk.biz.id/fidyu/play.mpd?id=20886&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QS7UtAFPKGp56O0iyk_1HMqIwrE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137851/39c939.jpg" group-title="Event-LIVE-NOW", Arthur Fery vs Toby Samuel - Round 1 (Court 1) | ATP 500: HSBC Championships 2026 (18:56 - 21:30 * 16 June 2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/jV2u2DYB5ick4dFyWRzqnzExAxA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137852/88a535.jpg" group-title="Event-LIVE-NOW", Aleksandar Kovacevic vs Francisco Cerundolo - Round 1 (Court 1) | ATP 500: HSBC Championships 2026 (20:14 - 23:30 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -84,6 +76,11 @@ https://dusk.biz.id/fidyu/play.mpd?id=20885&type=dash&token=8e4354318aaed2369cdc
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/GMMMA.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F637495443774140416%2FEk5Gmtj2_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Namungo vs TRA United - Tanzania Ligi Kuu Bara 20.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/GMMM.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1945520203653165057%2FBRp76d7W_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Darts Players Championship 21 - Darts 19.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -288,10 +285,18 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Al Ahed vs Sagesse SC" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fe02bafe2eecacc9e23c435c0160efa51.png%21w80&size=300&scale=1.5", Al Ahed vs Sagesse SC (Giải Bóng đá Ngoại hạng Lebanon)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live.egmdispatch.com/live/71724714_6e99bd6bfdbd8c9ee8dd07e7ffd55bc5_autoChange.m3u8?auth_key=1781631263-0-0-6f79055bac5b9e7da1bc85c2f91be608
+#EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fe02bafe2eecacc9e23c435c0160efa51.png%21w80&size=300&scale=1.5", Al Ahed vs Sagesse SC - BLV POCARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.msdht.app/live/19919577.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLB Shabab Sahel vs Đua xe Beirut" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fe02bafe2eecacc9e23c435c0160efa51.png%21w80&size=300&scale=1.5", CLB Shabab Sahel vs Đua xe Beirut (Giải Bóng đá Ngoại hạng Lebanon)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.egmdispatch.com/live/71724698_8c7a7941ca3061f601c71694c263b8c6_autoChange.m3u8?auth_key=1781628978-0-0-ce4ea0807e0923c6f8ceefbdab06798b
+https://live1.egmdispatch.com/live/71724698_8c7a7941ca3061f601c71694c263b8c6_autoChange.m3u8?auth_key=1781631263-0-0-003a52579d8db0d25cac11064777a12f
 #EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fe02bafe2eecacc9e23c435c0160efa51.png%21w80&size=300&scale=1.5", CLB Shabab Sahel vs Đua xe Beirut - BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
