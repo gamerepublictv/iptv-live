@@ -20,7 +20,7 @@ https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18250&type=dash&tok
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18252&type=drm&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18252&type=dash&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-qmFFW0cvosz3A7CUbzXYE0UZU0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137783/5d8e4b.jpg" group-title="Event-LIVE-NOW", Zhe Ying Wu (TPE) vs Ade Resky Dwicahyo (AZE) - Men's Singles Qualification Round of 16 | Macau Open 2026 (09:10 - 00:00 * 16-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3zQ7Jdt5yFtYBP0kFnIq1OEuSrc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137784/3aa365.jpg" group-title="Event-LIVE-NOW", Wang Yue Hang/Cho Wai Lam (ENG) vs Lu Chen/Hung Hsin En (TPE) - Mixed Doubles Qualification Quarter Finals | Macau Open 2026 (09:10 - 00:00 * 16-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
