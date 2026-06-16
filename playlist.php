@@ -4,6 +4,11 @@
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://live12.szyac.com/live/85042987.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Iraq vs Norway --- FR HD - FIFA World Cup 05.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://live.egmdispatch.com/live/66457008_1ffee64926c0c89d63ec47aeba367117.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Iraq vs Norway --- CN HD - FIFA World Cup 05.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -226,7 +231,7 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #EXTINF:-1 tvg-id="" tvg-name="Iraq vs Na Uy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Iraq vs Na Uy (Giải vô địch bóng đá thế giới)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/66457008_1ffee64926c0c89d63ec47aeba367117_autoChange.m3u8?auth_key=1781663669-0-0-6e30c3d83297a13049f3b3c9c64dff1f
+https://live.egmdispatch.com/live/66457008_1ffee64926c0c89d63ec47aeba367117_autoChange.m3u8?auth_key=1781665459-0-0-124ccd65232f9ef597b44b857b869465
 #EXTINF:-1 tvg-id="" tvg-name="BLV SODA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Iraq vs Na Uy - BLV SODA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -243,3 +248,19 @@ https://live05.msdht.app/live/87379114.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.msdht.app/live/87547578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fortaleza vs CLB America MG" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F6813ba1ebe40c6bc7bb1b081d916a1a6.png%21w80&size=300&scale=1.5", Fortaleza vs CLB America MG (Giải bóng đá Hạng nhì Brasil)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live.egmdispatch.com/live/68822974_31d483a11b900b901522fd1e6a02904f_autoChange.m3u8?auth_key=1781665460-0-0-f895e2b35443884f01a91c2641edb000
+#EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F6813ba1ebe40c6bc7bb1b081d916a1a6.png%21w80&size=300&scale=1.5", Fortaleza vs CLB America MG - BLV BÍ ĐAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.msdht.app/live/99121525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Fever vs Toronto Tempo" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Indiana Fever vs Toronto Tempo (Hiệp hội bóng rổ quốc gia nữ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live2.egmdispatch.com/live/68096622_ec7a66cc899c8e5a4ffe85420d41706a_autoChange.m3u8?auth_key=1781665180-0-0-50add2f9ecffe182ab2b331817060b5e
+#EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Indiana Fever vs Toronto Tempo - BLV POCARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.msdht.app/live/19919577.m3u8
