@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/IhBLGusD1sLHbEu6x1pX78OyE0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137688/f6bb5b.jpg" group-title="Event-LIVE-NOW", Liao Li Xi/Shen Shi Yao (CHN) vs Hung Ho Yan/Wong Yan Lam Yanes (HKG) - Women's Doubles Qualification | SANDS CHINA LTD. Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18249&type=drm&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18249&type=dash&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/x55Z-oNxv5yREPPGb0yLZLjL6lU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137772/7fab72.jpg" group-title="Event-LIVE-NOW", Yuan Chi Liao (TPE) vs Kim Min Sun (KOR) - Women's Singles Qualification | SANDS CHINA LTD. Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18250&type=drm&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18250&type=dash&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/keWOh7XpHei5ULKP5V7FHW_HT6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137796/e59d3e.jpg" group-title="Event-LIVE-NOW", Passa-Orn Phannachet (THA) vs Lee Yu-Hsuan (TPE) - Women's Singles Qualification Quarter Finals | Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18252&type=drm&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18252&type=dash&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/s_OO9xTDetXD0lyvvshLh3I9Q9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137785/91c9c1.jpg" group-title="Event-LIVE-NOW", Thanawin Madee/Pongsakorn Thongkham (THA) vs Bao Xin Da Gu La Wai/Chiang Chien-Wei (TPE) - Men's Doubles Qualification Quarter Finals | Macau Open 2026 (09:10 - 00:00 * 16-06-2026)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18253&type=drm&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18253&type=dash&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Iran vs New Zealand --- HD 1 - FIFA World Cup 08.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
