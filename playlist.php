@@ -6,21 +6,21 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18249&type=drm&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18249&type=dash&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/D8BcgTwtVKNdpl3BhdR5Tq-zUH8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137769/bc64b9.jpg" group-title="Event-LIVE-NOW", Ming Hong Lim (MAS) vs Fabio Caponio (ITA) - Men's Singles Qualification | SANDS CHINA LTD. Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/P2JSKp1CX0pWAR6MVedRACLWqAQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137770/78b39c.jpg" group-title="Event-LIVE-NOW", Chen Fan Shu Tian/Liu Jia Yue (CHN) vs Catherine Choi (CAN)/Kai Qi (Bernice) Teoh (AUS) - Women's Doubles Qualification | SANDS CHINA LTD. Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18250&type=drm&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18250&type=dash&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/eNtD_3fCv646I5tL1XyG2FCv93Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137794/492937.jpg" group-title="Event-LIVE-NOW", Lin Ting-Yu/Lin Yen Yu (TPE) vs Cheng Kai Wen/Liu Chiao-Yun (TPE) - Mixed Doubles Qualification Quarter Finals | Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Acs9_16ZgdhG47GNNdxUJRQRq2s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137795/d2d1e0.jpg" group-title="Event-LIVE-NOW", Hung Yi-Ting (TPE) vs Yi En Hsieh (TPE) - Women's Singles Qualification Quarter Finals | Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18252&type=drm&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18252&type=dash&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5RXSePZZ6g1Y3sJcpCL-BKHhUOo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137782/a8cfe6.jpg" group-title="Event-LIVE-NOW", Kuo Kuan Lin (TPE) vs Manraj Singh (IND) - Men's Singles Qualification Round of 16 | Macau Open 2026 (09:10 - 00:00 * 16-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-qmFFW0cvosz3A7CUbzXYE0UZU0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137783/5d8e4b.jpg" group-title="Event-LIVE-NOW", Zhe Ying Wu (TPE) vs Ade Resky Dwicahyo (AZE) - Men's Singles Qualification Round of 16 | Macau Open 2026 (09:10 - 00:00 * 16-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -279,7 +279,7 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #EXTINF:-1 tvg-id="" tvg-name="Golden State Valkyries vs Los Angeles Sparks" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Golden State Valkyries vs Los Angeles Sparks (Hiệp hội bóng rổ quốc gia nữ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/68096122_d6720c8c1912df3fecec4725a4d2b3ad_autoChange.m3u8?auth_key=1781594910-0-0-027f32a6b3651568234b669e514fb2ae
+https://live.egmdispatch.com/live/68096122_d6720c8c1912df3fecec4725a4d2b3ad_autoChange.m3u8?auth_key=1781596525-0-0-29ab3403be7cfb88710134f620541374
 #EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Golden State Valkyries vs Los Angeles Sparks - BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
