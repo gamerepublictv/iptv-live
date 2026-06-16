@@ -5,88 +5,88 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=18252&type=drm&token=4de82c5b431ed33e8204fa3b3201c14d
-https://dusk.biz.id/fidyu/play.mpd?id=18252&type=dash&token=4de82c5b431ed33e8204fa3b3201c14d
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=18252&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
+https://dusk.biz.id/fidyu/play.mpd?id=18252&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/oNANc0YCIbQv8OtSxHScUwNqTdM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137697/b2a7a8.jpg" group-title="Event-LIVE-NOW", Choi Sol Gyu (KOR)/Goh V Shem (MAS) vs Chang Ko-Chi/Chen Sheng Fa (TPE) - Men's Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026 (09:00 - 00:00 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=18249&type=drm&token=4de82c5b431ed33e8204fa3b3201c14d
-https://dusk.biz.id/fidyu/play.mpd?id=18249&type=dash&token=4de82c5b431ed33e8204fa3b3201c14d
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=18249&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
+https://dusk.biz.id/fidyu/play.mpd?id=18249&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VWNwCniLQmTCgXnZE2WV2V7T4nU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137792/c4fad7.jpg" group-title="Event-LIVE-NOW", Wei Chun Wei/Po Chih Yang (TPE) vs Huang Tsung-I/Lin Ting-Yu (TPE) - Men's Doubles Round of 32 | Macau Open 2026 (09:00 - 00:00 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=18250&type=drm&token=4de82c5b431ed33e8204fa3b3201c14d
-https://dusk.biz.id/fidyu/play.mpd?id=18250&type=dash&token=4de82c5b431ed33e8204fa3b3201c14d
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OA7vUWbNDAQJ2ZmGa_g1t400F0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137790/cfc0d0.jpg" group-title="Event-LIVE-NOW", Kim Gi Jung/Kim Sa Rang (KOR) vs Chen Zhi Ray/Lin Yu Chieh (TPE) - Men's Doubles Round of 32 | Macau Open 2026 (09:10 - 00:00 * 16 June 2026)
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=18250&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
+https://dusk.biz.id/fidyu/play.mpd?id=18250&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ByiUoXuKI-cHT-HslFpS7_VPqVk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137791/84a7cd.jpg" group-title="Event-LIVE-NOW", Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Choong Hon Jian/Wong Vin Sean (MAS) - Men's Doubles Round of 32 | Macau Open 2026 (09:10 - 00:00 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=18253&type=drm&token=4de82c5b431ed33e8204fa3b3201c14d
-https://dusk.biz.id/fidyu/play.mpd?id=18253&type=dash&token=4de82c5b431ed33e8204fa3b3201c14d
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=18253&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
+https://dusk.biz.id/fidyu/play.mpd?id=18253&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/7dFTtDqeujmBzyCY6VK74oQD62A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134863/c877b4.jpg" group-title="Event-LIVE-NOW", Day 2 - WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026 (16:00 - 22:30 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=6786&type=drm&token=4de82c5b431ed33e8204fa3b3201c14d
-https://dusk.biz.id/fidyu/play.mpd?id=6786&type=dash&token=4de82c5b431ed33e8204fa3b3201c14d
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BEpPsDOhRM0_x-jR2nctpkF1tTs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137850/372925.jpg" group-title="Event-LIVE-NOW", Brandon Nakashima vs Marton Fucsovics - Round 1 (Court 1) | ATP 500: HSBC Championships 2026 (17:12 - 19:30 * 16 June 2026)
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=6786&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
+https://dusk.biz.id/fidyu/play.mpd?id=6786&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ixWH4AAg6mqyf2CNFEVzIhw2SU0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137855/d65614.jpg" group-title="Event-LIVE-NOW", Ignacio Buse vs Marcos Giron - Round 1 (Court 5) | ATP 500: HSBC Championships 2026 (17:12 - 20:00 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20885&type=drm&token=4de82c5b431ed33e8204fa3b3201c14d
-https://dusk.biz.id/fidyu/play.mpd?id=20885&type=dash&token=4de82c5b431ed33e8204fa3b3201c14d
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ixWH4AAg6mqyf2CNFEVzIhw2SU0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137855/d65614.jpg" group-title="Event-LIVE-NOW", Ignacio Buse vs Marcos Giron - Round 1 (Court 5) | ATP 500: HSBC Championships 2026 (17:12 - 19:30 * 16 June 2026)
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20888&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
+https://dusk.biz.id/fidyu/play.mpd?id=20888&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zudQopj092zltSR1jRugvsVaCsM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137860/a9183f.jpg" group-title="Event-LIVE-NOW", Jakub Mensik vs Adrian Mannarino - Round 1 | ATP 500: HSBC Championships 2026 (17:12 - 20:00 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20888&type=drm&token=4de82c5b431ed33e8204fa3b3201c14d
-https://dusk.biz.id/fidyu/play.mpd?id=20888&type=dash&token=4de82c5b431ed33e8204fa3b3201c14d
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zudQopj092zltSR1jRugvsVaCsM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137860/a9183f.jpg" group-title="Event-LIVE-NOW", Jakub Mensik vs Adrian Mannarino - Round 1 | ATP 500: HSBC Championships 2026 (17:12 - 19:30 * 16 June 2026)
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20887&type=drm&token=4de82c5b431ed33e8204fa3b3201c14d
-https://dusk.biz.id/fidyu/play.mpd?id=20887&type=dash&token=4de82c5b431ed33e8204fa3b3201c14d
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20887&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
+https://dusk.biz.id/fidyu/play.mpd?id=20887&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/EfR71OammyL9ol1IXikVeW__DNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137866/e98160.jpg" group-title="Event-LIVE-NOW", Tallon Griekspoor vs Sho Shimabukuro - Round 1 (Court 2) | ATP 500: Terra Wortmann Open 2026 (18:00 - 20:30 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=21692&type=drm&token=4de82c5b431ed33e8204fa3b3201c14d
-https://dusk.biz.id/fidyu/play.mpd?id=21692&type=dash&token=4de82c5b431ed33e8204fa3b3201c14d
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=21692&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
+https://dusk.biz.id/fidyu/play.mpd?id=21692&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/x0rrs7vmIJpinbaKbohzezGaH7k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137816/cba08d.jpg" group-title="Event-LIVE-NOW", Joao Fonseca vs Yannick Hanfmann - Round 1 | ATP 500: Terra Wortmann Open 2026 (18:04 - 20:00 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20884&type=drm&token=4de82c5b431ed33e8204fa3b3201c14d
-https://dusk.biz.id/fidyu/play.mpd?id=20884&type=dash&token=4de82c5b431ed33e8204fa3b3201c14d
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20884&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
+https://dusk.biz.id/fidyu/play.mpd?id=20884&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/w94xTuXVlJeMWiF6NHE16URPues=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137808/12af02.jpg" group-title="Event-LIVE-NOW", Andrey Rublev vs Hubert Hurkacz - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026 (18:46 - 20:30 * 16 June 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20886&type=drm&token=4de82c5b431ed33e8204fa3b3201c14d
-https://dusk.biz.id/fidyu/play.mpd?id=20886&type=dash&token=4de82c5b431ed33e8204fa3b3201c14d
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20886&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
+https://dusk.biz.id/fidyu/play.mpd?id=20886&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QS7UtAFPKGp56O0iyk_1HMqIwrE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137851/39c939.jpg" group-title="Event-LIVE-NOW", Arthur Fery vs Toby Samuel - Round 1 (Court 1) | ATP 500: HSBC Championships 2026 (18:56 - 21:30 * 16 June 2026)
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=20885&type=drm&token=8e4354318aaed2369cdca98d34bb8d92
+https://dusk.biz.id/fidyu/play.mpd?id=20885&type=dash&token=8e4354318aaed2369cdca98d34bb8d92
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1404378291599937536%2Fb-r3SWlW_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", New Zealand W vs Sri Lanka W - Cricket T20 World Cup 20.30 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -97,6 +97,11 @@ http://193.47.62.41/hls/GMMMA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/GMMM.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1945520203653165057%2FBRp76d7W_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Darts Players Championship 21 - Darts 19.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/ggggg.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 1 - Horse Racing 19.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -299,7 +304,7 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #EXTINF:-1 tvg-id="" tvg-name="CLB Bayswater City vs Perth Sao Đỏ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F2c764cfc9ae1beacd2dcb28cb831755a.png%21w80&size=300&scale=1.5", CLB Bayswater City vs Perth Sao Đỏ (Cúp bóng đá của Hiệp hội Bóng đá Úc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/71890976_89614967badbf6fb3cdcb7415adbf65e_autoChange.m3u8?auth_key=1781625546-0-0-2c165e5d1272d38fae91bef203278e72
+https://live.egmdispatch.com/live/71890976_89614967badbf6fb3cdcb7415adbf65e_autoChange.m3u8?auth_key=1781626946-0-0-dfc711c79b7a7373fa9e78693c6c44b2
 #EXTINF:-1 tvg-id="" tvg-name="BLV STING" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F2c764cfc9ae1beacd2dcb28cb831755a.png%21w80&size=300&scale=1.5", CLB Bayswater City vs Perth Sao Đỏ - BLV STING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -307,7 +312,7 @@ https://live05.msdht.app/live/14707124.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fremantle City vs Olympic Kingsway" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F2c764cfc9ae1beacd2dcb28cb831755a.png%21w80&size=300&scale=1.5", Fremantle City vs Olympic Kingsway (Cúp bóng đá của Hiệp hội Bóng đá Úc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.egmdispatch.com/live/71890982_c91767198e5ff858aa465214ce0f80db_autoChange.m3u8?auth_key=1781625546-0-0-10d318b0cfa36adb9332bccacf9837e4
+https://live1.egmdispatch.com/live/71890982_c91767198e5ff858aa465214ce0f80db_autoChange.m3u8?auth_key=1781626946-0-0-bec4ebd4bd991dcca7c5e2154c1fa57d
 #EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2F2c764cfc9ae1beacd2dcb28cb831755a.png%21w80&size=300&scale=1.5", Fremantle City vs Olympic Kingsway - BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
