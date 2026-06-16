@@ -304,7 +304,7 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #EXTINF:-1 tvg-id="" tvg-name="Al Ahed vs Sagesse SC" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fe02bafe2eecacc9e23c435c0160efa51.png%21w80&size=300&scale=1.5", Al Ahed vs Sagesse SC (Giải Bóng đá Ngoại hạng Lebanon)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/71724714_6e99bd6bfdbd8c9ee8dd07e7ffd55bc5_autoChange.m3u8?auth_key=1781633063-0-0-17bdb069502a7f7a2be27482caf40fed
+https://live.egmdispatch.com/live/71724714_6e99bd6bfdbd8c9ee8dd07e7ffd55bc5_autoChange.m3u8?auth_key=1781634667-0-0-60567e6936c1e1d66ef4049c3fecfdc1
 #EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fe02bafe2eecacc9e23c435c0160efa51.png%21w80&size=300&scale=1.5", Al Ahed vs Sagesse SC - BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -312,7 +312,7 @@ https://live05.msdht.app/live/19919577.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLB Shabab Sahel vs Đua xe Beirut" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fe02bafe2eecacc9e23c435c0160efa51.png%21w80&size=300&scale=1.5", CLB Shabab Sahel vs Đua xe Beirut (Giải Bóng đá Ngoại hạng Lebanon)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.egmdispatch.com/live/71724698_8c7a7941ca3061f601c71694c263b8c6_autoChange.m3u8?auth_key=1781633063-0-0-704ae0105e6f1dc06340df97ad522585
+https://live1.egmdispatch.com/live/71724698_8c7a7941ca3061f601c71694c263b8c6_autoChange.m3u8?auth_key=1781634668-0-0-da8b38ff17b1107eaea1c2fe185b4fb5
 #EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fcompetition%2Fe02bafe2eecacc9e23c435c0160efa51.png%21w80&size=300&scale=1.5", CLB Shabab Sahel vs Đua xe Beirut - BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
