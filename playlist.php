@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/SuVASoaUEUiqrIlaInWe7PNdTjs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137687/172cd7.jpg" group-title="Event-LIVE-NOW", Tushar Suveer (IND) vs Christian Adinata (INA) - Men's Singles Qualification | SANDS CHINA LTD. Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/IhBLGusD1sLHbEu6x1pX78OyE0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137688/f6bb5b.jpg" group-title="Event-LIVE-NOW", Liao Li Xi/Shen Shi Yao (CHN) vs Hung Ho Yan/Wong Yan Lam Yanes (HKG) - Women's Doubles Qualification | SANDS CHINA LTD. Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18249&type=drm&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18249&type=dash&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/P2JSKp1CX0pWAR6MVedRACLWqAQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137770/78b39c.jpg" group-title="Event-LIVE-NOW", Chen Fan Shu Tian/Liu Jia Yue (CHN) vs Catherine Choi (CAN)/Kai Qi (Bernice) Teoh (AUS) - Women's Doubles Qualification | SANDS CHINA LTD. Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/a3PMbFgkNYaZrSImWwV8yFAV5aM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137771/e3ab53.jpg" group-title="Event-LIVE-NOW", Liang Ka Wing (HKG) vs Xu Wen Jing (CHN) - Women's Singles Qualification | SANDS CHINA LTD. Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://summer-cake.openwindow043.workers.dev/prodeot?id=18250&type=drm&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
 https://summer-cake.openwindow043.workers.dev/prodeot.mpd?id=18250&type=dash&token=ec88f4681794287c344f8e811f07b4d4fa56ca8324d9bef8d8e0625dd94c65a3
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Acs9_16ZgdhG47GNNdxUJRQRq2s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137795/d2d1e0.jpg" group-title="Event-LIVE-NOW", Hung Yi-Ting (TPE) vs Yi En Hsieh (TPE) - Women's Singles Qualification Quarter Finals | Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/keWOh7XpHei5ULKP5V7FHW_HT6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137796/e59d3e.jpg" group-title="Event-LIVE-NOW", Passa-Orn Phannachet (THA) vs Lee Yu-Hsuan (TPE) - Women's Singles Qualification Quarter Finals | Macau Open 2026 (09:00 - 00:00 * 16-06-2026)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -276,11 +276,3 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Golden State Valkyries vs Los Angeles Sparks" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Golden State Valkyries vs Los Angeles Sparks (Hiệp hội bóng rổ quốc gia nữ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.egmdispatch.com/live/68096122_d6720c8c1912df3fecec4725a4d2b3ad_autoChange.m3u8?auth_key=1781596525-0-0-29ab3403be7cfb88710134f620541374
-#EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.colatv88xd.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Golden State Valkyries vs Los Angeles Sparks - BLV POCARI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.msdht.app/live/19919577.m3u8
