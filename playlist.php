@@ -77,182 +77,119 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Warriors Gold vs Miami Heat" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2Ff60ac6fc0ddfafe4d2ad00e1ce30ff7e.png%21w80&size=300&scale=1.5", Warriors Gold vs Miami Heat (Giải NBA Summer League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/72449598_4e7506e3f3bd84aabbe3abc9adf708a4_autoChange.m3u8?auth_key=1783408460-0-0-667a33d16656a376452d62d91e75fe34
-#EXTINF:-1 tvg-id="" tvg-name="BLV Cozy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2Ff60ac6fc0ddfafe4d2ad00e1ce30ff7e.png%21w80&size=300&scale=1.5", Warriors Gold vs Miami Heat - BLV Cozy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.bfgrut.app/live/87379114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los Angeles Sparks vs Seattle Storm" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Los Angeles Sparks vs Seattle Storm (Hiệp hội bóng rổ quốc gia nữ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live3.kinxie.com/live/68096228_56705527efd5af1e74d5ae17fd997c84_autoChange.m3u8?auth_key=1783408460-0-0-9bcd98227ef0bd2777a7fe8fc0259010
+https://live3.kinxie.com/live/68096228_56705527efd5af1e74d5ae17fd997c84_autoChange.m3u8?auth_key=1783410762-0-0-ebc820c2539b75dc98c870527669e440
 #EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Los Angeles Sparks vs Seattle Storm - BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.bfgrut.app/live/82054853.m3u8
-#EXTINF:-1 tvg-id="4228" tvg-name="FIFA World Cup [CH1]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [CH1] - 07 Jul 2026 07:00 WIB - USA vs Belgium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://qp-pldt-live-bpk-ucd-prod.akamaized.net
-#EXTVLCOPT:http-origin=https://qp-pldt-live-bpk-ucd-prod.akamaized.net
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b536c7d51165c4253025c545e32120d:523d2b5a425b4a565559060c68475f01
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-id="4774" tvg-name="FIFA World Cup [CH2]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [CH2] - 07 Jul 2026 07:00 WIB - USA vs Belgium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://otte.cache.aiv-cdn.net
-#EXTVLCOPT:http-origin=https://otte.cache.aiv-cdn.net
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=085669765e465e43565e0c535968125a:006c2c0c475a1551500b560e67450803
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xyqyiuevpp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-#EXTINF:-1 tvg-id="234" tvg-name="FIFA World Cup [CH3]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [CH3] - 07 Jul 2026 07:00 WIB - USA vs Belgium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://otte.cache.aiv-cdn.net
-#EXTVLCOPT:http-origin=https://otte.cache.aiv-cdn.net
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08043a2b08150b40540559530866115b:566c7e594f0e435756515e0934470801
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="4395" tvg-name="FIFA World Cup [CH4]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [CH4] - 07 Jul 2026 07:00 WIB - USA vs Belgium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://dash2.antik.sk
-#EXTVLCOPT:http-origin=https://dash2.antik.sk
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08016d7c5a44594751535e515d664f01:09667e59465c4156555b535e64420f06
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="4262" tvg-name="FIFA World Cup [IOS1]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [IOS1] - 07 Jul 2026 07:00 WIB - USA vs Belgium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://yallavoide.yalla-shoot-zhubo.com
-#EXTVLCOPT:http-origin=https://yallavoide.yalla-shoot-zhubo.com
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5163699_1.m3u8?auth_key=1783468179-0-0-d363e48b90428f72231975e0f0887350
-#EXTINF:-1 tvg-id="4393" tvg-name="FIFA World Cup [IOS2]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [IOS2] - 07 Jul 2026 07:00 WIB - USA vs Belgium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://yallavoide.yalla-shoot-zhubo.com
-#EXTVLCOPT:http-origin=https://yallavoide.yalla-shoot-zhubo.com
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5163699_6.m3u8?auth_key=1783468179-0-0-cc870b42e5a748f3d6a6b6da5588f9d4
-#EXTINF:-1 tvg-id="4397" tvg-name="FIFA World Cup [IOS3]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [IOS3] - 07 Jul 2026 07:00 WIB - USA vs Belgium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://yallavoide.yalla-shoot-zhubo.com
-#EXTVLCOPT:http-origin=https://yallavoide.yalla-shoot-zhubo.com
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5163699_2.m3u8?auth_key=1783468179-0-0-44373a4bc24236ee894ec6f18cff9cd7
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://tvku.family/T/cover.php?url=aHR0cHM6Ly90aHVtYm9yLnByb2QudmlkaW9jZG4uY29tLzZ0U29CMGh2V2c0VDR0aklIZDJlS1owb1VpUT0vNjQweDM2MC9maWx0ZXJzOnN0cmlwX2ljYygpOnF1YWxpdHkoNzApL3ZpZGlvLW1lZGlhLXByb2R1Y3Rpb24vdXBsb2Fkcy9saXZlc3RyZWFtaW5nL3NjaGVkdWxlL3RodW1ibmFpbC81MTg3MzM3L2ZlNThlZC5qcGc=&status=LIVE+NOW&time=07%3A45&t=1783394244", SMA Gonzaga Jakarta vs SMA Unggul Al Bayan Cibadak (Group P | SMA - Putra) - Kapolri Cup Basketball 2026 🛡 (07:45 - 7 Jul 2026) (IN)
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://tvku.family/T/cover.php?url=aHR0cHM6Ly90aHVtYm9yLnByb2QudmlkaW9jZG4uY29tLzkxSXpZckZwM21rS1F1d2haZnBRc1B3djY5TT0vNjQweDM2MC9maWx0ZXJzOnN0cmlwX2ljYygpOnF1YWxpdHkoNzApL3ZpZGlvLW1lZGlhLXByb2R1Y3Rpb24vdXBsb2Fkcy9saXZlc3RyZWFtaW5nL3NjaGVkdWxlL3RodW1ibmFpbC81MTg3MzM4LzI1MjI2ZC5qcGc=&status=LIVE+NOW&time=07%3A45&t=1783396504", SMAN 82 Jakarta vs SMA Bunda Mulia Jakarta (Group Q | SMA - Putra) - Kapolri Cup Basketball 2026 🛡 (07:45 - 7 Jul 2026) (IN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMjE3NTIucWV6fDE3ODM5OTkwNDQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMjE3NTIuemNxfDE3ODM5OTkwNDQ
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://tvku.family/T/cover.php?url=aHR0cHM6Ly90aHVtYm9yLnByb2QudmlkaW9jZG4uY29tL1MxQlkwRDFaVC1lZWxxckowbkltOGZRQTBWRT0vNjQweDM2MC9maWx0ZXJzOnN0cmlwX2ljYygpOnF1YWxpdHkoNzApL3ZpZGlvLW1lZGlhLXByb2R1Y3Rpb24vdXBsb2Fkcy9saXZlc3RyZWFtaW5nL3NjaGVkdWxlL3RodW1ibmFpbC81MTg3MzMzLzIyMDliOS5qcGc=&status=LIVE+NOW&time=08%3A03&t=1783394244", Putri Tangsel City vs Arema FC Women | Group A U-15 - HYDROPLUS Soccer League All Stars 2026 (08:03 - 7 Jul 2026) (IN)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMjE3NTIucWV6fDE3ODQwMDEzMDQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMjE3NTIuemNxfDE3ODQwMDEzMDQ
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://tvku.family/T/cover.php?url=aHR0cHM6Ly90aHVtYm9yLnByb2QudmlkaW9jZG4uY29tL1MxQlkwRDFaVC1lZWxxckowbkltOGZRQTBWRT0vNjQweDM2MC9maWx0ZXJzOnN0cmlwX2ljYygpOnF1YWxpdHkoNzApL3ZpZGlvLW1lZGlhLXByb2R1Y3Rpb24vdXBsb2Fkcy9saXZlc3RyZWFtaW5nL3NjaGVkdWxlL3RodW1ibmFpbC81MTg3MzMzLzIyMDliOS5qcGc=&status=LIVE+NOW&time=08%3A03&t=1783396504", Putri Tangsel City vs Arema FC Women | Group A U-15 - HYDROPLUS Soccer League All Stars 2026 (08:03 - 7 Jul 2026) (IN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMjEwOTkuejNoOHwxNzgzOTk5MDQ0
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMjEwOTkuejNoOHwxNzg0MDAxMzA0
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8pChFEyS/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Türkiye v Poland | Week 3 | Women's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4Mzk5OTA0NA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NDAwMTMwNA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RfBpOZzw/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Belgium v Dominican Republic | Week 3 | Women's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4Mzk5OTA0NA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NDAwMTMwNA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JQmOQWkO/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Thailand v USA | Week 3 | Women's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4Mzk5OTA0NA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NDAwMTMwNA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CsWTEZ6Z/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Ukraine v Italy | Week 3 | Women's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4Mzk5OTA0NA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NDAwMTMwNA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/oOO7I9fa/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Japan v Brazil | Week 3 | Women's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4Mzk5OTA0NA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NDAwMTMwNA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/907bwyiP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",France v Netherlands | Week 3 | Women's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4Mzk5OTA0NA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NDAwMTMwNA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/X5vyjXoN/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",China v Canada | Week 3 | Women's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4Mzk5OTA0NA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NDAwMTMwNA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/N3eqELxk/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Czechia v Germany | Week 3 | Women's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4Mzk5OTA0NA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NDAwMTMwNA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/V1JWq9X3/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Serbia v Bulgaria | Week 3 | Women's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4Mzk5OTA0NA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NDAwMTMwNA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T7P994Ia/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",USA v Poland | Week 3 | Women's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4Mzk5OTA0NA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NDAwMTMwNA
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/153/774153-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] The Championships, Wimbledon 2026 • Day 9 Quarterfinals (No.1 Court) (18:55 WIB • 07/07/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODM5OTkwNDQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODQwMDEzMDQ
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/157/774157-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] The Championships, Wimbledon 2026 • Day 9 Quarterfinals (Centre Court) (19:25 WIB • 07/07/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODM5OTkwNDQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODQwMDEzMDQ
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/468/774468-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] The Championships, Wimbledon 2026 • Day 10 Quarterfinals (No.1 Court) (18:55 WIB • 08/07/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODM5OTkwNDQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODQwMDEzMDQ
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/455/774455-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] The Championships, Wimbledon 2026 • Day 10 Quarterfinals (Centre Court) (19:25 WIB • 08/07/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODM5OTkwNDQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODQwMDEzMDQ
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/522/774522-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] The Championships, Wimbledon 2026 • Day 11 Semifinals (No.1 Court) (18:55 WIB • 09/07/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODM5OTkwNDQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODQwMDEzMDQ
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/527/774527-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] The Championships, Wimbledon 2026 • Day 11 Semifinals (Centre Court) (19:25 WIB • 09/07/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODM5OTkwNDQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODQwMDEzMDQ
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/718/774718-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] WorldSBK 2026 • Rd 8 Prosecco Doc-UK Round - Free Practice 1 (16:15 WIB • 10/07/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODM5OTkwNDQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODQwMDEzMDQ
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/648/774648-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] The Championships, Wimbledon 2026 • Day 12 Semifinals (Centre Court) (19:25 WIB • 10/07/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODM5OTkwNDQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODQwMDEzMDQ
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/658/774658-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] The Championships, Wimbledon 2026 • Day 12 Semifinals (No.1 Court) (21:10 WIB • 10/07/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODM5OTkwNDQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODQwMDEzMDQ
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/752/774752-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] WorldSBK 2026 • Rd 8 Prosecco Doc-UK Round - Free Practice 3 (15:35 WIB • 11/07/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODM5OTkwNDQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODQwMDEzMDQ
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/754/774754-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] WorldSBK 2026 • Rd 8 Prosecco Doc-UK Round - SBK Tissot Superpole (16:50 WIB • 11/07/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODM5OTkwNDQ
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODQwMDEzMDQ
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/47af1831f6cea09ebe788eea3047c14a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/2eb45b9ab8d30132c466778a2a5e66f6.png", Stars FC vs FC Tucson [LIVE] — USL League Two (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMW80NnE0N3FzMTc3MDQzNTlvNW4vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzgzOTk5MDQ0
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMW80NnE0N3FzMTc3MDQzNTlvNW4vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg0MDAxMzA0
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://media.api-sports.io/football/teams/1164.png",23:00 | Inter Turku vs SJK
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://media.api-sports.io/football/teams/23502.png",17:00 | Kahibah vs Adamstown Rosebuds
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",16:00 | Inter Turku vs SJK
-https://live05.meung.app/live/82054853.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/e903d5740a60e44291b4126c4cce980a.png!w80",12:00 | Borneo Hornbills vs Pelita Jaya
-https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 FC Iberia 1999 Tbilisi vs Fc Meshakhte Tkibuli (Lương Sơn) BLV LÝ QUỲ m3u
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 FC Iberia 1999 Tbilisi vs Fc Meshakhte Tkibuli (Lương Sơn) BLV LÝ QUỲ flv
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV PEWPEW] (Socolive) m3u8
 https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782232162-0-0-a2fa0c1a968499cbec23469ac9d201dd
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV PEWPEW] (Socolive) hdM3u8
@@ -265,10 +202,6 @@ https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782232162-0-0-613e
 https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1782232162-0-0-e48284803ace797b40631a78bfcbcf99
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV KEM] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782232162-0-0-f4e207a33347d2f2fd2cbe58ec6d6f02
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [Casting] (Socolive) m3u8
-https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1782232162-0-0-6c7826db1fa817edc9ca67921836889f
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [Casting] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1782232162-0-0-66fe5f09ef73fa0f6d77d5ed0ec4bb2f
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) m3u8
 https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782232522-0-0-8b640fe1cf47df1166734db5f3d09d2b
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) hdM3u8
