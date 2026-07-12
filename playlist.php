@@ -1,4 +1,39 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F683411718987476993%2FlZKQkOal_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", De Graafschap vs AEK Athens - Friendly Match 21.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/QQQQZQQQQQ.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2038972517776531456%2FqwqDiPOu_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", St Helens vs Toulouse Olympique - English Rugby Super League 21.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/QQQQZQQQ.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597190896885309440%2FZVwKqVO3.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Japan U20 vs USA U20 - Rugby World Championship 21.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/QQQQZQQ.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597190896885309440%2FZVwKqVO3.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Argentina U20 vs Scotland U20 - Rugby World Championship 21.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/QQQQZQ.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1394013208701243395%2F3ocIDVAb_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Operario-PR vs Novorizontino - Brazil Serie B 21.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/QQQQZQQQQ.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1610490753976832006%2Flga9ESei_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", FC Astana vs Aktobe - Kazakhstan Premier League 21.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/QQQQZ.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1610490753976832006%2Flga9ESei_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Atyrau vs Yelimay Semey - Kazakhstan Premier League 21.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/QQQQ.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F637495443774140416%2FEk5Gmtj2_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Polisi Tanzania vs Tanzania Prisons - Tanzania Ligi Kuu Bara 20.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -94,36 +129,6 @@ http://193.47.62.41/hls/YVVV.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/YVVVQQQQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1763114038995849216%2FnqmsZCnm_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Seoul vs Gangwon - South Korea K League 17.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/YVVVQQQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1763114038995849216%2FnqmsZCnm_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Jeju SK vs Daejeon - South Korea K League 17.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/YVVVQQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1763114038995849216%2FnqmsZCnm_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Incheon vs Anyang - South Korea K League 17.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/YVVVQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1763114038995849216%2FnqmsZCnm_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Busan vs Gimpo FC - South Korea K2 League 17.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/RRRRQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1763114038995849216%2FnqmsZCnm_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Asan vs Gyeongnam - South Korea K2 League 17.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/RRRR.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1532678058993393666%2FvPvaWD6G_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Japan W vs Poland W - Volleyball Nations League 17.20 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/YVVVQQ.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1486618439510806530%2F0sditKjT_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", World Superbikes Leicestershire - World Superbikes 17.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -134,21 +139,11 @@ http://193.47.62.41/hls/YVVVQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/MMMMQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1532678058993393666%2FvPvaWD6G_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Canada W vs Dominican Republic W - Volleyball Nations League 16.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/LPLPLPQ.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1520076091972636672%2FdngA6hyw_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Golf Genesis Scottish Open - Golf 16.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.42/hls/TGGG.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1543784969306505218%2FNC_HnTpJ_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Melbourne Storm vs Gold Coast Titans - NRL 15.15 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/ZIII.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1858245091661324288%2Fg97T9wjl_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", MotoGP Grand Prix of Germany - MotoGP 14.30 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -159,11 +154,6 @@ http://193.47.62.41/hls/MMMMQQQq.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.42/hls/TGGGQQqXQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F947267863395495937%2FRxOUX-F7_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Brisbane Lions vs Essendon Bombers - AFL Aussie Rules 13.40 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/ZIIIQ.m3u8
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://www.cancunairporttransportations.com/blog/wp-content/uploads/FIFA-world-cup-2026-752x440.webp" ,Piala Dunia 2026 CH1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
@@ -186,7 +176,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1
 #EXTINF:-1 tvg-id="" tvg-name="Vasteras SK vs CLB Degerfors IF" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3e3f563e0ed76160f7d6ad6401a4bca7.png%21w80&size=300&scale=1.5", Vasteras SK vs CLB Degerfors IF (Giải Vô địch Quốc gia Thụy Điển)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.kinxie.com/live/67126628_c6487ec1fa552c309a9cb6404a1a056f_autoChange.m3u8?auth_key=1783874961-0-0-c1b533e95d941065bf48d462e83f08ae
+https://live2.kinxie.com/live/67126628_c6487ec1fa552c309a9cb6404a1a056f_autoChange.m3u8?auth_key=1783877331-0-0-3559eb3b931a5df3b1890e82b84fa4e8
 #EXTINF:-1 tvg-id="" tvg-name="BLV SPRITE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3e3f563e0ed76160f7d6ad6401a4bca7.png%21w80&size=300&scale=1.5", Vasteras SK vs CLB Degerfors IF - BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -194,23 +184,15 @@ https://live05.grita.app/live/75748097.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KFUM Oslo vs Bodo Glimt" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3846a13443fce5ec322369d88f642df7.png%21w80&size=300&scale=1.5", KFUM Oslo vs Bodo Glimt (Giải vô địch quốc gia Na Uy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/67015246_9b6b12435ed7e2f789717433e625d3db_autoChange.m3u8?auth_key=1783874961-0-0-1d18c451915553cd83f7c97ec4c2dc4f
+https://live.kinxie.com/live/67015246_9b6b12435ed7e2f789717433e625d3db_autoChange.m3u8?auth_key=1783877332-0-0-9ca1ae3c3dd19c126e830ada90f737a3
 #EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3846a13443fce5ec322369d88f642df7.png%21w80&size=300&scale=1.5", KFUM Oslo vs Bodo Glimt - BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.grita.app/live/99121525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shenzhen Juniors vs Dingnan United" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Faef1f7c3d09f7d1f60e0dde1ee3f1cbc.png%21w80&size=300&scale=1.5", Shenzhen Juniors vs Dingnan United (Giải bóng đá Hạng nhất Trung Quốc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/69456300_6980d12c809fc18e0e9f6bddf5d95d6c_autoChange.m3u8?auth_key=1783874960-0-0-dab2b4bddaf5ec2f393e77ff3a4ce889
-#EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Faef1f7c3d09f7d1f60e0dde1ee3f1cbc.png%21w80&size=300&scale=1.5", Shenzhen Juniors vs Dingnan United - BLV ROCKSTAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.grita.app/live/82054853.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hammarby vs Kalmar" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3e3f563e0ed76160f7d6ad6401a4bca7.png%21w80&size=300&scale=1.5", Hammarby vs Kalmar (Giải Vô địch Quốc gia Thụy Điển)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.kinxie.com/live/67126616_830e0593d19cad86f818098ecf463bd5_autoChange.m3u8?auth_key=1783874961-0-0-40cf39a4016e2824b52f2a370b955422
+https://live1.kinxie.com/live/67126616_830e0593d19cad86f818098ecf463bd5_autoChange.m3u8?auth_key=1783877331-0-0-64572ca5a9e6d63286a6376c388423b2
 #EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3e3f563e0ed76160f7d6ad6401a4bca7.png%21w80&size=300&scale=1.5", Hammarby vs Kalmar - BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -218,7 +200,7 @@ https://live05.grita.app/live/87547578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Malmo FF vs Goteborg" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3e3f563e0ed76160f7d6ad6401a4bca7.png%21w80&size=300&scale=1.5", Malmo FF vs Goteborg (Giải Vô địch Quốc gia Thụy Điển)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/67126624_a8596574c7567d2e81ff09e267c5a3d7_autoChange.m3u8?auth_key=1783874961-0-0-cd20c211cb0a975db3fcfdfbfe6f18ca
+https://live.kinxie.com/live/67126624_a8596574c7567d2e81ff09e267c5a3d7_autoChange.m3u8?auth_key=1783877331-0-0-d283291f3dd9498a60c1220a8d9facfe
 #EXTINF:-1 tvg-id="" tvg-name="BLV PEPSI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3e3f563e0ed76160f7d6ad6401a4bca7.png%21w80&size=300&scale=1.5", Malmo FF vs Goteborg - BLV PEPSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -226,7 +208,7 @@ https://live05.grita.app/live/59444581.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arsenal Dzyarzhynsk vs FK Vitebsk" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fe7475cfacb0bebd6ab81ae3f09efdb28.png%21w80&size=300&scale=1.5", Arsenal Dzyarzhynsk vs FK Vitebsk (Giải Bóng đá Ngoại hạng Belarus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live2.kinxie.com/live/72195364_020aa8a4c001b0f1ac7d28d1063cb8af_autoChange.m3u8?auth_key=1783877329-0-0-4bf9aa969e931eeaa64e7d846a2f976e
 #EXTINF:-1 tvg-id="" tvg-name="BLV FANTA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fe7475cfacb0bebd6ab81ae3f09efdb28.png%21w80&size=300&scale=1.5", Arsenal Dzyarzhynsk vs FK Vitebsk - BLV FANTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -234,7 +216,7 @@ https://live05.grita.app/live/16226575.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FK Nizhny Novgorod vs R. Volgograd" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fc3ca567177713d1924f670d62e5f9da9.png%21w80&size=300&scale=1.5", FK Nizhny Novgorod vs R. Volgograd (Giải Bóng đá Quốc gia Nga)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live.kinxie.com/live/72578122_005072a31cd7a8d7f57514230cc81230_autoChange.m3u8?auth_key=1783877330-0-0-3576cf5b9e0bd20662db2e8b1c3eba20
 #EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fc3ca567177713d1924f670d62e5f9da9.png%21w80&size=300&scale=1.5", FK Nizhny Novgorod vs R. Volgograd - BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -269,6 +251,8 @@ https://live1.pro2cdnlive.com/live/channel85.m3u8
 https://live1.pro2cdnlive.com/live/channel83.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://media.api-sports.io/football/teams/1164.png",23:00 | Inter Turku vs SJK
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://media.api-sports.io/football/teams/25779.png",18:30 | Shenzhen 2028 vs Langfang Glory City
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",15:00 | CLB KuPs vs Ilves
 https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",15:00 | CLB Vaasa VPS vs CLB AC Oulu
@@ -277,18 +261,12 @@ https://live05.meung.app/live/59444581.m3u8
 https://live05.meung.app/live/99121525.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80",16:00 | Jaro vs CLB Gnistan Helsinki
 https://live05.meung.app/live/19919577.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",16:00 | Inter Turku vs SJK
-https://live05.meung.app/live/82054853.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80",12:00 | Chengdu Rongcheng B vs Guangzhou Dandelion Alpha FC
 https://live05.meung.app/live/75748097.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 23/06 FK Alga Bishkek vs FC Bars Issyk-Kul (Lương Sơn) BLV VÕ TÒNG m3u
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 23/06 FK Alga Bishkek vs FC Bars Issyk-Kul (Lương Sơn) BLV VÕ TÒNG flv
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu (Lương Sơn) BLV TÔN LẬP m3u
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu (Lương Sơn) BLV TÔN LẬP flv
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vilniaus Baltijos Futbolo Akademija vs Kauno Zalgiris (Lương Sơn) BLV LÝ ỨNG m3u
 https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vilniaus Baltijos Futbolo Akademija vs Kauno Zalgiris (Lương Sơn) BLV LÝ ỨNG flv
