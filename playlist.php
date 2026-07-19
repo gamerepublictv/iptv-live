@@ -139,7 +139,7 @@ https://dusk.biz.id/rpl/index.mpd?id=016
 #EXTINF:-1 tvg-id="" tvg-name="Marconi Stallions vs Sydney Utd" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F21df239119fe6638a523365947a2cfb2.png%21w80&size=300&scale=1.5", Marconi Stallions vs Sydney Utd (Giải bóng đá Hạng nhất New South Wales của Úc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.kinxie.com/live/67691010_5502d34640901d6c716f5b905c651784_autoChange.m3u8?auth_key=1784453635-0-0-1e149d854a9f3c561cc870bf8e58ab36
+https://live2.kinxie.com/live/67691010_5502d34640901d6c716f5b905c651784_autoChange.m3u8?auth_key=1784455770-0-0-8ce94846c8b405c9d7aa419e85f40fd5
 #EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F21df239119fe6638a523365947a2cfb2.png%21w80&size=300&scale=1.5", Marconi Stallions vs Sydney Utd - BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -147,7 +147,7 @@ https://live05.miekgo.app/live/99121525.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Franklin Bulls vs Taranaki Mountainairs" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F6ba16cfbda31aed288c6d50e4b11d710.png%21w80&size=300&scale=1.5", Franklin Bulls vs Taranaki Mountainairs (Giải Quốc Gia Bóng Rổ New Zealand)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live.kinxie.com/live/13456705_6b2c81ed7a8af19a4e54dd4f14bf54b9_autoChange.m3u8?auth_key=1784455182-0-0-9a94e5a1458dd373441e1152bfb7c558
 #EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F6ba16cfbda31aed288c6d50e4b11d710.png%21w80&size=300&scale=1.5", Franklin Bulls vs Taranaki Mountainairs - BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -157,16 +157,6 @@ https://live05.miekgo.app/live/19919577.m3u8
 #EXTVLCOPT:http-referrer=https://live1.streambylivepulse.com
 #EXTVLCOPT:http-origin=https://live1.streambylivepulse.com
 https://live1.streambylivepulse.com/live/channel60.m3u8
-#EXTINF:-1 tvg-id="4368" tvg-name="Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event.gif" group-title="Event-LIVE-NOW",Nations League - 19 Jul 2026 08:00 WIB - USA vs Bulgaria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.streambylivepulse.com
-#EXTVLCOPT:http-origin=https://live1.streambylivepulse.com
-https://live1.streambylivepulse.com/live/channel80.m3u8
-#EXTINF:-1 tvg-id="4367" tvg-name="Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event.gif" group-title="Event-LIVE-NOW",Nations League - 19 Jul 2026 10:00 WIB - Belgium vs Canada
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.streambylivepulse.com
-#EXTVLCOPT:http-origin=https://live1.streambylivepulse.com
-https://live1.streambylivepulse.com/live/channel81.m3u8
 #EXTINF:-1 tvg-id="4368" tvg-name="Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event.gif" group-title="Event-LIVE-NOW",Nations League - 19 Jul 2026 13:30 WIB - Cuba vs Italy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.streambylivepulse.com
@@ -197,6 +187,8 @@ https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d78
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku (Lương Sơn) BLV PELE flv
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vilniaus Baltijos Futbolo Akademija vs Kauno Zalgiris (Lương Sơn) BLV LÝ ỨNG m3u
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vilniaus Baltijos Futbolo Akademija vs Kauno Zalgiris (Lương Sơn) BLV LÝ ỨNG flv
 https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 FC Iberia 1999 Tbilisi vs Fc Meshakhte Tkibuli (Lương Sơn) BLV LÝ QUỲ m3u
