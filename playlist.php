@@ -111,7 +111,7 @@ https://dusk.biz.id/rpl/index.mpd?id=016
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/205.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=837d26c481553bb4ebcafa886a2a7f133dd49a028b79ea322a52e937c6fb452c&waktu=1784453088
+https://malingpunya.ervinkasep01.workers.dev/205.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4ccb86c8727fc88c55644e697b377f6d1d795a8d726282cf435ed2452fe784f5&waktu=1784455488
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="Event-LIVE-NOW", 📺 Persebaya 99Th Anniversary Game: Persebaya Surabaya Vs Psis Semarang [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -119,14 +119,14 @@ https://malingpunya.ervinkasep01.workers.dev/205.m3u8?nomor_whatsapp_ane=63_955_
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/205.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=837d26c481553bb4ebcafa886a2a7f133dd49a028b79ea322a52e937c6fb452c&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/205.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=837d26c481553bb4ebcafa886a2a7f133dd49a028b79ea322a52e937c6fb452c&waktu=1784453088
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/205.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4ccb86c8727fc88c55644e697b377f6d1d795a8d726282cf435ed2452fe784f5&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/205.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4ccb86c8727fc88c55644e697b377f6d1d795a8d726282cf435ed2452fe784f5&waktu=1784455488
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="Event-LIVE-NOW", 📺 SEA V Cup 2026 Men [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/206.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=31e8433768d2e0d916f1d6cc58a7fc7e7a072e2240647bd599175fd4e0b46b4a&waktu=1784453088
+https://malingpunya.ervinkasep01.workers.dev/206.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0b243f2667815178fbcc6ac30b956cd5706ba58dbe115b283cb901fc66721892&waktu=1784455488
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="Event-LIVE-NOW", 📺 SEA V Cup 2026 Men [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -134,17 +134,8 @@ https://malingpunya.ervinkasep01.workers.dev/206.m3u8?nomor_whatsapp_ane=63_955_
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/206.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=31e8433768d2e0d916f1d6cc58a7fc7e7a072e2240647bd599175fd4e0b46b4a&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/206.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=31e8433768d2e0d916f1d6cc58a7fc7e7a072e2240647bd599175fd4e0b46b4a&waktu=1784453088
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sjBKb7z6Gm95sPcHVJXN1w2lWvI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196676/5cca30.jpg" group-title="Event-LIVE-NOW", 🔴 14:55 WIB 19/07/26 Race - FIA Formula 2 Championship Belgium Grand Prix 2026 [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=be05520b055da3737bdc7deb67c23ed58d108e5ab469006ba1442ea65d12d0df&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=be05520b055da3737bdc7deb67c23ed58d108e5ab469006ba1442ea65d12d0df&waktu=1784453088
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/206.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0b243f2667815178fbcc6ac30b956cd5706ba58dbe115b283cb901fc66721892&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/206.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0b243f2667815178fbcc6ac30b956cd5706ba58dbe115b283cb901fc66721892&waktu=1784455488
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/9kasK048K5iI_KSGGGObMbtv_vE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5200420/1a5f1a.jpg" group-title="Event-LIVE-NOW", 🔴 15:00 WIB 19/07/26 PERSEBAYA Surabaya vs PSIS Semarang - PERSEBAYA 99th Anniversary Game [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -152,8 +143,8 @@ https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21842.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3e3563ca93911bf2a340a27f7c93ec0f57e04fcf9911a3fad955c302feb6faa9&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/21842.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3e3563ca93911bf2a340a27f7c93ec0f57e04fcf9911a3fad955c302feb6faa9&waktu=1784453088
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21842.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=17d4036128503e2d6f3ab0f6c1308c62fb62f4681cbf47f368a95cc11b0c70d6&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/21842.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=17d4036128503e2d6f3ab0f6c1308c62fb62f4681cbf47f368a95cc11b0c70d6&waktu=1784455488
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/s6p_mti5BQIDJCqke0yv2m-6tOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5200418/e95b1b.jpg" group-title="Event-LIVE-NOW", 🔴 15:00 WIB 19/07/26 Round 4 - The Open Championship 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -161,8 +152,8 @@ https://malingpunya.ervinkasep01.workers.dev/21842.mpd?nomor_whatsapp_ane=63_955
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/17139.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=28aeff3cc6aa81f0356c7bc088807af89181bc38acd1ef39effbeafb9dc77701&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/17139.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=28aeff3cc6aa81f0356c7bc088807af89181bc38acd1ef39effbeafb9dc77701&waktu=1784453088
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/17139.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b64bab1686401de55649252a4a98db0033e0246b4cdd9807d069b0fb0ea578ee&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/17139.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b64bab1686401de55649252a4a98db0033e0246b4cdd9807d069b0fb0ea578ee&waktu=1784455488
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/K0HZ7onP7U15DQx-6bGZLl9AP_E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5202107/cc2a4f.jpg" group-title="Event-LIVE-NOW", 🔴 15:49 WIB 19/07/26 Final Men: Indonesia vs Cambodia - SEA V CUP [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -170,71 +161,80 @@ https://malingpunya.ervinkasep01.workers.dev/17139.mpd?nomor_whatsapp_ane=63_955
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2102e428a14f5561d2db8d597ca27c2f35bf5423a2f3720240dc584dfe91a0e0&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2102e428a14f5561d2db8d597ca27c2f35bf5423a2f3720240dc584dfe91a0e0&waktu=1784453088
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wXVnbBbYofuDPzs1xRtOrxZbqb4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5202056/59240a.jpg" group-title="Event-LIVE-NOW", ⏳ (-5m) 16:30 WIB 19/07/26 Stefanos Tsitsipas vs Raphael Collignon - Final | ATP 250: EFG Swiss Open Gstaad 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0d3acc3b67b2bf4d855eacf08f7cc6dad587406e3bf94174119b68d8a62d5e8c&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0d3acc3b67b2bf4d855eacf08f7cc6dad587406e3bf94174119b68d8a62d5e8c&waktu=1784455488
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wXVnbBbYofuDPzs1xRtOrxZbqb4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5202056/59240a.jpg" group-title="Event-LIVE-NOW", 🔴 16:30 WIB 19/07/26 Stefanos Tsitsipas vs Raphael Collignon - Final | ATP 250: EFG Swiss Open Gstaad 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=bb541f419aebd4f6cc694a8f5bcfbdecc3a6ed41410b37692ccbe2040d14e370&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=bb541f419aebd4f6cc694a8f5bcfbdecc3a6ed41410b37692ccbe2040d14e370&waktu=1784453088
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3tA34gfWSviSE9dhpa_g_2FhldY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5201810/8c91eb.jpg" group-title="Event-LIVE-NOW", ⏳ (-40m) 17:05 WIB 19/07/26 Men: Japan vs Argentina - Volleyball Nations League [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=21cf5630eb2e59ac3b90a0c0763eecf36fb6b19f267a3bbc5695a595310369b0&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=21cf5630eb2e59ac3b90a0c0763eecf36fb6b19f267a3bbc5695a595310369b0&waktu=1784455488
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3tA34gfWSviSE9dhpa_g_2FhldY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5201810/8c91eb.jpg" group-title="Event-LIVE-NOW", ⏳ (-0m) 17:05 WIB 19/07/26 Men: Japan vs Argentina - Volleyball Nations League [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21701.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=1dc113645b1290db95cdfe44bbbb70899a88ec61da9744f637fac795e621e456&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/21701.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=1dc113645b1290db95cdfe44bbbb70899a88ec61da9744f637fac795e621e456&waktu=1784453088
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/PveIuAy747GmWtbF5OG_BVhSPG8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5201811/d5524c.jpg" group-title="Event-LIVE-NOW", ⏳ (-1j 20m) 17:45 WIB 19/07/26 Men: Turkey vs Iran - Volleyball Nations League [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21701.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2bc8e917654b27e42455cf20434537f38eec7edb5867118da6b90bf24b54bff4&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/21701.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2bc8e917654b27e42455cf20434537f38eec7edb5867118da6b90bf24b54bff4&waktu=1784455488
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/PveIuAy747GmWtbF5OG_BVhSPG8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5201811/d5524c.jpg" group-title="Event-LIVE-NOW", ⏳ (-40m) 17:45 WIB 19/07/26 Men: Turkey vs Iran - Volleyball Nations League [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21702.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=efd6083bea4258c43688b13404915f0cc612ea500816b04affa60d1d2c9ae350&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/21702.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=efd6083bea4258c43688b13404915f0cc612ea500816b04affa60d1d2c9ae350&waktu=1784453088
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/q_S5sguPdgLe1ye0XLCajbHnh9M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5202129/bf0811.jpg" group-title="Event-LIVE-NOW", ⏳ (-2j 35m) 19:00 WIB 19/07/26 Andrey Rublev vs Luciano Darderi - Final | ATP 250: Nordea Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21702.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b3a3d88b82ddd24d1b2bd780823b22bc35871fe8e734517b217244f73725cdaa&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/21702.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b3a3d88b82ddd24d1b2bd780823b22bc35871fe8e734517b217244f73725cdaa&waktu=1784455488
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/q_S5sguPdgLe1ye0XLCajbHnh9M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5202129/bf0811.jpg" group-title="Event-LIVE-NOW", ⏳ (-1j 55m) 19:00 WIB 19/07/26 Andrey Rublev vs Luciano Darderi - Final | ATP 250: Nordea Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2199aa4a76a9db788e2c6ec6f565cd1c12204a1702d18c1cbfdf3cd8193d529d&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2199aa4a76a9db788e2c6ec6f565cd1c12204a1702d18c1cbfdf3cd8193d529d&waktu=1784453088
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/abjzJ6sbiRFPew1KVRnDM8jz08A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5201813/87b498.jpg" group-title="Event-LIVE-NOW", ⏳ (-5j 5m) 21:30 WIB 19/07/26 Final - WTA 250: UniCredit Iasi Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=54b985b576db2913cf28605cf8a0cc10f83bc25ca21a9aed60c868e7fb49504b&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=54b985b576db2913cf28605cf8a0cc10f83bc25ca21a9aed60c868e7fb49504b&waktu=1784455488
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zdBNv5L8w-uU123MX9WN2TCLTxA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196675/624668.jpg" group-title="Event-LIVE-NOW", ⏳ (-2j 50m) 19:55 WIB 19/07/26 Race - Formula 1 Moet & Chandon Belgian Grand Prix 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=dfe4c6de0dbbd11976e249e48fca48e80dc283ca69fb8cd3e73c527feee17f3f&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=dfe4c6de0dbbd11976e249e48fca48e80dc283ca69fb8cd3e73c527feee17f3f&waktu=1784453088
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lEMzLQQ0gO5mOp6nVF3R7rqRBhc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5202380/5a46b2.jpg" group-title="Event-LIVE-NOW", ⏳ (-7j 20m) 23:45 WIB 19/07/26 Men: China vs Brazil - Volleyball Nations League [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5c8bfec83238ca8d8e4146a7ae1a9f47f500cff340432a00ee387c2eaae21752&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5c8bfec83238ca8d8e4146a7ae1a9f47f500cff340432a00ee387c2eaae21752&waktu=1784455488
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/abjzJ6sbiRFPew1KVRnDM8jz08A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5201813/87b498.jpg" group-title="Event-LIVE-NOW", ⏳ (-4j 25m) 21:30 WIB 19/07/26 Final - WTA 250: UniCredit Iasi Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21703.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=cdc702cfac59625a203d5a660805e1c2aee1b5ae21c2d4bf49a52f72fb560084&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/21703.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=cdc702cfac59625a203d5a660805e1c2aee1b5ae21c2d4bf49a52f72fb560084&waktu=1784453088
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OsbnoXzM_35uOIcjigpqPaCEnYc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5202681/40421c.jpg" group-title="Event-LIVE-NOW", ⏳ (-7j 35m) 00:00 WIB 20/07/26 Final - WTA 250: Vanda Pharmaceuticals Athens Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=1fb1fa7308659cc573704eb6bc364225403bfc834e2b976e7b328be8a1a2726a&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=1fb1fa7308659cc573704eb6bc364225403bfc834e2b976e7b328be8a1a2726a&waktu=1784455488
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lEMzLQQ0gO5mOp6nVF3R7rqRBhc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5202380/5a46b2.jpg" group-title="Event-LIVE-NOW", ⏳ (-6j 40m) 23:45 WIB 19/07/26 Men: China vs Brazil - Volleyball Nations League [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20564.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=93d795cea81c64e6edde7e0e56eea54fa2554e0e2a7e625c6ae54113f2aa72ee&waktu=1784453088
-https://malingpunya.ervinkasep01.workers.dev/20564.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=93d795cea81c64e6edde7e0e56eea54fa2554e0e2a7e625c6ae54113f2aa72ee&waktu=1784453088
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21703.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d30fd1fa9c64849b924e0fe81604ba56e6acd6fd8d2046956ae42106448b4534&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/21703.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d30fd1fa9c64849b924e0fe81604ba56e6acd6fd8d2046956ae42106448b4534&waktu=1784455488
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OsbnoXzM_35uOIcjigpqPaCEnYc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5202681/40421c.jpg" group-title="Event-LIVE-NOW", ⏳ (-6j 55m) 00:00 WIB 20/07/26 Final - WTA 250: Vanda Pharmaceuticals Athens Open 2026 [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20564.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3747d821f39bb872b83ee7b844fbaa4460d9232a07812ae8e1976c8ef790cc43&waktu=1784455488
+https://malingpunya.ervinkasep01.workers.dev/20564.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3747d821f39bb872b83ee7b844fbaa4460d9232a07812ae8e1976c8ef790cc43&waktu=1784455488
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s", 08:00 WIB Daihatsu Japan Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266838196161061_AiSD.m3u8?txSecret=371a9f17716466c422df0895adeb9af8&txTime=6A5D48E0
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcrSIjN3ue1GDlyPIUUKfyMvBwLhkGozGQnBhwUZAFw&s", 08:00 WIB Daihatsu Japan Open 2026
@@ -244,7 +244,7 @@ https://live1.streambylivepulse.com/live/channel60.m3u8?wsSecret=b25444be06330e0
 #EXTINF:-1 tvg-id="" tvg-name="Phong Phú Hà Nam Nữ vs Hồ Chí Minh Nữ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F40121ad4dae08e4bef3bb8d4a46606d1.png%21w80&size=300&scale=1.5", Phong Phú Hà Nam Nữ vs Hồ Chí Minh Nữ (Women's National League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/72781874_600409518e6199e2652467b860255e34_autoChange.m3u8?auth_key=1784467426-0-0-b7f4fe8ae69bfc067dbd1f017f04baf8
+https://live.kinxie.com/live/72781874_600409518e6199e2652467b860255e34_autoChange.m3u8?auth_key=1784469857-0-0-73acf4dfe43f9bfe66efa7bedf53e05b
 #EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F40121ad4dae08e4bef3bb8d4a46606d1.png%21w80&size=300&scale=1.5", Phong Phú Hà Nam Nữ vs Hồ Chí Minh Nữ - BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -252,21 +252,19 @@ https://live05.miekgo.app/live/78905744.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hà Nội Nữ vs TKS Việt Nam Nữ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F40121ad4dae08e4bef3bb8d4a46606d1.png%21w80&size=300&scale=1.5", Hà Nội Nữ vs TKS Việt Nam Nữ (Women's National League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/72562490_26a4923c17e6c6da67c8bb90b027899f_autoChange.m3u8?auth_key=1784467424-0-0-b933837e8755b8370760679e74e42418
+https://live.kinxie.com/live/72562490_26a4923c17e6c6da67c8bb90b027899f_autoChange.m3u8?auth_key=1784469856-0-0-ce6ad1661da518bfdfbbb6ee60ebf8e9
 #EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F40121ad4dae08e4bef3bb8d4a46606d1.png%21w80&size=300&scale=1.5", Hà Nội Nữ vs TKS Việt Nam Nữ - BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.miekgo.app/live/19919577.m3u8
-#EXTINF:-1 tvg-id="4998" tvg-name="Japan Open 2026" tvg-logo="https://openwindows037.serv00.net/logo/badminton.png" group-title="Event-LIVE-NOW",Japan Open 2026 - 19 Jul 2026 08:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.streambylivepulse.com
-#EXTVLCOPT:http-origin=https://live1.streambylivepulse.com
-https://live1.streambylivepulse.com/live/channel60.m3u8
-#EXTINF:-1 tvg-id="4368" tvg-name="Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event.gif" group-title="Event-LIVE-NOW",Nations League - 19 Jul 2026 13:30 WIB - Cuba vs Italy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.streambylivepulse.com
-#EXTVLCOPT:http-origin=https://live1.streambylivepulse.com
-https://live1.streambylivepulse.com/live/channel80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bucheon FC 1995 vs Seoul" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fc080bb97363f9be7ca4fca327c56ec0d.png%21w80&size=300&scale=1.5", Bucheon FC 1995 vs Seoul (Giải K1 Hàn Quốc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https
+#EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fc080bb97363f9be7ca4fca327c56ec0d.png%21w80&size=300&scale=1.5", Bucheon FC 1995 vs Seoul - BLV BÍ ĐAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.miekgo.app/live/99121525.m3u8
 #EXTINF:-1 tvg-id="4367" tvg-name="Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event.gif" group-title="Event-LIVE-NOW",Nations League - 19 Jul 2026 18:00 WIB - Turkey vs Iran
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.streambylivepulse.com
@@ -288,6 +286,8 @@ https://abgqheyaaaaaaaamkz47z2ccudy7s.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f066a785d120e4105030d5f5b68470d:066c7c51165d1655535b050f64400d54
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",15:00 | CLB Lahti vs TPS
+https://live05.meung.app/live/99121525.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80",16:00 | Jaro vs CLB Gnistan Helsinki
 https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",23:00 | Panama vs Croatia
@@ -298,10 +298,26 @@ https://live05.meung.app/live/75748097.m3u8
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 23/06 FK Alga Bishkek vs FC Bars Issyk-Kul (Lương Sơn) BLV VÕ TÒNG flv
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vilniaus Baltijos Futbolo Akademija vs Kauno Zalgiris (Lương Sơn) BLV LÝ ỨNG m3u
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vilniaus Baltijos Futbolo Akademija vs Kauno Zalgiris (Lương Sơn) BLV LÝ ỨNG flv
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 FC Iberia 1999 Tbilisi vs Fc Meshakhte Tkibuli (Lương Sơn) BLV LÝ QUỲ m3u
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 FC Iberia 1999 Tbilisi vs Fc Meshakhte Tkibuli (Lương Sơn) BLV LÝ QUỲ flv
 https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 FC Iberia 1999 Tbilisi vs Fc Meshakhte Tkibuli (Lương Sơn) BLV LÃO HẠC m3u
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 FC Iberia 1999 Tbilisi vs Fc Meshakhte Tkibuli (Lương Sơn) BLV LÃO HẠC flv
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [LOGAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782232162-0-0-ccbbee25edb0d399b6a8b1895b737d16
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [LOGAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782232162-0-0-270c973ccc4a357c495a596ab417cfba
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782232522-0-0-8b640fe1cf47df1166734db5f3d09d2b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782232522-0-0-2977642b49a40977f77b1672f1607866
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) m3u8
 https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782232522-0-0-56e4b93b1d457bb424d110ca6730a379
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) hdM3u8
@@ -310,6 +326,10 @@ https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782232522-0-0-8174
 https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782232522-0-0-ce583044375d834d1706b22452e075c9
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV FIREMAN] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782232522-0-0-be25cfdb2864e1ff265f6fa5484e53b7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku [BLV LUCAS] (Socolive) m3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782232522-0-0-98cb7384c35bf9098742ab376bae73d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku [BLV LUCAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782232522-0-0-06191062a9fa74fbce2dda3615bc6361
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782232522-0-0-0276c239e834af7e27383cd1ba1403b1
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
