@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Spain vs Argentina --- ENG HD - FIFA World Cup 02.00 WIB
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Spain vs Argentina --- HD 1 - FIFA World Cup 03.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://live01-cn-ali.bvjicd.com/live/43639055.m3u8
+https://live.kinxie.com/live/53452537_9a7fdb9b7a91071d1e63ca45de00111e.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1747638026832887808%2FZCUr0JdI_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Spain vs Argentina --- CN HD - FIFA World Cup 02.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -186,7 +186,11 @@ https://dusk.biz.id/rpl/index.mpd?id=016
 #EXTINF:-1 tvg-id="" tvg-name="Tây Ban Nha vs Argentina" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Argentina (Giải vô địch bóng đá thế giới)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/53452537_9a7fdb9b7a91071d1e63ca45de00111e_autoChange.m3u8?auth_key=1784503763-0-0-f315aafb97415dc8fb7f3d794df1eeb7
+https://live.kinxie.com/live/53452537_9a7fdb9b7a91071d1e63ca45de00111e_autoChange.m3u8?auth_key=1784505675-0-0-2837b78a1d101b52c3b0d2beb0e110ab
+#EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Argentina - BLV 247
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.miekgo.app/live/90865415.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Argentina - BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -203,10 +207,6 @@ https://live05.miekgo.app/live/14830711.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.miekgo.app/live/24561735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fda617cd58cd9cffaae0daec865457fb5.png%21w80&size=300&scale=1.5", Tây Ban Nha vs Argentina - BLV 247
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.miekgo.app/live/90865415.m3u8
 #EXTINF:-1 tvg-id="4366" tvg-name="Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event.gif" group-title="Event-LIVE-NOW",Nations League - 20 Jul 2026 01:00 WIB - Serbia vs Slovenia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.streambylivepulse.com
@@ -220,15 +220,7 @@ https://live1.streambylivepulse.com/live/channel82.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b03392f0d4e5a47525e095659624f5f:09687d0d46544152525e030c63130809
 https://n-121-7.il.cdn-redge.media/livedash/oil/freetv/live/kan11/live.livx?manifest.mpd
-#EXTINF:-1 tvg-id="5005" tvg-name="FIFA World Cup [CH2]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [CH2] - 20 Jul 2026 02:00 WIB - Spain vs Argentina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://dish-arg.akamaized.net
-#EXTVLCOPT:http-origin=https://dish-arg.akamaized.net
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01546e2c0c42541707515d5f09321558:526c2c5c415a4050550c520e634e0805
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn)/variant.mpd
-#EXTINF:-1 tvg-id="4672" tvg-name="FIFA World Cup [CH3]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [CH3] - 20 Jul 2026 02:00 WIB - Spain vs Argentina
+#EXTINF:-1 tvg-id="4672" tvg-name="FIFA World Cup [CH2]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [CH2] - 20 Jul 2026 02:00 WIB - Spain vs Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://tencent-css.byteplaycdn.com
 #EXTVLCOPT:http-origin=https://tencent-css.byteplaycdn.com
@@ -236,6 +228,14 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f01677651470b17555259545961440e:083c285f160b1551025c5f0b63420b53
 https://tencent-css.byteplaycdn.com/2013f54319e9a95f46ea37d910faab71/6A5D968E/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+#EXTINF:-1 tvg-id="4264" tvg-name="FIFA World Cup [CH3]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [CH3] - 20 Jul 2026 02:00 WIB - Spain vs Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://dish-arg.akamaized.net
+#EXTVLCOPT:http-origin=https://dish-arg.akamaized.net
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58053a7a0b155d4752005a505e664e08:536a7c0a135911535551525c334f0b55
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(dsports_arg)/variant.mpd
 #EXTINF:-1 tvg-id="4228" tvg-name="FIFA World Cup [CH4]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [CH4] - 20 Jul 2026 02:00 WIB - Spain vs Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://cdnec02.mediaquest.com.ph
@@ -244,14 +244,14 @@ https://tencent-css.byteplaycdn.com/2013f54319e9a95f46ea37d910faab71/6A5D968E/Co
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f006c2b5d465c4b025f59015e64440b:086d2a0a43594b51565b505c30165b54
 https://cdnec02.mediaquest.com.ph/bpk-token/2ab@o4glcww21mjy02c500vdfnwemvsxzsqvowgrjhda/bpk-tv/fifa_ppv1/default/index.mpd?bkm-query
-#EXTINF:-1 tvg-id="5005" tvg-name="FIFA World Cup [CH5]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [CH5] - 20 Jul 2026 02:00 WIB - Spain vs Argentina
+#EXTINF:-1 tvg-id="487" tvg-name="FIFA World Cup [CH5]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [CH5] - 20 Jul 2026 02:00 WIB - Spain vs Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://dish-arg.akamaized.net
 #EXTVLCOPT:http-origin=https://dish-arg.akamaized.net
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01546e2c0c42541707515d5f09321558:526c2c5c415a4050550c520e634e0805
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn)/variant.mpd
+#KODIPROP:inputstream.adaptive.license_key=0809682d084f5f4005055d015e344301:05687d0f4e0b4b535759540966130e51
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(tycsports_arg)/manifest.mpd
 #EXTINF:-1 tvg-id="4724" tvg-name="FIFA World Cup [IOS1]" tvg-logo="https://openwindows037.serv00.net/logo/wc2026.png" group-title="Event-LIVE-NOW",FIFA World Cup [IOS1] - 20 Jul 2026 02:00 WIB - Spain vs Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://d1jzu95oc8fgt3.cloudfront.net
