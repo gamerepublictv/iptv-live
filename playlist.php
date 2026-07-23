@@ -2,11 +2,26 @@
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Badminton/Pearly-Tan-Koong-Le-%2F-Thinaah-Muralitharan?mid=5130970&q=sd&exp=1784827302&sig=ef11ed235124e80aa1c6008f20ccd3e2ebe63434971fbb0d69854b77da078884
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Badminton/Li-Yi-Jing-%2F-Luo-Xu-Min?mid=5132351&q=sd&exp=1784807180&sig=a81f8d2ec8e9e41bcbd75c2f8e5d4a7fea32a806d153dcdb56badaf96d8b744f
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Badminton/Li-Yi-Jing-%2F-Luo-Xu-Min?mid=5132351&q=sd&exp=1784807180&sig=a81f8d2ec8e9e41bcbd75c2f8e5d4a7fea32a806d153dcdb56badaf96d8b744f
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", HD AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/IVTPlFRu/live.isml/.m3u8
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Volleyball/Trung-Qu%E1%BB%91c-(N%E1%BB%AF)?mid=5066919&q=sd&exp=1784827302&sig=acef952ef18e71b2970aa4912bed9bea50a97e1bc2aea174d4b724bbb2937e1f
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Lisa-Zaar-%2F-Kimberley-Zimmermann?mid=5134332&q=sd&exp=1784827302&sig=a8128d38385e34f316e90e2cca7ee68aca8d14e1aeebf5259c7bd1e37055a67b
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/badminton.png", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://play.cbalive.weibisai.com/
@@ -44,10 +59,6 @@ https://livevent.elutuna.workers.dev/resolve-web/vivo200/Badminton/Fajar-Alfian-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Badminton/Rehan-Naufal-Kusharjanto-%2F-Gloria-Emanuelle-Widjaja?mid=5124729&q=sd&exp=1784807475&sig=da6dae1d30570c6bd5724b5e3be3e974e94f77848b9a7f6e80ac74233a95b5c4
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Badminton/Pearly-Tan-Koong-Le-%2F-Thinaah-Muralitharan?mid=5130970&q=sd&exp=1784809277&sig=2ec58243abcfe8197bdc10eafb39386cd78e1be36ba064342b2212716e4d7932
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
@@ -95,9 +106,6 @@ https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Elsa-Jacquemot?m
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", HD AUTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/XtNopRV5/live.isml/.m3u8
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", HD AUTO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/IVTPlFRu/live.isml/.m3u8
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
@@ -175,7 +183,19 @@ https://livevent.elutuna.workers.dev/resolve-web/vivo200/Baseball/Hanwha-Eagles?
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Lilli-Tagger?mid=5124652&q=sd&exp=1784825505&sig=481e49194c440fa1d929f8c9d8b8ec5eb1568f4a53fce526d19322ec17c5e350
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Badminton/Pearly-Tan-Koong-Le-%2F-Thinaah-Muralitharan?mid=5130970&q=sd&exp=1784822807&sig=07636965308a8e3f442b2823162f27a54731084c62361dbcffa2f005cd15a5d9
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Badminton/Sayaka-Hirota-%2F-Ayako-Sakuramoto?mid=5124701&q=sd&exp=1784825506&sig=0b8e3756fcf3522e0b41c1e49dfe8844000368ecae5242fe89bea56229fa9692
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Badminton/Bengisu-Ercetin-%2F-Nazlican-Inci?mid=5124702&q=sd&exp=1784825506&sig=85dbb504a0b2dd010fce572d18dfa83aa076116c15e9251257bbd9ee310c3420
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
@@ -183,7 +203,34 @@ https://livevent.elutuna.workers.dev/resolve-web/vivo200/Badminton/Akane-Yamaguc
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Sara-Bejlek?mid=5126416&q=sd&exp=1784826722&sig=c1bbd2ed56a0781485d19be6fecc955e16890666c7d0045071a4e71bf1ab2acd
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Baseball/Fubon-Guardians?mid=5014021&q=sd&exp=1784825025&sig=d1402ea9b3ec8c1c460cb68a7b377d4e92dbf070a49c942901f8102a22f6f94a
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", HD AUTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://playerkltratv.pages.dev/playerhd?channel=SEAV
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 1 - Horse Racing 19.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.194/hls/vavavava.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 2 - Horse Racing 19.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.194/hls/vavavavaq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1532678058993393666%2FvPvaWD6G_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", USA W vs China W - Volleyball Nations League 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/GAAAAQQq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1404378291599937536%2Fb-r3SWlW_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Zimbabwe vs India - Cricket 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/FEEE.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1995612160613920768%2FjdwbOzZi_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Tennis ATP Estoril - Tennis ATP 18.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -229,11 +276,6 @@ http://193.47.62.41/hls/XAAAAQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/GAAAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1532678058993393666%2FvPvaWD6G_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Turkey W vs Canada W - Volleyball Nations League 15.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/GAAAAQQq.m3u8
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/fb26TzzwvwWLabOyZ5fgKqi-i34=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207287/3c909c.jpg" group-title="Event-LIVE-NOW", 🔴 08:00 WIB 23/07/26 Lakshya Sen (IND) vs Victor Lai (CAN) - Men's Singles Round of 16 | VICTOR China Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -241,26 +283,26 @@ http://193.47.62.41/hls/GAAAAQQq.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=9a108e613893e754e7f719dc9bc5dca81175db90436659c2e098e8aadc2e5155&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=9a108e613893e754e7f719dc9bc5dca81175db90436659c2e098e8aadc2e5155&waktu=1784804090
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/KgVmSGFgii9G7KHa_5hOeeRTMtM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/victor-china-open-2026-round-of-16-court-2-33699f.jpg" group-title="Event-LIVE-NOW", 🔴 08:00 WIB 23/07/26 Victor China Open 2026 - Round of 16 (Court 2) [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0d8ec2ed366e7e2a137b7df112e86f365b4587d835c1e3e6fef80153248739b3&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0d8ec2ed366e7e2a137b7df112e86f365b4587d835c1e3e6fef80153248739b3&waktu=1784806190
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gQTEnD00zSROfkseEsARIMATFGE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207285/9c5f10.jpg" group-title="Event-LIVE-NOW", 🔴 08:00 WIB 23/07/26 Putri Kusuma Wardani (INA) vs Busanan Ongbamrungphan (THA) - Women's Singles Round of 16 | VICTOR China Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18250.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3df24dc10ee9bb3bdece31eafdff4d120a2eef65ff11e68cc4a910096df16231&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/18250.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3df24dc10ee9bb3bdece31eafdff4d120a2eef65ff11e68cc4a910096df16231&waktu=1784804090
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wkFWRuekN1nibHQBL9sHbZy9wJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207271/f5e694.jpg" group-title="Event-LIVE-NOW", 🔴 08:30 WIB 23/07/26 Hinata Suzuki/Nao Yamakita (JPN) vs Yuki Fukushima/Mayu Matsumoto (JPN) - Women's Doubles Round of 16 | VICTOR China Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18250.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c8043a1a7ec98341b5d2f4913d4caba4d4d634c2847220cb18165a145c547fc6&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/18250.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c8043a1a7ec98341b5d2f4913d4caba4d4d634c2847220cb18165a145c547fc6&waktu=1784806190
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/t-gYYXAc6sbFW4HVIbn_1ZXEorA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207272/bb4388.jpg" group-title="Event-LIVE-NOW", 🔴 08:30 WIB 23/07/26 Polina Buhrova/Yevheniia Kantemyr (UKR) vs Pearly Tan/Thinaah Muralitharan (MAS) - Women's Doubles Round of 16 | VICTOR China Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18252.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c70298d8016474f643f81c6188074042b9977bba3c49797ef28bde02ff7378da&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/18252.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c70298d8016474f643f81c6188074042b9977bba3c49797ef28bde02ff7378da&waktu=1784804090
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18252.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0762f583d96d3d37098319ef2170146e66b4b188f0b573d9476a1235e2d2cb7d&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/18252.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0762f583d96d3d37098319ef2170146e66b4b188f0b573d9476a1235e2d2cb7d&waktu=1784806190
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Htjs6lSzqaIC08pgLAZQvF-XJs8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5203183/296afd.jpg" group-title="Event-LIVE-NOW", 🔴 14:30 WIB 23/07/26 Round 1 - ISPS HANDA Women's Scottish Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -268,23 +310,8 @@ https://malingpunya.ervinkasep01.workers.dev/18252.mpd?nomor_whatsapp_ane=63_955
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=72ce7d4f65b13a6b1cfa87d863e09af4d77cca6e6c5fd5781fc6eb96323254ee&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=72ce7d4f65b13a6b1cfa87d863e09af4d77cca6e6c5fd5781fc6eb96323254ee&waktu=1784804090
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sfXmBK8M46LI1Y3cjJKeQECP0Xs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204385/3caf88.jpg" group-title="Event-LIVE-NOW", 🔴 15:00 WIB 23/07/26 Men: Thailand vs Vietnam - SEA V CUP [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/21811.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=ed2fae135b1347afdee8f058c0b77d8f989cfc0731d7704d669ff80d46ed89e8&waktu=1784804090
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sfXmBK8M46LI1Y3cjJKeQECP0Xs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204385/3caf88.jpg" group-title="Event-LIVE-NOW", 🔴 15:00 WIB 23/07/26 Men: Thailand vs Vietnam - SEA V CUP [J1] (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=ed2fae135b1347afdee8f058c0b77d8f989cfc0731d7704d669ff80d46ed89e8&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=ed2fae135b1347afdee8f058c0b77d8f989cfc0731d7704d669ff80d46ed89e8&waktu=1784804090
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=bd40be63ddb0b5f4d0623f5cdaf1cad9f5bad242cd0839b230aff24c470b281f&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=bd40be63ddb0b5f4d0623f5cdaf1cad9f5bad242cd0839b230aff24c470b281f&waktu=1784806190
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/djzQX1EnyMSq_CATnC7T_xYMF38=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5203185/6b0023.jpg" group-title="Event-LIVE-NOW", 🔴 16:00 WIB 23/07/26 Round of 16 - WTA 250: MSC Hamburg Ladies Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -292,8 +319,8 @@ https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=549538c397a0caf0f223893ffb2c25ab4296d11eb1f2faa7ee4a5e06fa150769&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=549538c397a0caf0f223893ffb2c25ab4296d11eb1f2faa7ee4a5e06fa150769&waktu=1784804090
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d216be1a2ba6d29e1e907cbc033320c88dae991a841626e2b39bab8c5b6d3695&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d216be1a2ba6d29e1e907cbc033320c88dae991a841626e2b39bab8c5b6d3695&waktu=1784806190
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lEqdFPgRuGduTG0aGzBTVPZ7NQc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204380/2c5957.jpg" group-title="Event-LIVE-NOW", 🔴 16:00 WIB 23/07/26 Round of 16 - WTA 250: Livesport Prague Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -301,8 +328,8 @@ https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e4706fbc3ae74dcb9765d13b24383156de0a6b1294f83d6cd56964d40e98f234&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e4706fbc3ae74dcb9765d13b24383156de0a6b1294f83d6cd56964d40e98f234&waktu=1784804090
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e79ab23527c0b33eadb922128be6ef6bae4bf845791b11677410596255ed57d0&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e79ab23527c0b33eadb922128be6ef6bae4bf845791b11677410596255ed57d0&waktu=1784806190
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0GXFcgfprzhDaaNlewiOg10r0BA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207290/f8e991.jpg" group-title="Event-LIVE-NOW", 🔴 17:45 WIB 23/07/26 Yannick Hanfmann vs Sebastian Baez - Quarter Finals | ATP 250: Generali Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -310,67 +337,73 @@ https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3b0de25670dda17beb22c0089aab1c9639980d3a9960c0c6e2fc126f63248a9b&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3b0de25670dda17beb22c0089aab1c9639980d3a9960c0c6e2fc126f63248a9b&waktu=1784804090
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/oEafHNK5y3IQ1mgpg3AoJbItjl0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207293/ba66b9.jpg" group-title="Event-LIVE-NOW", ⏳ (-5m) 18:00 WIB 23/07/26 Luca Van Assche vs Pablo Carreno Busta - Round 2 | ATP 250: Millennium Estoril Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=70bc2772db86e4ba1368f2d4eaf5e53f4cfa59739f4ec159369440a00115eedf&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=70bc2772db86e4ba1368f2d4eaf5e53f4cfa59739f4ec159369440a00115eedf&waktu=1784806190
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/oEafHNK5y3IQ1mgpg3AoJbItjl0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207293/ba66b9.jpg" group-title="Event-LIVE-NOW", 🔴 18:00 WIB 23/07/26 Luca Van Assche vs Pablo Carreno Busta - Round 2 | ATP 250: Millennium Estoril Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=a691399ac77892c9d08bf2317319f1acf1c368a1389a83a8bec176d6f9483351&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=a691399ac77892c9d08bf2317319f1acf1c368a1389a83a8bec176d6f9483351&waktu=1784804090
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zwqN36ythYahrFZeR359hlw_NvM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204882/5d589e.jpg" group-title="Event-LIVE-NOW", ⏳ (-20m) 18:15 WIB 23/07/26 Quarterfinal Women: United States vs China - Volleyball Nations League [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=83a34a50668eae98ca2fcf0ef13930726a3df2bd3aa51205b012f9e1c6888772&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=83a34a50668eae98ca2fcf0ef13930726a3df2bd3aa51205b012f9e1c6888772&waktu=1784806190
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zwqN36ythYahrFZeR359hlw_NvM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204882/5d589e.jpg" group-title="Event-LIVE-NOW", 🔴 18:15 WIB 23/07/26 Quarterfinal Women: United States vs China - Volleyball Nations League [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=af1672602d589a893e2950cc933cb0e80d0a77115e581faf261d678a6d284abc&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=af1672602d589a893e2950cc933cb0e80d0a77115e581faf261d678a6d284abc&waktu=1784804090
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5ZQq0jgf9vO4S_53yo2f-69qStU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5203644/be99b8.jpg" group-title="Event-LIVE-NOW", ⏳ (-9j 5m) 03:00 WIB 24/07/26 Round 1 - 3M Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5a9a7bfd194dbd3e750f2e0062bbbdf0ba4b644818b9b00fad43b9eb65f96e78&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5a9a7bfd194dbd3e750f2e0062bbbdf0ba4b644818b9b00fad43b9eb65f96e78&waktu=1784806190
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/tk9cDfkZzvzczdUB9JX9VgFHPqE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204386/4f3914.jpg" group-title="Event-LIVE-NOW", 🔴 18:24 WIB 23/07/26 Men: Philippines vs Cambodia - SEA V CUP [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://malingpunya.ervinkasep01.workers.dev/21811.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5e5b68586837645ec1348de064712d2622505b80cf84f1f62df8828c3bc49199&waktu=1784806190
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/tk9cDfkZzvzczdUB9JX9VgFHPqE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204386/4f3914.jpg" group-title="Event-LIVE-NOW", 🔴 18:24 WIB 23/07/26 Men: Philippines vs Cambodia - SEA V CUP [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18189.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5fec0050386c2b764af99cbc5f53f88596ce3b2ea87515bb7c0e5e348726e35d&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/18189.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5fec0050386c2b764af99cbc5f53f88596ce3b2ea87515bb7c0e5e348726e35d&waktu=1784804090
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0hqYTEFCQnBmNQBibZDdkNpTPy0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204864/64acc4.jpg" group-title="Event-LIVE-NOW", ⏳ (-21j 0m) 14:55 WIB 24/07/26 Practice - FIA Formula 3 Championship Hungary Grand Prix 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5e5b68586837645ec1348de064712d2622505b80cf84f1f62df8828c3bc49199&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5e5b68586837645ec1348de064712d2622505b80cf84f1f62df8828c3bc49199&waktu=1784806190
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5ZQq0jgf9vO4S_53yo2f-69qStU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5203644/be99b8.jpg" group-title="Event-LIVE-NOW", ⏳ (-8j 30m) 03:00 WIB 24/07/26 Round 1 - 3M Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=7193c6bb2dcdc75fc7c3d7b119dfefc782164e35e9206d179333b5e86d1dbde7&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=7193c6bb2dcdc75fc7c3d7b119dfefc782164e35e9206d179333b5e86d1dbde7&waktu=1784804090
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4YkFKfbApA5P1TftC4Iec87LEZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5205632/b7b21e.jpg" group-title="Event-LIVE-NOW", ⏳ (-2h 1j) 19:00 WIB 25/07/26 Semifinal - WTA 250: MSC Hamburg Ladies Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18189.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3bdc632dae1a55e0961d8201448fbe793713e80ab631c508f9871a3a302195c1&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/18189.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3bdc632dae1a55e0961d8201448fbe793713e80ab631c508f9871a3a302195c1&waktu=1784806190
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0hqYTEFCQnBmNQBibZDdkNpTPy0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204864/64acc4.jpg" group-title="Event-LIVE-NOW", ⏳ (-20j 25m) 14:55 WIB 24/07/26 Practice - FIA Formula 3 Championship Hungary Grand Prix 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20564.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2d421a954503c21189b1626917edd3e776d5ed98646fe7c0a25d56278cd4aae5&waktu=1784804090
-https://malingpunya.ervinkasep01.workers.dev/20564.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2d421a954503c21189b1626917edd3e776d5ed98646fe7c0a25d56278cd4aae5&waktu=1784804090
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=32a7fbbe2e14df9ff438c1a331e9e0066d8aefcac9a5776865371af3afbac315&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=32a7fbbe2e14df9ff438c1a331e9e0066d8aefcac9a5776865371af3afbac315&waktu=1784806190
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4YkFKfbApA5P1TftC4Iec87LEZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5205632/b7b21e.jpg" group-title="Event-LIVE-NOW", ⏳ (-2h 0j) 19:00 WIB 25/07/26 Semifinal - WTA 250: MSC Hamburg Ladies Open 2026 [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20564.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=929d8b376a6642ccfe6e46ed0572424705407931bc21f6799d31e6cea027c00f&waktu=1784806190
+https://malingpunya.ervinkasep01.workers.dev/20564.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=929d8b376a6642ccfe6e46ed0572424705407931bc21f6799d31e6cea027c00f&waktu=1784806190
 #EXTINF:-1 tvg-expire="1784814300" tvg-start="1784806200" tvg-uid="fee525ec943086b573743c50580b2aaa" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/3bf715619e05e62838b95c704fc6ff67-thumbnail.jpg" group-title="Event-LIVE-NOW",[🟡 PRE-SHOW 18:30 WIB] [Volleyball] QF: USA vs. China (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/womensvnl/2026-07-23/qf:-chi.m3u8
-#EXTINF:-1 tvg-uid="92ff3ea375a0c0159b8f8c009ddb9900" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/NI1BRGbuU9FiQNnwv5amoNUH6oU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207284/1a3e79.jpg" group-title="Event-LIVE-NOW", 🔴 08:00 WIB 23/07/26 Chen Bo Yang/Liu Yi (CHN) vs Raymond Indra/Nikolaus Joaquin (INA) - Men's Doubles Round of 16 | VICTOR China Open 2026 [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18250.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=cfb75b8fc84b98afc5ca18ec3476c07de0f7abef42f9d71240d686705cda4f77&waktu=1784803672
-https://malingpunya.ervinkasep01.workers.dev/18250.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=cfb75b8fc84b98afc5ca18ec3476c07de0f7abef42f9d71240d686705cda4f77&waktu=1784803672
 #EXTINF:-1 tvg-uid="b4696abef6077c68e8050b8b21abf81f" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/fb26TzzwvwWLabOyZ5fgKqi-i34=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207287/3c909c.jpg" group-title="Event-LIVE-NOW", 🔴 08:00 WIB 23/07/26 Lakshya Sen (IND) vs Victor Lai (CAN) - Men's Singles Round of 16 | VICTOR China Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -378,17 +411,26 @@ https://malingpunya.ervinkasep01.workers.dev/18250.mpd?nomor_whatsapp_ane=63_955
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=47daf897a2873247304e824071b43739e0537351ad437b285b4041cd4dd078e6&waktu=1784803672
-https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=47daf897a2873247304e824071b43739e0537351ad437b285b4041cd4dd078e6&waktu=1784803672
-#EXTINF:-1 tvg-uid="061819e77e8c58800edb36a74f3df83e" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wkFWRuekN1nibHQBL9sHbZy9wJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207271/f5e694.jpg" group-title="Event-LIVE-NOW", 🔴 08:30 WIB 23/07/26 Hinata Suzuki/Nao Yamakita (JPN) vs Yuki Fukushima/Mayu Matsumoto (JPN) - Women's Doubles Round of 16 | VICTOR China Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=239a0fe9212068415582808472040707bbb30743d60b65fd0e39d0b0987b86f3&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=239a0fe9212068415582808472040707bbb30743d60b65fd0e39d0b0987b86f3&waktu=1784805882
+#EXTINF:-1 tvg-uid="977e303f7a5d94796df8cd6166ab951c" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gQTEnD00zSROfkseEsARIMATFGE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207285/9c5f10.jpg" group-title="Event-LIVE-NOW", 🔴 08:00 WIB 23/07/26 Putri Kusuma Wardani (INA) vs Busanan Ongbamrungphan (THA) - Women's Singles Round of 16 | VICTOR China Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18252.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=82348e4324c312cfbdca9200d8966f8b3c5e3aa1efb4e4e932e78a550f90cb5e&waktu=1784803672
-https://malingpunya.ervinkasep01.workers.dev/18252.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=82348e4324c312cfbdca9200d8966f8b3c5e3aa1efb4e4e932e78a550f90cb5e&waktu=1784803672
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18250.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c6026d854c352f3ed9253df72ac72980953d82371dd70279e82697e40371a2d2&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/18250.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c6026d854c352f3ed9253df72ac72980953d82371dd70279e82697e40371a2d2&waktu=1784805882
+#EXTINF:-1 tvg-uid="558ae7c22b93caf63924e5d1a0243199" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/t-gYYXAc6sbFW4HVIbn_1ZXEorA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207272/bb4388.jpg" group-title="Event-LIVE-NOW", 🔴 08:30 WIB 23/07/26 Polina Buhrova/Yevheniia Kantemyr (UKR) vs Pearly Tan/Thinaah Muralitharan (MAS) - Women's Doubles Round of 16 | VICTOR China Open 2026 [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18252.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0d402ba7e98e17e245d3c717876cfbaf5e1ba8544408743426674a65dfd155b0&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/18252.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=0d402ba7e98e17e245d3c717876cfbaf5e1ba8544408743426674a65dfd155b0&waktu=1784805882
 #EXTINF:-1 tvg-uid="8cfba32e760ef8ef882cda7d578f33ab" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Htjs6lSzqaIC08pgLAZQvF-XJs8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5203183/296afd.jpg" group-title="Event-LIVE-NOW", 🔴 14:30 WIB 23/07/26 Round 1 - ISPS HANDA Women's Scottish Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -396,14 +438,14 @@ https://malingpunya.ervinkasep01.workers.dev/18252.mpd?nomor_whatsapp_ane=63_955
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=7a95a7d30e08bd97e3b83a1fd3bc0d0693a367f27c109b418385e43867a056c7&waktu=1784803672
-https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=7a95a7d30e08bd97e3b83a1fd3bc0d0693a367f27c109b418385e43867a056c7&waktu=1784803672
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=63b4bf4737a26825fa5f0a859d1f613a5440040eeba725ff306b9294a7561410&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=63b4bf4737a26825fa5f0a859d1f613a5440040eeba725ff306b9294a7561410&waktu=1784805882
 #EXTINF:-1 tvg-uid="1f01322959b1150e368fb6c5d5c10580" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sfXmBK8M46LI1Y3cjJKeQECP0Xs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204385/3caf88.jpg" group-title="Event-LIVE-NOW", 🔴 15:00 WIB 23/07/26 Men: Thailand vs Vietnam - SEA V CUP [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/21811.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f40e7296e98ce4acdfc9b4150746379de28580562797c51bae152638f2fdfa62&waktu=1784803672
+https://malingpunya.ervinkasep01.workers.dev/21811.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5ad1136a440b79b54b8b4e3a0eaa53d86cc5042a39402dd00c4135f3e1b87c0b&waktu=1784805882
 #EXTINF:-1 tvg-uid="aa4ff6955b07ff6c427528f1d816d429" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sfXmBK8M46LI1Y3cjJKeQECP0Xs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204385/3caf88.jpg" group-title="Event-LIVE-NOW", 🔴 15:00 WIB 23/07/26 Men: Thailand vs Vietnam - SEA V CUP [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -411,17 +453,8 @@ https://malingpunya.ervinkasep01.workers.dev/21811.m3u8?nomor_whatsapp_ane=63_95
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f40e7296e98ce4acdfc9b4150746379de28580562797c51bae152638f2fdfa62&waktu=1784803672
-https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f40e7296e98ce4acdfc9b4150746379de28580562797c51bae152638f2fdfa62&waktu=1784803672
-#EXTINF:-1 tvg-uid="27a8fcb5d35de847addc94597f9d5946" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lEqdFPgRuGduTG0aGzBTVPZ7NQc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204380/2c5957.jpg" group-title="Event-LIVE-NOW", 🔴 16:00 WIB 23/07/26 Round of 16 - WTA 250: Livesport Prague Open 2026 [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=fe131c5ce7778d33a7a63a1b10d4111a6c0ac3ad5b1dc4e9118acbd65c209209&waktu=1784803672
-https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=fe131c5ce7778d33a7a63a1b10d4111a6c0ac3ad5b1dc4e9118acbd65c209209&waktu=1784803672
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5ad1136a440b79b54b8b4e3a0eaa53d86cc5042a39402dd00c4135f3e1b87c0b&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5ad1136a440b79b54b8b4e3a0eaa53d86cc5042a39402dd00c4135f3e1b87c0b&waktu=1784805882
 #EXTINF:-1 tvg-uid="b1d07f7fabfe84f5a7c412a5c24380a6" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/djzQX1EnyMSq_CATnC7T_xYMF38=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5203185/6b0023.jpg" group-title="Event-LIVE-NOW", 🔴 16:00 WIB 23/07/26 Round of 16 - WTA 250: MSC Hamburg Ladies Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -429,8 +462,17 @@ https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b5ecb705cffee06f004d02ec431598a39c729a922e3288abc6a2878375156e35&waktu=1784803672
-https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b5ecb705cffee06f004d02ec431598a39c729a922e3288abc6a2878375156e35&waktu=1784803672
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e339294b4eb727465cbd27d5f2020b420027ed67536e5926f8a3a6341cb18a14&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e339294b4eb727465cbd27d5f2020b420027ed67536e5926f8a3a6341cb18a14&waktu=1784805882
+#EXTINF:-1 tvg-uid="27a8fcb5d35de847addc94597f9d5946" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lEqdFPgRuGduTG0aGzBTVPZ7NQc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204380/2c5957.jpg" group-title="Event-LIVE-NOW", 🔴 16:00 WIB 23/07/26 Round of 16 - WTA 250: Livesport Prague Open 2026 [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=84f3c2f2f18b467f7356d37d73766dab0e6346dbf8bf937ad8a3f4e0f09254be&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=84f3c2f2f18b467f7356d37d73766dab0e6346dbf8bf937ad8a3f4e0f09254be&waktu=1784805882
 #EXTINF:-1 tvg-uid="7c72edfc27ee37f4c586b324eb471da2" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0GXFcgfprzhDaaNlewiOg10r0BA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207290/f8e991.jpg" group-title="Event-LIVE-NOW", 🔴 17:45 WIB 23/07/26 Yannick Hanfmann vs Sebastian Baez - Quarter Finals | ATP 250: Generali Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -438,19 +480,37 @@ https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=7f6464e12add83e41b5abd0a81b960cec8c0109001b7550512671a0662ef9246&waktu=1784803672
-https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=7f6464e12add83e41b5abd0a81b960cec8c0109001b7550512671a0662ef9246&waktu=1784803672
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=fe62f88f34dbd2b0611fed7a9791f21efd36afd90f28d545e94765c786e70b3e&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=fe62f88f34dbd2b0611fed7a9791f21efd36afd90f28d545e94765c786e70b3e&waktu=1784805882
+#EXTINF:-1 tvg-uid="66888ade410ec1d7cc5b65cf665a570b" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/oEafHNK5y3IQ1mgpg3AoJbItjl0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207293/ba66b9.jpg" group-title="Event-LIVE-NOW", 🔴 18:00 WIB 23/07/26 Luca Van Assche vs Pablo Carreno Busta - Round 2 | ATP 250: Millennium Estoril Open 2026 [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=ef207fc758a714fc88c62d26a31e52fd31399787db80a290b579b505e33d478e&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=ef207fc758a714fc88c62d26a31e52fd31399787db80a290b579b505e33d478e&waktu=1784805882
+#EXTINF:-1 tvg-uid="85c0b8e7b979ebf592c1e6139de98ada" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zwqN36ythYahrFZeR359hlw_NvM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204882/5d589e.jpg" group-title="Event-LIVE-NOW", 🔴 18:15 WIB 23/07/26 Quarterfinal Women: United States vs China - Volleyball Nations League [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=50285fbcfcaa7495bc7e21bf1c072a995862edd76214f91fa45ba9dbc3890a45&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=50285fbcfcaa7495bc7e21bf1c072a995862edd76214f91fa45ba9dbc3890a45&waktu=1784805882
 #EXTINF:-1 tvg-uid="1f01322959b1150e368fb6c5d5c10580" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sfXmBK8M46LI1Y3cjJKeQECP0Xs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204385/3caf88.jpg" group-title="Event-LIVE-NOW", 🔴 15:00 WIB 23/07/26 Men: Thailand vs Vietnam - SEA V CUP [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-https://malingpunya.ervinkasep01.workers.dev/21811.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f40e7296e98ce4acdfc9b4150746379de28580562797c51bae152638f2fdfa62&waktu=1784803672
+https://malingpunya.ervinkasep01.workers.dev/21811.m3u8?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5ad1136a440b79b54b8b4e3a0eaa53d86cc5042a39402dd00c4135f3e1b87c0b&waktu=1784805882
 #EXTINF:-1 tvg-uid="5e1e1b2be09274b6683167afde4f6c9e" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/j1l4rjdhwwor7vx/image/small" group-title="Event-LIVE-NOW",22:30 WIB 23/07 - NU COLOMBIA VS NU ECUADOR [COP]
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=dded97e1f51a63afad674e23588eb688&wsABSTime=1784846873
+https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=9ec91049442fe003edcc469518405ed4&wsABSTime=1784849083
 #EXTINF:-1 tvg-uid="3b22b2277535ce2d4846b37d758699ab" data-source="VolleyballChuoiChien" tvg-logo="https://media.chuoichientv.net/media/20260714_210317_294a4162.webp" group-title="Event-LIVE-NOW",[⏳ UPCOMING 19:00 WIB] [SEA V CUP 2026] Cambodia vs Philippines (HD1 - Chuối Già)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
@@ -466,43 +526,13 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=21811&ext=drm&x=1784813845&k=bdc8bf27fe57dd7349f92574d7202c72a5d0c11e32e6103434be8d1816e72091
-https://vididi.bonetvstream.workers.dev/index.mpd?q=21811&ext=dash&x=1784813845&k=d1f289a84ecb1241b9a6c545eefb4c76257e8af75fa7529871df283e007151e2&sc=5204862
+#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.bonetvkoe.web.id/index.mpd?q=21811&ext=drm&x=1784816354&k=4f7ad4785b4ed57762ba32a649528a8d493a4db2763cce70c3c746b43fe3c7aa
+https://streamvididi.bonetvkoe.web.id/index.mpd?q=21811&ext=dash&x=1784816354&k=510913bf4352eb09940018f52a39d501ca1f4e1e0b71303b0942d4ee1921aa2a&sc=5204862
 #EXTINF:-1 tvg-uid="096a4e43e63a454e635ae2d2cc993873" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/64a863f28efc1a76f0bc1a803ffbedf0-thumbnail.jpg" group-title="Event-LIVE-NOW",[🔴 LIVE 15:00 WIB] [Volleyball] QF: Türkiye vs. Canada (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/womensvnl/2026-07-23/qf:-can.m3u8
-#EXTINF:-1 tvg-uid="c1b51ed0935de727e40e37bbd1809242" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/64a863f28efc1a76f0bc1a803ffbedf0-thumbnail.jpg" group-title="Event-LIVE-NOW",[🔴 LIVE 15:00 WIB] [Volleyball] QF: Türkiye vs. Canada (Server 2 - Polsat Sport 1 Poland)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/47.m3u8
-#EXTINF:-1 tvg-uid="83d7e32c1f94586d7567d15e0772b7f6" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/64a863f28efc1a76f0bc1a803ffbedf0-thumbnail.jpg" group-title="Event-LIVE-NOW",[🔴 LIVE 15:00 WIB] [Volleyball] QF: Türkiye vs. Canada (Server 3 - Arena 2 Premium Serbia)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/135.m3u8
-#EXTINF:-1 tvg-uid="0412085f0fe038df8eb265f8ecc20c48" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/64a863f28efc1a76f0bc1a803ffbedf0-thumbnail.jpg" group-title="Event-LIVE-NOW",[🔴 LIVE 15:00 WIB] [Volleyball] QF: Türkiye vs. Canada (Server 4 - TRT Spor Türkiye)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/889.m3u8
-#EXTINF:-1 tvg-uid="1fece5cef933db36bf1220c4c2cabeb5" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/64a863f28efc1a76f0bc1a803ffbedf0-thumbnail.jpg" group-title="Event-LIVE-NOW",[🔴 LIVE 15:00 WIB] [Volleyball] QF: Türkiye vs. Canada (Server 5 - Polsat Sport Extra 2 Poland)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/992.m3u8
-#EXTINF:-1 tvg-uid="cc745778a219e4e32aa1e5df8ec910b0" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/64a863f28efc1a76f0bc1a803ffbedf0-thumbnail.jpg" group-title="Event-LIVE-NOW",[🔴 LIVE 15:00 WIB] [Volleyball] QF: Türkiye vs. Canada (Server 6 - SportKlub 1 Croatia)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/101.m3u8
-#EXTINF:-1 tvg-uid="515b0beb9ce16015cc770e1caaa57eec" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/64a863f28efc1a76f0bc1a803ffbedf0-thumbnail.jpg" group-title="Event-LIVE-NOW",[🔴 LIVE 15:00 WIB] [Volleyball] QF: Türkiye vs. Canada (Server 7 - MAX Sport 2 Bulgaria)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/473.m3u8
 #EXTINF:-1 tvg-uid="fee525ec943086b573743c50580b2aaa" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/3bf715619e05e62838b95c704fc6ff67-thumbnail.jpg" group-title="Event-LIVE-NOW",[🟡 PRE-SHOW 18:30 WIB] [Volleyball] QF: USA vs. China (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
@@ -515,13 +545,8 @@ https://damitv2.bonekoetv.workers.dev/play/womensvnl/2026-07-23/qf:-chi.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f40e7296e98ce4acdfc9b4150746379de28580562797c51bae152638f2fdfa62&waktu=1784803672
-https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f40e7296e98ce4acdfc9b4150746379de28580562797c51bae152638f2fdfa62&waktu=1784803672
-#EXTINF:-1 tvg-uid="eeab8760bd66d3afaa542309d57e16d6" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/8y39mpwh29pqojx/image/small" group-title="Event-LIVE-NOW",[🔴 LIVE] 15:30 WIB 23/07 - THAI LAN VS VIET NAM [SEA]
-#EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
-#EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=c28a300ab9d78dc5ccf64db640683234&wsABSTime=1784846872
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5ad1136a440b79b54b8b4e3a0eaa53d86cc5042a39402dd00c4135f3e1b87c0b&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5ad1136a440b79b54b8b4e3a0eaa53d86cc5042a39402dd00c4135f3e1b87c0b&waktu=1784805882
 #EXTINF:-1 tvg-uid="58c745daf7751aed64715cd85eea6dcf" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/p4jwq23h3l4r0ve/image/small" group-title="Event-LIVE-NOW",18:30 WIB 23/07 - NU USA VS NU TRUNG QUOC [NAT]
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
@@ -531,60 +556,50 @@ https://live2.streambylivepulse.com/live/channel33.flv
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=6b23a97c69e2043d386d575437ede166&wsABSTime=1784846873
+https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=1adda0564f14a58f7560dadffce4b11a&wsABSTime=1784849083
 #EXTINF:-1 tvg-uid="15ce6e8a15092c847e4799faeb2699c5" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/vjxm8lhkdopq6od/image/small" group-title="Event-LIVE-NOW",01:00 WIB 24/07 - NU CHILE VS NU BOLIVIA [COP]
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=dded97e1f51a63afad674e23588eb688&wsABSTime=1784846873
+https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=9ec91049442fe003edcc469518405ed4&wsABSTime=1784849083
 #EXTINF:-1 tvg-uid="c27b3725f149e69f6462ae36a7996a22" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/kjw2r0nhoe0qz84/image/small" group-title="Event-LIVE-NOW",03:30 WIB 24/07 - NU ARGENTINA VS NU VENEZUELA [COP]
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=dded97e1f51a63afad674e23588eb688&wsABSTime=1784846873
-#EXTINF:-1 tvg-uid="cc9ec1f541145f0cd3f2e5e2a3fababe" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg" group-title="Event-LIVE-NOW",[15:00 WIB] [Volleyball Nations League] Turkey W vs Canada W (Fawa)
+https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=9ec91049442fe003edcc469518405ed4&wsABSTime=1784849083
+#EXTINF:-1 tvg-uid="c3e9bab0e7ee8ef9882965765b78be3a" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg" group-title="Event-LIVE-NOW",[18:30 WIB] [Volleyball Nations League] USA W vs China W (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.41/hls/GAAAAQQq.m3u8
-#EXTINF:-1 tvg-uid="22b36f29000062758d2e5b77a14a6e53" data-source="VolleyballChuoiChien" tvg-logo="https://media.chuoichientv.net/media/20260714_210317_294a4162.webp" group-title="Event-LIVE-NOW",[🔴 LIVE 15:30 WIB] [SEA V CUP 2026] Việt Nam vs Thailand (HD1 - Chuối Tây)
+#EXTINF:-1 tvg-uid="b7a940f94ea1d261276544804418be2a" data-source="VolleyballChuoiChien" tvg-logo="https://media.chuoichientv.net/media/20260531_044110_71c79851.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:30 WIB] [Nations League Women] USA W vs China W (HD1 - Chuối Tây)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-uid="00368d0f20e935fe4f653980d8f05b42" data-source="VolleyballChuoiChien" tvg-logo="https://media.chuoichientv.net/media/20260714_210317_294a4162.webp" group-title="Event-LIVE-NOW",[🔴 LIVE 15:30 WIB] [SEA V CUP 2026] Việt Nam vs Thailand (FHD1 - Chuối Tây)
+#EXTINF:-1 tvg-uid="046b5d93df286e24fffe65ec8556e386" data-source="VolleyballChuoiChien" tvg-logo="https://media.chuoichientv.net/media/20260531_044110_71c79851.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:30 WIB] [Nations League Women] USA W vs China W (FHD1 - Chuối Tây)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-uid="0c9eceba790fca0b459bb92080a14402" data-source="VolleyballChuoiChien" tvg-logo="https://media.chuoichientv.net/media/20260531_044110_71c79851.png" group-title="Event-LIVE-NOW",[⏳ UPCOMING 18:30 WIB] [Nations League Women] USA W vs China W (HD1 - Chuối Tây)
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-uid="277fbdfdd24d6b62b21fbafb6e91d97e" data-source="VolleyballChuoiChien" tvg-logo="https://media.chuoichientv.net/media/20260531_044110_71c79851.png" group-title="Event-LIVE-NOW",[⏳ UPCOMING 18:30 WIB] [Nations League Women] USA W vs China W (FHD1 - Chuối Tây)
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-uid="5ebb7fbdeba9b4ebbd669ae94e5b4b68" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zwqN36ythYahrFZeR359hlw_NvM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204882/5d589e.jpg" group-title="Event-LIVE-NOW", ⏳ (-27m) 18:15 WIB 23/07/26 Quarterfinal Women: United States vs China - Volleyball Nations League [J1]
+#EXTINF:-1 tvg-uid="85c0b8e7b979ebf592c1e6139de98ada" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zwqN36ythYahrFZeR359hlw_NvM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204882/5d589e.jpg" group-title="Event-LIVE-NOW", 🔴 18:15 WIB 23/07/26 Quarterfinal Women: United States vs China - Volleyball Nations League [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=7b6160a4539faa5fc4f9f5c58cb9aa616f9b2135f2c6989e43b4f6384441176d&waktu=1784803672
-https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=7b6160a4539faa5fc4f9f5c58cb9aa616f9b2135f2c6989e43b4f6384441176d&waktu=1784803672
-#EXTINF:-1 tvg-uid="13b15b9deecc4780b59e964fe6b01bd5" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0hqYTEFCQnBmNQBibZDdkNpTPy0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204864/64acc4.jpg" group-title="Event-LIVE-NOW", ⏳ (-21j 7m) 14:55 WIB 24/07/26 Practice - FIA Formula 3 Championship Hungary Grand Prix 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=50285fbcfcaa7495bc7e21bf1c072a995862edd76214f91fa45ba9dbc3890a45&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=50285fbcfcaa7495bc7e21bf1c072a995862edd76214f91fa45ba9dbc3890a45&waktu=1784805882
+#EXTINF:-1 tvg-uid="8dd854b5dcab2239a0497acd58ee50fd" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0hqYTEFCQnBmNQBibZDdkNpTPy0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204864/64acc4.jpg" group-title="Event-LIVE-NOW", ⏳ (-20j 30m) 14:55 WIB 24/07/26 Practice - FIA Formula 3 Championship Hungary Grand Prix 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2143351a0d6d2667f43434edc204860cd9e467a91cea045a106df508a3540f3c&waktu=1784803672
-https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2143351a0d6d2667f43434edc204860cd9e467a91cea045a106df508a3540f3c&waktu=1784803672
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=000318e68b2db1ae99ebbfbd6b27d1eccb059145dc4814f6ac69edf4a6ef932f&waktu=1784805882
+https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=000318e68b2db1ae99ebbfbd6b27d1eccb059145dc4814f6ac69edf4a6ef932f&waktu=1784805882
 #EXTINF:-1 tvg-uid="0502c67c6e865f6a8ea9093f3a9ca721" data-source="Cdnsports" tvg-name="UFC 1 (Solo Eventos)" group-title="Event-LIVE-NOW",UFC 1 (Solo Eventos)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
@@ -598,32 +613,22 @@ https://cdnlivetv.is/secure/api/v1/6a288d2b81d8192bb76cc746/playlist.m3u8?token=
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/dl-tennis-hamburg-european-open-women-s-tennis-19-26-july-2026.m3u8
-#EXTINF:-1 tvg-uid="c1b51ed0935de727e40e37bbd1809242" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/64a863f28efc1a76f0bc1a803ffbedf0-thumbnail.jpg" group-title="Event-LIVE-NOW",[🔴 LIVE 15:00 WIB] [Volleyball] QF: Türkiye vs. Canada (Server 2 - Polsat Sport 1 Poland)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/47.m3u8
 #EXTINF:-1 tvg-uid="63f529ccbe8756dfa981210ed1a833f9" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 15:00 WIB] [tennis] Hamburg European Open (Women's Tennis) | 19–26 July 2026 (Server 2 - Sky Sports Tennis DE)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/884.m3u8
-#EXTINF:-1 tvg-expire="1784803800" tvg-start="1784795400" tvg-uid="d92dd47043067344907ee2e797695fca" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 15:30 WIB] [⛳ lpga tour] Isps Handa Women's Scottish Open – Day 1 (Server 11 - Ziggo Sport 6 Netherlands)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
-#EXTINF:-1 tvg-expire="1784803800" tvg-start="1784795400" tvg-uid="57999f854c2d5c72c00ecb42a2310f97" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 15:30 WIB] [⛳ lpga tour] Isps Handa Women's Scottish Open – Day 1 (Server 13 - MAX Sport 4 Bulgaria)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/475.m3u8
 #EXTINF:-1 tvg-expire="1784813400" tvg-start="1784806200" tvg-uid="58c745daf7751aed64715cd85eea6dcf" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/p4jwq23h3l4r0ve/image/small" group-title="Event-LIVE-NOW",18:30 WIB 23/07 - NU USA VS NU TRUNG QUOC [NAT]
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://live2.streambylivepulse.com/live/channel33.flv
-#EXTINF:-1 tvg-uid="cc9ec1f541145f0cd3f2e5e2a3fababe" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg" group-title="Event-LIVE-NOW",[15:00 WIB] [Volleyball Nations League] Turkey W vs Canada W (Fawa)
+#EXTINF:-1 tvg-expire="1784815200" tvg-start="1784808000" tvg-uid="764983fc993d981ed82e16894e5e4355" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/9dn1m1nhwpgqoep/image/small" group-title="Event-LIVE-NOW",19:00 WIB 23/07 - PHILIPPINES VS CAMPUCHIA [SEA]
+#EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
+#EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=1adda0564f14a58f7560dadffce4b11a&wsABSTime=1784849083
+#EXTINF:-1 tvg-uid="c3e9bab0e7ee8ef9882965765b78be3a" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg" group-title="Event-LIVE-NOW",[18:30 WIB] [Volleyball Nations League] USA W vs China W (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -671,6 +676,8 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=585566765f155b1700550c5f5e33455b:5267785114554452530b515a654f0805
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80",07:00 | Tauranga Whai vs Southland Sharks
+https://live05.meung.app/live/90865415.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku (Lương Sơn) BLV PELE m3u
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku (Lương Sơn) BLV PELE flv
@@ -679,6 +686,10 @@ https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de
 https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vilniaus Baltijos Futbolo Akademija vs Kauno Zalgiris (Lương Sơn) BLV LÝ ỨNG flv
 https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku [BLV ANH TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782232162-0-0-d12353372aefcfda076ad6966c878255
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku [BLV ANH TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782232162-0-0-d0d87070e955fc9df64188fc31adad60
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) m3u8
 https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782232522-0-0-2b6cc00beb99e824aa1924926b75ae7b
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) hdM3u8
