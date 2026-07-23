@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Alice-Rame?mid=5127391&q=sd&exp=1784847050&sig=f0116c094944cdd25d56320334960311056c09c396bd2577989a6e46f9035229
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Miriam-Bianca-Bulgaru?mid=5127392&q=sd&exp=1784847050&sig=482dfecc6208e1d87c6dd2941e3d0916514fe103ac93342e37925b418b7c0c90
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/badminton.png", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://play.cbalive.weibisai.com/
@@ -90,6 +82,14 @@ https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Sara-Bejlek?mid=
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Alice-Rame?mid=5127391&q=sd&exp=1784847050&sig=f0116c094944cdd25d56320334960311056c09c396bd2577989a6e46f9035229
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Miriam-Bianca-Bulgaru?mid=5127392&q=sd&exp=1784847050&sig=482dfecc6208e1d87c6dd2941e3d0916514fe103ac93342e37925b418b7c0c90
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Baseball/San-Diego-Padres?mid=4999014&q=sd&exp=1784844350&sig=c2e853961f2cf5f6ba1c0dc598fdb7b021b6c4e864476a273c004adab1282f18
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -98,72 +98,81 @@ https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Lucas-Miedler-%2
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Baseball/Minnesota-Twins?mid=4935033&q=sd&exp=1784847708&sig=0f19500b30a53b88880093d9a0be036272c065a810027a5c3aab00030255a965
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Timofey-Skatov?mid=5125630&q=sd&exp=1784845197&sig=331669e5c629bc68d3bbd64f4a52b6ddf4e1bdc6821ca8ca2c564c51a6100342
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="41c5622497c605ff9279627b87034b37" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 3 - Ziggo Sport 6 Netherlands)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="e00872df14f07fe5d307e2be4e32ac2c" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 2 - Sky Sports+ UK)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/36.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="b9f4a62850f7246a7718f19ffbf5fb17" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 4 - Sky Sports Golf UK)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/70.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="8fe69b92003214ff14934472b4257a46" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 7 - Movistar Golf)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/528.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="92d9726436933739dd6f8f07a4f8a109" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 5 - GOLF Channel USA)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/318.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="cb5a4c335e7a291e9f81cba3d8ed027e" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 6 - Sky Sport Golf Germany)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/785.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="6c7db72e2366b631411c47a8b8ca9478" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 8 - Sky Sports Main Event UK)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/38.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="01ca30b751cca52f74561e476344b69a" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 9 - ESPN Deportes)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/375.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="363ee1e7938996ff790627597bd36724" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 10 - Sky Sport 1 NZ)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/588.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="e04c1ad6fa24c5f22d98c0152c54e5c4" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 11 - Eurosport 2 Sweden)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/232.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="352f4d450918c8b2e41aa43ea0180df5" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 12 - SuperSport Golf)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/422.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="7c7be9bf05caf2d3571bf784e1acfa65" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 13 - Sport Klub Golf Croatia)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/710.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="04aab2c90f0701ebebb95264d111785a" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 1 - Master)
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="04aab2c90f0701ebebb95264d111785a" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/dl-golf-3m-open-day-1.m3u8
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="41c5622497c605ff9279627b87034b37" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 3 - Ziggo Sport 6 Netherlands)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="e00872df14f07fe5d307e2be4e32ac2c" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 2 - Sky Sports+ UK)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/36.m3u8
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="b9f4a62850f7246a7718f19ffbf5fb17" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 4 - Sky Sports Golf UK)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/70.m3u8
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="8fe69b92003214ff14934472b4257a46" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 7 - Movistar Golf)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/528.m3u8
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="92d9726436933739dd6f8f07a4f8a109" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 5 - GOLF Channel USA)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/318.m3u8
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="cb5a4c335e7a291e9f81cba3d8ed027e" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 6 - Sky Sport Golf Germany)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/785.m3u8
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="6c7db72e2366b631411c47a8b8ca9478" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 8 - Sky Sports Main Event UK)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/38.m3u8
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="01ca30b751cca52f74561e476344b69a" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 9 - ESPN Deportes)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/375.m3u8
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="363ee1e7938996ff790627597bd36724" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 10 - Sky Sport 1 NZ)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/588.m3u8
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="e04c1ad6fa24c5f22d98c0152c54e5c4" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 11 - Eurosport 2 Sweden)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/232.m3u8
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="352f4d450918c8b2e41aa43ea0180df5" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 12 - SuperSport Golf)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/422.m3u8
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="7c7be9bf05caf2d3571bf784e1acfa65" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 13 - Sport Klub Golf Croatia)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/710.m3u8
+#EXTINF:-1 tvg-uid="27a0e710bc6573d983aa810833a52bff" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 00:00 WIB] [tennis] Cincinnati Open (Tennis) | Cincinnati, Oh, USA | 11–23 August 2026 (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/dl-tennis-cincinnati-open-tennis-cincinnati-oh-usa-11-23-august.m3u8
 #EXTINF:-1 tvg-uid="883275c02f469886e4ab68bea4fedc3a" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/oLX14yRu93yOppi1RxJM4mBSlRs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5207286/1617a5.jpg" group-title="Event-LIVE-NOW", 🔴 08:00 WIB 23/07/26 Baek Ha Na/Lee So Hee (KOR) vs Sayaka Hirota/Ayako Sakuramoto (JPN) - Women's Doubles Round of 16 | VICTOR China Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -274,8 +283,8 @@ https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.bonetvkoe.web.id/index.mpd?q=21811&ext=drm&x=1784835563&k=f7b9af3091cdde8b2124ad9870015078c2e42274b92a89de93e1b83f2956b4d3
-https://streamvididi.bonetvkoe.web.id/index.mpd?q=21811&ext=dash&x=1784835563&k=4adb5b5ab5e4a83bb90078af38e21f43c90dc9977a9b31b7ce47ed2badd43278&sc=5204862
+#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.bonetvkoe.web.id/index.mpd?q=21811&ext=drm&x=1784838363&k=c76f139be858d8f5b1aed202f9c61085173f886c8f7a1b4e93997e2711d81e7a
+https://streamvididi.bonetvkoe.web.id/index.mpd?q=21811&ext=dash&x=1784838363&k=a905583b88e994d5ec4fe510c330196ac85202f4e1598d032e3d8653f0b494fd&sc=5204862
 #EXTINF:-1 tvg-uid="db05ecf90b4a2758ea65d9c4a0c65950" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="Event-LIVE-NOW", 📺 SEA V Cup 2026 Men (Live) [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -310,23 +319,18 @@ https://malingpunya.ervinkasep01.workers.dev/21811.mpd?nomor_whatsapp_ane=63_955
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=0276949a27bd5ceec4d0b52d51f26b8d&wsABSTime=1784868211
+https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=0d349b636508a61f2485ccb354e4bc52&wsABSTime=1784870490
 #EXTINF:-1 tvg-uid="c27b3725f149e69f6462ae36a7996a22" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/kjw2r0nhoe0qz84/image/small" group-title="Event-LIVE-NOW",03:30 WIB 24/07 - NU ARGENTINA VS NU VENEZUELA [COP]
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=0276949a27bd5ceec4d0b52d51f26b8d&wsABSTime=1784868211
+https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=0d349b636508a61f2485ccb354e4bc52&wsABSTime=1784870490
 #EXTINF:-1 tvg-uid="1a27ba0b6e861326c61bb3708a7ebb3a" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/9dn1m1nhwpgqoep/image/small" group-title="Event-LIVE-NOW",19:00 WIB 24/07 - PHILIPPINES VS INDONESIA [SEA]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-uid="c1d0399b28bcfb496011cbc6b869a887" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/gy0or58h20xrwzv/image/small" group-title="Event-LIVE-NOW",15:30 WIB 24/07 - VIET NAM VS MYANMAR [SEA]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-uid="c56458c549d42d1fdc929894bf5252a0" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/8y39mpwh227qojx/image/small" group-title="Event-LIVE-NOW",22:30 WIB 24/07 - NU VENEZUELA VS NU ECUADOR [COP]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-uid="8313d732fa6b873d97b920722262c916" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/j1l4rjdhwwor7vx/image/small" group-title="Event-LIVE-NOW",[🔴 LIVE] 22:30 WIB 23/07 - NU COLOMBIA VS NU ECUADOR [COP]
-#EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
-#EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=0276949a27bd5ceec4d0b52d51f26b8d&wsABSTime=1784868211
 #EXTINF:-1 tvg-uid="5dc86b1a86b3d532571771899ac63277" data-source="MalingLive" group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0hqYTEFCQnBmNQBibZDdkNpTPy0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204864/64acc4.jpg" group-title="Event-LIVE-NOW", ⏳ (-20j 10m) 14:55 WIB 24/07/26 Practice - FIA Formula 3 Championship Hungary Grand Prix 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -344,21 +348,26 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc744/playlist.m3u8?token=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc746/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNzQ2OjE3ODQ4Mzc1MTI5MTY6Y2RubGl2ZXR2LnR2OjZmZjQ5NDY5YTQ0NjVkMTcuYTdhNmU5MWMwZGExNTVmODE4MTM5MTlmYmM3MDU3MDdmYmUzMzQyOGMzZjBiM2ExYWZiMjE5Y2I2NzE0YTMyOA
-#EXTINF:-1 tvg-expire="1784901900" tvg-start="1784893500" tvg-uid="41c5622497c605ff9279627b87034b37" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 3 - Ziggo Sport 6 Netherlands)
+#EXTINF:-1 tvg-uid="27a0e710bc6573d983aa810833a52bff" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 00:00 WIB] [tennis] Cincinnati Open (Tennis) | Cincinnati, Oh, USA | 11–23 August 2026 (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/dl-tennis-cincinnati-open-tennis-cincinnati-oh-usa-11-23-august.m3u8
+#EXTINF:-1 tvg-expire="1784901900" tvg-start="1784893500" tvg-uid="41c5622497c605ff9279627b87034b37" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 3 - Ziggo Sport 6 Netherlands)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
-#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="41c5622497c605ff9279627b87034b37" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 3 - Ziggo Sport 6 Netherlands)
+#EXTINF:-1 tvg-expire="1784901600" tvg-start="1784893500" tvg-uid="41c5622497c605ff9279627b87034b37" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:45 WIB] [⛳ pga tour] 3m Open – Day 1 (Server 3 - Ziggo Sport 6 Netherlands)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
-#EXTINF:-1 tvg-expire="1784827800" tvg-start="1784820600" tvg-uid="8313d732fa6b873d97b920722262c916" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/j1l4rjdhwwor7vx/image/small" group-title="Event-LIVE-NOW",[🔴 LIVE] 22:30 WIB 23/07 - NU COLOMBIA VS NU ECUADOR [COP]
+#EXTINF:-1 tvg-expire="1784836800" tvg-start="1784829600" tvg-uid="15ce6e8a15092c847e4799faeb2699c5" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/vjxm8lhkdopq6od/image/small" group-title="Event-LIVE-NOW",01:00 WIB 24/07 - NU CHILE VS NU BOLIVIA [COP]
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=0276949a27bd5ceec4d0b52d51f26b8d&wsABSTime=1784868211
+https://live1.streambylivepulse.com/live/channel82.flv?wsSecret=0d349b636508a61f2485ccb354e4bc52&wsABSTime=1784870490
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4271153749260061_AiHD.m3u8?txSecret=26f00d1101d87f15584b123ebee55d96&txTime=6A628EE0
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
@@ -371,18 +380,10 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel62.m3u8
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel63.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Liepaja vs CLB Austria Wien" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F88637a74a2cbd634b8b9504a60d711cd.png%21w80&size=300&scale=1.5", Liepaja vs CLB Austria Wien (UEFA Europa Conference League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.kinxie.com/live/72180114_43ae4d2fba770892a608f86f8ac2f984_autoChange.m3u8?auth_key=1784839870-0-0-532478915f4dd5b4cdfa795898108eae
-#EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F88637a74a2cbd634b8b9504a60d711cd.png%21w80&size=300&scale=1.5", Liepaja vs CLB Austria Wien - BLV MOUNTAIN DEW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Qarabag vs CSKA Sofia" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F1792ba5a12171fedc6d543bdf173f37c.png%21w80&size=300&scale=1.5", Qarabag vs CSKA Sofia (Europa League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/72179162_7fa23bd66773e96900fcc2e550095040_autoChange.m3u8?auth_key=1784840016-0-0-dd3a0e2c96322c7105d0037cc90d1fd0
+https://live.kinxie.com/live/72179162_7fa23bd66773e96900fcc2e550095040_autoChange.m3u8?auth_key=1784841981-0-0-656e53f17df4c60bae2c7eef855bfe40
 #EXTINF:-1 tvg-id="" tvg-name="BLV GIÀ LÀNG" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F1792ba5a12171fedc6d543bdf173f37c.png%21w80&size=300&scale=1.5", Qarabag vs CSKA Sofia - BLV GIÀ LÀNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -390,7 +391,7 @@ https://live05.meung.app/live/14830711.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hammarby vs Anderlecht" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F1792ba5a12171fedc6d543bdf173f37c.png%21w80&size=300&scale=1.5", Hammarby vs Anderlecht (Europa League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live1.kinxie.com/live/72179158_de2009096a1d49a08e2f7493a359bd10_autoChange.m3u8?auth_key=1784841982-0-0-ab932a17e7f163b8916b28965f854271
 #EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F1792ba5a12171fedc6d543bdf173f37c.png%21w80&size=300&scale=1.5", Hammarby vs Anderlecht - BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -398,7 +399,7 @@ https://live05.meung.app/live/99121525.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tromso vs Hradec Kralove" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F1792ba5a12171fedc6d543bdf173f37c.png%21w80&size=300&scale=1.5", Tromso vs Hradec Kralove (Europa League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live3.kinxie.com/live/72533768_208594d5a5468d05402737f285a842b3_autoChange.m3u8?auth_key=1784841982-0-0-a776d25617bd963605f25d7d29844fc1
 #EXTINF:-1 tvg-id="" tvg-name="BLV SAMURAI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F1792ba5a12171fedc6d543bdf173f37c.png%21w80&size=300&scale=1.5", Tromso vs Hradec Kralove - BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -426,12 +427,18 @@ https://live1.streambylivepulse.com/live/channel62.m3u8
 #EXTVLCOPT:http-referrer=https://live1.streambylivepulse.com
 #EXTVLCOPT:http-origin=https://live1.streambylivepulse.com
 https://live1.streambylivepulse.com/live/channel63.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",15:00 | CLB Vaasa VPS vs CLB AC Oulu
+https://live05.meung.app/live/59444581.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",15:00 | CLB Lahti vs TPS
 https://live05.meung.app/live/99121525.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 23/06 FK Alga Bishkek vs FC Bars Issyk-Kul (Lương Sơn) BLV VÕ TÒNG m3u
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 23/06 FK Alga Bishkek vs FC Bars Issyk-Kul (Lương Sơn) BLV VÕ TÒNG flv
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vilniaus Baltijos Futbolo Akademija vs Kauno Zalgiris (Lương Sơn) BLV HEINEKEN m3u
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vilniaus Baltijos Futbolo Akademija vs Kauno Zalgiris (Lương Sơn) BLV HEINEKEN flv
+https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu (Lương Sơn) BLV TÔN LẬP m3u
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu (Lương Sơn) BLV TÔN LẬP flv
@@ -480,6 +487,10 @@ https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782232522-0-0-2977
 https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782232522-0-0-ce583044375d834d1706b22452e075c9
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV FIREMAN] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782232522-0-0-be25cfdb2864e1ff265f6fa5484e53b7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D1: Jaro vs Gnistan Helsinki [ĐỖ TÚ TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782232522-0-0-130202a5975ac9955b09d7814b270010
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D1: Jaro vs Gnistan Helsinki [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782232522-0-0-f598b06b81c74dd73b6238f5ccbdd34d
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782232522-0-0-060ad5b4bf00be296df633ea071db0aa
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
@@ -508,3 +519,7 @@ https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782232522-0-0-939f
 https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782232882-0-0-fe09c2a3a28616eec54a21e927d8f3b5
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku [BLV XO] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782232882-0-0-3be60d0c7eca18890e205709d05de193
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 FC Iberia 1999 Tbilisi vs Fc Meshakhte Tkibuli [BLV CÁP] (Socolive) m3u8
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782232882-0-0-7ac58673c0c45f1987bf5977246ed693
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 FC Iberia 1999 Tbilisi vs Fc Meshakhte Tkibuli [BLV CÁP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782232882-0-0-d2678cc626ef526b1bd9843c2e03056f
