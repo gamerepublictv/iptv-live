@@ -5,14 +5,6 @@
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Charlotte-FC?mid=5072736&q=sd&exp=1785039663&sig=e5c4a277a6be2818a04583ae132cf903ec9c44d5d3b9d4acdeb05d817c33d04a
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Fort-Wayne-FC?mid=5106576&q=sd&exp=1785048753&sig=1240593a33b4adeef84cdbbb7a81f82e45151f9ac9431a1d2d7ad6189808735e
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Matagalpa-FC?mid=5106584&q=sd&exp=1785048753&sig=a8070c4d515783996e44ef712b2106b41c1ec7eccb618a17892df0375dfcccbe
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://yallavoide.yalla-shoot-zhubo.com/sport/202_5337301_1.m3u8?auth_key=1785102916-0-0-5abdf1617ee8a1357c895152c45055ac
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -316,11 +308,55 @@ https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Charleston-Batte
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Fort-Wayne-FC?mid=5106576&q=sd&exp=1785048753&sig=1240593a33b4adeef84cdbbb7a81f82e45151f9ac9431a1d2d7ad6189808735e
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Matagalpa-FC?mid=5106584&q=sd&exp=1785048753&sig=a8070c4d515783996e44ef712b2106b41c1ec7eccb618a17892df0375dfcccbe
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/CD-Junior-FC?mid=5071436&q=sd&exp=1785049605&sig=20276ebad8d40a09dbec2665d516c37836008b1795ab1517babdd1762e86883c
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/FC-Dallas?mid=5072780&q=sd&exp=1785050503&sig=02c1c660d60736582e305383a649068f2c20b08789c08e1e26d20406ead4c778
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Ekaterina-Ovcharenko?mid=5150590&q=sd&exp=1785047851&sig=ea92822b552adb857c933ffcdb5ddcd5dfcdc0f4fa7b4d7a0b60e07347e90397
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Bella-Payne?mid=5150616&q=sd&exp=1785048332&sig=32d009a6cb2989bae0ccbe9497c75d9b88d4abcecfe3b29a44317f5211c67807
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", HD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://damiya.elutuna.workers.dev/player/dami-watch-main-znjpzw5kbhkvmjayni0wny0yni9hzmmtdg90?src=https%3A%2F%2Fdamiya.elutuna.workers.dev%2Fwatch%2FZnJpZW5kbHkvMjAyNi0wNy0yNi9hZmMtdG90%3Fupstream%3Dhttps%253A%252F%252Fondemand.st%26server%3Dmain
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://damiya.elutuna.workers.dev/player/dami-watch-sd-znjpzw5kbhkvmjayni0wny0yni9hzmmtdg90?src=https%3A%2F%2Fdamiya.elutuna.workers.dev%2Fwatch%2FZnJpZW5kbHkvMjAyNi0wNy0yNi9hZmMtdG90%3Fupstream%3Dhttps%253A%252F%252Fondemand.st%26server%3Dsd
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", HD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://damiya.elutuna.workers.dev/player/dami-watch-main-zxjyb2wtc3blbmnllwpylxzzlxrpbs10c3p5dq?src=https%3A%2F%2Fdamiya.elutuna.workers.dev%2Fwatch%2FZXJyb2wtc3BlbmNlLWpyLXZzLXRpbS10c3p5dQ%3Fupstream%3Dhttps%253A%252F%252Fondemand.st%26server%3Dmain
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://damiya.elutuna.workers.dev/player/dami-watch-sd-zxjyb2wtc3blbmnllwpylxzzlxrpbs10c3p5dq?src=https%3A%2F%2Fdamiya.elutuna.workers.dev%2Fwatch%2FZXJyb2wtc3BlbmNlLWpyLXZzLXRpbS10c3p5dQ%3Fupstream%3Dhttps%253A%252F%252Fondemand.st%26server%3Dsd
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Garrett-Johns?mid=5151103&q=sd&exp=1785050020&sig=c110cc0178fbb959bc753456d0b213811b13719ce394f4b6ac625173489696dd
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Edward-Winter?mid=5151102&q=sd&exp=1785050020&sig=145f27032b20950d8bdab11f07c637ba6ddff13eab168952bb51d183775baf71
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Bernard-Tomic?mid=5151106&q=sd&exp=1785050020&sig=ce6e86bc9ad77cfcd3adf65f4712c2db0f9edb468337c5999e6efb36a15b2ac4
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F683411718987476993%2FlZKQkOal_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Wrexham vs Leeds United - Friendly Match 06.30 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -573,89 +609,89 @@ http://193.47.62.190/hls/KDDDAA.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/17139.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=43c299b472e279a9d7d17c876e3688760201ef3e74c09c23db43263a0f72f84e&waktu=1785027290
-https://malingpunya.ervinkasep01.workers.dev/17139.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=43c299b472e279a9d7d17c876e3688760201ef3e74c09c23db43263a0f72f84e&waktu=1785027290
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/EPM6V__gs1rSsbbPB12pe_7rLN0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2026-semifinal-befaa1.jpg" group-title="Event-LIVE-NOW", ⏳ (-4j 5m) 12:00 WIB 26/07/26 Feng Yan Zhe/Huang Dong Ping (CHN) vs Guo Xin Wa/Chen Fang Hui (CHN) - Mixed Doubles Final | VICTOR China Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/17139.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=bc2ca9a2f6d2de043b6e7ea148464339e98ec54b1d7e78be6cd767faaf2e847f&waktu=1785029390
+https://malingpunya.ervinkasep01.workers.dev/17139.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=bc2ca9a2f6d2de043b6e7ea148464339e98ec54b1d7e78be6cd767faaf2e847f&waktu=1785029390
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/EPM6V__gs1rSsbbPB12pe_7rLN0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2026-semifinal-befaa1.jpg" group-title="Event-LIVE-NOW", ⏳ (-3j 30m) 12:00 WIB 26/07/26 Feng Yan Zhe/Huang Dong Ping (CHN) vs Guo Xin Wa/Chen Fang Hui (CHN) - Mixed Doubles Final | VICTOR China Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=82651ec90282292a1fd910a4da5ce79daf153724a32bb300523445289aa03631&waktu=1785027290
-https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=82651ec90282292a1fd910a4da5ce79daf153724a32bb300523445289aa03631&waktu=1785027290
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iiWmY-75oeg_a6YEUEbMr_9TJFg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204874/d11772.jpg" group-title="Event-LIVE-NOW", ⏳ (-5j 40m) 13:35 WIB 26/07/26 Race - FIA Formula 3 Championship Hungary Grand Prix 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=9a1396757c338a3a1217590e8c64de12c5479e496c922707d66777c16c1e0c73&waktu=1785029390
+https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=9a1396757c338a3a1217590e8c64de12c5479e496c922707d66777c16c1e0c73&waktu=1785029390
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iiWmY-75oeg_a6YEUEbMr_9TJFg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5204874/d11772.jpg" group-title="Event-LIVE-NOW", ⏳ (-5j 5m) 13:35 WIB 26/07/26 Race - FIA Formula 3 Championship Hungary Grand Prix 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8ca9c83e2d7c9bf92766c8948de90a99d59448474a4eb29003fa47122e076262&waktu=1785027290
-https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8ca9c83e2d7c9bf92766c8948de90a99d59448474a4eb29003fa47122e076262&waktu=1785027290
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/w6l3Hw1c5wRlMSWMzv-iR79bvKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5213450/490b28.jpg" group-title="Event-LIVE-NOW", ⏳ (-6j 20m) 14:15 WIB 26/07/26 3rd Place Women: China vs Italy - Volleyball Nations League [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d515875f6eadbfcc9607827bc9e8142aa8cc4b0bdf5c9577486d2ed1cf278856&waktu=1785029390
+https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d515875f6eadbfcc9607827bc9e8142aa8cc4b0bdf5c9577486d2ed1cf278856&waktu=1785029390
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/w6l3Hw1c5wRlMSWMzv-iR79bvKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5213450/490b28.jpg" group-title="Event-LIVE-NOW", ⏳ (-5j 45m) 14:15 WIB 26/07/26 3rd Place Women: China vs Italy - Volleyball Nations League [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c7ba7c2a3a23fd36560880133755905e709e2b0b01dc48b21f3e1f43e5d3fce2&waktu=1785027290
-https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c7ba7c2a3a23fd36560880133755905e709e2b0b01dc48b21f3e1f43e5d3fce2&waktu=1785027290
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dPylHntHtM6xDzeEPoeN9auLh1U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211597/30d8b4.jpg" group-title="Event-LIVE-NOW", ⏳ (-7j 35m) 15:30 WIB 26/07/26 PSMS Medan vs Port FC - Piala Presiden [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=9f24f84e05faf9923ec333190756edf1073e9f1bcafe7c4c33390779dafd8e1f&waktu=1785029390
+https://malingpunya.ervinkasep01.workers.dev/21603.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=9f24f84e05faf9923ec333190756edf1073e9f1bcafe7c4c33390779dafd8e1f&waktu=1785029390
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dPylHntHtM6xDzeEPoeN9auLh1U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211597/30d8b4.jpg" group-title="Event-LIVE-NOW", ⏳ (-7j 0m) 15:30 WIB 26/07/26 PSMS Medan vs Port FC - Piala Presiden [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c3767546a0c3b5864da245029a6c1eb89f68a8bf4fdafab6f6b322a47a995211&waktu=1785027290
-https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c3767546a0c3b5864da245029a6c1eb89f68a8bf4fdafab6f6b322a47a995211&waktu=1785027290
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YSgnxInTLCN_l4Q3cTy1-jlDe9M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5205464/b1c3f9.jpg" group-title="Event-LIVE-NOW", ⏳ (-10j 5m) 18:00 WIB 26/07/26 Round 4 - ISPS HANDA Women's Scottish Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=55bd48019306ef43dc4960a41c926adb3b48696b5684aecb951c9486eead6a49&waktu=1785029390
+https://malingpunya.ervinkasep01.workers.dev/21872.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=55bd48019306ef43dc4960a41c926adb3b48696b5684aecb951c9486eead6a49&waktu=1785029390
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YSgnxInTLCN_l4Q3cTy1-jlDe9M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5205464/b1c3f9.jpg" group-title="Event-LIVE-NOW", ⏳ (-9j 30m) 18:00 WIB 26/07/26 Round 4 - ISPS HANDA Women's Scottish Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8daf1efad7865e74b1785d80fcb3d01c421d5cf3ae48b45b169d1cf8d4088ca5&waktu=1785027290
-https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=8daf1efad7865e74b1785d80fcb3d01c421d5cf3ae48b45b169d1cf8d4088ca5&waktu=1785027290
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nLlU9kyhBJB2SmVYrDZSb51vJ7o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5203643/ed6e76.jpg" group-title="Event-LIVE-NOW", ⏳ (-11j 5m) 19:00 WIB 26/07/26 Final - WTA 250: MSC Hamburg Ladies Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2799e111541710dc45142e162d94924320fa9d4e6ec74f629af9e04000a64e32&waktu=1785029390
+https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=2799e111541710dc45142e162d94924320fa9d4e6ec74f629af9e04000a64e32&waktu=1785029390
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nLlU9kyhBJB2SmVYrDZSb51vJ7o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5203643/ed6e76.jpg" group-title="Event-LIVE-NOW", ⏳ (-10j 30m) 19:00 WIB 26/07/26 Final - WTA 250: MSC Hamburg Ladies Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b747110139133b3b28f9f7697c475817963faad8ade1072c00da1f236501fbba&waktu=1785027290
-https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b747110139133b3b28f9f7697c475817963faad8ade1072c00da1f236501fbba&waktu=1785027290
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XkDEKjsrDBLBS5pvvnuv7aV5KeM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5205637/327121.jpg" group-title="Event-LIVE-NOW", ⏳ (-11j 5m) 19:00 WIB 26/07/26 Final - WTA 250: Livesport Prague Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=861172c8475998bb406130cc85ec5febf2747917721d8a04ed62c9bd49b6a274&waktu=1785029390
+https://malingpunya.ervinkasep01.workers.dev/6685.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=861172c8475998bb406130cc85ec5febf2747917721d8a04ed62c9bd49b6a274&waktu=1785029390
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XkDEKjsrDBLBS5pvvnuv7aV5KeM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5205637/327121.jpg" group-title="Event-LIVE-NOW", ⏳ (-10j 30m) 19:00 WIB 26/07/26 Final - WTA 250: Livesport Prague Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5a0c25b9a334fa872a4f0cdb80a3bff04a92502939604d49ae2ed248d60e1378&waktu=1785027290
-https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=5a0c25b9a334fa872a4f0cdb80a3bff04a92502939604d49ae2ed248d60e1378&waktu=1785027290
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hzauJvmv9dZ73xnR8U29TivGsBc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5213666/7cbad3.jpg" group-title="Event-LIVE-NOW", ⏳ (-15j 35m) 23:30 WIB 26/07/26 Luca Van Assche vs Alexander Blockx - Finals | ATP 250: Millennium Estoril Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e679363637ab1e18456e2602a1eb941b2ecf720783d2638ad31720ef365bffa9&waktu=1785029390
+https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e679363637ab1e18456e2602a1eb941b2ecf720783d2638ad31720ef365bffa9&waktu=1785029390
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hzauJvmv9dZ73xnR8U29TivGsBc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5213666/7cbad3.jpg" group-title="Event-LIVE-NOW", ⏳ (-15j 0m) 23:30 WIB 26/07/26 Luca Van Assche vs Alexander Blockx - Finals | ATP 250: Millennium Estoril Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=210074f8e61b911bd46553bdb72012b4b597541091cd7c251ebdd0eca330b2d4&waktu=1785027290
-https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=210074f8e61b911bd46553bdb72012b4b597541091cd7c251ebdd0eca330b2d4&waktu=1785027290
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5zgUvqFTZMufOUbA_IcP1quOsmk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5205465/46e162.jpg" group-title="Event-LIVE-NOW", ⏳ (-16j 5m) 00:00 WIB 27/07/26 Round 4 - 3M Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=287cabb27fba597cf8547240c97648d373aab17e6935cf3adde53fe1911a4eea&waktu=1785029390
+https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=287cabb27fba597cf8547240c97648d373aab17e6935cf3adde53fe1911a4eea&waktu=1785029390
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5zgUvqFTZMufOUbA_IcP1quOsmk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5205465/46e162.jpg" group-title="Event-LIVE-NOW", ⏳ (-15j 30m) 00:00 WIB 27/07/26 Round 4 - 3M Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18189.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d4c14ea51c65887dc534063a63f6acff7cd3e56165bbc6c0a7d458792cd4f686&waktu=1785027290
-https://malingpunya.ervinkasep01.workers.dev/18189.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=d4c14ea51c65887dc534063a63f6acff7cd3e56165bbc6c0a7d458792cd4f686&waktu=1785027290
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18189.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4bf393e64f768d4b38e9bb2dfbd807da9c2abbdf9cac7e6d59b9795c71b50e09&waktu=1785029390
+https://malingpunya.ervinkasep01.workers.dev/18189.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4bf393e64f768d4b38e9bb2dfbd807da9c2abbdf9cac7e6d59b9795c71b50e09&waktu=1785029390
 #EXTINF:-1 data-source="Manual" group-title="Event-LIVE-NOW" tvg-logo="https://media.chuoichientv.net/media/20260714_210317_294a4162.webp" tvg-uid="678507e37752d48cc96ad00ac3630759",SEA V CUP 2026 GMM25
 https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 #EXTINF:-1 tvg-expire="1785076200" tvg-start="1785054600" tvg-uid="ad69a1e6e5488e5dbbdb6e1fb01f2da4" data-source="Vididi Combi Termux" tvg-id="21872-5211597" tvg-logo="https://thumbor.prod.vidiocdn.com/dPylHntHtM6xDzeEPoeN9auLh1U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211597/30d8b4.jpg" group-title="Event-LIVE-NOW", ⏳ JAM 15:30 WIB (26/07) - PSMS Medan vs Port FC - Piala Presiden
@@ -663,27 +699,27 @@ https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785037840&k=af62694f1184aa30ceae512822ecfa433a1bd768c7f163e54cf14012ece5ce04
-https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785037840&k=280e51028af43a65dd93af2d34a0a2d133aaeee283b6a2db314733f94dc68146&sc=5211597
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785039577&k=1ca6a3fe24f121ded901c20f19473272f51e837ce8a575f029437409625858e8
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785039577&k=121cfacea02bf6687457c46c6208b40f4dd680e892ef3c18049f5550e613db71&sc=5211597
 #EXTINF:-1 tvg-expire="1785076200" tvg-start="1785054600" tvg-uid="5256132283bd9294792857821e7ab8e2" data-source="LIVE Event Vidio" tvg-id="21872-5211597" tvg-logo="https://thumbor.prod.vidiocdn.com/dPylHntHtM6xDzeEPoeN9auLh1U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211597/30d8b4.jpg" group-title="Event-LIVE-NOW", ⏳ JAM 15:30 WIB (26/07) - PSMS Medan vs Port FC - Piala Presiden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785037415&k=9475b6ea12be3bf368aa8ca415f706a8de8370c11641e409deb2396fcf041562
-https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785037415&k=3d2bbc6f652bede1b0af5b59d7396b3695ace888bdeb1f4f1b05f4b6fcd2a8a9&sc=5211597
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785039515&k=88f4533a48692214a65fb0848e8765741020c2f7bdaaa75730c7522d20d661e5
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785039515&k=0f344586f71c7b0375aa864866d32caac4ff77dafce39440a8dc59ec85360ab8&sc=5211597
 #EXTINF:-1 tvg-expire="1785090600" tvg-start="1785069000" tvg-uid="f17bc966f26763f56ace301f2ff6234f" data-source="LIVE Event Vidio" tvg-id="21872-5211409" tvg-logo="https://thumbor.prod.vidiocdn.com/GngzlaMSxsxJG3sVCELZtxZfHfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5211409/941e61.jpg" group-title="Event-LIVE-NOW", ⏳ JAM 19:30 WIB (26/07) - PERSEBAYA Surabaya vs PERSIJA - Piala Presiden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785037415&k=9475b6ea12be3bf368aa8ca415f706a8de8370c11641e409deb2396fcf041562
-https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785037415&k=3d2bbc6f652bede1b0af5b59d7396b3695ace888bdeb1f4f1b05f4b6fcd2a8a9&sc=5211409
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=drm&x=1785039515&k=88f4533a48692214a65fb0848e8765741020c2f7bdaaa75730c7522d20d661e5
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21872&ext=dash&x=1785039515&k=0f344586f71c7b0375aa864866d32caac4ff77dafce39440a8dc59ec85360ab8&sc=5211409
 #EXTINF:-1 tvg-uid="14f1fcd6374a992ac410b481731ad780" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/vl7oqddh5v8q510/image/small" group-title="Event-LIVE-NOW",[🔴 LIVE] 07:00 WIB 26/07 - NU PERU VS NU ECUADOR [COP]
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=d530beaf13bb7543ffb49ea2110e8b3b&wsABSTime=1785070273
+https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=3240bc64ce452e15b8d11cf7cdac52d5&wsABSTime=1785071688
 #EXTINF:-1 tvg-uid="b86a3c8c5fe045348886a869b32a762d" data-source="VolleyballChuoiChien" tvg-logo="https://media.chuoichientv.net/media/20260531_044110_71c79851.png" group-title="Event-LIVE-NOW",[⏳ UPCOMING 14:30 WIB] [Nations League Women] China W vs Italy W (HD1 - Chuối Tây)
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
@@ -719,16 +755,16 @@ https://eqr2hdarxfliv.vcdn.cloud/1784171115_hd/1784171115_hd@720p.m3u8
 #EXTINF:-1 tvg-uid="0502c67c6e865f6a8ea9093f3a9ca721" data-source="Cdnsports" tvg-name="UFC 1 (Solo Eventos)" group-title="Event-LIVE-NOW",UFC 1 (Solo Eventos)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2b81d8192bb76cc744/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNzQ0OjE3ODUwMzczMDI4Mzk6Y2RubGl2ZXR2LnR2OjYwNDg1MjE1MDQxYzJmYzkuMzQyYTZkODMyODkwNzdjZjI1YmYyODhlNzdkNjU5MTFhMDFhOTI3YjlmNTllZWM2MTZlNjI3MTNmZGJmYWFhZg
+https://cdnlivetv.is/secure/api/v1/6a288d2b81d8192bb76cc744/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNzQ0OjE3ODUwNDMxMDc1MTA6Y2RubGl2ZXR2LnR2OjE5OWE1MWUxMmNjYWRiYjkuYjdlZDI5Y2RlYjg2YjBhMjhhOWQyZWMyN2NlMzQyMjQwYjJkMjhkNTE5YzUyMjViMTM4NDA3NDlkYmFkNTQ0ZQ
 #EXTINF:-1 tvg-uid="3c0cd2aeb40f1192e828fcf9f6c72b55" data-source="Cdnsports" tvg-name="UFC 3 (Solo Eventos)" group-title="Event-LIVE-NOW",UFC 3 (Solo Eventos)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2b81d8192bb76cc746/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNzQ2OjE3ODUwMzczMDI4OTg6Y2RubGl2ZXR2LnR2OjQ2ZWVhOWFkZjQ5ZTJkMzcuOGNjM2ViOTlmYzI4YzhjOGE5NTMxMWZiNDI1YjBjOGM1Yzg0MWNkNDBkNzkyMmM3ODc3YzcyZjRlZDEzYjZiYg
+https://cdnlivetv.is/secure/api/v1/6a288d2b81d8192bb76cc746/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNzQ2OjE3ODUwNDMxMDc1MDk6Y2RubGl2ZXR2LnR2OmYxNGZiNTUyMzI5YmM4MjcuMjdjYjgxZjFmNzQxYzU4M2ViYmJmNzRiNzVmZDJjMTczOTdlOGVhNjUzMTRiMDVkMDk5ZDlkM2RlMDA0ZWU5Mw
 #EXTINF:-1 tvg-expire="1785031200" tvg-start="1785024000" tvg-uid="14f1fcd6374a992ac410b481731ad780" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/vl7oqddh5v8q510/image/small" group-title="Event-LIVE-NOW",[🔴 LIVE] 07:00 WIB 26/07 - NU PERU VS NU ECUADOR [COP]
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=d530beaf13bb7543ffb49ea2110e8b3b&wsABSTime=1785070273
+https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=3240bc64ce452e15b8d11cf7cdac52d5&wsABSTime=1785071688
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 16:00 WIB Victor China Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4271159640348061_AiSD.m3u8?txSecret=34390a607d17afc4701d94a05fada700&txTime=6A658640
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 16:00 WIB Victor China Open 2026
@@ -736,7 +772,7 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 #EXTINF:-1 tvg-id="" tvg-name="Montreal Impact vs Inter Miami" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", Montreal Impact vs Inter Miami (Major League Soccer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/66299282_1c8a490c024dd13670cefcd72110f5f1_autoChange.m3u8?auth_key=1785041628-0-0-e64eedfea1d8302982c4bd914bf1d67f
+https://live.kinxie.com/live/66299282_1c8a490c024dd13670cefcd72110f5f1_autoChange.m3u8?auth_key=1785043744-0-0-8e3998ddbe834ce56ab693568d9797fd
 #EXTINF:-1 tvg-id="" tvg-name="BLV SPRITE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", Montreal Impact vs Inter Miami - BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -744,31 +780,15 @@ https://live05.meung.app/live/75748097.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Minnesota United vs Vancouver Whitecaps" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", Minnesota United vs Vancouver Whitecaps (Major League Soccer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.kinxie.com/live/66299296_f98cb4049944398fdf97d592c467a551_autoChange.m3u8?auth_key=1785041626-0-0-086b35d272e514791246f648b83045f9
+https://live2.kinxie.com/live/66299296_f98cb4049944398fdf97d592c467a551_autoChange.m3u8?auth_key=1785043743-0-0-059b94a7f580e700b80fe7730e01a5e9
 #EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", Minnesota United vs Vancouver Whitecaps - BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/78905744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chivas Guadalajara vs Juarez" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F324d7a463a24c4cd35ef83456a1b8d05.png%21w80&size=300&scale=1.5", Chivas Guadalajara vs Juarez (Giải Vô địch Bóng đá Quốc gia Mexico)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live4.kinxie.com/live/72055058_2f757ff6207e6c3c99ff231f4243fc61_autoChange.m3u8?auth_key=1785041627-0-0-622bebfa7b241c5524eed8fe87b1dda2
-#EXTINF:-1 tvg-id="" tvg-name="BLV  KHÔNG ĐỘ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F324d7a463a24c4cd35ef83456a1b8d05.png%21w80&size=300&scale=1.5", Chivas Guadalajara vs Juarez - BLV  KHÔNG ĐỘ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/41943555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Columbus Crew vs Cincinnati" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", Columbus Crew vs Cincinnati (Major League Soccer)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/66299278_8e8b5ca1009b2f79198273942a71a850_autoChange.m3u8?auth_key=1785041627-0-0-a27bc75f4cc4f15f6fd999f07b8eb657
-#EXTINF:-1 tvg-id="" tvg-name="BLV STING" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", Columbus Crew vs Cincinnati - BLV STING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/14707124.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vasco vs Mirassol" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5ad7bd885c64690f15f6971a2827190d.png%21w80&size=300&scale=1.5", Vasco vs Mirassol (Giải bóng đá Hạng nhất Brasil)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live4.kinxie.com/live/66886860_8b65ff7662df4050809b0b71a38c71e9_autoChange.m3u8?auth_key=1785041628-0-0-3d94d2d7868bda1576ed4ee3e7578e71
+https://live4.kinxie.com/live/66886860_8b65ff7662df4050809b0b71a38c71e9_autoChange.m3u8?auth_key=1785043631-0-0-fb1ae0ab40607c8c39ef398948ae69b5
 #EXTINF:-1 tvg-id="" tvg-name="BLV FANTA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5ad7bd885c64690f15f6971a2827190d.png%21w80&size=300&scale=1.5", Vasco vs Mirassol - BLV FANTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -776,11 +796,19 @@ https://live05.meung.app/live/16226575.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Team Cooper W vs Team Weatherspoon W" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F31d3662b3e4302d2187d4b12ea714d5b.png%21w80&size=300&scale=1.5", Team Cooper W vs Team Weatherspoon W (WNBA All Star)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.kinxie.com/live/wv784sx94nlboqr_e0f30d4ce381c7ec472c8f6be009036f_autoChange.m3u8?auth_key=1785041628-0-0-7a0b1610af93f60ca606b951f49c7907
+https://live1.kinxie.com/live/wv784sx94nlboqr_e0f30d4ce381c7ec472c8f6be009036f_autoChange.m3u8?auth_key=1785043744-0-0-a6523daa74b328ae3df39b7b4a195826
 #EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F31d3662b3e4302d2187d4b12ea714d5b.png%21w80&size=300&scale=1.5", Team Cooper W vs Team Weatherspoon W - BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/82054853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="San Diego FC vs Dallas" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", San Diego FC vs Dallas (Major League Soccer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https
+#EXTINF:-1 tvg-id="" tvg-name="BLV STING" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", San Diego FC vs Dallas - BLV STING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/14707124.m3u8
 #EXTINF:-1 tvg-id="4262" tvg-name="UFC Fight Night" tvg-logo="https://openwindows037.serv00.net/logo/live_event.gif" group-title="Event-LIVE-NOW",UFC Fight Night - 25 Jul 2026 21:00 WIB - Valter Walker vs ThomasPetersen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://messi.damitv.st
@@ -848,160 +876,141 @@ https://live1.streambylivepulse.com/live/channel1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=585566765f155b1700550c5f5e33455b:5267785114554452530b515a654f0805
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+#EXTINF:-1 tvg-id="5045" tvg-name="Formula 1 [CH1]" tvg-logo="https://openwindows037.serv00.net/logo/live_event.gif" group-title="Event-LIVE-NOW",Formula 1 [CH1] - 26 Jul 2026 20:00 WIB - Hungarian Grand Prix vs Race
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://dish-arg.akamaized.net
+#EXTVLCOPT:http-origin=https://dish-arg.akamaized.net
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a556a2859425a4306510e5f5334455c:563a7f50145a1102550b505d35165c07
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports_arg)/variant.mpd
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://tvku.family/T/cover.php?url=aHR0cHM6Ly90aHVtYm9yLnByb2QudmlkaW9jZG4uY29tL0Y1c2pMSmNpUTlRVTdrRHc0TV9QUkQ5eVM1Yz0vNjQweDM2MC9maWx0ZXJzOnN0cmlwX2ljYygpOnF1YWxpdHkoNzApL3ZpZGlvLW1lZGlhLXByb2R1Y3Rpb24vdXBsb2Fkcy9saXZlc3RyZWFtaW5nL3NjaGVkdWxlL3RodW1ibmFpbC81MjA1NjM2L2JkYTgyZS5qcGc=&status=LIVE+NOW&time=08%3A30&t=1785029644", Final Kejurnas I Indonesia Derby (08:30 - 26 Jul 2026) (IN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMjA3MTguejNoOHwxNzg1NjM0NDQ1
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PA9u74As/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Ranking 3-4: China v Italy | Final Phase | Women's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzMjEwNw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzNDQ0NQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Wrzj4WWp/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Final: Türkiye v Brazil | Final Phase | Women's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzMjEwNw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzNDQ0NQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pNQ7MbHn/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",QF: Slovenia v Türkiye | Final Phase | Men's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzMjEwNw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzNDQ0NQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZQdI5j99/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",QF: Japan v China | Final Phase | Men's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzMjEwNw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzNDQ0NQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yNopSa7P/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Shaw/Phillips (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzMjEwNw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzNDQ0NQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aInhHuC6/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Taiana Lima/Talita (BRA) vs [tbc], Women Pool E on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzMjEwNw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzNDQ0NQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3kX343QP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Hughes/Batenhorst (USA) vs [tbc], Women Pool E on C3 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzMjEwNw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzNDQ0NQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mC8hqrlP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Ana Patrícia/Duda (BRA) vs [tbc], Women Pool D on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzMjEwNw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzNDQ0NQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j9uF3RCV/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Donlin/Denaburg (USA) vs [tbc], Women Pool B on C3 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzMjEwNw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzNDQ0NQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dws17xzc/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Verena/Thainara (BRA) vs Anderson/Chacon (USA), Women Pool C on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzMjEwNw
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/c3308f60cc17871dd88b2bbc690734a3.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/602255b6d0275cd1008b99c59cd10c87.png", Pittsburgh Riverhounds vs Rhode Island [LIVE] — USL Championship (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNzY1MjVybzhuczcwc3A4bzk1cjEvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/c3308f60cc17871dd88b2bbc690734a3.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/96f9d71dc6038477efe2b3ff71c1631e.png", Indy Eleven vs Loudoun United [LIVE] — USL Championship (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3Ytcjg2bjRwNXM5ODE4ODNyMzk0cjEvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/c3308f60cc17871dd88b2bbc690734a3.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/2b49326ff81f7fb77b009d6f6027254c.png", Detroit City vs Las Vegas Lights [LIVE] — USL Championship (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMXFuMzhwc3NvbzVxcjIxOTVzcTcvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/991ee00f30f83b0431f800a63e81f9c4.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/d3be245c5465ff63fd26c25f52fc65a4.png", Charlotte Independence vs Richmond Kickers [LIVE] — USL League One (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcTc3cm44OW9wMDZyM3A1MzNuc28vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/991ee00f30f83b0431f800a63e81f9c4.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/4038a49fc13691c4ba07628cecb307bc.png", Forward Madison FC vs FC Naples [LIVE] — USL League One (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtbnA0bjM2cjU5ODAxcTg5cHEycjAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/1027723af57b4762a68aa269dc07b86b.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/9699f5f6a3261c965e09361142dbbdc9.png", CS Cartagines vs International San Carlos [LIVE] — Costa Rica Primera Division (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMzk4OTBwNnEyNHJucnE2b3AzcTQvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/991ee00f30f83b0431f800a63e81f9c4.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/ca41e91e5d7271bdd95a2e51d8b6c583.png", New York Cosmos vs Athletic Club Boise [LIVE] — USL League One (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMTU0cjM2ODZycjdwczI2bzdvNm4vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/c3308f60cc17871dd88b2bbc690734a3.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/10e3c287008eed128a8c53f8f55c26bd.png", Miami FC vs Tampa Bay Rowdies [LIVE] — USL Championship (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNjg4bjc2bzAyMnI1czAxOHAxMm8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/991ee00f30f83b0431f800a63e81f9c4.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/aa5f84991d1941b4b2e1d79fdec495ff.png", Chattanooga Red Wolves vs Knoxville troops [LIVE] — USL League One (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNzk1MnJuOTZvcTVzOTEzczE5cG4vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/872867a492989e6a9a0785cfd0a40680.png", Club Deportivo Guadalajara vs FC Juarez [LIVE] — Mexico Liga MX (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMDRxcHJwOXFwNDcwcjNzMTc1OTEvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png", Millonarios vs Atletico Bucaramanga [LIVE] — Categoría Primera A (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtczVvbzkyNTYwbnIxcG9yODVuNzEvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/b6d8f81e8454813b3e672b179e627d3a.png", Columbus Crew vs FC Cincinnati [LIVE] — United States Major League Soccer (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMXBxcTYwbnIyMzA1b3IwNjRxcW8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTYzNDQ0NQ
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/6ee72ef6dd0d994c0fd5fb7d82d5acc9.png", Wrexham vs Leeds United [LIVE] — International Club Friendly (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMjkwOG80cDBucW9zbjlwcjA1Nm8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/5ad7bd885c64690f15f6971a2827190d.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png", Vasco da Gama Saf - RJ vs Mirassol - SP [LIVE] — Brazilian Serie A (Server 3)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcTVyMjEwcjMwMnBwMTM5NTEwMXEvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMjkwOG80cDBucW9zbjlwcjA1Nm8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/5d75feb43ea08222def38c8aa43db089.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/97f1608bfe5c72492cb5e201f93a6cda.png", Independiente Petrolero vs Oriente Petrolero [LIVE] — Bolivian Primera Division (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNHEyMW80NjQxczVzNjU0czlyb3Avem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/2d846f3eea3e2d5067b26de498f83d94.png", DC United vs Toronto FC [LIVE] — United States Major League Soccer (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOTI1M285cjNzMG8xOTg3OXNybnIvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/574f1ee560e8835e605176cac36a87db.png", Philadelphia Union vs Seattle Sounders [LIVE] — United States Major League Soccer (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMzg0cjkxczUwb3I3bzk3MzIzc3Evem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/f1b7c49790e05778f194ed436515b240.png", New England Revolution vs Atlanta United [LIVE] — United States Major League Soccer (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcXJzbzVvODUxNTBwMHE5NnI1MXIvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNHEyMW80NjQxczVzNjU0czlyb3Avem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/abd87a03b9befd43df6c45c9b17e9a79.png", Montreal Impact vs Inter Miami CF [LIVE] — United States Major League Soccer (Server 3)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcHAzb3IzMnIyMDZwbzJyb3IxcHMvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcHAzb3IzMnIyMDZwbzJyb3IxcHMvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/2d846f3eea3e2d5067b26de498f83d94.png", DC United vs Toronto FC [LIVE] — United States Major League Soccer (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOTI1M285cjNzMG8xOTg3OXNybnIvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/f1b7c49790e05778f194ed436515b240.png", New England Revolution vs Atlanta United [LIVE] — United States Major League Soccer (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcXJzbzVvODUxNTBwMHE5NnI1MXIvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/f5bbc8573e1b019164b11b13c49598bd.png", New York City FC vs Chicago Fire [LIVE] — United States Major League Soccer (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNW9wODMzNm85MHM3OW82NDAybzkvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/c3308f60cc17871dd88b2bbc690734a3.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/362e93771930fdf18e2fbfbb2a991e1c.png", Brooklyn FC vs San Antonio [LIVE] — USL Championship (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcTkzNzZzMjU1cjlvNDQ0bzM4M3Ivem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNW9wODMzNm85MHM3OW82NDAybzkvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/b0557c0535e2990c0e6c9a7b17bd9465.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/e4cb7863f7a5cdf5d3ad0b317dff49d3.png", North Carolina Courage Women vs Utah Royals Women [LIVE] — United States Women's National Soccer League (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMzc3cDhucjUwODRxcDg3cDU1OTAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMzc3cDhucjUwODRxcDg3cDU1OTAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/c3308f60cc17871dd88b2bbc690734a3.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/362e93771930fdf18e2fbfbb2a991e1c.png", Brooklyn FC vs San Antonio [LIVE] — USL Championship (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcTkzNzZzMjU1cjlvNDQ0bzM4M3Ivem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/55f09f44c319763fd155d3d68895f405.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/c28028bd9f03205a308a016f39e238f6.png", Venados FC Yucatán vs Alebrijes de Oaxaca [LIVE] — Mexico Ascenso MX (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtODJwcTgzNzc2OHAxNTk0b3M2N3Mvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/0e046e806bd54b6ea05db95101f07401.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/a5c19caa8f0d2c476156ece6470b15a0.png", Tecnico Universitario vs Manta FC [LIVE] — LigaPro Serie A  (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtbjA4MTIyNDAxN3EzOTI0NTY4Nm8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/674ddb9d58a38edc0d15095dcec7fa1c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/043a70a1b54a7fcc970fbe3053996fa0.png", Real Cartagena vs Real Santander [LIVE] — Colombian Torneo BetPlay Dimayor (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMjE3ODA4NXFyM29zMm44bjE1NzQvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtODJwcTgzNzc2OHAxNTk0b3M2N3Mvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/fee37a97f3d0e08209e4846fcff45cba.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/d2c51e33f6e7a7a3eed10d03fdb9ffb8.png", Univ Catolica vs Deportes La Serena [LIVE] — CHI Liga de Primera (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3Ytcm4zcDk1bjk1N29xMW4zNnI1MXEvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3Ytcm4zcDk1bjk1N29xMW4zNnI1MXEvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/674ddb9d58a38edc0d15095dcec7fa1c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/043a70a1b54a7fcc970fbe3053996fa0.png", Real Cartagena vs Real Santander [LIVE] — Colombian Torneo BetPlay Dimayor (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMjE3ODA4NXFyM29zMm44bjE1NzQvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/0e046e806bd54b6ea05db95101f07401.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/a5c19caa8f0d2c476156ece6470b15a0.png", Tecnico Universitario vs Manta FC [LIVE] — LigaPro Serie A  (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtbjA4MTIyNDAxN3EzOTI0NTY4Nm8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/c3308f60cc17871dd88b2bbc690734a3.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/1a8729f6837d72a8092aaabd02695c2b.png", FC Tulsa vs Lexington [LIVE] — USL Championship (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtczY1Mm8yM3A3MjQzcDg1bnEzOXEvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/caff6f729db9dc68b1938f6533b0fa14.png", Club Atlético Lanús vs San Lorenzo [LIVE] — Argentine Division 1 (Server 3)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOXBvMjgxbm80bzg4bjM2bjRwcDcvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtczY1Mm8yM3A3MjQzcDg1bnEzOXEvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/991ee00f30f83b0431f800a63e81f9c4.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/e11f58ba6522a5c6ab7b037e2cd110e9.png", Corpus Christi FC vs Greenville Triumph [LIVE] — USL League One (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNTZxMTkzNTVyMXNwNDNwcDY0bnAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png", Houston Dynamo vs Austin FC [LIVE] — United States Major League Soccer (Server 2)
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNTZxMTkzNTVyMXNwNDNwcDY0bnAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/caff6f729db9dc68b1938f6533b0fa14.png", Club Atlético Lanús vs San Lorenzo [LIVE] — Argentine Division 1 (Server 3)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtM24wODBzMG85MHA5NzczcTZubjAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOXBvMjgxbm80bzg4bjM2bjRwcDcvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/256ff71a20fb72145a66dcef2f604a48.png", Minnesota United FC vs Vancouver Whitecaps [LIVE] — United States Major League Soccer (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtbjA5N3M0c3NyOXAxM3M4MnAxb24vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtbjA5N3M0c3NyOXAxM3M4MnAxb24vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png", Houston Dynamo vs Austin FC [LIVE] — United States Major League Soccer (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtM24wODBzMG85MHA5NzczcTZubjAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png", St. Louis City SC vs Colorado Rapids [LIVE] — United States Major League Soccer (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNTNxOG9xNThxbzFxMDIzN29wNDQvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNTNxOG9xNThxbzFxMDIzN29wNDQvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/b4ad649e6c6a9a6cf91493bf5e92ffbe.png", Orlando City vs Nashville [LIVE] — United States Major League Soccer (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOXI1NG9vNHIzNTg3NTNybnI0c28vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjMyMTA3
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",15:00 | CLB Lahti vs TPS
-https://live05.meung.app/live/99121525.m3u8
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOXI1NG9vNHIzNTg3NTNybnI0c28vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/991ee00f30f83b0431f800a63e81f9c4.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/82ff09d98e2787ad86311e67cba08301.png", Spokane Velocity vs Fort Wayne FC [LIVE] — USL League One (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNnFuNHMxMDU4NDc0cXI1MTMxb3Avem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/c34077b7ac3592e339bd375e72fe441b.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/215f986a8d6da00e35a2b1011922ca0d.png", FBC Melgar vs Sporting Cristal [LIVE] — Peruvian Liga 1 (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNTg1NjkyOG8xbzM2ODhxcjc1czYvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/c3308f60cc17871dd88b2bbc690734a3.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/327ba784c0f6eb8f2e6ae4494b523d70.png", El Paso Locomotive FC vs Sporting Jax [LIVE] — USL Championship (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMXJzODRvODlxczg2c3IyNW5uMjAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/55f09f44c319763fd155d3d68895f405.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/1cd995bdc2b652d31129d027afb27ed8.png", Atletico Morelia vs Club Atletico La Paz [LIVE] — Mexico Ascenso MX (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcHFwcjUwcW41NTJzM24zb3JxN3Avem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/c3308f60cc17871dd88b2bbc690734a3.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/75da1b4c0c787b6e7b1ef320e71af80c.png", Colorado Springs vs Charleston Battery [LIVE] — USL Championship (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNW4ybzNvOG5wNnI2NDYzcDY1MW8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/40f17f08ff7bb44a641273044db78c64.png", Deportes Tolima vs Atletico Junior Barranquilla [LIVE] — Categoría Primera A (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3Ytb284NW5uc245cm9vNTA3cjg3OXMvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
+#EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/4431a6b60ebf9369297717921a290687.png", San Diego FC vs FC Dallas [TGL 26/07 08:30 WIB] — United States Major League Soccer (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOTFwcTA1MG9yNnBwNDg4NzVycDgvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1NjM0NDQ1
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",16:00 | Inter Turku vs SJK
 https://live05.meung.app/live/82054853.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",23:00 | Panama vs Croatia
@@ -1024,10 +1033,6 @@ https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d99
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku (Lương Sơn) BLV PELE flv
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 FC Iberia 1999 Tbilisi vs Fc Meshakhte Tkibuli (Lương Sơn) BLV LÝ QUỲ m3u
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 FC Iberia 1999 Tbilisi vs Fc Meshakhte Tkibuli (Lương Sơn) BLV LÝ QUỲ flv
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV PEWPEW] (Socolive) m3u8
 https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782232162-0-0-a2fa0c1a968499cbec23469ac9d201dd
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV PEWPEW] (Socolive) hdM3u8
