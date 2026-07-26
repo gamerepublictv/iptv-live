@@ -1,106 +1,41 @@
 #EXTM3U
 #EXTINF:-1 data-source="Manual" group-title="Event-LIVE-NOW" tvg-logo="https://media.chuoichientv.net/media/20260714_210317_294a4162.webp" tvg-uid="678507e37752d48cc96ad00ac3630759",SEA V CUP 2026 GMM25
 https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
-#EXTINF:-1 tvg-expire="1785163500" tvg-start="1785155400" tvg-uid="d3f12a56ac23af61b8db05b06becb97b" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 1 - Master)
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="ceb2f7d4e40f55c209999e3f9a7c3d5e" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 4 - CTV 2 Canada)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/dl-golf-final-round.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="6d2b9f7063357aa5fc1c8a1d86b5c2b7" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 1 - Master)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/dl-golf-isps-handa-women-s-scottish-open-final-round.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="74ecd2a6c07c7d9b492ded001bd41b20" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 2 - CNBC USA)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/309.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="ced9051e02195b96eeac6467d0e49098" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 3 - Sky Sports Golf UK)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/70.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="34d5f050ad7eff10abac4e1480b33244" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 4 - TSN4)
+https://damitv2.bonekoetv.workers.dev/play/channel/838.m3u8
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="1f25184631803809dbeb4cbace66c339" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 5 - TSN4)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/114.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="d8ea744f8606f623a9705c8246cbc7cf" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 5 - GOLF Channel USA)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/318.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="be600e4b14ec7cd8ce721854f41ddb29" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 6 - Sky Sports Golf DE)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/785.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="03047eedc1ddb8c7095bafdf02770c78" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 7 - Movistar Golf)
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="fb13e108d9cf02a3ce0a67101eb51660" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 9 - Movistar Golf)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/528.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="fa7475d8774c0e7bc3546f9e48c6ff53" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 8 - Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/38.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="532aa27e9a396097930a6d689645d519" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 9 - ESPN Deportes)
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="c4c24d8c56e322b2abb17ec834c7cfe3" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 11 - ESPN Deportes)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/375.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="9f57bce12f52887a99c2f06eea6f2f57" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 10 - Sky Sport 3 NZ)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/590.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="db94f4224bd37197cec0dd290eb4ab94" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 11 - V Sport Golf)
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="ce6e3c5ae0dd49e3eaca6e1b9a4bf53f" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 13 - V Sport Golf)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/937.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="5898dfa2e0a5c3d81e2f302f0ba0cc3a" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 12 - SuperSport Golf)
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="b80e77edb31a38b2bc9946218017394b" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 14 - SuperSport Golf)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/422.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="33a096b19dfe884a4932c35003821513" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 13 - Ziggo Sport 6 NL)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="a7b4536f0279af3aa22de0e055a65525" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 14 - Sport KLUB Golf Croatia)
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="a55a6a69743e2a6a6598cbe66c5c8b73" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 16 - Sport KLUB Golf Croatia)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/710.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="42d7c600555230f61ef6a980597e7198" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 15 - MAX Sport 4 Bulgaria)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/475.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="d709e65c93fabdcf56eec2b9dab489a7" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 16 - Ziggo Sport 5 NL)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/383.m3u8
-#EXTINF:-1 tvg-expire="1785163500" tvg-start="1785155400" tvg-uid="aedfe8158149a65e47ee7e17b4d6f02e" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 2 - Sky Sports Golf UK)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/70.m3u8
-#EXTINF:-1 tvg-expire="1785163500" tvg-start="1785155400" tvg-uid="63792b195d12e25f28dedbfa9db6daf5" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 5 - Sky Sports+)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/36.m3u8
-#EXTINF:-1 tvg-expire="1785163500" tvg-start="1785155400" tvg-uid="e1e9fa6661122e9255ffbe80eb46630f" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 13 - Ziggo Sport 6 NL)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
 #EXTINF:-1 tvg-expire="1785163500" tvg-start="1785155400" tvg-uid="dab3a489529d6bb96a5df3906197cb9f" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 3 - GOLF Channel USA)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
@@ -146,6 +81,21 @@ https://damitv2.bonekoetv.workers.dev/play/channel/769.m3u8
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/839.m3u8
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="dba47aaa758529859f76defdce62a627" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 2 - CBS USA)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/52.m3u8
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="04ce7f30e25506c9b52e21de6843c591" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 3 - CBSNY USA)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/767.m3u8
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="f04ce9b4762482e40d02d8adb2837ad1" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 7 - GOLF Channel USA)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/318.m3u8
 #EXTINF:-1 tvg-expire="1785163500" tvg-start="1785155400" tvg-uid="5a53a426c7d960fc2b94b932a3b27ece" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 8 - Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
@@ -166,6 +116,56 @@ https://damitv2.bonekoetv.workers.dev/play/channel/375.m3u8
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/422.m3u8
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="d4afbf3caf7a7f17d729e98e7f9c4292" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 6 - Sky Sports Golf UK)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/70.m3u8
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="46a7569d934814ca75d1db09e7403543" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 8 - Sky Sports Golf DE)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/785.m3u8
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="609fdcd329bf7b946092bfa182887b72" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 10 - Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/38.m3u8
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="547fc55a28f05205913bfa3cf25f86a3" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 12 - Sky Sport 1 NZ)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/588.m3u8
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="9fb4080af930f80a1ee149a24a20da5e" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 15 - Ziggo Sport 6 NL)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
+#EXTINF:-1 tvg-expire="1785163500" tvg-start="1785155400" tvg-uid="d3f12a56ac23af61b8db05b06becb97b" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/dl-golf-final-round.m3u8
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="67fee323372181556cb1ad4b0034d2b5" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/dl-golf-3m-open-final-round.m3u8
+#EXTINF:-1 tvg-expire="1785163500" tvg-start="1785155400" tvg-uid="aedfe8158149a65e47ee7e17b4d6f02e" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 2 - Sky Sports Golf UK)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/70.m3u8
+#EXTINF:-1 tvg-expire="1785163500" tvg-start="1785155400" tvg-uid="63792b195d12e25f28dedbfa9db6daf5" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 5 - Sky Sports+)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/36.m3u8
+#EXTINF:-1 tvg-expire="1785163500" tvg-start="1785155400" tvg-uid="e1e9fa6661122e9255ffbe80eb46630f" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 13 - Ziggo Sport 6 NL)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
 #EXTINF:-1 tvg-uid="27a0e710bc6573d983aa810833a52bff" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 00:00 WIB] [tennis] Cincinnati Open (Tennis) | Cincinnati, Oh, USA | 11–23 August 2026 (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
@@ -175,66 +175,34 @@ https://damitv2.bonekoetv.workers.dev/play/dl-tennis-cincinnati-open-tennis-cinc
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=a18d8ba69ee9e6a2cfe09da0d97c9833&wsABSTime=1785134256
-#EXTINF:-1 tvg-uid="85b3ed57adde13f208cea3727b280948" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/vjxm8lhkdopq6od/image/small" group-title="Event-LIVE-NOW",03:00 WIB 27/07 - NU CHILE VS NU ARGENTINA [COP]
-#EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
-#EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=a18d8ba69ee9e6a2cfe09da0d97c9833&wsABSTime=1785134256
-#EXTINF:-1 tvg-uid="0e20b7488c5b28d1ec57cb983f2f63bd" data-source="Cdnsports" tvg-name="Canal+ Formula 1 AF" tvg-logo="https://i.imgur.com/wVCBBYM.png" group-title="Event-LIVE-NOW",Canal+ Formula 1 AF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a400e9171500528fb38d09e/playlist.m3u8?token=NmE0MDBlOTE3MTUwMDUyOGZiMzhkMDllOjE3ODUxMDE3NzU0MjM6Y2RubGl2ZXR2LnR2OjdkMmFkMjYwNmZkMzYxNmYuOGQ1YzBmY2EyNGQyOTk5NzQyODE5YzAxOGY2NDRiMzU1N2I3ZWU3ZTA4NzRhY2RlYjZkZjVmMmYxYjI5YzQ4OA
+https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=6584ef256508f0263955ca44ac57460f&wsABSTime=1785136175
 #EXTINF:-1 tvg-uid="6f7b246003451d1e342bc9fcc6087983" data-source="LIVE NGUYEN 1" group-title="Event-LIVE-NOW" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/v5gyjdrrvdtt_79d35f1d_20260725.png?v=79d35f1d",Formula 1 vs Hungary Grand Prix | 20:00 26/07
 https://eqr2hdarxfliv.vcdn.cloud/1784171115_hd/1784171115_hd@720p.m3u8
-#EXTINF:-1 tvg-uid="0e20b7488c5b28d1ec57cb983f2f63bd" data-source="Cdnsports" tvg-name="Canal+ Formula 1 AF" tvg-logo="https://i.imgur.com/wVCBBYM.png" group-title="Event-LIVE-NOW",Canal+ Formula 1 AF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a400e9171500528fb38d09e/playlist.m3u8?token=NmE0MDBlOTE3MTUwMDUyOGZiMzhkMDllOjE3ODUxMDE3NzU0MjM6Y2RubGl2ZXR2LnR2OjdkMmFkMjYwNmZkMzYxNmYuOGQ1YzBmY2EyNGQyOTk5NzQyODE5YzAxOGY2NDRiMzU1N2I3ZWU3ZTA4NzRhY2RlYjZkZjVmMmYxYjI5YzQ4OA
 #EXTINF:-1 tvg-uid="0502c67c6e865f6a8ea9093f3a9ca721" data-source="Cdnsports" tvg-name="UFC 1 (Solo Eventos)" group-title="Event-LIVE-NOW",UFC 1 (Solo Eventos)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2b81d8192bb76cc744/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNzQ0OjE3ODUxMDE3ODEyNDc6Y2RubGl2ZXR2LnR2OjdhNjc3NGI5NzkzMTgzYWYuZTU1OWM0NWEyNzEyYzJmZjRmZDE4OThlYjU4NmViMzM3ZjBkMDIxMWIwZTkwNTQyODczNGQ2ODZlYjZjNDNmZA
-#EXTINF:-1 tvg-uid="3c0cd2aeb40f1192e828fcf9f6c72b55" data-source="Cdnsports" tvg-name="UFC 3 (Solo Eventos)" group-title="Event-LIVE-NOW",UFC 3 (Solo Eventos)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2b81d8192bb76cc746/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNzQ2OjE3ODUxMDE3ODEyNTk6Y2RubGl2ZXR2LnR2OjcyMzlhZTQ1OTVhNWJhZGEuM2IwY2UwYTY1YWQ3ZjBjYWVmZTA5NmZhYTNiNjEwZGRiYzcxYzRmMDNiNmVjZTE4MzA0NTkwZjAyZjM3NTRlNQ
+https://cdnlivetv.is/secure/api/v1/6a288d2b81d8192bb76cc744/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNzQ0OjE3ODUxMDU2NjgwMTQ6Y2RubGl2ZXR2LnR2OmI0ODQ3OGM1N2ZhYmEzOTkuZjExN2NiMjRmZDIxOTU3ZDY2ZTBmY2IyNzU5M2EzMDlkZWFjNjBlYzZkYzVmMGQ3YzEwMGYyNGE3YjA1NThmNQ
 #EXTINF:-1 tvg-uid="27a0e710bc6573d983aa810833a52bff" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 00:00 WIB] [tennis] Cincinnati Open (Tennis) | Cincinnati, Oh, USA | 11–23 August 2026 (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/dl-tennis-cincinnati-open-tennis-cincinnati-oh-usa-11-23-august.m3u8
-#EXTINF:-1 tvg-expire="1785158400" tvg-start="1785150000" tvg-uid="33a096b19dfe884a4932c35003821513" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 13 - Ziggo Sport 6 NL)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
-#EXTINF:-1 tvg-expire="1785158400" tvg-start="1785150000" tvg-uid="42d7c600555230f61ef6a980597e7198" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 15 - MAX Sport 4 Bulgaria)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/475.m3u8
-#EXTINF:-1 tvg-expire="1785158400" tvg-start="1785150000" tvg-uid="d709e65c93fabdcf56eec2b9dab489a7" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 16 - Ziggo Sport 5 NL)
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/383.m3u8
 #EXTINF:-1 tvg-expire="1785163800" tvg-start="1785155400" tvg-uid="e1e9fa6661122e9255ffbe80eb46630f" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 13 - Ziggo Sport 6 NL)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="33a096b19dfe884a4932c35003821513" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 13 - Ziggo Sport 6 NL)
+#EXTINF:-1 tvg-expire="1785100800" tvg-start="1785092400" tvg-uid="9fb4080af930f80a1ee149a24a20da5e" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 15 - Ziggo Sport 6 NL)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
-#EXTINF:-1 tvg-expire="1785158100" tvg-start="1785150000" tvg-uid="d709e65c93fabdcf56eec2b9dab489a7" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/c1paqs1773496270.png" group-title="Event-LIVE-NOW",[🔴 LIVE 18:00 WIB] [⛳ 🏴 lpga tour] Isps Handa Women's Scottish Open – Final Round (Server 16 - Ziggo Sport 5 NL)
+#EXTINF:-1 tvg-expire="1785163500" tvg-start="1785155400" tvg-uid="e1e9fa6661122e9255ffbe80eb46630f" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 13 - Ziggo Sport 6 NL)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/383.m3u8
-#EXTINF:-1 tvg-expire="1785163500" tvg-start="1785155400" tvg-uid="e1e9fa6661122e9255ffbe80eb46630f" data-source="dami2" tvg-logo="" group-title="Event-LIVE-NOW",[🔴 LIVE 19:30 WIB] [⛳ 🏴 senior open championship] Final Round (Server 13 - Ziggo Sport 6 NL)
+https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
+#EXTINF:-1 tvg-expire="1785100500" tvg-start="1785092400" tvg-uid="9fb4080af930f80a1ee149a24a20da5e" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/yvxyvs1423844034.png" group-title="Event-LIVE-NOW",[🔴 LIVE 02:00 WIB] [⛳ 🇺🇸 pga tour] 3m Open – Final Round (Server 15 - Ziggo Sport 6 NL)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -243,19 +211,11 @@ https://damitv2.bonekoetv.workers.dev/play/channel/901.m3u8
 #EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
 #EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=a18d8ba69ee9e6a2cfe09da0d97c9833&wsABSTime=1785134256
-#EXTINF:-1 tvg-id="" tvg-name="Aalesund FK vs Viking FK" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3846a13443fce5ec322369d88f642df7.png%21w80&size=300&scale=1.5", Aalesund FK vs Viking FK (Giải vô địch quốc gia Na Uy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/67015288_69f0983eb8dca3dd763dc8bd12c7dd57_autoChange.m3u8?auth_key=1785105695-0-0-042af33efa224332816b761a4c623a8f
-#EXTINF:-1 tvg-id="" tvg-name="BLV PEPSI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3846a13443fce5ec322369d88f642df7.png%21w80&size=300&scale=1.5", Aalesund FK vs Viking FK - BLV PEPSI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/59444581.m3u8
+https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=6584ef256508f0263955ca44ac57460f&wsABSTime=1785136175
 #EXTINF:-1 tvg-id="" tvg-name="FK Csikszereda Miercurea Ciuc vs FCSB" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3888349404e5d5d09f977b30df0ee151.png%21w80&size=300&scale=1.5", FK Csikszereda Miercurea Ciuc vs FCSB (Giải Vô địch quốc gia Romania)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/72387872_cd3ef66c5c781e78d86098bdf0cdc2cb_autoChange.m3u8?auth_key=1785105695-0-0-b3b072542d1d62a0a6f3206a11f06cf0
+https://live.kinxie.com/live/72387872_cd3ef66c5c781e78d86098bdf0cdc2cb_autoChange.m3u8?auth_key=1785107861-0-0-c960c8dc340a4b7c7e0a96763f60fe44
 #EXTINF:-1 tvg-id="" tvg-name="BLV SAMURAI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3888349404e5d5d09f977b30df0ee151.png%21w80&size=300&scale=1.5", FK Csikszereda Miercurea Ciuc vs FCSB - BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -263,7 +223,7 @@ https://live05.meung.app/live/07808742.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Atl. Tucuman vs Independiente Rivadavia" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0276a00c0277c8f1cba7b63bd59e281d.png%21w80&size=300&scale=1.5", Atl. Tucuman vs Independiente Rivadavia (Giải Bóng đá Vô địch Quốc gia Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.kinxie.com/live/72529094_1a702e986c42e85081e31fc8d50c216d_autoChange.m3u8?auth_key=1785105695-0-0-57581560e6760460cee7d47d9a78bf16
+https://live.kinxie.com/live/72529094_1a702e986c42e85081e31fc8d50c216d_autoChange.m3u8?auth_key=1785107861-0-0-953570433224930a73378c6b6f5fb620
 #EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0276a00c0277c8f1cba7b63bd59e281d.png%21w80&size=300&scale=1.5", Atl. Tucuman vs Independiente Rivadavia - BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -271,7 +231,7 @@ https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wisla Krakow vs GKS Katowice" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F889c19181d34b5f3c2369456d5cd94bc.png%21w80&size=300&scale=1.5", Wisla Krakow vs GKS Katowice (Giải vô địch quốc gia Ba Lan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live3.kinxie.com/live/72043018_dc80b4112136ef50a350d82322a33976_autoChange.m3u8?auth_key=1785105691-0-0-4e077a21c21b0499dca7d33898009ea5
+https://live3.kinxie.com/live/72043018_dc80b4112136ef50a350d82322a33976_autoChange.m3u8?auth_key=1785107863-0-0-0c8f32952663dd89c2233cb6c68ec44a
 #EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F889c19181d34b5f3c2369456d5cd94bc.png%21w80&size=300&scale=1.5", Wisla Krakow vs GKS Katowice - BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -279,7 +239,7 @@ https://live05.meung.app/live/78905744.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lokomotiv Plovdiv vs Septemvri Sofia" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F38c435a724b4ab69e11ed2b65ed923bb.png%21w80&size=300&scale=1.5", Lokomotiv Plovdiv vs Septemvri Sofia (Giải vô địch quốc gia Bulgaria)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live5.kinxie.com/live/71998098_a49e386129ab9654bcb8b15caaca7d1e_autoChange.m3u8?auth_key=1785105691-0-0-759fae9b741f4ec2202e4ed164d612ea
+https://live5.kinxie.com/live/71998098_a49e386129ab9654bcb8b15caaca7d1e_autoChange.m3u8?auth_key=1785107863-0-0-b19c76931059d77731d07254526edf69
 #EXTINF:-1 tvg-id="" tvg-name="BLV C2" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F38c435a724b4ab69e11ed2b65ed923bb.png%21w80&size=300&scale=1.5", Lokomotiv Plovdiv vs Septemvri Sofia - BLV C2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -287,139 +247,173 @@ https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bahia vs Corinthians Paulista" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5ad7bd885c64690f15f6971a2827190d.png%21w80&size=300&scale=1.5", Bahia vs Corinthians Paulista (Giải bóng đá Hạng nhất Brasil)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live.kinxie.com/live/66886874_cbf2e6658852b28f2d34e7021ddeb076_autoChange.m3u8?auth_key=1785107864-0-0-2e8761063ab549bf75c3365798595d22
 #EXTINF:-1 tvg-id="" tvg-name="BLV  KHÔNG ĐỘ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5ad7bd885c64690f15f6971a2827190d.png%21w80&size=300&scale=1.5", Bahia vs Corinthians Paulista - BLV  KHÔNG ĐỘ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/41943555.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pNQ7MbHn/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",QF: Slovenia v Türkiye | Final Phase | Men's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5NjQ1NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5ODQ5OQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZQdI5j99/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",QF: Japan v China | Final Phase | Men's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5NjQ1NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5ODQ5OQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yNopSa7P/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Shaw/Phillips (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5NjQ1NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5ODQ5OQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aInhHuC6/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Taiana Lima/Talita (BRA) vs [tbc], Women Pool E on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5NjQ1NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5ODQ5OQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3kX343QP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Hughes/Batenhorst (USA) vs [tbc], Women Pool E on C3 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5NjQ1NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5ODQ5OQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mC8hqrlP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Ana Patrícia/Duda (BRA) vs [tbc], Women Pool D on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5NjQ1NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5ODQ5OQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j9uF3RCV/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Donlin/Denaburg (USA) vs [tbc], Women Pool B on C3 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5NjQ1NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5ODQ5OQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dws17xzc/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Verena/Thainara (BRA) vs Anderson/Chacon (USA), Women Pool C on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5NjQ1NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5ODQ5OQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TDhjtsRA/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Durish/Koenig (USA) vs Shiba/Reika (JPN), Women Pool D on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5NjQ1NQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5ODQ5OQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/C1xbk7p0/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Thamela/Victoria (BRA) vs [tbc], Women Pool F on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5NjQ1NQ
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/04c7db4de0acf5b988471ce5641f8747.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/5d2cb6fdc8934f80107352ea5efb7e64.png", Slavia Mozyr vs Dinamo Brest [LIVE] — Belarusian Cup (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtbnBxNnI5MTBvbzMwMzhxczdwbzQvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/2a421f806209afd3a771d23a117ef0ec.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/78c592636d88a892a5f0570a3258e810.png", Dukla Banska Bystrica vs Slovan Bratislava [LIVE] — Slovak Nike liga (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMG5zbjA5NzQ1NW8xOTQ4NzhyM3Ivem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f44ac8f0aaac57bc25888ee6916c1741.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/61a1f9406cde098a265280a3683da9b7.png", Crvena Zvezda vs Vojvodina Novi Sad [LIVE] — Serbian Mozzart Bet Superliga (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOTc5OTc3NTNyN3M4cHM1NW8wOXAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/3846a13443fce5ec322369d88f642df7.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/6ac791d55849be61801c6c1827b52811.png", Aalesund FK vs Viking [LIVE] — Norwegian Eliteserien (Server 3)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcHFwOTM2NDRwcXBzbjE2bzA1MjUvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/3888349404e5d5d09f977b30df0ee151.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/bdfa2df481714f2ea787ee7fe973b4a6.png", FK Csikszereda Miercurea Ciuc vs Fotbal Club FCSB [LIVE] — Romanian Super Liga (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNjQ1cjRvcDVuMTlyMjdvNDluODYvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/32e02c7fa9bc570120e7f7f1f1525d23.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/5b4ebe277ab57c29bde70110a562d94f.png", Puszcza Niepolomice vs Polonia Warszawa [LIVE] — Poland Liga 1 (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtbnIxb3BxMTM5MjM3MTQ4ODU2b3Ivem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTY5ODQ5OQ
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/a0371cae016f535937b347bcea8f3432.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/e8562e3f468a3ac1c609bf7b1380de99.png", Chojniczanka Chojnice vs GKS Tychy [LIVE] — Poland Liga 2 (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMDg2NzVzMHI4Nm83OTFyMnE1OW8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/398fe0a0ed3c0dfb6a4afdfb8bc6cb7a.png", All Boys vs Defensores de Belgrano [LIVE] — ARG Primera Nacional (Server 2)
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMDg2NzVzMHI4Nm83OTFyMnE1OW8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/32e02c7fa9bc570120e7f7f1f1525d23.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/5b4ebe277ab57c29bde70110a562d94f.png", Puszcza Niepolomice vs Polonia Warszawa [LIVE] — Poland Liga 1 (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtN3A2MnBxczM4OG81MzMwMDM1NDcvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/2d87cf3b426597f02435e2c72e8def93.png", Atletico Tucuman vs Independiente Rivadavia [LIVE] — Argentine Division 1 (Server 2)
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtbnIxb3BxMTM5MjM3MTQ4ODU2b3Ivem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/3888349404e5d5d09f977b30df0ee151.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/bdfa2df481714f2ea787ee7fe973b4a6.png", FK Csikszereda Miercurea Ciuc vs Fotbal Club FCSB [LIVE] — Romanian Super Liga (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNDc0cnA3NDJwMXE2MTByMjgzcjkvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/57bb4f7957510c2da5fd076e75618f5f.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/327368d0bd89e670a231bf92bb790675.png", Cerro Montevideo vs Racing Club Montevideo [LIVE] — Uruguay Primera Division (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3Ytcm84ODZucjQwcjA3MjFzMTY1N3Avem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/82c7dcf4a3073c69601c49b2e726af2a.png", Agropecuario de Carlos Casares vs San Martin San Juan [LIVE] — ARG Primera Nacional (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNTc3NDM3bm5wb29zODQ2MjQ4MHIvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/a1b57fb832cc79925c333ec64962cab1.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/bb03215116026dff3902c685c0e4c23e.png", Hradec Kralove vs Pardubice [LIVE] — Czech Chance Liga (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtczBxOHE1cjNxNHE0NTkyMDJzMzUvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/c34077b7ac3592e339bd375e72fe441b.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/c2767b71e70059af4a695f5716e6a2e7.png", UTC Cajamarca vs Moquegua [LIVE] — Peruvian Liga 1 (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMXE4M3AzcjdwM242MjdvMzczODkvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNjQ1cjRvcDVuMTlyMjdvNDluODYvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/a5f4e3112868e5c8a21b1cd87e9393f0.png", Los Andes vs Deportivo Madryn [LIVE] — ARG Primera Nacional (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMjIycjE4NjY4czc5NW84MHJzNW8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMjIycjE4NjY4czc5NW84MHJzNW8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/82c7dcf4a3073c69601c49b2e726af2a.png", Agropecuario de Carlos Casares vs San Martin San Juan [LIVE] — ARG Primera Nacional (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNTc3NDM3bm5wb29zODQ2MjQ4MHIvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/a1b57fb832cc79925c333ec64962cab1.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/bb03215116026dff3902c685c0e4c23e.png", Hradec Kralove vs Pardubice [LIVE] — Czech Chance Liga (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtczBxOHE1cjNxNHE0NTkyMDJzMzUvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/398fe0a0ed3c0dfb6a4afdfb8bc6cb7a.png", All Boys vs Defensores de Belgrano [LIVE] — ARG Primera Nacional (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtN3A2MnBxczM4OG81MzMwMDM1NDcvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/2d87cf3b426597f02435e2c72e8def93.png", Atletico Tucuman vs Independiente Rivadavia [LIVE] — Argentine Division 1 (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNDc0cnA3NDJwMXE2MTByMjgzcjkvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/c34077b7ac3592e339bd375e72fe441b.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/c2767b71e70059af4a695f5716e6a2e7.png", UTC Cajamarca vs Moquegua [LIVE] — Peruvian Liga 1 (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMXE4M3AzcjdwM242MjdvMzczODkvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/121f27b03ecb918301a6ffa8b666030b.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/fcab910b1523f8f70972681169c4193c.png", Paksi FC vs Ferencvarosi TC [LIVE] — Hungary Fizz Liga (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMDAzcjE4MTY1bjFxbm82NTMxNXAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/0e046e806bd54b6ea05db95101f07401.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/7770d591cd0855fc12e5fbfe80f83221.png", Sociedad Deportiva Aucas vs Macara [LIVE] — LigaPro Serie A  (Server 2)
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMDAzcjE4MTY1bjFxbm82NTMxNXAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/57bb4f7957510c2da5fd076e75618f5f.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/327368d0bd89e670a231bf92bb790675.png", Cerro Montevideo vs Racing Club Montevideo [LIVE] — Uruguay Primera Division (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMDgyb3I5cHBvN3IyMzIzNzc0cTgvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/940bb92f83d40985137748d0d3aeb213.png", Lokomotiv Plovdiv vs Septemvri Sofia [LIVE] — Bulgaria First League (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3Ytbzgzbzc5cDg5MjQ2bnFvMzMwb3Ivem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/3bf72dbe870d64929ce0120521717977.png", Wisla Krakow vs GKS Katowice [LIVE] — PKO Bank Polski EKSTRAKLASA (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMXMyMjM4OW9vcDg5cjc2ODI1cTgvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/8e757755505af3813ffeeb2056e8e17e.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/e62d9ac93919ce609ccc531a44c69bee.png", FC Koper vs Radomlje [LIVE] — Slovenia 1.Liga (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNDMwMzUwb3AxOTY1NHJvMDczNjgvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3Ytcm84ODZucjQwcjA3MjFzMTY1N3Avem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/0e046e806bd54b6ea05db95101f07401.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/e6e7908a2efe1a1688bfb86106e98c30.png", Delfin SC vs Club Leones del Norte [LIVE] — LigaPro Serie A  (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNzYxbzE0MXA3M24wNDZzbnAyNTUvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNzYxbzE0MXA3M24wNDZzbnAyNTUvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/0e046e806bd54b6ea05db95101f07401.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/7770d591cd0855fc12e5fbfe80f83221.png", Sociedad Deportiva Aucas vs Macara [LIVE] — LigaPro Serie A  (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMDgyb3I5cHBvN3IyMzIzNzc0cTgvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/940bb92f83d40985137748d0d3aeb213.png", Lokomotiv Plovdiv vs Septemvri Sofia [LIVE] — Bulgaria First League (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3Ytbzgzbzc5cDg5MjQ2bnFvMzMwb3Ivem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/8e757755505af3813ffeeb2056e8e17e.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/e62d9ac93919ce609ccc531a44c69bee.png", FC Koper vs Radomlje [LIVE] — Slovenia 1.Liga (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNDMwMzUwb3AxOTY1NHJvMDczNjgvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/3bf72dbe870d64929ce0120521717977.png", Wisla Krakow vs GKS Katowice [LIVE] — PKO Bank Polski EKSTRAKLASA (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMXMyMjM4OW9vcDg5cjc2ODI1cTgvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/f772b20418c5809e65bf731740e235e4.png", Deportivo Moron vs Ferrol Carril Oeste [LIVE] — ARG Primera Nacional (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtM25vcDM0NW43cHFybzQ4cjhzcDgvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/167d36c2bdb0fb5d887bc909aa26a88a.png", CA San Miguel vs Club Atletico Acassuso [LIVE] — ARG Primera Nacional (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOW4zcm80cDYzcG4wMzI5NzZzMTAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/8db9a5d445b772788d5a1f9719133e59.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/c050aaae65b61e563cdc5d50c5af6212.png", Atletico Ottawa vs Pacific FC [LIVE] — Canadian Premier League (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMHI3MzY1cHJvcnMwNXJuM3Aybm4vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/a7fa07ce3b6d59d682c8c18ce44cf2fb.png", Colon de Santa Fe vs Chaco For Ever [LIVE] — ARG Primera Nacional (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOThyNnA4MzQ0cDI1OHE0cTFvNjAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/6f803b0ca5b52b392cb3fb4225ad7186.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/58b46f02c9c551bc46142b711e4e94ef.png", SV Wienerberger vs Rapid Wien [LIVE] — Austrian Cup (Server 2)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcTdycnFwMzUxNzQ1NDcxNTUwOW4vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtM25vcDM0NW43cHFybzQ4cjhzcDgvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f44ac8f0aaac57bc25888ee6916c1741.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/e64d3418718f4415783fcfaca7db3448.png", Mladost Lucani vs Novi Pazar [LIVE] — Serbian Mozzart Bet Superliga (Server 2)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNnA2OHA4NDFzNzUybzdxbjQ2MW8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk2NDU1
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNnA2OHA4NDFzNzUybzdxbjQ2MW8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/a7fa07ce3b6d59d682c8c18ce44cf2fb.png", Colon de Santa Fe vs Chaco For Ever [LIVE] — ARG Primera Nacional (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOThyNnA4MzQ0cDI1OHE0cTFvNjAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/6f803b0ca5b52b392cb3fb4225ad7186.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/58b46f02c9c551bc46142b711e4e94ef.png", SV Wienerberger vs Rapid Wien [LIVE] — Austrian Cup (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcTdycnFwMzUxNzQ1NDcxNTUwOW4vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/167d36c2bdb0fb5d887bc909aa26a88a.png", CA San Miguel vs Club Atletico Acassuso [LIVE] — ARG Primera Nacional (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOW4zcm80cDYzcG4wMzI5NzZzMTAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/8db9a5d445b772788d5a1f9719133e59.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/c050aaae65b61e563cdc5d50c5af6212.png", Atletico Ottawa vs Pacific FC [LIVE] — Canadian Premier League (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMHI3MzY1cHJvcnMwNXJuM3Aybm4vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/a0384799afdbb817eb5f9071fc65fab1.png", Ferrocarril Midland vs Patronato Parana [LIVE] — ARG Primera Nacional (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNDAzMjE1MHExOTZuMjM5cm8yNDQvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/38841431983b80b4d77567b257db194f.png", Atletico Mitre de Santiago del Estero vs Almirante Brown [LIVE] — ARG Primera Nacional (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcnFuMzdyNTJxOHMzMm9uNjc4NjYvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/5ad7bd885c64690f15f6971a2827190d.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/3fe9281df0fdaf026741ff54ac24bdeb.png", Cruzeiro - MG vs Botafogo - RJ [LIVE] — Brazilian Serie A (Server 3)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNDg5cnFvMzU1NTkzM3JyMDE1bzcvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/de8b35be2ad3af138f74e9b8cb01d22c.png", Racing de Cordoba vs San Telmo [LIVE] — ARG Primera Nacional (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtM243cTcyNTRxczJvOHI5czQ2bnAvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f44ac8f0aaac57bc25888ee6916c1741.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/002ba069c51b525d13f7a83a35336a07.png", Macva Sabac vs Partizan Belgrade [LIVE] — Serbian Mozzart Bet Superliga (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMjUzcnBxMHEzMDNxMDJxcDM5NTIvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png", Sevilla FC vs AD Ceuta [LIVE] — International Club Friendly (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtOTU5cjQxcHNyOXBvbzc4bnA4MXIvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/5ad7bd885c64690f15f6971a2827190d.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/20456802ad5f8243dc282c4650c414e1.png", Bahia - BA vs Corinthians - SP [LIVE] — Brazilian Serie A (Server 3)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcHM3MDAzNzIyMjY2NTg4NnI3bjgvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/f6ee5b5c991ae7af40af139efa05a07f.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/d6e78ecc939ce8a547c948fb894d7a32.png", Olimpia Asuncion vs Club Libertad Asunción [LIVE] — Paraguayan Primera Division (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcjVxcDRxMzJxcjc3MTU0N29vcHIvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/fee37a97f3d0e08209e4846fcff45cba.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/1cc8fde7becd389f88e35e0b498202bd.png", Nublense vs Palestino [LIVE] — CHI Liga de Primera (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtMTNxbzQ4cG44cG85NzVuNTA3MzYvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/265454b5fee1950f8aa1173147c8c593.png", Internacional de Bogota vs America de Cali [LIVE] — Categoría Primera A (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtcDNzMnMyMzQ5OTFxcTYyMG5ycjUvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/1105c0c62d761d64b6f4c3e34f460278.png", Criciuma vs Nautico (PE) [LIVE] — Brazilian Serie B (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNjQxMThvMHMwMjM0NzYzbzM0cm8vem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/acb0d80017e970d0e7f20528091e5361.png", Fram Reykjavik vs Hafnarfjordur [LIVE] — Iceland Besta-deild karla (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtODUwNDVwOTRybjgwNzI5MjJwMDkvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
+#EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://global-cdn.cdnx.tech/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png" tvg-logo="https://global-cdn.cdnx.tech/football/team/9ea788376ee5eb240491893729802749.png", Akranes vs Stjarnan Gardabaer [TGL 27/07 02:15 WIB] — Iceland Besta-deild karla (Server 2)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly91eWYuZmdlcm56dWhvLnpycXZuL3V5Zi9ndXJmY2JlZy1uY3YtNjg4cTAxMzQ1b25xMG40Mm9zOTIvem5mZ3JlLnozaDh8RXJzcmVyZT11Z2djZjovL2lmcC1uY3ZxcmkudXJ5dm1iYXJmLnBiei8mQmV2dHZhPXVnZ2NmOi8vaWZwLW5jdnFyaS51cnl2bWJhcmYucGJ6JkhmcmUtTnRyYWc9WmJtdnl5biUyUzUuMCslMjhKdmFxYmpmK0FHKzEwLjAlM08rSnZhNjQlM08razY0JTI5K05jY3lySnJvWHZnJTJTNTM3LjM2KyUyOFhVR1pZJTJQK3l2eHIrVHJweGIlMjkrUHVlYnpyJTJTMTIwLjAuMC4wK0Zuc25ldiUyUzUzNy4zNnwxNzg1Njk4NDk5
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",15:00 | CLB KuPs vs Ilves
 https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",15:00 | CLB Vaasa VPS vs CLB AC Oulu
-https://live05.meung.app/live/59444581.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",23:00 | Panama vs Croatia
 https://live05.meung.app/live/78905744.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f4f29caf210db9a418ece37a7025eb5f.png!w80",11:30 | Shenzhen 2028 vs Hangzhou Linping
@@ -444,3 +438,27 @@ https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 FC Iberia 1999 Tbilisi vs Fc Meshakhte Tkibuli (Lương Sơn) BLV LÃO HẠC flv
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782232522-0-0-060ad5b4bf00be296df633ea071db0aa
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782232522-0-0-af31f20e84aefe320d63413d5bfa94e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - New Zealand vs Egypt [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782232522-0-0-dd63f1b5e50ffe353bc918a22f0d7e2c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - New Zealand vs Egypt [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782232522-0-0-d6a8de2d195650c0d912acea3ce65a67
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Uruguay vs Cabo Verde [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782232522-0-0-d59a5d0dcbec85cba5e61699704ac25f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Uruguay vs Cabo Verde [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782232522-0-0-fa42adf97ab979d697035907999dc136
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Jordan vs Algeria [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782232522-0-0-ff705d831883495d0aa3146a3e93d8d0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Jordan vs Algeria [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782232522-0-0-d7ae3d2c110eaaf5a63aaf57fb9bd5b7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs IR Iran [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782232522-0-0-e7505d51411e3797bdd28c6c6eb37fb2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs IR Iran [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782232522-0-0-6b7d1164cd0331fe1115e3565b332840
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Argentina vs Austria [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782232522-0-0-61be8ef716b49b5399c6dd6646e3a37b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Argentina vs Austria [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782232522-0-0-939fbd39c050bdc3313a5f14128c7fe6
