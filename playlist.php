@@ -2,82 +2,6 @@
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Mai-Hontama?mid=5156808&q=sd&exp=1785140730&sig=66e301c354d7b2d86c42f130a99ee93a0bd8f9e4cbb1a52e50e256fcf8128b40
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Atletico-Mineiro-MG?mid=5096553&q=sd&exp=1785126054&sig=fb727598c43b1bfcaaa2676fbdc4e2dd0335830eebccd2749e8a9b301cb24db8
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/EC-Vitoria-BA?mid=5096580&q=sd&exp=1785126054&sig=45cfe8f79a88ee52fa88c0c796332278fb42f6dc51534b3a3ed6a584790fc4c0
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Boca-Juniors?mid=5001794&q=sd&exp=1785126054&sig=81444c1dcf3fe29a8072a3fc4abba50ba0feb0248b8d002c82fcbcede0c0f443
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/CF-Monterrey?mid=5064502&q=sd&exp=1785127853&sig=5072b472a4adaedded58e3a43d17cb7a8c105ea0e0a548e6e384ddbdcd4e292a
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Cruz-Azul-Hidalgo?mid=5119901&q=sd&exp=1785127853&sig=5b80075e4cee7fd376729b4685ffd46f2bb6a705f806edbe08f0d6b48975390f
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Denver-Summit-FC-(N%E1%BB%AF)?mid=5107072&q=sd&exp=1785127916&sig=abd4a04f49ca16320fc90fc14a3476c4916559b9f713ad85a85fd576d5e76ded
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/New-England-Revolution-II?mid=5072918&q=sd&exp=1785127916&sig=41203c7999e5e05b91eef91a3de5c1f1f2c027cb39a3173b1bf43ab7bccaa8fe
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Austin-FC-II?mid=5072931&q=sd&exp=1785127916&sig=71756310d5987f1cd2332f15256d98389e5bfa4208010eecb5e30eb6e9cfa4ba
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Vancouver-Whitecaps-FC-II?mid=5072935&q=sd&exp=1785127916&sig=7e930c3dc3a224e38f809a06991a7305e364dda8cbfd9a78087005a87853f3b5
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Huntsville-City-FC?mid=5072942&q=sd&exp=1785127916&sig=8b40b81b4ef04958148f27ef3b68025f97f52d5ca0a8b20e87bdccd9770b6c3a
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Fortaleza-CEIF?mid=5070421&q=sd&exp=1785128773&sig=6b97912f0278d0203eff1fd686120c8890755720db20eb6fcd3ff8cdb2b3e0ff
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Baseball/New-York-Yankees?mid=4998536&q=sd&exp=1785129054&sig=cd150c370e7a48d4f858d51b9332ceb34e37ba90c70fb542fb4da726a073878e
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/CD-Real-Tomayapo?mid=5107012&q=sd&exp=1785129655&sig=bee93861fe388d88a1877ed81c97116fffca1e705814593b40c4fabdc9fb10a6
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Paysandu-SC-PA?mid=5095436&q=sd&exp=1785129655&sig=adac62028b4ec18e09312980a3cba2309c763d16c1d9c48509456f98da2d4f2f
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Basketball/Puerto-Montt?mid=5151003&q=sd&exp=1785129655&sig=1c9943e3e7efd47d200a2c9fdb99413f22281fb6f1c4b37720724e78a919013a
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Alexandra-Vagramov?mid=5160234&q=sd&exp=1785129655&sig=30480841d0db07d96b2f3704b0dfe572971989fd3c167598840839a8bbba4647
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/FC-Cajamarca?mid=5111891&q=sd&exp=1785131487&sig=cefbfdf2e4c3718dbb1d6615f92fe160b23eef18c5dbd1b2de4d8b1cf96dc437
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Kyoka-Okamura?mid=5156816&q=sd&exp=1785129001&sig=137e2ba4c238a2a30656b8d57e7af10d515bae7300a7ff33cbcad1a56d55c56e
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/LDU-Quito?mid=5113484&q=sd&exp=1785132354&sig=f061151f6f667c1dad450ba5d471a0a71e680a0d9f2261f59f9a7bf6086f2805
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -131,6 +55,10 @@ https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Edward-Winter?mi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Colorado-Rapids-II?mid=5072948&q=sd&exp=1785138631&sig=bb1b6c9a917eeff1e16dd0dc82f2d07b5dbfeca697f47fcfa5273d1fdfa714e1
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Mai-Hontama?mid=5156808&q=sd&exp=1785140730&sig=66e301c354d7b2d86c42f130a99ee93a0bd8f9e4cbb1a52e50e256fcf8128b40
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
@@ -302,17 +230,17 @@ http://193.47.62.190/hls/YFFFV.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b5368f99afb20dbdee7fb91015ab3ae675bed27f8ee3fad169dc38b774bfa072&waktu=1785127790
-https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=b5368f99afb20dbdee7fb91015ab3ae675bed27f8ee3fad169dc38b774bfa072&waktu=1785127790
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/L2teMxLOTKsCNpgiObFQNGXT4KU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5213755/de5bfc.png" group-title="Event-LIVE-NOW", ⏳ (-10j 10m) 22:00 WIB 27/07/26 Day 1 - WTA 500: Mubadala DC Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=202e5223923bb5edf77dd680ca673de765d16d2b2b6358b387533dc2e2822016&waktu=1785129890
+https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=202e5223923bb5edf77dd680ca673de765d16d2b2b6358b387533dc2e2822016&waktu=1785129890
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/L2teMxLOTKsCNpgiObFQNGXT4KU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5213755/de5bfc.png" group-title="Event-LIVE-NOW", ⏳ (-9j 35m) 22:00 WIB 27/07/26 Day 1 - WTA 500: Mubadala DC Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e7a0cebd1ab8dfead4549852f5276752757f7916dd103026c02cbe201ef1bb32&waktu=1785127790
-https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e7a0cebd1ab8dfead4549852f5276752757f7916dd103026c02cbe201ef1bb32&waktu=1785127790
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=11ea05a3a56aa8d37b2a8f29813893947565564ad59e27dd65eeb1bff8a1a51d&waktu=1785129890
+https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=11ea05a3a56aa8d37b2a8f29813893947565564ad59e27dd65eeb1bff8a1a51d&waktu=1785129890
 #EXTINF:-1 data-source="Manual" group-title="Event-LIVE-NOW" tvg-logo="https://media.chuoichientv.net/media/20260714_210317_294a4162.webp" tvg-uid="678507e37752d48cc96ad00ac3630759",SEA V CUP 2026 GMM25
 https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 #EXTINF:-1 tvg-uid="3577837c9c9a52e56ca220c06d44aadd" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/gpxwrxdhkkxmyk0/image/small" group-title="Event-LIVE-NOW",01:00 WIB 28/07 - PUERTO RICO VS GUATEMALA [CAC]
@@ -342,25 +270,25 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=5d046e760f405e4001025a555e374e5b:52662d5b155c465c5f0c055863160b00
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pNQ7MbHn/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",QF: Slovenia v Türkiye | Final Phase | Men's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczMjYwNQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZQdI5j99/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",QF: Japan v China | Final Phase | Men's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczMjYwNQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yNopSa7P/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Shaw/Phillips (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczMjYwNQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aInhHuC6/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Taiana Lima/Talita (BRA) vs [tbc], Women Pool E on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczMjYwNQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3kX343QP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Hughes/Batenhorst (USA) vs [tbc], Women Pool E on C3 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczMjYwNQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mC8hqrlP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Ana Patrícia/Duda (BRA) vs [tbc], Women Pool D on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczMjYwNQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j9uF3RCV/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Donlin/Denaburg (USA) vs [tbc], Women Pool B on C3 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczMjYwNQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dws17xzc/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Verena/Thainara (BRA) vs Anderson/Chacon (USA), Women Pool C on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczMjYwNQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TDhjtsRA/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Durish/Koenig (USA) vs Shiba/Reika (JPN), Women Pool D on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczMjYwNQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/C1xbk7p0/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Thamela/Victoria (BRA) vs [tbc], Women Pool F on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczMjYwNQ
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782232522-0-0-060ad5b4bf00be296df633ea071db0aa
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
