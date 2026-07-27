@@ -2,6 +2,10 @@
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Table%20Tennis/Vlada-Voronina-%2F-Valeria-Shcherbatykh?mid=5165012&q=sd&exp=1785153326&sig=0b24dc5dda87a597f43810c0e38169573cc77b549815daf00ea2f92e056e7755
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/LDU-Quito?mid=5113484&q=sd&exp=1785132354&sig=f061151f6f667c1dad450ba5d471a0a71e680a0d9f2261f59f9a7bf6086f2805
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -63,6 +67,10 @@ https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Mai-Hontama?mid=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Roger-Pascual-Ferra?mid=5159830&q=sd&exp=1785140314&sig=282173012d26788fa065abe696cebb55e238cc47f4fb598f1cc63bdacb608fe4
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Table%20Tennis/Sibel-Altinkaya-%2F-Ece-Harac?mid=5164998&q=sd&exp=1785153025&sig=24c5ef7581e259f8820f19279a333b43851c16b5b4af94a0420a06182d6ca8fa
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2033318081175621633%2FJctrbH2d_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", AEW Redemption - AEW Wrestling 05.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -223,6 +231,15 @@ http://193.47.62.190/hls/YFFFVQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.190/hls/YFFFV.m3u8
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dBMf_WAWW0JVeB5hVsaXQbYSxv4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg" group-title="Event-LIVE-NOW", 🔴 Mugello Race 4 : Formula 4 Italian Championship 2026 [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=a45aadf010dbf03d708e00b31f7e7e3720bedaebb14290108961b13f23660c5b&waktu=1785132290
+https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=a45aadf010dbf03d708e00b31f7e7e3720bedaebb14290108961b13f23660c5b&waktu=1785132290
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/w4WsztctnAXWF36OBxRmc5lt87E=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg" group-title="Event-LIVE-NOW", 🔴 ISPS HANDA WOMEN'S SCOTTISH OPEN [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -230,25 +247,35 @@ http://193.47.62.190/hls/YFFFV.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=202e5223923bb5edf77dd680ca673de765d16d2b2b6358b387533dc2e2822016&waktu=1785129890
-https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=202e5223923bb5edf77dd680ca673de765d16d2b2b6358b387533dc2e2822016&waktu=1785129890
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/L2teMxLOTKsCNpgiObFQNGXT4KU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5213755/de5bfc.png" group-title="Event-LIVE-NOW", ⏳ (-9j 35m) 22:00 WIB 27/07/26 Day 1 - WTA 500: Mubadala DC Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e01f391f9856e9dba56ad1645fcb5e0b402c44c59d570448203d1cfb168d1597&waktu=1785132290
+https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=e01f391f9856e9dba56ad1645fcb5e0b402c44c59d570448203d1cfb168d1597&waktu=1785132290
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/L2teMxLOTKsCNpgiObFQNGXT4KU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5213755/de5bfc.png" group-title="Event-LIVE-NOW", ⏳ (-8j 55m) 22:00 WIB 27/07/26 Day 1 - WTA 500: Mubadala DC Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=11ea05a3a56aa8d37b2a8f29813893947565564ad59e27dd65eeb1bff8a1a51d&waktu=1785129890
-https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=11ea05a3a56aa8d37b2a8f29813893947565564ad59e27dd65eeb1bff8a1a51d&waktu=1785129890
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=345bc830d688215c1e5000253fdf34ee512a20b77cd805901a8d65ee643e26ab&waktu=1785132290
+https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=345bc830d688215c1e5000253fdf34ee512a20b77cd805901a8d65ee643e26ab&waktu=1785132290
 #EXTINF:-1 data-source="Manual" group-title="Event-LIVE-NOW" tvg-logo="https://media.chuoichientv.net/media/20260714_210317_294a4162.webp" tvg-uid="678507e37752d48cc96ad00ac3630759",SEA V CUP 2026 GMM25
 https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
+#EXTINF:-1 tvg-uid="d3a2398c2c39b3596ebaeecf2651b3d8" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/zp5rzdhjz82wq82/image/small" group-title="Event-LIVE-NOW",18:00 WIB 27/07 - HA NOI VS TP HO CHI MINH [GIẢ]
+#EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
+#EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://live2.streambylivepulse.com/live/channel33.flv
 #EXTINF:-1 tvg-uid="3577837c9c9a52e56ca220c06d44aadd" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/gpxwrxdhkkxmyk0/image/small" group-title="Event-LIVE-NOW",01:00 WIB 28/07 - PUERTO RICO VS GUATEMALA [CAC]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-uid="5c6afdd84aa45a96cf5f93f6cc3d6867" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/p3glrwjhvv7qdyj/image/small" group-title="Event-LIVE-NOW",03:00 WIB 28/07 - COLOMBIA VS SURINAME [CAC]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-uid="aa700bfcf23bdebb9c80f9dd67d53545" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/9vjxm8lhzzeq6od/image/small" group-title="Event-LIVE-NOW",07:00 WIB 28/07 - MEXICO VS DOMINICAN REPUBLIC [CAC]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-uid="52ba18da5c3aecd0a20943825839d86b" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/zp5rzdhjz87xq82/image/small" group-title="Event-LIVE-NOW",20:00 WIB 27/07 - HOA CHAT DUC GIANG VS BINH CHUNG THONG TIN [GIẢ]
+#EXTVLCOPT:http-origin=https://xoilac.livepingscorex.com
+#EXTVLCOPT:http-referrer=https://xoilac.livepingscorex.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://live2.streambylivepulse.com/live/channel33.flv
 #EXTINF:-1 tvg-uid="d332b31199fe45c15f1590aa64c73541" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/gy0or58h225rwzv/image/small" group-title="Event-LIVE-NOW",05:00 WIB 28/07 - VENEZUELA VS CUBA [CAC]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-uid="6f7b246003451d1e342bc9fcc6087983" data-source="LIVE NGUYEN 1" group-title="Event-LIVE-NOW" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/v5gyjdrrvdtt_79d35f1d_20260725.png?v=79d35f1d",Formula 1 vs Hungary Grand Prix | 20:00 26/07
@@ -270,25 +297,25 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=5d046e760f405e4001025a555e374e5b:52662d5b155c465c5f0c055863160b00
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pNQ7MbHn/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",QF: Slovenia v Türkiye | Final Phase | Men's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNzE4OA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZQdI5j99/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",QF: Japan v China | Final Phase | Men's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNzE4OA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yNopSa7P/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Shaw/Phillips (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNzE4OA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aInhHuC6/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Taiana Lima/Talita (BRA) vs [tbc], Women Pool E on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNzE4OA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3kX343QP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Hughes/Batenhorst (USA) vs [tbc], Women Pool E on C3 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNzE4OA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mC8hqrlP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Ana Patrícia/Duda (BRA) vs [tbc], Women Pool D on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNzE4OA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j9uF3RCV/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Donlin/Denaburg (USA) vs [tbc], Women Pool B on C3 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNzE4OA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dws17xzc/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Verena/Thainara (BRA) vs Anderson/Chacon (USA), Women Pool C on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNzE4OA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TDhjtsRA/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Durish/Koenig (USA) vs Shiba/Reika (JPN), Women Pool D on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNzE4OA
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/C1xbk7p0/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Thamela/Victoria (BRA) vs [tbc], Women Pool F on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNDgyOA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTczNzE4OA
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782232522-0-0-060ad5b4bf00be296df633ea071db0aa
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
