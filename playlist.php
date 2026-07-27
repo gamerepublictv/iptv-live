@@ -2,10 +2,6 @@
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Colorado-Rapids-II?mid=5072948&q=sd&exp=1785156686&sig=3c3a388649496fc4717caa455bce40d4498a6b7b5f28e76f5bfec3e6f7a838d3
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
 https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/LDU-Quito?mid=5113484&q=sd&exp=1785132354&sig=f061151f6f667c1dad450ba5d471a0a71e680a0d9f2261f59f9a7bf6086f2805
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -58,11 +54,15 @@ https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Edward-Winter?mi
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Mai-Hontama?mid=5156808&q=sd&exp=1785140730&sig=66e301c354d7b2d86c42f130a99ee93a0bd8f9e4cbb1a52e50e256fcf8128b40
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Soccer/Colorado-Rapids-II?mid=5072948&q=sd&exp=1785156686&sig=3c3a388649496fc4717caa455bce40d4498a6b7b5f28e76f5bfec3e6f7a838d3
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
-https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Roger-Pascual-Ferra?mid=5159830&q=sd&exp=1785140314&sig=282173012d26788fa065abe696cebb55e238cc47f4fb598f1cc63bdacb608fe4
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Mai-Hontama?mid=5156808&q=sd&exp=1785158785&sig=56a20c2564781dd0529028959017725f66219641ce153fa7e1203c0a382b4d75
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
+https://livevent.elutuna.workers.dev/resolve-web/vivo200/Tennis/Roger-Pascual-Ferra?mid=5159830&q=sd&exp=1785158364&sig=95cfbca483384b19b90a7933625d2851328c03ea6ddd075ea4e13c18a6986472
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/tv.png", SD [IOS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://livevent.elutuna.workers.dev/
@@ -231,15 +231,6 @@ http://193.47.62.190/hls/YFFFVQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.190/hls/YFFFV.m3u8
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dBMf_WAWW0JVeB5hVsaXQbYSxv4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg" group-title="Event-LIVE-NOW", 🔴 FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026 : Formula 1 Highlights 2026 [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=15a1a4752036aa95d92d4e8955c0964719185c9f9be2aec99f7551af54b038b3&waktu=1785136790
-https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=15a1a4752036aa95d92d4e8955c0964719185c9f9be2aec99f7551af54b038b3&waktu=1785136790
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/w4WsztctnAXWF36OBxRmc5lt87E=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg" group-title="Event-LIVE-NOW", 🔴 ISPS HANDA WOMEN'S SCOTTISH OPEN [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
@@ -247,71 +238,98 @@ https://malingpunya.ervinkasep01.workers.dev/6299.mpd?nomor_whatsapp_ane=63_955_
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=83f59968c9b90b3b94c8fa6450c6932508d4a18493f206273852e2aef93e6738&waktu=1785136790
-https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=83f59968c9b90b3b94c8fa6450c6932508d4a18493f206273852e2aef93e6738&waktu=1785136790
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/TRhJQVSngrDP2Xfjf8yJh_I2VrQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214621/477697.jpg" group-title="Event-LIVE-NOW", ⏳ (-7j 40m) 22:00 WIB 27/07/26 Alejandro Tabilo vs Tallon Griekspoor - Round 1 (John Harris) | ATP 500: Mubadala Citi DC Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=a3c635c40b257dc3f2fb83a3555d9ca6abc38cbd49821bfc8be9f0394d0c5f36&waktu=1785138890
+https://malingpunya.ervinkasep01.workers.dev/18190.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=a3c635c40b257dc3f2fb83a3555d9ca6abc38cbd49821bfc8be9f0394d0c5f36&waktu=1785138890
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/L2teMxLOTKsCNpgiObFQNGXT4KU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5213755/de5bfc.png" group-title="Event-LIVE-NOW", ⏳ (-7j 5m) 22:00 WIB 27/07/26 Day 1 - WTA 500: Mubadala DC Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=58f904ec04a62cc27cddb86d41c5c431a00ce4817a99654cb63c92dbd220d29c&waktu=1785136790
-https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=58f904ec04a62cc27cddb86d41c5c431a00ce4817a99654cb63c92dbd220d29c&waktu=1785136790
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I-oLM3A4BTHeNqVpIJ38koGuabs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214636/461ade.jpg" group-title="Event-LIVE-NOW", ⏳ (-7j 40m) 22:00 WIB 27/07/26 Alejandro Tabilo vs Tallon Griekspoor - Round 1 | ATP 500: Mubadala Citi DC Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=9a07879a3a7eac384f15c501167890f0bbba1781f3270ed622077201f0d0fce8&waktu=1785138890
+https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=9a07879a3a7eac384f15c501167890f0bbba1781f3270ed622077201f0d0fce8&waktu=1785138890
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I-oLM3A4BTHeNqVpIJ38koGuabs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214636/461ade.jpg" group-title="Event-LIVE-NOW", ⏳ (-7j 5m) 22:00 WIB 27/07/26 Alejandro Tabilo vs Tallon Griekspoor - Round 1 | ATP 500: Mubadala Citi DC Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20890.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f2467a8a21e108d5db6f2c9112874f4816f976a58dc3574c88018465144fc7f1&waktu=1785136790
-https://malingpunya.ervinkasep01.workers.dev/20890.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f2467a8a21e108d5db6f2c9112874f4816f976a58dc3574c88018465144fc7f1&waktu=1785136790
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/L2teMxLOTKsCNpgiObFQNGXT4KU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5213755/de5bfc.png" group-title="Event-LIVE-NOW", ⏳ (-7j 40m) 22:00 WIB 27/07/26 Day 1 - WTA 500: Mubadala DC Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20890.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=7146063836221d0e58e85f9e7d8dc952e363fa9490818c9f45e1d230d49cc6d4&waktu=1785138890
+https://malingpunya.ervinkasep01.workers.dev/20890.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=7146063836221d0e58e85f9e7d8dc952e363fa9490818c9f45e1d230d49cc6d4&waktu=1785138890
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/TRhJQVSngrDP2Xfjf8yJh_I2VrQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214621/477697.jpg" group-title="Event-LIVE-NOW", ⏳ (-7j 5m) 22:00 WIB 27/07/26 Alejandro Tabilo vs Tallon Griekspoor - Round 1 (John Harris) | ATP 500: Mubadala Citi DC Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=24b2e2fc61e45fa473f6ea8c1fb23ae1b9d9ab28de76e5b2e5cbc81c5da1e30f&waktu=1785136790
-https://malingpunya.ervinkasep01.workers.dev/6786.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=24b2e2fc61e45fa473f6ea8c1fb23ae1b9d9ab28de76e5b2e5cbc81c5da1e30f&waktu=1785136790
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/CCb4UHwTPeIwjacj3zy2nIDWLGQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214632/ea4eac.jpg" group-title="Event-LIVE-NOW", ⏳ (-9j 10m) 23:30 WIB 27/07/26 Austin Krajicek/Nikola Mektic vs Rafael Jodar/Brandon Nakashima - Round 1 (Grandstand) | ATP 500: Mubadala Citi DC Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=631f2b3eab2cabe319e8532d756508069b12d66c0e2d23354c31e971c5d25b44&waktu=1785138890
+https://malingpunya.ervinkasep01.workers.dev/20886.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=631f2b3eab2cabe319e8532d756508069b12d66c0e2d23354c31e971c5d25b44&waktu=1785138890
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/CCb4UHwTPeIwjacj3zy2nIDWLGQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214632/ea4eac.jpg" group-title="Event-LIVE-NOW", ⏳ (-8j 35m) 23:30 WIB 27/07/26 Austin Krajicek/Nikola Mektic vs Rafael Jodar/Brandon Nakashima - Round 1 (Grandstand) | ATP 500: Mubadala Citi DC Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20887.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=418093c65ea7c847d5bebab7a0faa76538017f4f0b8b42cbe82d90cf9b99ef50&waktu=1785136790
-https://malingpunya.ervinkasep01.workers.dev/20887.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=418093c65ea7c847d5bebab7a0faa76538017f4f0b8b42cbe82d90cf9b99ef50&waktu=1785136790
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/AaBVPBb4xCSlh5bG8EO0tw1w9-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214642/cf836e.jpg" group-title="Event-LIVE-NOW", ⏳ (-9j 10m) 23:30 WIB 27/07/26 Hugo Nys/Edouard Rofer-Vasselin vs Theo Arribage/Albano Olivetti - Round 1 (Court 4) | ATP 500: Mubadala Citi DC Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20887.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=304c027cdf6cce24cb456fcd3da8772a4e6a936819efae54134be8589e2c3067&waktu=1785138890
+https://malingpunya.ervinkasep01.workers.dev/20887.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=304c027cdf6cce24cb456fcd3da8772a4e6a936819efae54134be8589e2c3067&waktu=1785138890
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/AaBVPBb4xCSlh5bG8EO0tw1w9-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214642/cf836e.jpg" group-title="Event-LIVE-NOW", ⏳ (-8j 35m) 23:30 WIB 27/07/26 Hugo Nys/Edouard Rofer-Vasselin vs Theo Arribage/Albano Olivetti - Round 1 (Court 4) | ATP 500: Mubadala Citi DC Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20888.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f45b5a480a484dc4ab64f97a26c9af0624947de66a9791970c5e9505281cbaf6&waktu=1785136790
-https://malingpunya.ervinkasep01.workers.dev/20888.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=f45b5a480a484dc4ab64f97a26c9af0624947de66a9791970c5e9505281cbaf6&waktu=1785136790
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5Tgad_ZHIU6KvfnVYSf6Z0IYezQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214629/b8f0e1.jpg" group-title="Event-LIVE-NOW", ⏳ (-11j 40m) 02:00 WIB 28/07/26 Taylor Fritz vs Zizou Bergs - Round 1 (Stadium) | ATP 500: Mubadala Citi DC Open 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20888.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=1afd6f62a6eb0d765d92c6921c668a19b9ede48a582770e7eb6fdb34bc98d4d5&waktu=1785138890
+https://malingpunya.ervinkasep01.workers.dev/20888.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=1afd6f62a6eb0d765d92c6921c668a19b9ede48a582770e7eb6fdb34bc98d4d5&waktu=1785138890
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5Tgad_ZHIU6KvfnVYSf6Z0IYezQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214629/b8f0e1.jpg" group-title="Event-LIVE-NOW", ⏳ (-11j 5m) 02:00 WIB 28/07/26 Taylor Fritz vs Zizou Bergs - Round 1 (Stadium) | ATP 500: Mubadala Citi DC Open 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=64042978f59ac28ce4b96929bf42da23337b175fcdd9c502f5eed43943bac31a&waktu=1785136790
-https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=64042978f59ac28ce4b96929bf42da23337b175fcdd9c502f5eed43943bac31a&waktu=1785136790
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/a_4iqCRBl-fjLoddMaLF4FMF_wQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214625/b6a8be.jpg" group-title="Event-LIVE-NOW", ⏳ (-17j 40m) 08:00 WIB 28/07/26 Alex Hernandez vs Bernard Tomic - Round 1 | ATP 250: Mifel Tennis Open by Telcel Oppo 2026 [J1]
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3012f45f332e939c24e70eb5d2f102ee9441245d1e362e657564c2e7ece57eca&waktu=1785138890
+https://malingpunya.ervinkasep01.workers.dev/20885.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=3012f45f332e939c24e70eb5d2f102ee9441245d1e362e657564c2e7ece57eca&waktu=1785138890
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/a_4iqCRBl-fjLoddMaLF4FMF_wQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214625/b6a8be.jpg" group-title="Event-LIVE-NOW", ⏳ (-17j 5m) 08:00 WIB 28/07/26 Alex Hernandez vs Bernard Tomic - Round 1 | ATP 250: Mifel Tennis Open by Telcel Oppo 2026 [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20884.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=677079a779cd368c01847c3b33b7ab1b448e4177dbe1d753dd50a68c4c9232b4&waktu=1785136790
-https://malingpunya.ervinkasep01.workers.dev/20884.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=677079a779cd368c01847c3b33b7ab1b448e4177dbe1d753dd50a68c4c9232b4&waktu=1785136790
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/20884.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=912194bc19ec11c8cf81cd1b3ac881a898720e740e645c99aace65991798ded9&waktu=1785138890
+https://malingpunya.ervinkasep01.workers.dev/20884.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=912194bc19ec11c8cf81cd1b3ac881a898720e740e645c99aace65991798ded9&waktu=1785138890
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/cT1lmV-9VSjqPqJRRzXCW7Ot9JE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2026-qualifiers-round-of-32-court-1-23d9e7.png" group-title="Event-LIVE-NOW", ⏳ (-17j 5m) 08:00 WIB 28/07/26 Yonex Taipei Open 2026 - Qualifiers+Round Of 32 (Court 1) [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4832a2246b548a011096b0aefd043881ba26059604d557c9662ec9464babebe0&waktu=1785138890
+https://malingpunya.ervinkasep01.workers.dev/18249.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=4832a2246b548a011096b0aefd043881ba26059604d557c9662ec9464babebe0&waktu=1785138890
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/IkmolccDej5-Cec0kzoW-LWorsQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-taipei-open-2026-qualifiers-round-of-32-court-2-0f7495.png" group-title="Event-LIVE-NOW", ⏳ (-17j 5m) 08:00 WIB 28/07/26 Yonex Taipei Open 2026 - Qualifiers+Round Of 32 (Court 2) [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18250.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c4d5c7c674d1732da9e6a4964081a88780619ad6f60e698eab2595a85d8aef34&waktu=1785138890
+https://malingpunya.ervinkasep01.workers.dev/18250.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=c4d5c7c674d1732da9e6a4964081a88780619ad6f60e698eab2595a85d8aef34&waktu=1785138890
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/47023IVfSgpMJwCc6S7gM0Cpnyc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-taipei-open-2026-qualifiers-round-of-32-court-3-637486.png" group-title="Event-LIVE-NOW", ⏳ (-17j 5m) 08:00 WIB 28/07/26 Yonex Taipei Open 2026 - Qualifiers+Round Of 32 (Court 3) [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://malingpunya.ervinkasep01.workers.dev/18252.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=ada4fa8821d5755cb5feaa5ba28b3623a4ce3374e8d21906c0d7333707067e99&waktu=1785138890
+https://malingpunya.ervinkasep01.workers.dev/18252.mpd?nomor_whatsapp_ane=63_955_163_0010&exp=sampai_kiamat&kunci=ada4fa8821d5755cb5feaa5ba28b3623a4ce3374e8d21906c0d7333707067e99&waktu=1785138890
 #EXTINF:-1 data-source="Manual" group-title="Event-LIVE-NOW" tvg-logo="https://media.chuoichientv.net/media/20260714_210317_294a4162.webp" tvg-uid="678507e37752d48cc96ad00ac3630759",SEA V CUP 2026 GMM25
 https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 #EXTINF:-1 tvg-uid="d3a2398c2c39b3596ebaeecf2651b3d8" data-source="voliball xoilacztv" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/zp5rzdhjz82wq82/image/small" group-title="Event-LIVE-NOW",18:00 WIB 27/07 - HA NOI VS TP HO CHI MINH [GIẢ]
@@ -354,22 +372,26 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=5d046e760f405e4001025a555e374e5b:52662d5b155c465c5f0c055863160b00
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pNQ7MbHn/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",QF: Slovenia v Türkiye | Final Phase | Men's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MTc3Mw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MzgyNQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZQdI5j99/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",QF: Japan v China | Final Phase | Men's VNL 2026
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MTc3Mw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MzgyNQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yNopSa7P/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Shaw/Phillips (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MTc3Mw
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3kX343QP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Hughes/Batenhorst (USA) vs [tbc], Women Pool E on C3 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MTc3Mw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MzgyNQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aInhHuC6/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Taiana Lima/Talita (BRA) vs [tbc], Women Pool E on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MTc3Mw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MzgyNQ
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3kX343QP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Hughes/Batenhorst (USA) vs [tbc], Women Pool E on C3 | Rio de Janeiro (BRA)
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MzgyNQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mC8hqrlP/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Ana Patrícia/Duda (BRA) vs [tbc], Women Pool D on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MTc3Mw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MzgyNQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j9uF3RCV/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Donlin/Denaburg (USA) vs [tbc], Women Pool B on C3 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MTc3Mw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MzgyNQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dws17xzc/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Verena/Thainara (BRA) vs Anderson/Chacon (USA), Women Pool C on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MTc3Mw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MzgyNQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TDhjtsRA/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Durish/Koenig (USA) vs Shiba/Reika (JPN), Women Pool D on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MTc3Mw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MzgyNQ
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/C1xbk7p0/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Thamela/Victoria (BRA) vs [tbc], Women Pool F on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MTc3Mw
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NTc0MzgyNQ
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 23/06 FK Alga Bishkek vs FC Bars Issyk-Kul (Lương Sơn) BLV VÕ TÒNG m3u
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 23/06 FK Alga Bishkek vs FC Bars Issyk-Kul (Lương Sơn) BLV VÕ TÒNG flv
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
