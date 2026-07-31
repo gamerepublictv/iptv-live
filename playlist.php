@@ -129,6 +129,11 @@ http://193.47.62.190/hls/YFFFQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.190/hls/YFFF.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F683411718987476993%2FlZKQkOal_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Wolfsburg vs Telstar - Friendly Match 22.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.193/hls/YOOOO.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2510182485%2Fzmi86gctecx242v92tii_400x400.jpeg&size=400&scale=1.5" group-title="Event-LIVE-NOW", FK Zorya Luhansk vs Kolos Kovalivka - Ukraine Premier League 22.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -149,11 +154,6 @@ http://193.47.62.190/hls/KKKKA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.190/hls/KKKKAAAa.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1944943931969372160%2FfiLGcaCR_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Vietnam vs Singapore - ASEAN Championship 20.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.190/hls/bbbbff.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1158457373423472641%2FltjhInLQ_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Cycling Tour of Denmark - Cycling 19.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -259,28 +259,6 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1838517.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fd65ab942126e46337275cf98e45c970
 #EXTINF:-1 data-source="Manual" group-title="Event-LIVE-NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" tvg-uid="ae8a0826b1a364c10a9ba37e1caf8460",PIALA PRESIDEN CH2
 http://filex.me:8080/live/3114654477/5787654467/302264.ts
-#EXTINF:-1 tvg-expire="1785517800" tvg-start="1785502800" tvg-uid="f1936ef699be97467d48bf08c72a6b2d" data-source="Shoot LiveEvent" tvg-logo="https://oss.yalla-shoot-admin.com/team/2028475e14826ccbd77fa5edff12e8c606d.png" group-title="Event-LIVE-NOW",[🔴 LIVE 20:00 WIB] [Kejuaraan ASEAN] Vietnam vs Singapore [Zhubo]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5408007_1.m3u8?auth_key=1785595867-0-0-d8398fc714189d3cfe79b0a4958aeb0b
-#EXTINF:-1 tvg-expire="1785517800" tvg-start="1785502800" tvg-uid="01029ad68a692379c295cb0c9089d0ea" data-source="Live event 90sport" tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/4idr3lpye2i3r4.png" group-title="Event-LIVE-NOW" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",AFF CUP CH5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://90sport.com/
-https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fsla%2F1-6a4bca129a1d202ef6f584b2%2Findex.m3u8&client_id=cts&uid=nv5kecxr&is_vip=true&verify=1785506400-DWsfyBW90bXqA5%2BwJDQQDw87%2F6GdFibAqlcXgIhYnAo%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
-#EXTINF:-1 tvg-expire="1785517800" tvg-start="1785502800" tvg-uid="79cccc1a28a49c30f572e41648611e45" data-source="Colaanguyen" tvg-logo="https://img.gvapi.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80" group-title="Event-LIVE-NOW",[🔴 LIVE 20:00 WIB] [ASEAN Championship] Vietnam vs Singapore
-#EXTVLCOPT:http-referrer=
-#EXTVLCOPT:http-origin=
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live.kinxie.com/live/71770166_3cf175a9b99eb47b7f04de867365f232_autoChange.m3u8?auth_key=1785523626-0-0-a6ad304fc735e29c8509ba2f20f0456e
-#EXTINF:-1 tvg-expire="1785517800" tvg-start="1785502800" tvg-uid="041ff34d63e242dbddad36aebaa805b0" data-source="Xoilacz" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph93jr8k0/image/small" group-title="Event-LIVE-NOW",[🔴 LIVE] 20:00 WIB 31/07 - VIET NAM VS SINGAPORE [AFF CUP]
-#EXTVLCOPT:http-origin=https://xlz.textliveupdaterz.com
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.streambylivepulse.com/live/channel1.flv?wsSecret=871506fc387432da5d3c067ef5cbdabb&wsABSTime=1785552717
-#EXTINF:-1 tvg-expire="1785517800" tvg-start="1785502800" tvg-uid="db3314d4d035814496fcee570d1e287e" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="Event-LIVE-NOW",[20:00 WIB] [ASEAN Championship] Vietnam vs Singapore (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.190/hls/bbbbff.m3u8
 #EXTINF:-1 tvg-expire="1785539400" tvg-start="1785524400" tvg-uid="76a114ed7d7a82d23b6688f81c8f1225" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/06c02caffab345e297577434f007bdaf-thumbnail.jpg" group-title="Event-LIVE-NOW",[⏳ UPCOMING 02:00 WIB] [American Football] Calgary Stampeders vs. Hamilton Tiger-Cats (Server 1 - Master)
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
@@ -291,37 +269,30 @@ https://damitv2.bonekoetv.workers.dev/play/cfl/2026-08-01/cgy-ham.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=20884&ext=drm&x=1785519427&k=c584163e7f479bf84f60c26ca95b3e196ae4098f51b05115b50bdffe56cbf7f6
-https://stream.bonetv.web.id/index.mpd?q=20884&ext=dash&x=1785519427&k=8d6dac03d2539de79e696aaaa9b89e1ae3a2d316f89ca2e09b39828977a4f0c9&sc=5228041
-#EXTINF:-1 tvg-uid="cc0a11803143e288964faf9a8f74fb34" data-source="rctiplus++" group-title="Event-LIVE-NOW" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6ebd82f2396/adbd6b89f16d406ab26559a780f010f5.png",AFF CUP CH6
+#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=20884&ext=drm&x=1785522331&k=2f946dc521c72feffe2f3db7075037017aa2947cc1c0f2b78865da374880992a
+https://stream.bonetv.web.id/index.mpd?q=20884&ext=dash&x=1785522331&k=33eb8e57ed40e0216c12c3dd1d7ff61fc18a14ad7a0ffaa39150ac1dce2e514e&sc=5228041
+#EXTINF:-1 tvg-uid="cc0a11803143e288964faf9a8f74fb34" data-source="rctiplus++" group-title="Event-LIVE-NOW" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6ebd82f2396/adbd6b89f16d406ab26559a780f010f5.png",AFF CUP CH5
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1785542407~hmac=b6fd36284a0ff4407d77f76dfb9681c20289a8176114398973bf2358f8167358
-#EXTINF:-1 tvg-uid="8497a4a3da2148508985e5fe814d53a2" data-source="rctiplus++" group-title="Event-LIVE-NOW" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png",AFF CUP CH7
+#EXTINF:-1 tvg-uid="8497a4a3da2148508985e5fe814d53a2" data-source="rctiplus++" group-title="Event-LIVE-NOW" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png",AFF CUP CH6
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1785542405~hmac=68232bd92a99593e4b57985dc1c6f706fbf15fe13584446156d154f25b96c462
-#EXTINF:-1 tvg-expire="1785521400" tvg-start="1785499800" tvg-uid="43ab3c0b3891960b2076e505cd1d78f8" data-source="LIVE Event Vidio" tvg-id="21872-5217135" tvg-logo="https://thumbor.prod.vidiocdn.com/2IF2vsNhzB1MYMKN78-F2xIDXUY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5217135/74ff0b.jpg" group-title="Event-LIVE-NOW", 🔴 LIVE 19:10 WIB (31/07) - PERSIB vs Tampines Rovers FC - Piala Presiden
+#EXTINF:-1 tvg-expire="1785592800" tvg-start="1785571200" tvg-uid="2026f083185182f8f1cdd926442930cc" data-source="LIVE Event Vidio" tvg-id="21872-5217862" tvg-logo="https://thumbor.prod.vidiocdn.com/VZblBbeBQPF_yzqL_WicSaB13Nw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5217862/d38ffa.jpg" group-title="Event-LIVE-NOW", ⏳ JAM 15:00 WIB (01/08) - PERSIJA vs PSMS Medan - Piala Presiden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=21872&ext=drm&x=1785519427&k=985820f59df9fe2ab790efbc97d0dd1d1a24a8ecaa3d6acb05102210c44ea032
-https://stream.bonetv.web.id/index.mpd?q=21872&ext=dash&x=1785519427&k=a8c5f42ae3c0acd26a2a827ea6cd7f9b7758268382214e9b81bca79584276358&sc=5217135
-#EXTINF:-1 tvg-expire="1785594600" tvg-start="1785573000" tvg-uid="d10c83e97e80199a45795488b6761daf" data-source="LIVE Event Vidio" tvg-id="21872-5217862" tvg-logo="https://thumbor.prod.vidiocdn.com/VZblBbeBQPF_yzqL_WicSaB13Nw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5217862/d38ffa.jpg" group-title="Event-LIVE-NOW", ⏳ JAM 15:30 WIB (01/08) - PERSIJA vs PSMS Medan - Piala Presiden
+#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=21872&ext=drm&x=1785522331&k=f8c0fac27c7cc8415494f5f2fa68149da8ce723d0f80248006b54495d6308051
+https://stream.bonetv.web.id/index.mpd?q=21872&ext=dash&x=1785522331&k=6139c6c396e32922687884130f9d8693b339e8769aff2722fb9165b42d0a7fdf&sc=5217862
+#EXTINF:-1 tvg-expire="1785607200" tvg-start="1785585600" tvg-uid="6259b07275082d18ed54d218583941f3" data-source="LIVE Event Vidio" tvg-id="21872-5217787" tvg-logo="https://thumbor.prod.vidiocdn.com/HhvKLa1v5_l_OiIXCEIui3JKfD8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5217787/d0b7b3.jpg" group-title="Event-LIVE-NOW", ⏳ JAM 19:00 WIB (01/08) - PERSEBAYA Surabaya vs Port FC - Piala Presiden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=21872&ext=drm&x=1785519427&k=985820f59df9fe2ab790efbc97d0dd1d1a24a8ecaa3d6acb05102210c44ea032
-https://stream.bonetv.web.id/index.mpd?q=21872&ext=dash&x=1785519427&k=a8c5f42ae3c0acd26a2a827ea6cd7f9b7758268382214e9b81bca79584276358&sc=5217862
-#EXTINF:-1 tvg-expire="1785609000" tvg-start="1785587400" tvg-uid="c985e8bd40c11b58d02745dd19161599" data-source="LIVE Event Vidio" tvg-id="21872-5217787" tvg-logo="https://thumbor.prod.vidiocdn.com/HhvKLa1v5_l_OiIXCEIui3JKfD8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5217787/d0b7b3.jpg" group-title="Event-LIVE-NOW", ⏳ JAM 19:30 WIB (01/08) - PERSEBAYA Surabaya vs Port FC - Piala Presiden
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=21872&ext=drm&x=1785519427&k=985820f59df9fe2ab790efbc97d0dd1d1a24a8ecaa3d6acb05102210c44ea032
-https://stream.bonetv.web.id/index.mpd?q=21872&ext=dash&x=1785519427&k=a8c5f42ae3c0acd26a2a827ea6cd7f9b7758268382214e9b81bca79584276358&sc=5217787
+#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=21872&ext=drm&x=1785522331&k=f8c0fac27c7cc8415494f5f2fa68149da8ce723d0f80248006b54495d6308051
+https://stream.bonetv.web.id/index.mpd?q=21872&ext=dash&x=1785522331&k=6139c6c396e32922687884130f9d8693b339e8769aff2722fb9165b42d0a7fdf&sc=5217787
 #EXTINF:-1 tvg-expire="1785594600" tvg-start="1785573000" tvg-uid="b1710fb2bc8a7fd6d65cc81aae7e3cb5" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Persatuan%20Sepakbola%20Indonesia%20Jakarta%20vs%20PSMS%20Medan.jpg" group-title="Event-LIVE-NOW", [⏰ 15:30 WIB - 01/08/2026] [IDN President Cup] Persatuan Sepakbola Indonesia Jakarta vs. PSMS Medan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
@@ -330,216 +301,58 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a629601c6451c5064fb08dd/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 https://livecdn-tc-livestream.rumsport10.live/sla/1-6a629601c6451c5064fb08e5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dnepr Mogilev vs Naftan Novopolock" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fe7475cfacb0bebd6ab81ae3f09efdb28.png%21w80&size=300&scale=1.5", Dnepr Mogilev vs Naftan Novopolock (Giải Bóng đá Ngoại hạng Belarus)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live.kinxie.com/live/73190910_c41f5b509f1a6ea88e596156677bca39_autoChange.m3u8?auth_key=1785527069-0-0-402d1426eb61296ad3871d6ff4f4c9ec
+#EXTINF:-1 tvg-id="" tvg-name="BLV C2" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fe7475cfacb0bebd6ab81ae3f09efdb28.png%21w80&size=300&scale=1.5", Dnepr Mogilev vs Naftan Novopolock - BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTP Kotka vs SJK Akatemia" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F9267ee08759fdc25c89d3e4642303522.png%21w80&size=300&scale=1.5", KTP Kotka vs SJK Akatemia (Giải hạng 2 Phần Lan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live1.kinxie.com/live/67604914_db3cda5c5bccd46fd152ac4c3a1d703e_autoChange.m3u8?auth_key=1785527070-0-0-3b09e699ed08afe3f5618a90b2fb00d3
 #EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F9267ee08759fdc25c89d3e4642303522.png%21w80&size=300&scale=1.5", KTP Kotka vs SJK Akatemia - BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekenas vs CLB Klubi 04" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F9267ee08759fdc25c89d3e4642303522.png%21w80&size=300&scale=1.5", Ekenas vs CLB Klubi 04 (Giải hạng 2 Phần Lan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
-#EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F9267ee08759fdc25c89d3e4642303522.png%21w80&size=300&scale=1.5", Ekenas vs CLB Klubi 04 - BLV 247
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/90865415.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCM Pitesti vs FK Csikszereda Miercurea Ciuc" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3888349404e5d5d09f977b30df0ee151.png%21w80&size=300&scale=1.5", SCM Pitesti vs FK Csikszereda Miercurea Ciuc (Giải Vô địch quốc gia Romania)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live2.kinxie.com/live/72387902_db58200d64f697437b366c8aa58acd48_autoChange.m3u8?auth_key=1785527070-0-0-fb1df3db9553680e7df093facfc9500e
 #EXTINF:-1 tvg-id="" tvg-name="BLV  KHÔNG ĐỘ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F3888349404e5d5d09f977b30df0ee151.png%21w80&size=300&scale=1.5", SCM Pitesti vs FK Csikszereda Miercurea Ciuc - BLV  KHÔNG ĐỘ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/41943555.m3u8
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://tvku.family/T/cover.php?url=aHR0cHM6Ly90aHVtYm9yLnByb2QudmlkaW9jZG4uY29tL0tjV2xLdnNmeWdBZHZmVDhTbk9zTm1seGJWdz0vNjQweDM2MC9maWx0ZXJzOnN0cmlwX2ljYygpOnF1YWxpdHkoNzApL3ZpZGlvLW1lZGlhLXByb2R1Y3Rpb24vdXBsb2Fkcy9saXZlc3RyZWFtaW5nL3NjaGVkdWxlL3RodW1ibmFpbC81MjE3MTE4LzhhOWE3My5wbmc=&status=LIVE+NOW&time=20%3A24&t=1785509956", ONE Friday Fights 164 🛡 (20:24 - 31 Jul 2026) (IN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMTY4OTAucWV6fDE3ODYxMTQ4MDE
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMTY4OTAuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3CBIkTdM/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Cottafava/Dal Corso (ITA) vs Lucas Sampaio/João Pedro (BRA), Men Pool B on C2 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ub7aG9jI/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Grimalt E./Grimalt M. (CHI) vs Vinicius/Heitor (BRA), Men Pool D on CC | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/465izTOm/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Plavins/Fokerots (LAT) vs Hodges/Hood (AUS), Men Pool B on C3 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/v45Ud7Pw/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Mol H./Berntsen (NOR) vs Luini/Immers (NED), Men Pool D on C3 | Rio de Janeiro (BRA)
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL09iZnpjNC56YzR8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/287/782287-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] Premier Padel 2026 • Pretoria P1 Day 5 - Quarter Finals (15:00 WIB • 31/07/2026)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/222/784222-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] AIG Women's Open 2026 • Round 2 (15:00 WIB • 31/07/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-id="113" tvg-logo="https://www.visionplus.id/images/repository/851/783851-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] ASEAN Championship Hyundai Cup 2026 • Vietnam VS Singapore - Group Stage (19:55 WIB • 31/07/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/351/783351-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] TotalEnergies Women's Africa Cup of Nations Morocco 2026 • South Africa vs Ivory Coast (23:53 WIB • 31/07/2026)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/693/783693-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] TotalEnergies Women's Africa Cup of Nations Morocco 2026 • Burkina Faso vs Tanzania (02:53 WIB • 01/08/2026)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/582/783582-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] 2026 Supercars • Bosch Power Tools Perth Super - Race 23 (11:40 WIB • 01/08/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/605/783605-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] 2026 Supercars • Bosch Power Tools Perth Super - Race 24 (15:15 WIB • 01/08/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-id="113" tvg-logo="https://www.visionplus.id/images/repository/337/784337-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] ASEAN Championship Hyundai Cup 2026 • Laos VS Philippines - Group Stage (16:55 WIB • 01/08/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/641/783641-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Premier Padel 2026 • Pretoria P1 Day 6 - Women's Semifinal (18:00 WIB • 01/08/2026)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/227/784227-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AIG Women's Open 2026 • Round 3 (18:00 WIB • 01/08/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-id="113" tvg-logo="https://www.visionplus.id/images/repository/360/784360-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] ASEAN Championship Hyundai Cup 2026 • Thailand VS Malaysia - Group Stage (19:55 WIB • 01/08/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/737/784737-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Pre Season Friendly 2026 • Cardiff vs Roma (20:55 WIB • 01/08/2026)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/744/784744-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Pre Season Friendly 2026 • Hamburg vs Everton (21:55 WIB • 01/08/2026)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="124" tvg-logo="https://www.visionplus.id/images/repository/820/783820-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] TotalEnergies Women's Africa Cup of Nations Morocco 2026 • Egypt vs Malawi (23:53 WIB • 01/08/2026)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/647/783647-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Premier Padel 2026 • Pretoria P1 Day 6 - Men's Semifinal (00:00 WIB • 02/08/2026)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="124" tvg-logo="https://www.visionplus.id/images/repository/770/783770-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] TotalEnergies Women's Africa Cup of Nations Morocco 2026 • Nigeria vs Zambia (02:53 WIB • 02/08/2026)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/609/783609-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] 2026 Supercars • Bosch Power Tools Perth Super - Race 25 (14:15 WIB • 02/08/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/666/783666-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Premier Padel 2026 • Pretoria P1 Day 6 - Women's Final (18:00 WIB • 02/08/2026)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/798/784798-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AIG Women's Open 2026 • Final Round (18:00 WIB • 02/08/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-id="124" tvg-logo="https://www.visionplus.id/images/repository/959/784959-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Pre Season Friendly 2026 • FC Union vs Cagliari (18:55 WIB • 02/08/2026)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/672/783672-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Premier Padel 2026 • Pretoria P1 Day 6 - Men's Final (20:00 WIB • 02/08/2026)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4NjExNDgwMQ
-#EXTINF:-1 tvg-id="113" tvg-logo="https://www.visionplus.id/images/repository/980/784980-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] ASEAN Championship Hyundai Cup 2026 • Cambodia VS Timor Leste - Group Stage (17:25 WIB • 03/08/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-id="113" tvg-logo="https://www.visionplus.id/images/repository/992/784992-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] ASEAN Championship Hyundai Cup 2026 • Indonesia VS Vietnam - Group Stage (19:30 WIB • 03/08/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-id="113" tvg-logo="https://www.visionplus.id/images/repository/006/785006-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] ASEAN Championship Hyundai Cup 2026 • Myanmar VS Laos - Group Stage (16:55 WIB • 04/08/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3ODYxMTQ4MDE
-#EXTINF:-1 tvg-id="113" tvg-logo="https://www.visionplus.id/images/repository/025/785025-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] ASEAN Championship Hyundai Cup 2026 • Philippines VS Thailand - Group Stage (19:55 WIB • 04/08/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3ODYxMTQ4MDE
+#EXTINF:-1 tvg-id="4262" tvg-name="Indonesian President Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event.gif" group-title="Event-LIVE-NOW",Indonesian President Cup - 31 Jul 2026 19:30 WIB - Persib Bandung vs Tampines Rovers FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live05.meung.app
+#EXTVLCOPT:http-origin=https://live05.meung.app
+https://live05.meung.app/live/99121525.m3u8
+#EXTINF:-1 tvg-id="4999" tvg-name="ASEAN Championship" tvg-logo="https://openwindows037.serv00.net/logo/live_event.gif" group-title="Event-LIVE-NOW",ASEAN Championship - 31 Jul 2026 20:00 WIB - Vietnam vs Singapore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.streambylivepulse.com
+#EXTVLCOPT:http-origin=https://live1.streambylivepulse.com
+https://live1.streambylivepulse.com/live/channel1.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",15:00 | CLB KuPs vs Ilves
 https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f4f29caf210db9a418ece37a7025eb5f.png!w80",11:30 | Shenzhen 2028 vs Hangzhou Linping
 https://live05.meung.app/live/08552895.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782232522-0-0-8b640fe1cf47df1166734db5f3d09d2b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782232522-0-0-2977642b49a40977f77b1672f1607866
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D1: Jaro vs Gnistan Helsinki [ĐỖ TÚ TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782232522-0-0-130202a5975ac9955b09d7814b270010
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D1: Jaro vs Gnistan Helsinki [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782232522-0-0-f598b06b81c74dd73b6238f5ccbdd34d
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",16:00 | Grobina vs Ogre United
 https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/93920efdf720a6e94d3ab5e43ae3b504.png!w80",17:00 | Hacken vs AIK
 https://live05.meung.app/live/41943555.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/7a2eadc57b3a330eda4b7189352ce344.png!w80",17:00 | Rosenborg vs Fredrikstad
+https://live05.meung.app/live/75915087.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9ba1f45cab5e3f52d783a5bfdbe10daa.png!w80",18:00 | Boca Juniors Nữ vs San Lorenzo Nữ
 https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
@@ -552,6 +365,10 @@ https://live05.miekgo.app/live/08552895.m3u8
 https://live05.meung.app/live/41943555.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 28/07 Hacken vs AIK (BLV  KHÔNG ĐỘ) [hls 2]
 https://live05.miekgo.app/live/41943555.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 28/07 Rosenborg vs Fredrikstad (BLV MONSTER) [flv]
+https://live05.meung.app/live/75915087.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 28/07 Rosenborg vs Fredrikstad (BLV MONSTER) [hls 2]
+https://live05.miekgo.app/live/75915087.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [flv]
 https://live05.meung.app/live/87547578.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [hls 2]
@@ -566,5 +383,9 @@ https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f.m3u8
 https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 FC AGMK vs Mashal Muborak (Blv đoàn dự) [hls]
 https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR Cluj vs CS Voluntari (Rio) [flv]
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR Cluj vs CS Voluntari (Rio) [hls]
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
