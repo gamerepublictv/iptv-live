@@ -52,7 +52,7 @@ http://193.47.62.194/hls/vavavavaq.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.190/hls/RARARAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1950704883491061760%2FRZiel3Mx_400x400.png&size=400&scale=1.5" group-title="Event-LIVE-NOW", SD Raiders vs Sydney FC - Australia A-League 16.30 WIB
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1860822159175888896%2FlE95c4g-_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", SD Raiders vs Sydney FC - Australia Cup 16.30 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -65,7 +65,7 @@ http://193.47.62.190/hls/KKKK.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SD Raiders FC vs Sydney FC" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F2c764cfc9ae1beacd2dcb28cb831755a.png%21w80&size=300&scale=1.5", SD Raiders FC vs Sydney FC (Cúp bóng đá của Hiệp hội Bóng đá Úc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live.kinxie.com/live/73705882_801585ff72255e188fb96b72383e741d_autoChange.m3u8?auth_key=1787061654-0-0-8ae656b4aee74c58e8f62365b6c9b037
 #EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F2c764cfc9ae1beacd2dcb28cb831755a.png%21w80&size=300&scale=1.5", SD Raiders FC vs Sydney FC - BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -83,177 +83,181 @@ https://hls.live123.fans/live/4611941.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=pRvqil9cFTbchUZPr9b0hg&expires=1787046615
+https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=N3xwR-Bpiq36KX4GT57LCQ&expires=1787050925
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="CricHD 1",Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=lIKT9dCcTkdI1GSCernEyg&expires=1787046616
+https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=839Utvf9sUX7NolhcQ_Skg&expires=1787050925
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" group-title="CricHD 1",PTV Sports
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=rt-CdkaRDfvHE7L9iZPx6g&expires=1787046616
+https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=UtyyZhdfZEgeMN6AUIe23A&expires=1787050925
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="CricHD 1",Willow HD
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=igV0TOZ6H7iqxgl9RWWYyg&expires=1787046616
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=IGUuVG7iGn4fEXIuvexl_w&expires=1787050925
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="CricHD 1",Willow HD 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=ARdEalyXelYIUUryXbNoYw&expires=1787046616
+https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=05Ql_1TzSO3QG64bHGIyEA&expires=1787050926
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" group-title="CricHD 1",Ten Sports
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn7.zohanayaan.com:1686/hls/tenspk.m3u8?md5=QTAgYOrCZHvx_vZ1c1Q7Ww&expires=1787046617
+https://cdn8.zohanayaan.com:1686/hls/tenspk.m3u8?md5=f-6Gmeuzs-KM0xsz9t-NBg&expires=1787050926
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="CricHD 1",A Sports HD
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/asportshd.m3u8?md5=XNQOnYq1Ft9AqyVmcHYuSA&expires=1787046617
+https://cdn1.zohanayaan.com:1686/hls/asportshd.m3u8?md5=lZTH3G2bad9le8V2znqFPg&expires=1787050926
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="CricHD 1",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=f6t7b1nAjp-3daHi91ajaA&expires=1787046617
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=0iO3qmi0Mx3Waciakjo3lg&expires=1787050926
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" group-title="CricHD 1",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=2cSr8WxE0NHEXDAIfurEfw&expires=1787046617
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=mkPa0cyHryqmz_shLDpERw&expires=1787050926
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="CricHD 1",TNT 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn2.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=ePjnaNWaMY_KoyErSUTLig&expires=1787046618
+https://cdn1.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=8rZp-ZAT-Eg85ja-FMOCjw&expires=1787050927
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="CricHD 1",TNT 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn6.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=r5cIvPRyCrgGFsEvdRvtNQ&expires=1787046618
+https://cdn5.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=PvLHzL4Sl-turkaMqGpgeQ&expires=1787050927
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="CricHD 1",TNT 3
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn6.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=nD8huQ3zbWpDGBNJRzG7GQ&expires=1787046618
+https://cdn1.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=afFe_yJCLxvkv6Wg5tvtRA&expires=1787050927
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="CricHD 1",TNT 4
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=XgX8RLNVaVw9_3Gq_XW0-Q&expires=1787046618
+https://cdn7.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=YIwgTAHHLjmFkDE0rXfNKg&expires=1787050927
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn6.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=gZlFRWZjl35wpORbsyNDeA&expires=1787046619
+https://cdn5.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=vBQ2FpyW8vOVMtTC92ks3w&expires=1787050927
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn9.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=W6EDXMZrhZKDnovAbzFa8Q&expires=1787046619
+https://cdn10.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=zNTFCWZdcKG1XKXkq27B8w&expires=1787050928
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 3
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn9.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=nWk3LVYwUNeg_Gz2lUKfBw&expires=1787046619
+https://cdn2.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=kmD2RzLgyQSeMVaf0jvtfA&expires=1787050928
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 4
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn1.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=1xJ_RcF0JHqYjlcHQGiGag&expires=1787046619
+https://cdn1.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=OAkdsk1sX8d3Uldl375Aqw&expires=1787050928
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 5
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn9.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=UQ4h-GKsiprQpqcyL97dOQ&expires=1787046619
+https://cdn8.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=O18ZCQ-gsC19XrhASSteIg&expires=1787050928
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport 6 Nz
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=Jz9bTS_08g4xrBVdQDTC5g&expires=1787046619
+https://cdn7.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=f38cUEXl1Bt2BmCaaQE0jA&expires=1787050928
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 7
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn4.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=egYNvKZiUzGSpXGzu9KqNg&expires=1787046620
+https://cdn7.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=BryoONPmAUoUeIHLVim5TA&expires=1787050929
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 8
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn3.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=JmSJPqyOsHmmhU0M1xIuQg&expires=1787046620
+https://cdn3.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=dqtpP07mpdvl4SN16CkiHQ&expires=1787050929
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="CricHD 1",Sky Sport Nz 9
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=SMv2rmFa_7ZA-hscXbXfbg&expires=1787046620
+https://cdn1.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=mU2qGp0YYi4YlgTh2mwhbA&expires=1787050929
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="CricHD 1",Sky Cinema
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=2cSr8WxE0NHEXDAIfurEfw&expires=1787046617
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=mkPa0cyHryqmz_shLDpERw&expires=1787050926
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png" group-title="CricHD 1",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn1.zohanayaan.com:1686/hls/skysact.m3u8?md5=U7_G4mXqozwBGKbLIqDnnQ&expires=1787046620
+https://cdn10.zohanayaan.com:1686/hls/skysact.m3u8?md5=22CXg1kvaf2y9l9-WMebAw&expires=1787050929
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png" group-title="CricHD 1",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn8.zohanayaan.com:1686/hls/skysgol.m3u8?md5=sBcxWo6Gfa5OtGsdgTiAIg&expires=1787046620
+https://cdn6.zohanayaan.com:1686/hls/skysgol.m3u8?md5=jnIA1Pxolio4WhRcg8HMtA&expires=1787050929
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="CricHD 1",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn5.zohanayaan.com:1686/hls/skysprem.m3u8?md5=-MCy_zESEGyS38JPx26sJg&expires=1787046620
+https://cdn1.zohanayaan.com:1686/hls/skysprem.m3u8?md5=Ci2tvHQ-H4SyzOqIk6lMeQ&expires=1787050929
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="CricHD 1",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn4.zohanayaan.com:1686/hls/skysfott.m3u8?md5=i3P1m9bua9NSRu5Qcf11AQ&expires=1787046621
+https://cdn5.zohanayaan.com:1686/hls/skysfott.m3u8?md5=F5eBvSE9mXRd0nmbppniHw&expires=1787050929
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png" group-title="CricHD 1",Sky Sports Plus
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=V-vXgHXTgiPlSW_svcd2yQ&expires=1787046621
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=PzjMte6M1fkd9YcArCAYog&expires=1787050930
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" group-title="CricHD 1",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn1.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=fU8KfQagPVm8Kc6dSklDkQ&expires=1787046621
+https://cdn7.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=ps6-3KO9g9lKe2m29vEiOw&expires=1787050930
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png" group-title="CricHD 1",LaLiGA
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/laligauk.m3u8?md5=XB1GKy_KAdFzvpmxo0Byvg&expires=1787046621
+https://cdn9.zohanayaan.com:1686/hls/laligauk.m3u8?md5=B8YT75LBL_X8S2uhRblYFQ&expires=1787050930
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="CricHD 1",Premier Sports 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn5.zohanayaan.com:1686/hls/premieruk.m3u8?md5=nL8Gprf0hUNBgoeVO9rDQA&expires=1787046621
+https://cdn4.zohanayaan.com:1686/hls/premieruk.m3u8?md5=XI7VZi3j4Nmta37P1yEEvw&expires=1787050930
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="CricHD 1",Premier Sports 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=WWzEpzyGFFcKNLrSTTVh-A&expires=1787046621
+https://cdn8.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=Fbzdlx764k0Jh6KzptPhUQ&expires=1787050930
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="CricHD 1",Super Football
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn5.zohanayaan.com:1686/hls/superfotball.m3u8?md5=rcwqWgxEGcO9Ui3zGmHNwA&expires=1787046621
+https://cdn8.zohanayaan.com:1686/hls/superfotball.m3u8?md5=uSfTd1iwgjnTxayDVCSPYQ&expires=1787050930
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="CricHD 1",Super Premier League
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn7.zohanayaan.com:1686/hls/superpremier.m3u8?md5=dKGFTHmhT5IJXKyWc93oiw&expires=1787046622
+https://cdn3.zohanayaan.com:1686/hls/superpremier.m3u8?md5=VNPX5wmB-u0BqeAsraYe7g&expires=1787050930
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png" group-title="CricHD 1",Astro Cricket
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn9.zohanayaan.com:1686/hls/fox501.m3u8?md5=hRv6OjiyGUTW_HTLoQgfrw&expires=1787046622
+https://cdn1.zohanayaan.com:1686/hls/fox501.m3u8?md5=CpqTmkHvyHdpkcizD9V4Sw&expires=1787050930
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="CricHD 1",ESPN 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn5.zohanayaan.com:1686/hls/espnusa.m3u8?md5=omMXc8iXj4JzVaaGASruUg&expires=1787046622
+https://cdn9.zohanayaan.com:1686/hls/espnusa.m3u8?md5=nAehnXbtvx_1ukB25L1G3Q&expires=1787050930
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="CricHD 1",ESPN 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn5.zohanayaan.com:1686/hls/espn2.m3u8?md5=ZGE1ixwKehBPfsAGKk8ang&expires=1787046622
+https://cdn1.zohanayaan.com:1686/hls/espn2.m3u8?md5=lAwpg-H-w4v3kHRcJHEacw&expires=1787050931
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png" group-title="CricHD 1",Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=V-vXgHXTgiPlSW_svcd2yQ&expires=1787046621
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=PzjMte6M1fkd9YcArCAYog&expires=1787050930
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png" group-title="CricHD 1",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn9.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=Zgxp5CVlhIC2eTYFriOKcw&expires=1787046622
+https://cdn1.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=kfftGbAjeBFGf3X_cwfwMA&expires=1787050931
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png" group-title="CricHD 1",Sky Sports Tennis
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn8.zohanayaan.com:1686/hls/skystennis.m3u8?md5=1TPpwobp8D-LCFvVfpFlAQ&expires=1787046623
+https://cdn7.zohanayaan.com:1686/hls/skystennis.m3u8?md5=96Ga31seUeoHiTgGfY0wVw&expires=1787050931
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png" group-title="CricHD 1",Fox Cricket 501 HD
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn9.zohanayaan.com:1686/hls/fox501.m3u8?md5=hRv6OjiyGUTW_HTLoQgfrw&expires=1787046622
+https://cdn1.zohanayaan.com:1686/hls/fox501.m3u8?md5=CpqTmkHvyHdpkcizD9V4Sw&expires=1787050930
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png" group-title="CricHD 1",Sony Sports3
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn7.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=KZi6WKwxDFdCbPrYDppcOw&expires=1787046623
+https://cdn8.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=s5Mvo77gXvxkq3Wz4t3qbA&expires=1787050931
+#EXTINF:-1 tvg-name="Welcome to PlayZ TV" group-title="CricHD 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",Welcome to PlayZ TV
+https://playztv.pages.dev/promo/master.m3u8
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 2",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-english-1.png" group-title="4K",4K | UK - BEIN SPORTS 1 ENGLISH HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/348325
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-english-2.png" group-title="4K",4K | UK - BEIN SPORTS 2 ENGLISH HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/575400
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="4K",4K | UK - BT SPORTS BOX OFFICE PPV
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356577
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/NOW.png" group-title="4K",4K | UK - NOW HK NOW SPORTS 4K 616
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/438867
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/NOW.png" group-title="4K",4K | UK - NOW HK NOW SPORTS 4K 617
@@ -292,8 +296,6 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1015492
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/980431
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="4K",4K | UK - SKY SPORTS FOOTBALL
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1356566
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyfoot.png" group-title="4K",4K | UK - SKY SPORTS FOOTBALL FHD ◉
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17288
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyfoot.png" group-title="4K",4K | UK - SKY SPORTS FOOTBALL HD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/348319
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyfoot.png" group-title="4K",4K | UK - SKY SPORTS FOOTBALL HD²
@@ -364,28 +366,42 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/664452
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974989
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 12 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975000
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 22 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975010
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 23 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975011
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 15 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975003
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 17 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975005
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 19 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975007
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 24 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975012
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 28 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975016
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 29 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975017
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 30 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975018
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 32 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975020
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 33 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975021
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 36 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975024
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 35 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975023
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 37 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975025
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 38 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975026
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 39 FHD
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975027
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 4 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974992
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 40 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975028
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 5 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974993
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 6 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974994
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 8 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974996
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ 9 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974997
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ FHD ◉
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/973137
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="4K",4K | UK - SKY SPORTS+ HD
@@ -418,8 +434,6 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955962
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955961
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/tntsports.png" group-title="4K",4K | UK - TNT SPORTS | EVENT 12 HD :
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955960
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/tntsports.png" group-title="4K",4K | UK - TNT SPORTS | EVENT 13 HD :
-http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955959
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/tntsports.png" group-title="4K",4K | UK - TNT SPORTS | EVENT 14 HD :
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955958
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/tntsports.png" group-title="4K",4K | UK - TNT SPORTS | EVENT 15 HD :
@@ -490,34 +504,14 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404534
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1404538
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/PAKISTAN/TEN-SPORTS.png" group-title="4K",4K | VIP - TEN SPORTS FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1406508
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135664" group-title="CDNLive",[2026-08-18 22:30] Londrina vs Atlético Goianiense - Premiere 3 HD BR | Brazilian Serie B
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135664" group-title="CDNLive",[2026-08-18 22:30] Londrina vs Atlético Goianiense - Premiere 1 HD BR | Brazilian Serie B
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce760/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNzYwOjE3ODcwNDUxODkyMTQ6Y2RubGl2ZXR2LnR2Ojc3YjhhMzNhOWExYWU3OWIuOTc1YzkyMGJhMGM2NmZjNzIzYzJhZDdlYzk5ZmViNzkzMDYxM2RjOWQyNGFhMjkzZWY4NzNhNWZjYTk5MTNkYg
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135664" group-title="CDNLive",[2026-08-18 22:30] Londrina vs Atlético Goianiense - Premiere 4 HD BR | Brazilian Serie B
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce761/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNzYxOjE3ODcwNDUxODkyNDM6Y2RubGl2ZXR2LnR2OjE2ZDQzODQ2NGJmZjlhYTAuZDI2MTI5M2QwYzE4NDBiZGQwZTFlY2Y1NGZhYjRjN2YyOGQzYzgzMjMyYmE2ZTY2YjVkNjc3NTJhZjBkZjBlYg
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135664" group-title="CDNLive",[2026-08-18 22:30] Londrina vs Atlético Goianiense - Premiere 5 HD BR | Brazilian Serie B
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce762/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNzYyOjE3ODcwNDUxODkzMDE6Y2RubGl2ZXR2LnR2OmE3ODE5YjU3M2Q5MGY2ZmEuMWQ1MDJkMzcyMDk4Y2U5MTRkOGUxZDBjOTQ2NWYwMDFjNGViOWViN2ZhZjQ1NmU5Mjk3MTAxNjRiYzQxM2IwZA
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135664" group-title="CDNLive",[2026-08-18 22:30] Londrina vs Atlético Goianiense - Premiere 6 HD BR | Brazilian Serie B
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce763/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNzYzOjE3ODcwNDUxODkyNzE6Y2RubGl2ZXR2LnR2OjQ5NTgxZDE0MDUwZTRmODMuNWQxNTVhYTQ5NmZkYTg4YTNhYjhmODljZGE5NjE4Y2YyYTU2NTg3N2I4MjQ4NTc1ODUxOWQxY2YwYWNlMGY4ZA
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce75e/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNzVlOjE3ODcwNDUxODkyNTg6Y2RubGl2ZXR2LnR2OjdlMDk1NWRiYmY2YTUyMTkuYjgyMTc0YmJiYWFlMmQ4ZjYwNGNmOTE4ZDAxODdkN2Y5NTEyM2Q0YjlhMzg0Y2EzMmM0M2NlYzk3MzMzYTkzYw
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135664" group-title="CDNLive",[2026-08-18 22:30] Londrina vs Atlético Goianiense - Premiere 7 HD BR | Brazilian Serie B
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce764/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNzY0OjE3ODcwNDUxODkyNzE6Y2RubGl2ZXR2LnR2OjFjZTI3ZWNjODhjMTgzOGEuZTA3NjExMTRhNjQ3YjdmYjVkNmJmZDQ5N2ZjMWJkZjg2NThiMWVkNjgxYjVmNTNkOTQyZDk0M2E1Yzc2NWE3Mg
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135664" group-title="CDNLive",[2026-08-18 22:30] Londrina vs Atlético Goianiense - Premiere Clubes HD BR | Brazilian Serie B
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce89d/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODlkOjE3ODcwNDUxODkyNzE6Y2RubGl2ZXR2LnR2OjY2NmM2NjFlZWQwMjQ1MzQuYTMzNGE2NDQ1NDE4MzY4OTc4N2ZjZTY3OTdjNDM0NWI4YTUyMzUxZDgwMmM4NmUzZjJjN2Y1YTgwZjQ1MmE4OQ
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/masn-us.webp" group-title="CDNLive",[2026-08-18 22:35] Baltimore Orioles vs New York Yankees - MASN US | MLB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb4dc/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNGRjOjE3ODcwNDUxOTA0ODM6Y2RubGl2ZXR2LnR2OjcwYjE3MzEyOWEzNTYyMzAuMTIzMWNiNGYzYjc2MDZkMGE3MzZlMWUzZDM1NDE2ZmFkNTBhNzc4ZjcwYzM2ZWM1NzA2ZDkxNWE0MzVjZGRiMw
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135251" group-title="CDNLive",[2026-08-18 22:35] Baltimore Orioles vs New York Yankees - MLB | Baltimore Orioles | MLB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -526,10 +520,6 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb62f/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb623/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIzOjE3ODcwNDUxOTAzODk6Y2RubGl2ZXR2LnR2OmRlMTRiMTc0M2VhYWUxZTYuZjcxNGU4MzIyYTlhOTJjMzE1Yjc2ZWEzYjE0YjhhYmJjZTM2MTcwYjY2OWFkZmE1N2ViYjMxMDllNDZmZDU3Ng
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network-us.webp" group-title="CDNLive",[2026-08-18 22:35] Baltimore Orioles vs New York Yankees - YES Network US | MLB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb2ad/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMmFkOjE3ODcwNDUxOTA0MzU6Y2RubGl2ZXR2LnR2OjJiNGJlMmVkZDA4NTk5YWQuZjE1OTMxZTE3MjMzOGFhYjM0MTgxODIyZmM3YWY4MGEyMzA5NTc3ZTRiYzYxMzhiODhkMDY0NjFmNTg3OWFkNA
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135270" group-title="CDNLive",[2026-08-18 22:40] Cincinnati Reds vs St. Louis Cardinals - MLB | Cincinnati Reds | MLB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -570,34 +560,34 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce886/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb59f/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTlmOjE3ODcwNDUxOTA1Nzk6Y2RubGl2ZXR2LnR2OmU0YTQ0Y2YwN2E0YzBmYTguMzUwZjczYWFjYWRkZWNiNDQ4ZmFiM2Y1ZWZiNjZhMDJlMzk1NjI0YmIxNDM0ZjcyZTE4ZWU3Njg1YTA3OGQxZg
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135277" group-title="CDNLive",[2026-08-18 22:40] Pittsburgh Pirates vs Detroit Tigers - MLB | Detroit Tigers | MLB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb629/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI5OjE3ODcwNDUxOTA1ODU6Y2RubGl2ZXR2LnR2OjVlYjE4M2M0Yjk0YzJjMTQuMGNiODJiYTU4MjBmMmUwYzk1NDdkM2M4OTRmMWMyMDc2YThiM2MxODA5ZTU3ZTM3NmRkMTliNDZiZDc3MTkxOQ
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135277" group-title="CDNLive",[2026-08-18 22:40] Pittsburgh Pirates vs Detroit Tigers - MLB | Pittsburgh Pirates | MLB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb621/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIxOjE3ODcwNDUxOTA2MjI6Y2RubGl2ZXR2LnR2OmNiZWU0ZjVmZDE5MzRjNmUuMjAyMWQ2YjlkNDJmODExNmVjOTcxZTdiNzEwYzIzOTJhMDk5NDkyNTMwNDFjZDlkMDQzODBlNTEwNjdlZDJkYQ
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135277" group-title="CDNLive",[2026-08-18 22:40] Pittsburgh Pirates vs Detroit Tigers - TSN 5 FHD CA | MLB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3ODcwNDUxOTA2Mzc6Y2RubGl2ZXR2LnR2OmY5N2NkZmM3NmQxOWM3MGEuMmQ4NDhjOWQ4YmU4YjdhOGE1ZGFiMWM4ZDAxNmI3OWQzZmM0NDgzYjc3MjFjZjZjMDk3Yzk5MzQ0NGRhMWJlYQ
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135263" group-title="CDNLive",[2026-08-18 22:40] Tampa Bay Rays vs Toronto Blue Jays - MLB | Tampa Bay Rays | MLB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb61a/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFhOjE3ODcwNDUxOTA1MTY6Y2RubGl2ZXR2LnR2OjZkZmRiYWRjMDdkNWRkMjkuYmNjNjc2NDRkNDk5NDEyYjVkZmE4NTI5NGIxNjEyNjg3MmE0ZGQ2MjNlYzg4NWEwNDkwY2NmYzM1MDJiOTRiYg
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135263" group-title="CDNLive",[2026-08-18 22:40] Tampa Bay Rays vs Toronto Blue Jays - MLB | Toronto Blue Jays | MLB
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135252" group-title="CDNLive",[2026-08-18 23:10] Boston Red Sox vs Arizona Diamondbacks - MLB | Boston Red Sox | MLB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb618/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE4OjE3ODcwNDUxOTA0ODY6Y2RubGl2ZXR2LnR2Ojg3MzE0NWRjMjdjZjhhMDUuNGQ2MmVmODkwNTJhYTJhZTQ1ODRlOGU4NWE4OTNkOGRmYWMyZTc0MDRlYzhmNWUwMGNlMDAwNGNjMjVkNzg5Mw
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn-us.webp" group-title="CDNLive",[2026-08-18 23:10] Boston Red Sox vs Arizona Diamondbacks - NESN US | MLB
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb62e/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJlOjE3ODcwNDUxOTE1NDI6Y2RubGl2ZXR2LnR2OjMzMTliYTYxMGZhZmE0MDAuMmY2M2U1NDU5ZTRhYzY5YWMxNWEwZWE5NzdmNDVjZDBhYmVkM2M2NGRhMThkYTdkMTM3NDI1YWQ4NTRhOGI3OQ
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135275" group-title="CDNLive",[2026-08-18 23:10] New York Mets vs San Diego Padres - MLB | New York Mets | MLB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb51b/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTFiOjE3ODcwNDUxOTE2NDY6Y2RubGl2ZXR2LnR2OmMzNGJmYTJmZTkwZGQyY2UuM2RkMzg4YTc3NzA5YWI4MTA1NDRlZGE0MTNkNTRlZDRiNTQ2NDE2NmRmMTM2MTE2MjY3ZGNiZTRjZmExOGExOQ
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135274" group-title="CDNLive",[2026-08-18 23:40] Milwaukee Brewers vs Seattle Mariners - MLB | Milwaukee Brewers | MLB
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb625/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI1OjE3ODcwNDUxOTEyMDQ6Y2RubGl2ZXR2LnR2OjE5ZGVmYzc3YzliYzNmZjMuNTA5MzU4OGYzY2NiMjIwMDg5MmFmN2EwNmFmM2NhNmMwOTUzN2Y5ZjhjODVmOGVjN2Y5YjU1NDNlYTlkZGIyNw
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135275" group-title="CDNLive",[2026-08-18 23:10] New York Mets vs San Diego Padres - MLB | San Diego Padres | MLB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb613/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3ODcwNDUxOTE3MDg6Y2RubGl2ZXR2LnR2OmM1MGJlNTJjNDQyMmZmOTEuYmZlNWNiZGU2MWUzMDJlOGQwYThhMWNhZmQ5ODA5Mjc2YjJlNjdjYTg5ZDI3NjRiNDk2NjFiZmUwOGIyZWUzNw
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb61e/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFlOjE3ODcwNDUxOTExODM6Y2RubGl2ZXR2LnR2OmZhMGY3OWQzYmNlNDBiZTkuZjUyZjg1N2E2NjY4M2M1ZGE1OTNiMmEyNjdmOGNiYjNhYTBhZWE2NjQwZDAwZTE3YzkwMTE2NDFmY2NmMjI5Mw
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york-fhd-us.webp" group-title="CDNLive",[2026-08-18 23:10] New York Mets vs San Diego Padres - SportsNet New York FHD US | MLB
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb52e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJlOjE3ODcwNDUxOTEyMTk6Y2RubGl2ZXR2LnR2OjVmN2M0YWFkYjdjOTQ1ZTcuNDEyNTY1ODlmZWMxOGQzNDc0ZjdkZjc5MzI5YjY2NTM4ZDQxMjdiMGM2M2ExNGI1ZDEwMDYzYzhiNDEzZWZhNg
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135257" group-title="CDNLive",[2026-08-18 23:40] Kansas City Royals vs Athletics - MLB | Kansas City Royals | MLB
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb615/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE1OjE3ODcwNDUxOTE4Mzk6Y2RubGl2ZXR2LnR2OjRkZmZhNTdhNjAxZDNmNmYuNWVlNDExOGMwZjgwMzlkMGQ3NWI4OTA1OWMwYWI1NWMzZTAzZWE0OTE4YjMyZjc4NTZmYTQ4ZGQ3ZDE1NGVmMA
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135274" group-title="CDNLive",[2026-08-18 23:40] Milwaukee Brewers vs Seattle Mariners - MLB | Seattle Mariners | MLB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -622,18 +612,18 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb631/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb62d/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJkOjE3ODcwNDUxOTIxNDk6Y2RubGl2ZXR2LnR2OjJlMTAyMjBiNmU5MjAxNzcuNGI2N2E0N2E2YmRiOWE0YzEyMzg0MGJiODBhNzRjMmY3MzZhN2Y1MTFiYTY4NDU2MWZhMTlkNTNkZjRjMzQ3MA
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135269" group-title="CDNLive",[2026-08-19 00:05] Chicago Cubs vs Chicago White Sox - Sportsnet One HD CA | MLB
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3ODcwNDUxOTIyMjU6Y2RubGl2ZXR2LnR2OjdhMzMxYjM3Y2I4MWVjNDQuNGMxZmUzZjA4OWYyNTY1N2RmODhkN2E2NTY0MGU5OGM1OGVhNzJjNDc4MTM3Mjk0YTdmYWU3ZjRjYjQ1MTYzNw
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135264" group-title="CDNLive",[2026-08-19 00:05] Texas Rangers vs Washington Nationals - MLB | Texas Rangers | MLB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb619/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE5OjE3ODcwNDUxOTE4MTQ6Y2RubGl2ZXR2LnR2OjdlYzk2ZWQwOTNkYjVjNWYuYzYxMGQ3ZjJkYzkxNTkwOGUxNjAyYTBhZTIzMzBhYjk1ZTVmMzVkZDQ3ZGExMmMyZTRlN2UyODZiNDNkYjRmNQ
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135256" group-title="CDNLive",[2026-08-19 00:10] Houston Astros vs Los Angeles Angels - MLB | Los Angeles Angels | MLB
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135256" group-title="CDNLive",[2026-08-19 00:10] Houston Astros vs Los Angeles Angels - MLB | Houston Astros | MLB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb632/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMyOjE3ODcwNDUxOTIzMzM6Y2RubGl2ZXR2LnR2OmU3NzRkNzI2MDQxYWQzOTUuZTQyZGU0YTVmMjg2MWU0ZmU5MDRhOGMyMWM2ZTRiNjJjMWFkZmIyMzMwM2U1MWY5ZjY5MDI3YmRkNzZhZTdjNA
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135256" group-title="CDNLive",[2026-08-19 00:10] Houston Astros vs Los Angeles Angels - Space City Home Network US | MLB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb52c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJjOjE3ODcwNDUxOTIzMzM6Y2RubGl2ZXR2LnR2OjNiZmE4NmUzMzRjYWQxNzAuMWE0YTc1MWQ5ZThmYTE5ZDZjMDhhNTRmZWJhMTk4MDEwNmQyZWFmNDczYTY1YTg3NGJhMmM5NjVkNzNmZjc2Mg
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb627/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI3OjE3ODcwNDUxOTIyNDc6Y2RubGl2ZXR2LnR2OjU2MzY4N2UxZjA2YzAxNDkuMzM0NWQ4ZDdiNGY5YTI1NTM1ZWI4NGM2Y2M0NjBlMzIzMmE4YzQ0YzliYjkwMmYzMjA2ZDVjYWU4OTc0NDJhZA
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135271" group-title="CDNLive",[2026-08-19 00:40] Colorado Rockies vs Los Angeles Dodgers - MLB | Colorado Rockies | MLB
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -690,10 +680,6 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc325/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc171/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcxOjE3ODcwNDUxODk5NDI6Y2RubGl2ZXR2LnR2OjNiN2VmYWJjNmJmYTliMTcuZmM5OGQ5MDcyYTJjNzI4YjZmY2ZmMzE0OGFlNDc4MzE3MTQ0NjkyODdjZjcyNDA5NmIwMjIxYzc4MjAyMGY4NQ
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/134926" group-title="CDNLive",[2026-08-21 00:00] Houston Texans vs Las Vegas Raiders - TSN 2 FHD CA | NFL
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc173/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3ODcwNDUxODk5NTc6Y2RubGl2ZXR2LnR2OmZlNWJmOGUzZDI1NzM5NGUuMTI0ZDQ1ZTZkMTQxNWZiNzAyY2FhODM2ZTFlYzVhMGM4NTI1YWNhY2NjMGNiMGI2MTk3ZDE1NTMzOGU0NzA2NA
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/134926" group-title="CDNLive",[2026-08-21 00:00] Houston Texans vs Las Vegas Raiders - TSN 2 HD CA | NFL
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -706,6 +692,14 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb46d/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce5e4/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNWU0OjE3ODcwNDUxOTI3NTM6Y2RubGl2ZXR2LnR2OmIzMzBjZDkxYzRmYzFiMzEuNTgwZWNmYjdhNzI3NGM3Y2VlZGE0MGYwNzE4NGFlOTIyNzZjZTE5ZDFlZWJiZWVmMTVhNWVjZTIwNGFhNDYxNA
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135264" group-title="CDNLive",[2026-08-21 00:05] Texas Rangers vs Washington Nationals - Fox Deportes HD CHL | MLB
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76cea53/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlYTUzOjE3ODcwNDUxOTI5NTA6Y2RubGl2ZXR2LnR2OmY1Mjk3YmVhOTU1N2I1ODkuN2ViMWE5ZGIxMWIxMWRmZjJiMDNjNDhjOWI0MjUzMWQwOTEwNDI5OWRjYzIzOTk5OTFkMWUwNjBjZTBkMmRhMQ
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135264" group-title="CDNLive",[2026-08-21 00:05] Texas Rangers vs Washington Nationals - Fox Deportes HD US | MLB
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c1/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMxOjE3ODcwNDUxOTI3MTE6Y2RubGl2ZXR2LnR2OjI0MzNmYmJhYTExNWMwMjAuMDRjMTNjY2VhMWJiMWRlNmNlMmM3NTQ1M2Q0MzU2YTI5ZmNjZjliMzE4ODE1ZjYyOWNkYjUzZGI3ZGI3YmRjYQ
 #EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135908" group-title="CDNLive",[2026-08-21 02:00] Los Angeles Chargers vs San Francisco 49ers - NFL Network US | NFL
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -718,14 +712,18 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc343/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQzOjE3ODcwNDUxOTI5Mzk6Y2RubGl2ZXR2LnR2OjMzN2FkZDM4MWFhZDAxZTEuNTkwMWNlMzg1MmM2ZDBiOTY2N2YzMjFjZGIwMGFlMzE0MTBkZDAwMmVjZGViN2FmMjNhMzUzZThlNDNiYjA4Yw
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/team/images/135274" group-title="CDNLive",[2026-08-21 20:10] Milwaukee Brewers vs Atlanta Braves - TNT Sports 1 UK | MLB
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc341/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQxOjE3ODcwNDUxOTI5NDc6Y2RubGl2ZXR2LnR2OmFiMDg1Njk1Y2IwNmQ5NzQuMTEwY2NiNGE2NjI0ZGMxZWFjMmQ0MjE1ZDQzNGYzYmU1YzcwNzcyODM4NTVmOTA1Nzc4OGQzZTUyOTg2ZDAxNQ
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/41cd928a2816821bdb7995c3ea6031a6.png!w80" group-title="CoLaTV",09:30 | SD Raiders FC vs Sydney FC | BLV
 #EXTVLCOPT:http-referrer=https://cltvlv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://live05.meung.app/live/82054853.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="CuongHeHe",VIP - ELEVEN SPORTS 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281071.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="CuongHeHe",VIP - HK NOW SPORTS EPL 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1301200.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="CuongHeHe",VIP - SKY SPORTS MAIN EVENT 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281430.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="CuongHeHe",VIP - TNT SPORT ULTIMATE 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281083.m3u8
 #EXTINF:0,14:00 18/08 Nhật Bản Jones vs Strong Group Athletics (HD ALAN) [HD]
 https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787030179-0-0-0c1649e157695268f3f2a5ca57fdf109
 #EXTINF:0,15:00 18/08 DN SOOPers Challengers vs Nongshim Esports Academy (HD MARTY) [HD]
@@ -746,16 +744,8 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTVLCOPT:http-referrer=https://giovang.city/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://eqr2hdarxfliv.vcdn.cloud/1786904795_hd/1786904795_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260816/04bc824ff0834363e91a4c30e373416a.png" group-title="Socolive TV" group-logo="https://tructiepbongda.com/favicon.ico", 12:00 18/08 China U18 vs Iran U18 (BLV A CHÈ)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=112f6b78805cd617a09e739dc79c64cf&txTime=6a843fe0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260816/04bc824ff0834363e91a4c30e373416a.png" group-title="Socolive TV" group-logo="https://tructiepbongda.com/favicon.ico", 12:00 18/08 China U18 vs Iran U18 (BLV BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787034000-0-0-896e47473463366c2dbc9e2e1003f482
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260816/04bc824ff0834363e91a4c30e373416a.png" group-title="Socolive TV" group-logo="https://tructiepbongda.com/favicon.ico", 12:00 18/08 China U18 vs Iran U18 (BLV HUNTER)
 https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=6d94b14cdb3b7a3a411f67044e70f6c7&txTime=6a843fe0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260816/46b974860d97c2c6cfa2e3c9dbae6ea3.png" group-title="Socolive TV" group-logo="https://tructiepbongda.com/favicon.ico", 15:00 18/08 Qatar U18 vs Sri Lanka U18 (BLV CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787030266-0-0-2630b5b617885c73ff78d3146ba0455e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260816/46b974860d97c2c6cfa2e3c9dbae6ea3.png" group-title="Socolive TV" group-logo="https://tructiepbongda.com/favicon.ico", 15:00 18/08 Qatar U18 vs Sri Lanka U18 (BLV KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787030798-0-0-900fd07b4c1f34757a9a791509e5b73d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260818/146de7d841d3674b348a7e938dfe8bb9.png" group-title="Socolive TV" group-logo="https://tructiepbongda.com/favicon.ico", 16:30 18/08 Southern Districts Raiders vs Sydney FC (BLV BLV CUỘI)
 https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1786946168-0-0-dca415a0d3078f8d5eba0e39478d19ef
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260818/146de7d841d3674b348a7e938dfe8bb9.png" group-title="Socolive TV" group-logo="https://tructiepbongda.com/favicon.ico", 16:30 18/08 Southern Districts Raiders vs Sydney FC (BLV BLV MESSI)
@@ -1094,6 +1084,11 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/15905
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0D3EF042F2D3E57DBB30B1C58FD91B38
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562512&extension=ts&play_token=GPfAiySAti
+#EXTINF:-1 tvg-id="641220" tvg-name="V SPORT ULTRA UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12976.jpg?19897" group-title="THỂ THAO QUỐC TẾ" tvg-chno="22066",V SPORT ULTRA UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 020A3E839CE18C38F329B77D5B2CCD7D
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=641220&extension=ts&play_token=pn3nksdeU2
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" group-title="VTV",VTV1
 #EXTVLCOPT:http-referrer=https://github.com/vuminhthanh12/vuminhthanh12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
