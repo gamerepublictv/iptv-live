@@ -18,6 +18,11 @@ http://193.47.62.41/hls/LRRRaaAAAAAAA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/kkkka.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1858245091661324288%2Fg97T9wjl_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", MotoGP Grand Prix of San Marino - MotoGP 14.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/kkkkaAA.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1763114038995849216%2FnqmsZCnm_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Sangmu vs Gimcheon Sangmu - South Korea K League 14.30 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -251,7 +256,7 @@ http://193.47.62.44/hls/MJJJAAA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gimcheon Sangmu FC vs Gangwon" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fc080bb97363f9be7ca4fca327c56ec0d.png%21w80&size=300&scale=1.5", Gimcheon Sangmu FC vs Gangwon (Giải K1 Hàn Quốc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/67817878_0e20959df45c0135103e97643b779600_autoChange.m3u8?auth_key=1789299277-0-0-4976c408c2f172fe61b1e055ed67d22b
+https://live1.dyrur1.com/live/67817878_0e20959df45c0135103e97643b779600_autoChange.m3u8?auth_key=1789301933-0-0-37ffcb823f0a7caa1149f1426e6ea8f2
 #EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fc080bb97363f9be7ca4fca327c56ec0d.png%21w80&size=300&scale=1.5", Gimcheon Sangmu FC vs Gangwon - BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -259,11 +264,27 @@ https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Saudi Arabia vs Indonesia" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2Fccaed74b3d438c1561910aed79b15291.png%21w80&size=300&scale=1.5", Saudi Arabia vs Indonesia (Đại hội Thể thao Châu Á)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/73662242_b6c9aec5b316cda06d2eec92ac60ee85_autoChange.m3u8?auth_key=1789299278-0-0-87ee98d0d46c1e368691679e93af228a
+https://live.dyrur1.com/live/73662242_b6c9aec5b316cda06d2eec92ac60ee85_autoChange.m3u8?auth_key=1789301936-0-0-46bf6074b53873b41e8a79eaeed5a1bd
 #EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2Fccaed74b3d438c1561910aed79b15291.png%21w80&size=300&scale=1.5", Saudi Arabia vs Indonesia - BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/90865415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PSM Makassar vs Arema Malang" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fb1e228ad69b6a2c235047e0a13ceb391.png%21w80&size=300&scale=1.5", PSM Makassar vs Arema Malang (Giải bóng đá Liga 1 Indonesia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https
+#EXTINF:-1 tvg-id="" tvg-name="BLV SAMURAI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fb1e228ad69b6a2c235047e0a13ceb391.png%21w80&size=300&scale=1.5", PSM Makassar vs Arema Malang - BLV SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/07808742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Persita vs Malut United" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fb1e228ad69b6a2c235047e0a13ceb391.png%21w80&size=300&scale=1.5", Persita vs Malut United (Giải bóng đá Liga 1 Indonesia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https
+#EXTINF:-1 tvg-id="" tvg-name="BLV MONSTER" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fb1e228ad69b6a2c235047e0a13ceb391.png%21w80&size=300&scale=1.5", Persita vs Malut United - BLV MONSTER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/75915087.m3u8
 #EXTINF:-1 tvg-id="653" tvg-name="Volleyball Asian Championship" tvg-logo="https://openwindows037.serv00.net/logo/vnl.png" group-title="Event-LIVE-NOW",Volleyball Asian Championship - 13 Sep 2026 13:30 WIB - South Korea vs Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://partneta.cdn.mgmlcdn.com
@@ -463,7 +484,7 @@ https://live2.felnorastreamvault.com/live/channel7.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,13:00 13/09 N Canberra FC vs N Belconnen Utd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001789284643-0-0-ed8cb8d3faf3359f8565079557fc2a08
+https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001789287336-0-0-e874d3cab9b8b6d32b6c136b0c8ddd80
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,14:30 13/09 Gimcheon Sangmu vs Gangwon FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -471,7 +492,7 @@ https://live2.felnorastreamvault.com/live/channel5.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,14:30 13/09 Gimcheon Sangmu vs Gangwon FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001789284650-0-0-a3f76a3cc2c098a0972b0db0bedf6c91
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001789287365-0-0-752851373d1ac420ef17e93c7b07e8e1
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,14:30 13/09 Gyeongnam FC vs Seongnam FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -479,15 +500,15 @@ https://live2.felnorastreamvault.com/live/channel18.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,14:30 13/09 Gyeongnam FC vs Seongnam FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001789284671-0-0-181758683e566a7147d198b960034064
+https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001789287375-0-0-bf905c710794dd8129bdd002b165014c
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,14:30 13/09 Jeonnam Dragons vs Gimpo FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.pro2cdnlive.com/live/channel14.flv
+https://live2.felnorastreamvault.com/live/channel14.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,14:30 13/09 Jeonnam Dragons vs Gimpo FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001789284717-0-0-bf8a03daa965e9423cfd1f5420ccf646
+https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001789287388-0-0-0e3922eb35991e7ea481c3ab537468b9
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,14:30 13/09 Taiwan Power vs AC Taipei
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -503,23 +524,7 @@ https://live2.felnorastreamvault.com/live/channel29.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,14:00 13/09 Rp X t vs Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001789284733-0-0-15fed01c11b81b27e3d5c979d68bcfbc
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,13:30 13/09 Hn Quc vs Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel33.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,13:30 13/09 Hn Quc vs Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001789284738-0-0-c158435c88e79317bdff12296390d632
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,12:00 13/09 Gen.G Esports vs Hanwha Life Esports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel30.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,12:00 13/09 Gen.G Esports vs Hanwha Life Esports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001789284745-0-0-318be84f6cdccea63e73ee034b33c227
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001789287409-0-0-7f7efae1a70eb3fb9271b3fcb2120ad3
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,15:00 13/09 Ilya Ivashka vs Marat Sharipov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -527,7 +532,23 @@ https://live2.felnorastreamvault.com/live/channel32.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,15:00 13/09 Ilya Ivashka vs Marat Sharipov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001789284771-0-0-67673bd1fbe8271176080445c095f885
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001789287418-0-0-e8ee0585c6191eaec12772a86763d361
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,13:30 13/09 Hn Quc vs Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.felnorastreamvault.com/live/channel33.flv
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,13:30 13/09 Hn Quc vs Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001789287424-0-0-6ba6480cdc6487a2dea7a1c1ced2f4bd
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,12:00 13/09 Gen.G Esports vs Hanwha Life Esports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.felnorastreamvault.com/live/channel30.flv
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,12:00 13/09 Gen.G Esports vs Hanwha Life Esports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001789287429-0-0-a28df0e400421752c044c7754767f5d7
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,17:00 13/09 Nht Bn vs Hn Quc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -535,7 +556,7 @@ https://live2.felnorastreamvault.com/live/channel29.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,17:00 13/09 Nht Bn vs Hn Quc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001789284786-0-0-33ba2692b9825d94c852cae9a8db005e
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001789287437-0-0-1c3f96b7ae7fedf83081290976fcc3ac
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,18:00 13/09 Buyukcekmece vs Ormanspor Genc Ankara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -543,7 +564,7 @@ https://live2.felnorastreamvault.com/live/channel26.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,18:00 13/09 Buyukcekmece vs Ormanspor Genc Ankara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-26.flv?auth_key=3000001789284794-0-0-fb032c82e460dd2fd8ae0368c045f8f7
+https://live2.domaincdn.cc/livecdn/channel-26.flv?auth_key=3000001789287445-0-0-6e38f25dd01ad839001e55f98f500177
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,21:30 13/09 N Ty Ban Nha vs N c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -579,11 +600,11 @@ https://live2.pro2cdnlive.com/live/channel-29.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,19:00 13/09 Titouan Droguet vs Mark Lajal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.pro2cdnlive.com/live/channel32.flv
+https://live2.felnorastreamvault.com/live/channel32.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,19:00 13/09 Titouan Droguet vs Mark Lajal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.pro2cdnlive.com/live/channel-32.flv
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001789287468-0-0-2e9a00ca10ad638f2dc766cb633ae1be
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:00 14/09 Alexander Zverev vs Ben Shelton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -599,7 +620,7 @@ https://live2.felnorastreamvault.com/live/channel33.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,17:30 13/09 Nht Bn vs Iran
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001789284811-0-0-740239bbce26a5fcea86657661d59f21
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001789287484-0-0-15a8bf3d72f4792be3ab3f0cfa31db90
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,21:00 13/09 Slovenia vs Thy in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -639,7 +660,7 @@ https://live2.felnorastreamvault.com/live/channel30.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,16:00 13/09 Bilibili Gaming vs Anyones Legend
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001789284822-0-0-f8ec439ee6b60e38573c7508647920d5
+https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001789287498-0-0-cf95722f2b6c04e7753443c8f218d513
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,23:00 13/09 LOUD vs paiN Gaming
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -700,198 +721,233 @@ https://ls-mp03.eo-edgefunctions7.com/out/v1/7cfe6d15c127407588568af9f4574a21/ma
 #EXTVLCOPT:http-referrer=https://partneta.cdn.mgmlcdn.com
 #EXTVLCOPT:http-origin=https://partneta.cdn.mgmlcdn.com
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="5071" tvg-name="Indonesian Super League" tvg-logo="https://openwindows037.serv00.net/logo/live_event.gif" group-title="Event-LIVE-NOW",Indonesian Super League - 13 Sep 2026 19:00 WIB - Persebaya Surabaya vs PSIM Yogyakarta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.quickscoreboardz.com
+#EXTVLCOPT:http-origin=https://live1.quickscoreboardz.com
+https://live1.quickscoreboardz.com/live/channel5.m3u8
+#EXTINF:-1 tvg-id="5201" tvg-name="Spanish La Liga" tvg-logo="https://openwindows037.serv00.net/logo/laliga.png" group-title="Event-LIVE-NOW",Spanish La Liga - 13 Sep 2026 19:00 WIB - RC Celta vs Malaga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://otte.live.fly.ww.aiv-cdn.net
+#EXTVLCOPT:http-origin=https://otte.live.fly.ww.aiv-cdn.net
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08516a2a0f425e45545f0d0509684f0c:0767775114594a54005c5058654e0808
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://tvku.family/T/cover.php?url=aHR0cHM6Ly90aHVtYm9yLnByb2QudmlkaW9jZG4uY29tL002ZEJ1QXhEWVJ2aVFfRjhzTk5YUXlwNkM2TT0vNjQweDM2MC9maWx0ZXJzOnN0cmlwX2ljYygpOnF1YWxpdHkoNzApL3ZpZGlvLW1lZGlhLXByb2R1Y3Rpb24vdXBsb2Fkcy9saXZlc3RyZWFtaW5nL3NjaGVkdWxlL3RodW1ibmFpbC81MzE1OTk3LzQ0NWE1YS5qcGc=&status=LIVE+NOW&time=15%3A22&t=1789287777", RANS Nusantara FC vs PERSIBA Balikpapan - Pegadaian Championship 🛡 (15:22 - 13 Sep 2026) (IN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMjIyNTkucWV6fDE3ODk4OTI1Nzc
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9vYmZmZ2kubmZ2bi8xZGQvMjIyNTkuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="112" tvg-logo="https://www.visionplus.id/images/repository/662/804662-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] Sirkuit Nasional A Yogyakarta • Final (13:00 WIB • 13/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvODluNnI0MjYxcHE3NDcwczgzcjU4NjlyOTA0NDBwc3MvdmFxcmsuemNxfDE3ODk4ODk3MDY
-#EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/778/802778-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] FIA Formula 3 Championship • Madrid, Spain - Feature Race 2 (14:40 WIB • 13/09/2026)
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvODluNnI0MjYxcHE3NDcwczgzcjU4NjlyOTA0NDBwc3MvdmFxcmsuemNxfDE3ODk4OTI1Nzc
+#EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/778/802778-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] FIA Formula 3 Championship • Madrid, Spain - Feature Race 2 (14:40 WIB • 13/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg4OTcwNg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg5MjU3Nw
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/911/803911-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] MotoGP • Grand Prix of San Marino - Race M3 (15:45 WIB • 13/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/742/803742-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] 2026 LET • The Solheim Cup - Day 3 (16:00 WIB • 13/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/806/802806-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] FIA Formula 2 Championship • Madrid, Spain - Feature Race (16:20 WIB • 13/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg4OTcwNg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg5MjU3Nw
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/928/803928-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] MotoGP • Grand Prix of San Marino - Race M2 (17:00 WIB • 13/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/937/803937-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] MotoGP • Grand Prix of San Marino - Race MGP (18:15 WIB • 13/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvNDZxOXBzMzlvOW44NDE4M284cTUwMjJucDhzNG9wNDEvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/006/804006-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Formula 1 • Spanish Grand Prix - Grand Prix Sunday (18:30 WIB • 13/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg4OTcwNg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg5MjU3Nw
 #EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/965/803965-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] LaLiga 2026/27 • Celta Vigo vs Malaga (18:55 WIB • 13/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4OTg4OTcwNg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4OTg5MjU3Nw
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/030/804030-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Formula 1 • Spanish Grand Prix - Race (19:55 WIB • 13/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg4OTcwNg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg5MjU3Nw
 #EXTINF:-1 tvg-id="124" tvg-logo="https://www.visionplus.id/images/repository/988/803988-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] LaLiga 2026/27 • Levante vs Barcelona (21:10 WIB • 13/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4OTg4OTcwNg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4OTg5MjU3Nw
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/003/804003-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] LaLiga 2026/27 • Getafe vs Deportivo (23:30 WIB • 13/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg4OTcwNg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg5MjU3Nw
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/308/804308-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] 2026 US Open Tennis Championships • Day 15 - Men's Singles Final (Arthur Ashe) (01:00 WIB • 14/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvbzQ4MTRucjkzcG44NHFxM29vNW8wbnNzNzZwbjI2M3MvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/970/804970-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] LaLiga 2 2026/27 • Tenerife vs Leganes (01:52 WIB • 14/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4OTg4OTcwNg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9wc3BuNTI3cTBzMTY0MDMzOTZuNzFvMnEzcTU0cDMycy92YXFyay56Y3F8MTc4OTg5MjU3Nw
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/719/804719-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] LaLiga 2026/27 • Real Sociedad vs Atletico Madrid (01:55 WIB • 14/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg4OTcwNg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg5MjU3Nw
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/227/804227-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Asean Club Championship Shopee Cup 2026/27 • Shan United FC VS Ezra FC - Playoff (18:25 WIB • 14/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/197/804197-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • PFC Neftchi (UZB) VS Air Force SC (IRQ) (20:40 WIB • 14/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/210/804210-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Al Shamal SC (QAT) VS Al Ittihad Club (KSA) (22:55 WIB • 14/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="1002" tvg-logo="https://www.visionplus.id/images/repository/534/804534-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Shabab Al Ahli (UAE) VS Tractor FC (IRN) (23:00 WIB • 14/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvODluNnI0MjYxcHE3NDcwczgzcjU4NjlyOTA0NDBwc3MvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvODluNnI0MjYxcHE3NDcwczgzcjU4NjlyOTA0NDBwc3MvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/518/804518-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Al Qadsiah Club (KSA) VS Al Wasl FC (UAE) (01:10 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="1010" tvg-logo="https://www.visionplus.id/images/repository/852/804852-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Esteghlal FC (IRN) VS Al Sadd SC (QAT) (01:15 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/743/804743-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] LaLiga 2026/27 • Villarreal vs Real Betis (01:55 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg4OTcwNg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc4OTg5MjU3Nw
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/468/804468-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Ratchaburi FC (THA) VS Shanghai Port FC (CHN) (16:55 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="1002" tvg-logo="https://www.visionplus.id/images/repository/761/804761-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Gamba Osaka (JPN) VS Cong An Ha Noi FC (VIE) (17:00 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvODluNnI0MjYxcHE3NDcwczgzcjU4NjlyOTA0NDBwc3MvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvODluNnI0MjYxcHE3NDcwczgzcjU4NjlyOTA0NDBwc3MvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="1010" tvg-logo="https://www.visionplus.id/images/repository/974/804974-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Kashima Antlers (JPN) VS Newcastle Jets FC (AUS) (17:00 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/492/804492-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Johor Darul Ta'zim FC (MAS) VS Buriram United (THA) (19:10 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="1002" tvg-logo="https://www.visionplus.id/images/repository/782/804782-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Beijing FC (CHN) VS FC Pohang Steelers (KOR) (19:15 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvODluNnI0MjYxcHE3NDcwczgzcjU4NjlyOTA0NDBwc3MvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvODluNnI0MjYxcHE3NDcwczgzcjU4NjlyOTA0NDBwc3MvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/495/804495-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Al Ain FC (UAE) VS Al Nassr Club (KSA) (22:55 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4ODk3MDY
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3ODk4OTI1Nzc
 #EXTINF:-1 tvg-id="124" tvg-logo="https://www.visionplus.id/images/repository/994/804994-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] LaLiga 2026/27 • Rayo Vallecano vs Espanyol (23:55 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4OTg4OTcwNg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc4OTg5MjU3Nw
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782232522-0-0-8b640fe1cf47df1166734db5f3d09d2b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782232522-0-0-2977642b49a40977f77b1672f1607866
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/7a2eadc57b3a330eda4b7189352ce344.png!w80",17:00 | Rosenborg vs Fredrikstad
+https://live05.meung.app/live/75915087.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9ba1f45cab5e3f52d783a5bfdbe10daa.png!w80",18:00 | Boca Juniors Nữ vs San Lorenzo Nữ
 https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",22:30 | Atletico Clube Goianiense vs Operario
 https://live05.meung.app/live/90865415.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 28/07 Rosenborg vs Fredrikstad (BLV MONSTER) [flv]
+https://live05.meung.app/live/75915087.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 28/07 Rosenborg vs Fredrikstad (BLV MONSTER) [hls 2]
+https://live05.miekgo.app/live/75915087.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [flv]
 https://live05.meung.app/live/87547578.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [hls 2]
 https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR Cluj vs CS Voluntari (Rio) [flv]
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR Cluj vs CS Voluntari (Rio) [hls]
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.m3u8
