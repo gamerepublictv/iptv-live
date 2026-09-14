@@ -1,9 +1,54 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1605140132847403008%2F29zfnVM0_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Leeds United vs Newcastle United --- CH 2 - English Premier League 02.00 WIB
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1605140132847403008%2F29zfnVM0_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Leeds United vs Newcastle United --- CH 2 HD - English Premier League 02.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://www.rtmpcdn.com/live/23408853-f32d-4f49-beec-202005a9d272.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1853835653886197760%2FgHhspsLK_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Orsomarso vs Atletico FC - Colombia Primera B 05.45 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/fvvv.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1979034974964559874%2FE0AdeiBy_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Cincinnati Reds vs Los Angeles Dodgers - MLB Baseball 05.40 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/utttaaqqqq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1979034974964559874%2FE0AdeiBy_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Cleveland Guardians vs Chicago White Sox - MLB Baseball 05.40 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/utttaaqqqx.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1394013208701243395%2F3ocIDVAb_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Botafogo SP vs Goias - Brazil Serie B 05.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/utttaaqq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1394013208701243395%2F3ocIDVAb_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", America MG vs Sao Bernardo - Brazil Serie B 05.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/utttaaq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1909299166997626881%2F9voDL6wS_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Montevideo City vs Liverpool M - Uruguay Liga AUF 05.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/utttaa.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1788917844987596800%2FsmSNUUNt_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Dep Riestra vs Lanus - Argentina Liga Profesional 05.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/uttta.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1788917844987596800%2FsmSNUUNt_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Banfield vs Barracas Central - Argentina Liga Profesional 05.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/uttt.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1853835653886197760%2FgHhspsLK_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Tigres vs Bogota - Colombia Primera B 03.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/fnnnaAAAAA.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1963974021612978176%2F_dTeQPEr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Sporting Braga vs Estoril - Portugal Primeira Liga 02.45 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -124,130 +169,10 @@ http://193.47.62.50/hls/RVVVFFFA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.50/hls/RVVVFFF.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F961918078715154432%2FnvSl0qsf_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Ludogorets vs Septemvri Sofia - Bulgaria efbet League 00.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/RVVVFF.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1344253261650530304%2FNhvOsx8h_400x400.png&size=400&scale=1.5" group-title="Event-LIVE-NOW", Maccabi Tel Aviv vs Hapoel Tel Aviv - Israel Ligat ha'Al 00.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/RVVVF.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1843984898018676736%2FBSt_D74t_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Al Najma vs Al Raed - Saudi Division 1 00.20 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/RVVV.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1742103773072199680%2F5WHuWW_h_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Djurgarden vs GAIS --- CH 1 - Sweden Allsvenskan 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/LRRRAAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1742103773072199680%2F5WHuWW_h_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Djurgarden vs GAIS --- CH 2 - Sweden Allsvenskan 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/8014a640-f375-40bd-88d7-a008b217f6de.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1742103773072199680%2F5WHuWW_h_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Sirius vs Degerfors --- CH 1 - Sweden Allsvenskan 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/LRRRAAAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1742103773072199680%2F5WHuWW_h_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Sirius vs Degerfors --- CH 2 - Sweden Allsvenskan 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/616f0202-65e2-456b-a027-252c49b797f0.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1266348101394202624%2FdWVpwG1u_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Ostersund vs Helsingborg - Sweden Superettan 00.05 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/LRRRAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1266348101394202624%2FdWVpwG1u_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Orebro vs Nordic United - Sweden Superettan 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/LRRRA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1266348101394202624%2FdWVpwG1u_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Norrby vs Varberg - Sweden Superettan 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/LRRR.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2F1.bp.blogspot.com%2F-byTkUREuv60%2FX0bfuLzFPPI%2FAAAAAAAABUU%2F7Itgj_8JQRo3LCXpT2AHdZXSKw7Tjxw7ACLcBGAsYHQ%2Fs474%2FOIP.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Krasava vs Aris - Cyprus League 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/DYYYAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1838828164295864320%2FwNv3wpY7_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Gaziantep vs Fenerbahce --- CH 1 - Turkey Super Lig 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/RYYYQQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1808057601546244096%2FkHzIvk1f_200x200.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Midtjylland vs Brondby --- CH 1 - Denmark SuperLiga 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/DYYYA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1742489355363450880%2FqQW645XW_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Bodo Glimt vs Sandefjord --- CH 1 - Norway Eliteserien 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/RYYY.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1577968897441120257%2FBywq3Bso_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Kayserispor vs Istanbulspor AS - Turkey Lig 1 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/RYYYQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1681639346862948353%2FOPubFagD_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Zemun vs Radnik - Serbia Super Liga 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/DYYY.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2072189899344613376%2FDeGLZ4Il_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Radomiak Radom vs Piast Gliwice - Poland Ekstraklasa 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/RYYYQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1852296144723869696%2F2Ad94oXN_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Stal Mielec vs Termalica B-B - Poland Premier League 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/RYYYQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1185152368108851201%2F3_mNlM6J_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Ceramica Cleopatra vs National Bank Egypt - Egypt Premier League 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/DNNNQQQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1129730799639646209%2FUVAhxHiK_400x400.png&size=400&scale=1.5" group-title="Event-LIVE-NOW", Romania vs Turkey - Volleyball European Championship 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/DNNNQQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1129730799639646209%2FUVAhxHiK_400x400.png&size=400&scale=1.5" group-title="Event-LIVE-NOW", Estonia vs Belgium - Volleyball European Championship 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/DNNNQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1344253261650530304%2FNhvOsx8h_400x400.png&size=400&scale=1.5" group-title="Event-LIVE-NOW", Kiryat Shmona vs Maccabi Haifa - Israel Ligat ha'Al 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/DNNNQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1963974021612978176%2F_dTeQPEr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", FC Porto B vs Vizela - Portugal Liga 2 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/DNNNQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1963974021612978176%2F_dTeQPEr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Sporting CP B vs Lusitania FC - Portugal Liga 2 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/DNNN.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLB Leeds United vs Câu lạc bộ bóng đá Newcastle United" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fhttps%3A%2F%2Foss-logo-hk.oss-accelerate.aliyuncs.com%2Fadmin%2Fimage%2Fadmin%2F5MlF58WMTJOmYkjkSjhtKQ.png&size=300&scale=1.5", CLB Leeds United vs Câu lạc bộ bóng đá Newcastle United (Giải bóng đá Ngoại hạng Anh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live3.dyrur1.com/live/63kv9igel43cx7e_ede351fc224b9942330c6af5cec9962c_autoChange.m3u8?auth_key=1789427663-0-0-82faa69dfae6f5e569ba886bfb6fb151
+https://live3.dyrur1.com/live/63kv9igel43cx7e_ede351fc224b9942330c6af5cec9962c_autoChange.m3u8?auth_key=1789429865-0-0-13f758ea80d4e31ee45995057f5384d6
 #EXTINF:-1 tvg-id="" tvg-name="BLV C2" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fhttps%3A%2F%2Foss-logo-hk.oss-accelerate.aliyuncs.com%2Fadmin%2Fimage%2Fadmin%2F5MlF58WMTJOmYkjkSjhtKQ.png&size=300&scale=1.5", CLB Leeds United vs Câu lạc bộ bóng đá Newcastle United - BLV C2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -260,18 +185,10 @@ https://live05.meung.app/live/78905744_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Villarreal vs Real Betis Balompié" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F1fbbb4be3b47d9465c5badecc3122e07.png%21w80&size=300&scale=1.5", Villarreal vs Real Betis Balompié (Giải Bóng đá Vô địch Quốc gia Tây Ban Nha)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live4.dyrur1.com/live/527r3i4zpe0c47e_c57640e76af24d28310877be1ed595aa_autoChange.m3u8?auth_key=1789427663-0-0-66cbda45f3a7bf9bf37ed63a3a29d20e
-#EXTINF:-1 tvg-id="" tvg-name="BLV MONSTER" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F1fbbb4be3b47d9465c5badecc3122e07.png%21w80&size=300&scale=1.5", Villarreal vs Real Betis Balompié - BLV MONSTER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter Milan vs Udinese Calcio" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F6b38f4015a6b3309ad9462e6ce27ae99.png%21w80&size=300&scale=1.5", Inter Milan vs Udinese Calcio (Giải bóng đá Serie A Italia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/71945252_411c3193feb07902851d8c34e358bdf0_autoChange.m3u8?auth_key=1789427663-0-0-bedf0ac4a4380ae2f3827f679dc2154e
+https://live.dyrur1.com/live/71945252_411c3193feb07902851d8c34e358bdf0_autoChange.m3u8?auth_key=1789429866-0-0-b4b4ddf0b8ae399abe5f491cf5784f63
 #EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F6b38f4015a6b3309ad9462e6ce27ae99.png%21w80&size=300&scale=1.5", Inter Milan vs Udinese Calcio - BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -280,18 +197,18 @@ https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/97885009_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rio Ave vs Estrela" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F944fcefc160f78322ddcc68ec995040e.png%21w80&size=300&scale=1.5", Rio Ave vs Estrela (Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha)
+#EXTINF:-1 tvg-id="" tvg-name="Villarreal vs Real Betis Balompié" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F1fbbb4be3b47d9465c5badecc3122e07.png%21w80&size=300&scale=1.5", Villarreal vs Real Betis Balompié (Giải Bóng đá Vô địch Quốc gia Tây Ban Nha)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/72530924_68f47cd9a3cf703a38ac1ccea46abbca_autoChange.m3u8?auth_key=1789427664-0-0-1a25422bb3e5b16eb27f37d51ecccc29
-#EXTINF:-1 tvg-id="" tvg-name="BLV HỔ VẰN" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F944fcefc160f78322ddcc68ec995040e.png%21w80&size=300&scale=1.5", Rio Ave vs Estrela - BLV HỔ VẰN
+https://live4.dyrur1.com/live/527r3i4zpe0c47e_c57640e76af24d28310877be1ed595aa_autoChange.m3u8?auth_key=1789429865-0-0-2fb5fc4c61882abf970618610b8f584a
+#EXTINF:-1 tvg-id="" tvg-name="BLV MONSTER" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F1fbbb4be3b47d9465c5badecc3122e07.png%21w80&size=300&scale=1.5", Villarreal vs Real Betis Balompié - BLV MONSTER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/07428422_tsc.m3u8
+https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Esteghlal FC vs CLB Al Sadd" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fbbe73e02dfd0737b98d16465ae014d9e.png%21w80&size=300&scale=1.5", Esteghlal FC vs CLB Al Sadd (AFC Giải vô địch Champions Elite)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/73835142_da2aa89554ff31e1ef223551ebe889fc_autoChange.m3u8?auth_key=1789427663-0-0-e62704b6e2ea9f29dbb9f7879b994cfe
+https://live1.dyrur1.com/live/73835142_da2aa89554ff31e1ef223551ebe889fc_autoChange.m3u8?auth_key=1789429866-0-0-6e3d9ee8dac9147371866f736e052625
 #EXTINF:-1 tvg-id="" tvg-name="BLV SAMURAI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fbbe73e02dfd0737b98d16465ae014d9e.png%21w80&size=300&scale=1.5", Esteghlal FC vs CLB Al Sadd - BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -299,7 +216,7 @@ https://live05.meung.app/live/07808742_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Ahli SC vs CLB Pakhtakor" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fbbe73e02dfd0737b98d16465ae014d9e.png%21w80&size=300&scale=1.5", Al Ahli SC vs CLB Pakhtakor (AFC Giải vô địch Champions Elite)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.dyrur1.com/live/73835126_e6a29db232389adb753a0b0c19f38c1e_autoChange.m3u8?auth_key=1789427663-0-0-76c60890e62694d224714587ed24a002
+https://live2.dyrur1.com/live/73835126_e6a29db232389adb753a0b0c19f38c1e_autoChange.m3u8?auth_key=1789429866-0-0-c2c7380054aab2d3730102cb540285fe
 #EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fbbe73e02dfd0737b98d16465ae014d9e.png%21w80&size=300&scale=1.5", Al Ahli SC vs CLB Pakhtakor - BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -307,11 +224,19 @@ https://live05.meung.app/live/99121525_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Moreirense vs Maritimo" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F944fcefc160f78322ddcc68ec995040e.png%21w80&size=300&scale=1.5", Moreirense vs Maritimo (Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/14102769_ff62e258a5035229af185c36e5d351e2_autoChange.m3u8?auth_key=1789427663-0-0-7fad9c2cdf03f3b89d8a5ec202b1a46e
+https://live.dyrur1.com/live/72530920_27d4da8ef9a6abe43240fc90b98c2709_autoChange.m3u8?auth_key=1789429866-0-0-d8efbe3c6b3e7fff3ca263363ae10e3a
 #EXTINF:-1 tvg-id="" tvg-name="BLV FANTA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F944fcefc160f78322ddcc68ec995040e.png%21w80&size=300&scale=1.5", Moreirense vs Maritimo - BLV FANTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/16226575_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Braga vs CLB Estoril" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F944fcefc160f78322ddcc68ec995040e.png%21w80&size=300&scale=1.5", Braga vs CLB Estoril (Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live.dyrur1.com/live/72530914_25c070e468df1c14bab1595ae3961768_autoChange.m3u8?auth_key=1789429867-0-0-645eb8aa5663b18ae4afc264b7987ccb
+#EXTINF:-1 tvg-id="" tvg-name="BLV PEPSI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F944fcefc160f78322ddcc68ec995040e.png%21w80&size=300&scale=1.5", Braga vs CLB Estoril - BLV PEPSI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/59444581_tsc.m3u8
 #EXTINF:-1 tvg-id="5218" tvg-name="AFC Champions League Elite" tvg-logo="https://openwindows037.serv00.net/logo/uefa.png" group-title="Event-LIVE-NOW",AFC Champions League Elite - 14 Sep 2026 23:00 WIB - Al-Shamal Sports Club vs Al Ittihad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live2.brenvoxedgenetwork.com
@@ -389,7 +314,7 @@ https://live2.felnorastreamvault.com/live/channel6.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:45 15/09 Inter Milan vs Udinese
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001789412455-0-0-b3a677044eadf1472b3d0d47c9b23034
+https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001789415134-0-0-8f0bb5bc975b11f4ca7b053cedb21a78
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:45 15/09 Inter Milan vs Udinese
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -397,23 +322,7 @@ https://live2.felnorastreamvault.com/live/channel18.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:45 15/09 Inter Milan vs Udinese
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001789412461-0-0-1c1bc17080ec629e72198e797b27c42e
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:00 15/09 Villarreal vs Real Betis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel15.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:00 15/09 Villarreal vs Real Betis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001789412473-0-0-4abdbc387d490b8ec6be23dbfec8d530
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:00 15/09 Villarreal vs Real Betis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.pro2cdnlive.com/live/channel19.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:00 15/09 Villarreal vs Real Betis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001789412518-0-0-f57f9c570962f5c1067a1b228026a855
+https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001789415165-0-0-f88b8af40251fc8303cc7cdca2346ae3
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:00 15/09 Leeds United vs Newcastle United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -421,7 +330,7 @@ https://live2.felnorastreamvault.com/live/channel1.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:00 15/09 Leeds United vs Newcastle United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001789412532-0-0-4c37e14b98c7e1c79916a50d2393fe89
+https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001789415171-0-0-708e651604a25dc166d9280dcb76c4f0
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:00 15/09 Leeds United vs Newcastle United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -429,39 +338,23 @@ https://live2.felnorastreamvault.com/live/channel16.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:00 15/09 Leeds United vs Newcastle United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001789412538-0-0-c3da2c79f4debaf87cf664a6d5e86d76
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,00:00 15/09 Midtjylland vs Brondby IF
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001789415186-0-0-33fe36f6cf9d1739027f6743544c148b
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:00 15/09 Villarreal vs Real Betis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel20.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,00:00 15/09 Midtjylland vs Brondby IF
+https://live2.felnorastreamvault.com/live/channel15.flv
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:00 15/09 Villarreal vs Real Betis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001789412545-0-0-3c81312fbbe1e429dc888b556e7b64df
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,00:00 15/09 Ceramica Cleopatra vs Bank El Ahly
+https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001789415197-0-0-fde35e9ccb8c7575785b7691615b87b6
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:00 15/09 Villarreal vs Real Betis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel10.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,00:00 15/09 Ceramica Cleopatra vs Bank El Ahly
+https://live2.felnorastreamvault.com/live/channel19.flv
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:00 15/09 Villarreal vs Real Betis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001789412557-0-0-6019c7e48239899a5ee2a1b0a4d475bc
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,00:00 15/09 IK Sirius FK vs Degerfors IF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel9.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,00:00 15/09 IK Sirius FK vs Degerfors IF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001789412569-0-0-f72d74bbae021a2c6c04a7b529d0fb29
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,00:30 15/09 Ludogorets vs FK Septemvri Sofia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel23.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,00:30 15/09 Ludogorets vs FK Septemvri Sofia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001789412579-0-0-49bdcb93a61578916efa4301c43214dc
+https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001789415202-0-0-78ff3f21c7f2bd3ab29b628c35d6e6c4
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,00:45 15/09 Rio Ave vs Estrela Amadora
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -469,7 +362,7 @@ https://live2.felnorastreamvault.com/live/channel4.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,00:45 15/09 Rio Ave vs Estrela Amadora
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001789412603-0-0-87c04e6c7543e121b7e1d5099e202546
+https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001789415211-0-0-b3e208ac5a0cc1935e89ecdcc11a32ea
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:00 15/09 FCSB vs Petrolul
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -477,7 +370,7 @@ https://live2.felnorastreamvault.com/live/channel28.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:00 15/09 FCSB vs Petrolul
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001789412614-0-0-9d22b234d17a3226047049eeaa6cf6db
+https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001789415216-0-0-cced68faed97960f9320258005d8751c
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:15 15/09 Esteghlal Tehran vs Al-Sadd Sports Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -485,7 +378,7 @@ https://live2.felnorastreamvault.com/live/channel13.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:15 15/09 Esteghlal Tehran vs Al-Sadd Sports Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001789412621-0-0-af94eb15b9e46a2826e9bfc69262ecf0
+https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001789415230-0-0-76604cbf948b823ac3b92f6b1f072ff3
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:15 15/09 Al Ahli SC vs Pakhtakor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -493,7 +386,7 @@ https://live2.felnorastreamvault.com/live/channel21.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:15 15/09 Al Ahli SC vs Pakhtakor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001789412627-0-0-daa6653290c44d8b561108a200faee70
+https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001789415238-0-0-d15cd6b625bd10c00415c4de0b1d1cd6
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:15 15/09 Al Qadsiah vs Al-Wasl SC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -501,7 +394,23 @@ https://live2.felnorastreamvault.com/live/channel22.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:15 15/09 Al Qadsiah vs Al-Wasl SC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001789412636-0-0-a441036bdbf62044bb07849f93c9248e
+https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001789415257-0-0-a5b5f41bc085bcde72c2f577c5b23174
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:30 15/09 Celta Vigo B vs Eibar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.felnorastreamvault.com/live/channel8.flv
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,01:30 15/09 Celta Vigo B vs Eibar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001789415268-0-0-d4df6c1d73f6d84a7700db358e85cc1e
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:15 15/09 Moreirense vs Maritimo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.felnorastreamvault.com/live/channel12.flv
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,02:15 15/09 Moreirense vs Maritimo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001789415278-0-0-72e637bc4f422e009e5a9b73f29e697e
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,22:00 14/09 Berlin International Gaming vs Movistar KOI Fnix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -509,7 +418,7 @@ https://live2.felnorastreamvault.com/live/channel30.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,22:00 14/09 Berlin International Gaming vs Movistar KOI Fnix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001789412644-0-0-b96bb55935eed9edf72679f074ca4310
+https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001789415283-0-0-3c1b32193707cced385970dc9788c19a
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,07:00 15/09 CD Puerto Varas vs Puerto Montt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -565,7 +474,7 @@ https://live2.felnorastreamvault.com/live/channel32.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,06:00 15/09 Zeynep Sonmez vs Iryna Shymanovich
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001789412665-0-0-493a8fb435c20087335bf0c9288639a9
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001789415298-0-0-0e3b1f2128b71f285acecb95a6e2d075
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event.png" group-title="Event-LIVE-NOW" ,07:10 15/09 Elsa Jacquemot vs Liudmila Samsonova
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -660,63 +569,63 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3OTAwMTgxMDg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3OTAwMjA2NTM
 #EXTINF:-1 tvg-id="1010" tvg-logo="https://www.visionplus.id/images/repository/852/804852-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] AFC Champions League Elite 2026/27 • Esteghlal FC (IRN) VS Al Sadd SC (QAT) (01:15 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3OTAwMTgxMDg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3OTAwMjA2NTM
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/743/804743-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] LaLiga 2026/27 • Villarreal vs Real Betis (01:55 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc5MDAxODEwOA
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS8zbzA2NjByMDVycnE0cTc2OTUyMXJvMDI3NW5ubzNuby92YXFyay56Y3F8MTc5MDAyMDY1Mw
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/468/804468-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Ratchaburi FC (THA) VS Shanghai Port FC (CHN) (16:55 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3OTAwMTgxMDg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3OTAwMjA2NTM
 #EXTINF:-1 tvg-id="1002" tvg-logo="https://www.visionplus.id/images/repository/761/804761-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Gamba Osaka (JPN) VS Cong An Ha Noi FC (VIE) (17:00 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvODluNnI0MjYxcHE3NDcwczgzcjU4NjlyOTA0NDBwc3MvdmFxcmsuemNxfDE3OTAwMTgxMDg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvODluNnI0MjYxcHE3NDcwczgzcjU4NjlyOTA0NDBwc3MvdmFxcmsuemNxfDE3OTAwMjA2NTM
 #EXTINF:-1 tvg-id="1010" tvg-logo="https://www.visionplus.id/images/repository/974/804974-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Kashima Antlers (JPN) VS Newcastle Jets FC (AUS) (17:00 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3OTAwMTgxMDg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xM28waTdzdHRoNW1qei5weWJocXNlYmFnLmFyZy9iaGcvaTEvcTJwNjhuM3FzbzY0NDgwOG80MTZvcTkwcXBwOTJxNXMvdmFxcmsuemNxfDE3OTAwMjA2NTM
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/492/804492-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Johor Darul Ta'zim FC (MAS) VS Buriram United (THA) (19:10 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3OTAwMTgxMDg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3OTAwMjA2NTM
 #EXTINF:-1 tvg-id="1002" tvg-logo="https://www.visionplus.id/images/repository/782/804782-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Beijing FC (CHN) VS FC Pohang Steelers (KOR) (19:15 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvODluNnI0MjYxcHE3NDcwczgzcjU4NjlyOTA0NDBwc3MvdmFxcmsuemNxfDE3OTAwMTgxMDg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmd3bGNra2w3NjlzYS5weWJocXNlYmFnLmFyZy9iaGcvaTEvODluNnI0MjYxcHE3NDcwczgzcjU4NjlyOTA0NDBwc3MvdmFxcmsuemNxfDE3OTAwMjA2NTM
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/495/804495-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] AFC Champions League Elite 2026/27 • Al Ain FC (UAE) VS Al Nassr Club (KSA) (22:55 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3OTAwMTgxMDg
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xMmttMmk1amhpdGhlNi5weWJocXNlYmFnLmFyZy9iaGcvaTEvNjNwMHFuMTJvbzRxNDhuc29uczA1M3M1MXFzczIzNTMvdmFxcmsuemNxfDE3OTAwMjA2NTM
 #EXTINF:-1 tvg-id="124" tvg-logo="https://www.visionplus.id/images/repository/994/804994-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] LaLiga 2026/27 • Rayo Vallecano vs Espanyol (23:55 WIB • 15/09/2026)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc5MDAxODEwOA
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9xNnozZnNuN3I1OG01LnB5Ymhxc2ViYWcuYXJnL2JoZy9pMS9uMjY1Njk1cW81cG80NjEwOTVwb3Nyc3AwMm5xNzkzby92YXFyay56Y3F8MTc5MDAyMDY1Mw
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",15:00 | CLB Vaasa VPS vs CLB AC Oulu
 https://live05.meung.app/live/59444581.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",15:00 | CLB Lahti vs TPS
@@ -797,10 +706,6 @@ https://playback.livetl001.com/live/69f42e961f739deff81510c0.m3u8
 https://playback.livetl001.com/live/6a439a7fb89dded67b208b87.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Cambodia (Người kiến) [hls]
 https://playback.livetl001.com/live/6a439a7fb89dded67b208b87.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR Cluj vs CS Voluntari (Rio) [flv]
-https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR Cluj vs CS Voluntari (Rio) [hls]
-https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (Cá mập) [flv]
 https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (Cá mập) [hls]
