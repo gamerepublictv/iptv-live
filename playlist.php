@@ -152,7 +152,7 @@ http://193.47.62.44/hls/FOFOFO.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ĐTQG nữ Uzbekistan vs Trung Quốc Nữ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fb437ffed2118de872b1efc03d23413e9.png%21w80&size=300&scale=1.5", ĐTQG nữ Uzbekistan vs Trung Quốc Nữ (Đại hội Thể thao Nữ Châu Á)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/73842246_0f7bb74e809fcbfe64e962e12ab419a0_autoChange.m3u8?auth_key=1789638260-0-0-03768ff2664adf846c37473bb180f3c7
+https://live.dyrur1.com/live/73842246_0f7bb74e809fcbfe64e962e12ab419a0_autoChange.m3u8?auth_key=1789640971-0-0-1d3a83fd49a9f2ab17cbec15f0e3e2d1
 #EXTINF:-1 tvg-id="" tvg-name="BLV SAMURAI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fb437ffed2118de872b1efc03d23413e9.png%21w80&size=300&scale=1.5", ĐTQG nữ Uzbekistan vs Trung Quốc Nữ - BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -297,18 +297,63 @@ https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/ma
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a543e7f5040094257025f525e64470c:0867790847591201020c565d68450b55
 https://ls-mp02.eo-edgefunctions7.com/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+#EXTINF:-1 tvg-id="5233" tvg-name="AFC Champions League Two" tvg-logo="https://openwindows037.serv00.net/logo/uefa.png" group-title="Event-LIVE-NOW",AFC Champions League Two - 17 Sep 2026 17:00 WIB - Adelaide United vs Tai Po
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live2.brenvoxedgenetwork.com
+#EXTVLCOPT:http-origin=https://live2.brenvoxedgenetwork.com
+https://live2.brenvoxedgenetwork.com/live/channel18.m3u8
+#EXTINF:-1 tvg-id="5279" tvg-name="Volleyball Asian Games Women" tvg-logo="https://openwindows037.serv00.net/logo/vnl.png" group-title="Event-LIVE-NOW",Volleyball Asian Games Women - 17 Sep 2026 17:00 WIB - Kyrgyzstan Women vs Thailand Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://ls-mp04.eo-edgefunctions7.com
+#EXTVLCOPT:http-origin=https://ls-mp04.eo-edgefunctions7.com
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c516e285e11554553555a035e661201:09682b5a4f0e405550505f5f60420f09
+https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
+#EXTINF:-1 tvg-id="5255" tvg-name="AFC Champions League Two" tvg-logo="https://openwindows037.serv00.net/logo/uefa.png" group-title="Event-LIVE-NOW",AFC Champions League Two - 17 Sep 2026 17:00 WIB - Lion City Sailors vs BG Pathum United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live2.brenvoxedgenetwork.com
+#EXTVLCOPT:http-origin=https://live2.brenvoxedgenetwork.com
+https://live2.brenvoxedgenetwork.com/live/channel22.m3u8
+#EXTINF:-1 tvg-id="5269" tvg-name="AFC Champions League Two" tvg-logo="https://openwindows037.serv00.net/logo/uefa.png" group-title="Event-LIVE-NOW",AFC Champions League Two - 17 Sep 2026 17:00 WIB - Machida Zelvia vs Preah Khan Reach Svay Rieng FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live2.brenvoxedgenetwork.com
+#EXTVLCOPT:http-origin=https://live2.brenvoxedgenetwork.com
+https://live2.brenvoxedgenetwork.com/live/channel24.m3u8
+#EXTINF:-1 tvg-id="5278" tvg-name="Volleyball Asian Games Women" tvg-logo="https://openwindows037.serv00.net/logo/vnl.png" group-title="Event-LIVE-NOW",Volleyball Asian Games Women - 17 Sep 2026 17:20 WIB - Indonesia Women vs Nepal Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://ls-mp02.eo-edgefunctions7.com
+#EXTVLCOPT:http-origin=https://ls-mp02.eo-edgefunctions7.com
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a543e7f5040094257025f525e64470c:0867790847591201020c565d68450b55
+https://ls-mp02.eo-edgefunctions7.com/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782232522-0-0-ce583044375d834d1706b22452e075c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782232522-0-0-be25cfdb2864e1ff265f6fa5484e53b7
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80",10:30 | Qingdao Red Lions vs Beijing Technology
 https://live05.meung.app/live/07808742.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5c1b71658722f554a095a3687b548717.png!w80",16:00 | Dunav Ruse vs Ludogorets Razgrad
+https://live05.meung.app/live/59444581.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 27/07 Qingdao Red Lions vs Beijing Technology (BLV SAMURAI) [flv]
 https://live05.meung.app/live/07808742.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 27/07 Qingdao Red Lions vs Beijing Technology (BLV SAMURAI) [hls 2]
 https://live05.miekgo.app/live/07808742.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 27/07 Meycauayan vs Mindoro Tamaraws (Titan) [flv]
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 27/07 Meycauayan vs Mindoro Tamaraws (Titan) [hls]
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Dunav Ruse vs Ludogorets Razgrad (BLV PEPSI) [flv]
+https://live05.meung.app/live/59444581.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Dunav Ruse vs Ludogorets Razgrad (BLV PEPSI) [hls 2]
+https://live05.miekgo.app/live/59444581.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Cambodia (Người kiến) [flv]
+https://playback.livetl001.com/live/6a439a7fb89dded67b208b87.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Cambodia (Người kiến) [hls]
+https://playback.livetl001.com/live/6a439a7fb89dded67b208b87.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR Cluj vs CS Voluntari (Rio) [flv]
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR Cluj vs CS Voluntari (Rio) [hls]
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (Cá mập) [flv]
 https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (Cá mập) [hls]
