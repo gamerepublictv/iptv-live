@@ -129,30 +129,10 @@ http://193.47.62.44/hls/ssss.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.52/hls/iiiia.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Quy Nhơn Bình Định vs Bà Rịa Vũng Tàu" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F66f314c41d4ac724515a03da0e70847e.png%21w80&size=300&scale=1.5", Quy Nhơn Bình Định vs Bà Rịa Vũng Tàu (Cúp Quốc gia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/14305351_22d33fc499c88e068fc58dfd3c9b34ba_autoChange.m3u8?auth_key=1789750663-0-0-8979b3cec521c8c9aac3d67662b27c3a
-#EXTINF:-1 tvg-id="" tvg-name="BLV SPRITE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F66f314c41d4ac724515a03da0e70847e.png%21w80&size=300&scale=1.5", Quy Nhơn Bình Định vs Bà Rịa Vũng Tàu - BLV SPRITE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLV STING" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F66f314c41d4ac724515a03da0e70847e.png%21w80&size=300&scale=1.5", Quy Nhơn Bình Định vs Bà Rịa Vũng Tàu - BLV STING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/14707124_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zhejiang Professional vs Wuhan Three Towns" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fdf4c34bf97b380d1e30b84c509ff0354.png%21w80&size=300&scale=1.5", Zhejiang Professional vs Wuhan Three Towns (Giải bóng đá ngoại hạng Trung Quốc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/74484230_1b51a1890f3b840fefde4eae5ab2835a_autoChange.m3u8?auth_key=1789750663-0-0-4c25f0e5fb3211eec178e19e526f501f
-#EXTINF:-1 tvg-id="" tvg-name="BLV HỔ VẰN" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fdf4c34bf97b380d1e30b84c509ff0354.png%21w80&size=300&scale=1.5", Zhejiang Professional vs Wuhan Three Towns - BLV HỔ VẰN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/07428422_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ayutthaya Utd vs Uthai Thani" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F568f4b544f3d286be88ecffebb132726.png%21w80&size=300&scale=1.5", Ayutthaya Utd vs Uthai Thani (Thái League 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.dyrur1.com/live/72942490_dc42c050bce46bc04cb48060eb27ef24_autoChange.m3u8?auth_key=1789750664-0-0-853c323acdb580d547c5da54aff881f4
+https://live2.dyrur1.com/live/72942490_dc42c050bce46bc04cb48060eb27ef24_autoChange.m3u8?auth_key=1789753144-0-0-7598ae5e9e38066abf1d7c7b9d4d467a
 #EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F568f4b544f3d286be88ecffebb132726.png%21w80&size=300&scale=1.5", Ayutthaya Utd vs Uthai Thani - BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -160,7 +140,7 @@ https://live05.meung.app/live/87547578_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLB Madura United vs PSIM Yogyakarta" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fb1e228ad69b6a2c235047e0a13ceb391.png%21w80&size=300&scale=1.5", CLB Madura United vs PSIM Yogyakarta (Giải bóng đá Liga 1 Indonesia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live3.dyrur1.com/live/73576634_54f4516666701f63bb9173c8782d5852_autoChange.m3u8?auth_key=1789750664-0-0-08438bf31ed1fc6d6441159c17293fcc
+https://live3.dyrur1.com/live/73576634_54f4516666701f63bb9173c8782d5852_autoChange.m3u8?auth_key=1789753144-0-0-a4e95a0c87bebd4b4417afda8d110970
 #EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fb1e228ad69b6a2c235047e0a13ceb391.png%21w80&size=300&scale=1.5", CLB Madura United vs PSIM Yogyakarta - BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -168,7 +148,7 @@ https://live05.meung.app/live/82054853_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bandirmaspor vs Umraniyespor" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd09a3b1ab92ce378a5277b79a98dac59.png%21w80&size=300&scale=1.5", Bandirmaspor vs Umraniyespor (Giải Bóng đá Vô địch Quốc gia Thổ Nhĩ Kỳ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/72735774_5ec96cd2ca215ba07c3cc9cf6179d3c2_autoChange.m3u8?auth_key=1789750662-0-0-38caf5704235101865509945cfabba03
+https://live1.dyrur1.com/live/72735774_5ec96cd2ca215ba07c3cc9cf6179d3c2_autoChange.m3u8?auth_key=1789753142-0-0-d3b5f396a93ef6fcac15071408288bf5
 #EXTINF:-1 tvg-id="" tvg-name="BLV MONSTER" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd09a3b1ab92ce378a5277b79a98dac59.png%21w80&size=300&scale=1.5", Bandirmaspor vs Umraniyespor - BLV MONSTER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -253,6 +233,8 @@ https://eqr2hdarxfliv.vcdn.cloud/1789713222_hd/1789713222_hd@720p.m3u8
 https://eqr2hdarxfliv.vcdn.cloud/1789715052_hd/1789715052_hd@720p.m3u8
 #EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88a9924d46db870489505_45521d15_20260918.png?v=45521d15",Ayutthaya United vs Uthai Thani FC | 19:00 18/09
 https://eqr2hdarxfliv.vcdn.cloud/1789713417_hd/1789713417_hd@720p.m3u8
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/38567376_1365aca2_20260918.png?v=1365aca2",Zenit Petersburg vs Efes Pilsen | 21:00 18/09
+https://eqr2hdarxfliv.vcdn.cloud/1789714291_hd/1789714291_hd@720p.m3u8
 #EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/larx8mie0sk2_87a9d6fb_20260918.png?v=87a9d6fb",ONE Friday Fights 171 vs The Inner Circle 31 | 18:30 18/09
 https://eqr2hdarxfliv.vcdn.cloud/1789368501_hd/1789368501_hd@720p.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",08:00 | Lanzhou Longyuan vs Yichun Grand Tiger
@@ -263,8 +245,6 @@ https://live05.meung.app/live/75915087_tsc.m3u8
 https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",16:00 | Inter Turku vs SJK
 https://live05.meung.app/live/82054853.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80",12:00 | Chengdu Rongcheng B vs Guangzhou Dandelion Alpha FC
-https://live05.meung.app/live/75748097.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) m3u8
 https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782232522-0-0-56e4b93b1d457bb424d110ca6730a379
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) hdM3u8
@@ -287,10 +267,6 @@ https://live05.meung.app/live/75915087.flv
 https://live05.meung.app/live/87547578.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [hls 2]
 https://live05.miekgo.app/live/87547578.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (Saitama) [flv]
-https://playback.livetl001.com/live/69f42e961f739deff81510c0.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (Saitama) [hls]
-https://playback.livetl001.com/live/69f42e961f739deff81510c0.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 FC AGMK vs Mashal Muborak (Blv đoàn dự) [flv]
 https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 FC AGMK vs Mashal Muborak (Blv đoàn dự) [hls]
@@ -299,3 +275,7 @@ https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc.m3u8
 https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR Cluj vs CS Voluntari (Rio) [hls]
 https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (Cá mập) [flv]
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (Cá mập) [hls]
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
