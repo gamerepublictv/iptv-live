@@ -1,4 +1,129 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1605140132847403008%2F29zfnVM0_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Tottenham vs Aston Villa --- CH 2 - English Premier League 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/a3ba03a3-7a85-426e-825c-ec65ca4efebb.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F761654540122882048%2FNpZeuzeX_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Stoke City vs Sheffield United --- CH 1 - English Championship 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/grrraaaaaqqqq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F761654540122882048%2FNpZeuzeX_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Stoke City vs Sheffield United --- CH 2 - English Championship 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/7437927c-18ba-4dea-a869-5edbf5310299.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F761654540122882048%2FNpZeuzeX_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Millwall vs West Ham United --- CH 1 - English Championship 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/grrraaaaaqqq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F761654540122882048%2FNpZeuzeX_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Millwall vs West Ham United --- CH 2 - English Championship 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/ed9539fc-6dee-47c5-96b7-0b9c13af75d1.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F761654540122882048%2FNpZeuzeX_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Cardiff City vs Charlton --- CH 1 - English Championship 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/grrraaaaaqq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F761654540122882048%2FNpZeuzeX_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Cardiff City vs Charlton --- CH 2 - English Championship 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/396c10ca-fc0c-4d08-9d91-f7e43136790c.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2066809211263053824%2FZo_4i328_400x400.png&size=400&scale=1.5" group-title="Event-LIVE-NOW", Burton vs Mansfield - English League One 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/grrraaaaaq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2066809211263053824%2FZo_4i328_400x400.png&size=400&scale=1.5" group-title="Event-LIVE-NOW", Barnsley vs Leicester City - English League One 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/grrraaaaa.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2066809302329757696%2F8JzdRXMH_400x400.png&size=400&scale=1.5" group-title="Event-LIVE-NOW", Walsall vs Port Vale - English League Two 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/grrraaaa.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2066809302329757696%2F8JzdRXMH_400x400.png&size=400&scale=1.5" group-title="Event-LIVE-NOW", Rochdale vs Oldham - English League Two 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/grrraaa.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2095475297214758912%2FFzYuFMEr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Chelsea W vs Birmingham W - English Women Super League 18.45 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/grrraaaaaqqqqq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2095475297214758912%2FFzYuFMEr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Charlton W vs London City Lionesses W - English Women Super League 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/grrraa.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1689831056286076928%2F-JjHD3yu_200x200.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Pattani vs Prachuap - Thailand Thai league 1 18.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/grrra.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F967072330722799616%2FUdCtMxhm_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Banga vs Dziugas Telsiai - Lithuania Toplyga 18.15 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/grrr.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1945520203653165057%2FBRp76d7W_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Darts World Series Finals - Darts 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.52/hls/FYYYQQQ.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1266348101394202624%2FdWVpwG1u_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Oster vs Norrkoping - Sweden Superettan 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/zezezeaaa.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1266348101394202624%2FdWVpwG1u_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Nordic United vs Landskrona - Sweden Superettan 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/zezezeaa.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F880436063424131074%2FECth5ahp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Karlsruher SC vs Nurnberg - German 2 Bundesliga 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/zezezea.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F880436063424131074%2FECth5ahp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Kaiserslautern vs Braunschweig - German 2 Bundesliga 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/zezeze.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F880436063424131074%2FECth5ahp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Holstein Kiel vs VfL Osnabruck - German 2 Bundesliga 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/ciciciAAAAA.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F961918078715154432%2FnvSl0qsf_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Dunav Ruse vs Botev Vratsa - Bulgaria efbet League 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/ciciciAAAA.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1111583953910198273%2FhmyjzwP5_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", AIK W vs Hammarby W - Sweden Women Allsvenskan 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/ciciciAA.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1689831056286076928%2F-JjHD3yu_200x200.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Rasisalai Utd vs Lamphun Warrior - Thailand Thai league 1 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/ciciciA.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2028501406919876608%2F9vKL_LMT_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", FK Liepaja vs BFC Daugavpils - Latvia Virsliga 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/cicici.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2086668400492007424%2FsmxbgWFb_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Yokohama F Marinos vs Mito - Japan J League 17.30 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -14,6 +139,11 @@ http://193.47.62.44/hls/MMMMA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/frfrfrAa.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1585877185382043649%2FdT99TLst_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", South Africa U20 vs Lesotho U20 - COSAFA Championship U20 17.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/OFFFA.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2510182485%2Fzmi86gctecx242v92tii_400x400.jpeg&size=400&scale=1.5" group-title="Event-LIVE-NOW", FC Kharkiv vs Bukovyna - Ukraine Premier League 17.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -94,26 +224,10 @@ http://193.47.62.44/hls/fsss.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/ssssAA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kawasaki Frontale vs Kashima Antlers" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0b94ee2f9f985a845d1b32ad271758f9.png%21w80&size=300&scale=1.5", Kawasaki Frontale vs Kashima Antlers (Giải vô địch quốc gia Nhật Bản)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/72149740_3a20f2558e547b70aeae4f3f87b52cb7_autoChange.m3u8?auth_key=1789828448-0-0-e8beca0b79e6990bce2c062292010270
-#EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0b94ee2f9f985a845d1b32ad271758f9.png%21w80&size=300&scale=1.5", Kawasaki Frontale vs Kashima Antlers - BLV BÍ ĐAO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/99121525_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Đồng Tâm Long An vs Bac Ninh" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F66f314c41d4ac724515a03da0e70847e.png%21w80&size=300&scale=1.5", Đồng Tâm Long An vs Bac Ninh (Cúp Quốc gia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.dyrur1.com/live/73550044_a02836fb9dd087f08fa39d18efd43d24_autoChange.m3u8?auth_key=1789828448-0-0-efd28e97fa4a47b68738c9223f581d27
-#EXTINF:-1 tvg-id="" tvg-name="BLV SPRITE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F66f314c41d4ac724515a03da0e70847e.png%21w80&size=300&scale=1.5", Đồng Tâm Long An vs Bac Ninh - BLV SPRITE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/75748097_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Urawa Reds vs Tokyo Verdy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0b94ee2f9f985a845d1b32ad271758f9.png%21w80&size=300&scale=1.5", Urawa Reds vs Tokyo Verdy (Giải vô địch quốc gia Nhật Bản)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.dyrur1.com/live/72149736_03af276afabd6c1ba4e1bf743433f4f0_autoChange.m3u8?auth_key=1789828441-0-0-30742a366a52a1f2572edaa219296d16
+https://live2.dyrur1.com/live/72149736_03af276afabd6c1ba4e1bf743433f4f0_autoChange.m3u8?auth_key=1789830866-0-0-100890b887be91cd386810e3ce192d98
 #EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0b94ee2f9f985a845d1b32ad271758f9.png%21w80&size=300&scale=1.5", Urawa Reds vs Tokyo Verdy - BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -121,7 +235,7 @@ https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="V Varen Nagasaki vs Cerezo Osaka" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0b94ee2f9f985a845d1b32ad271758f9.png%21w80&size=300&scale=1.5", V Varen Nagasaki vs Cerezo Osaka (Giải vô địch quốc gia Nhật Bản)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/72149752_144fe8940411ec6782e756d5eabf644e_autoChange.m3u8?auth_key=1789828441-0-0-30ff56c94e02bd40c9b708f86ccc6bc3
+https://live1.dyrur1.com/live/72149752_144fe8940411ec6782e756d5eabf644e_autoChange.m3u8?auth_key=1789830866-0-0-89e1e231dd6acbca5bef02a68f8d8bb9
 #EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0b94ee2f9f985a845d1b32ad271758f9.png%21w80&size=300&scale=1.5", V Varen Nagasaki vs Cerezo Osaka - BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -129,7 +243,7 @@ https://live05.meung.app/live/19919577_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FC Anyang vs CLB Ulsan Hyundai" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fc080bb97363f9be7ca4fca327c56ec0d.png%21w80&size=300&scale=1.5", FC Anyang vs CLB Ulsan Hyundai (Giải K1 Hàn Quốc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live3.dyrur1.com/live/67817884_3277b98cb550364cfa97f24d23361001_autoChange.m3u8?auth_key=1789828447-0-0-254cf279cdc8f393029d585eb736227f
+https://live3.dyrur1.com/live/67817884_3277b98cb550364cfa97f24d23361001_autoChange.m3u8?auth_key=1789830867-0-0-617eb5f18fc14d9eca9a869b97dd2dc9
 #EXTINF:-1 tvg-id="" tvg-name="BLV PEPSI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fc080bb97363f9be7ca4fca327c56ec0d.png%21w80&size=300&scale=1.5", FC Anyang vs CLB Ulsan Hyundai - BLV PEPSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -137,7 +251,7 @@ https://live05.meung.app/live/59444581_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Đông Á Thanh Hóa vs Becamex Bình Dương" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F66f314c41d4ac724515a03da0e70847e.png%21w80&size=300&scale=1.5", Đông Á Thanh Hóa vs Becamex Bình Dương (Cúp Quốc gia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/14286364_1efee8128bbe80028a7582351e1bc849_autoChange.m3u8?auth_key=1789828448-0-0-7db9e7ed9cb4e64ba797a89291c41f9b
+https://live.dyrur1.com/live/14286364_1efee8128bbe80028a7582351e1bc849_autoChange.m3u8?auth_key=1789830865-0-0-9bd9d846243f97afa7d8aeb849922395
 #EXTINF:-1 tvg-id="" tvg-name="BLV WARRIOR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F66f314c41d4ac724515a03da0e70847e.png%21w80&size=300&scale=1.5", Đông Á Thanh Hóa vs Becamex Bình Dương - BLV WARRIOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -145,7 +259,7 @@ https://live05.meung.app/live/97885009_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLB Tokyo vs Nagoya Grampus" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0b94ee2f9f985a845d1b32ad271758f9.png%21w80&size=300&scale=1.5", CLB Tokyo vs Nagoya Grampus (Giải vô địch quốc gia Nhật Bản)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/72149734_2d1300c47dbb39afea53275b5fe94e0e_autoChange.m3u8?auth_key=1789828447-0-0-ec0f4cc4f10ea1655a64aa2a411f3b39
+https://live1.dyrur1.com/live/72149734_2d1300c47dbb39afea53275b5fe94e0e_autoChange.m3u8?auth_key=1789830866-0-0-f5904fb91bc23f5c3476f968e76e72ad
 #EXTINF:-1 tvg-id="" tvg-name="BLV FANTA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0b94ee2f9f985a845d1b32ad271758f9.png%21w80&size=300&scale=1.5", CLB Tokyo vs Nagoya Grampus - BLV FANTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -153,7 +267,7 @@ https://live05.meung.app/live/16226575_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Khánh Hòa vs Đại học Văn Hiến" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F66f314c41d4ac724515a03da0e70847e.png%21w80&size=300&scale=1.5", Khánh Hòa vs Đại học Văn Hiến (Cúp Quốc gia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live3.dyrur1.com/live/73550062_81c4ddd173300cc6c1a80d8970fb5c32_autoChange.m3u8?auth_key=1789828440-0-0-4ccb7b48b13b31d09af9204da483afb3
+https://live3.dyrur1.com/live/73550062_81c4ddd173300cc6c1a80d8970fb5c32_autoChange.m3u8?auth_key=1789830869-0-0-7737a191be4026bc7332154779102e2e
 #EXTINF:-1 tvg-id="" tvg-name="BLV Cozy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F66f314c41d4ac724515a03da0e70847e.png%21w80&size=300&scale=1.5", Khánh Hòa vs Đại học Văn Hiến - BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -161,11 +275,39 @@ https://live05.meung.app/live/87379114_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yokohama F. Marinos vs Mito Hollyhock" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0b94ee2f9f985a845d1b32ad271758f9.png%21w80&size=300&scale=1.5", Yokohama F. Marinos vs Mito Hollyhock (Giải vô địch quốc gia Nhật Bản)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/72149742_ececb00d0487b8d7b7b1b4f48c7391a5_autoChange.m3u8?auth_key=1789828444-0-0-28adf36590d26b82575ec20c0d893fdf
+https://live.dyrur1.com/live/72149742_ececb00d0487b8d7b7b1b4f48c7391a5_autoChange.m3u8?auth_key=1789830865-0-0-bee57e1d83bed27f9b1cbeee2944be42
 #EXTINF:-1 tvg-id="" tvg-name="BLV HỔ VẰN" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0b94ee2f9f985a845d1b32ad271758f9.png%21w80&size=300&scale=1.5", Yokohama F. Marinos vs Mito Hollyhock - BLV HỔ VẰN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/07428422_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLB KSC vs Nurnberg" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Feab6e349cf5811408c0628a774724869.png%21w80&size=300&scale=1.5", CLB KSC vs Nurnberg (Giải bóng đá Hạng hai Đức)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live.dyrur1.com/live/72513876_08dba3728f35fbea92e69144b4556ade_autoChange.m3u8?auth_key=1789830865-0-0-6d2e6410e9f990ca331b4c7cae65cb31
+#EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Feab6e349cf5811408c0628a774724869.png%21w80&size=300&scale=1.5", CLB KSC vs Nurnberg - BLV ROCKSTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/82054853_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tottenham Hotspur vs Aston Villa" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fhttps%3A%2F%2Foss-logo-hk.oss-accelerate.aliyuncs.com%2Fadmin%2Fimage%2Fadmin%2F5MlF58WMTJOmYkjkSjhtKQ.png&size=300&scale=1.5", Tottenham Hotspur vs Aston Villa (Giải bóng đá Ngoại hạng Anh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https
+#EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fhttps%3A%2F%2Foss-logo-hk.oss-accelerate.aliyuncs.com%2Fadmin%2Fimage%2Fadmin%2F5MlF58WMTJOmYkjkSjhtKQ.png&size=300&scale=1.5", Tottenham Hotspur vs Aston Villa - BLV 7UP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/78905744_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLV REVIVE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fhttps%3A%2F%2Foss-logo-hk.oss-accelerate.aliyuncs.com%2Fadmin%2Fimage%2Fadmin%2F5MlF58WMTJOmYkjkSjhtKQ.png&size=300&scale=1.5", Tottenham Hotspur vs Aston Villa - BLV REVIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/33982309_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLV C2" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fhttps%3A%2F%2Foss-logo-hk.oss-accelerate.aliyuncs.com%2Fadmin%2Fimage%2Fadmin%2F5MlF58WMTJOmYkjkSjhtKQ.png&size=300&scale=1.5", Tottenham Hotspur vs Aston Villa - BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/08552895_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLV GIÀ LÀNG" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fhttps%3A%2F%2Foss-logo-hk.oss-accelerate.aliyuncs.com%2Fadmin%2Fimage%2Fadmin%2F5MlF58WMTJOmYkjkSjhtKQ.png&size=300&scale=1.5", Tottenham Hotspur vs Aston Villa - BLV GIÀ LÀNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/14830711_tsc.m3u8
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/liga_bri.png" ,BRI Super League - PSM vs Persita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
@@ -462,236 +604,372 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c563c2f50445f44560451035965110c:5339770d4f584a5c005c540834425c51
 https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
-#EXTINF:-1 tvg-id="4555225-72669" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 17:00 WIB - Avispa Fukuoka vs Sanfrecce Hiroshima (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4555225.m3u8?txSecret=f0efb3045ed1a812416ed79cfb6a3507&txTime=6AAFB4B9
-#EXTINF:-1 tvg-id="4555225-74134" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 17:00 WIB - Avispa Fukuoka vs Sanfrecce Hiroshima (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/72149750_e37a6a3aa25c48209a61ccbe2c719a93_1080p.m3u8?auth_key=1789827731-0-0-486bf6edee1dd8db584481116ede0a86
-#EXTINF:-1 tvg-id="4555261-72670" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 17:00 WIB - Kawasaki Frontale vs Kashima Antlers (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4555261.m3u8?txSecret=db20fe6e3a379531d49f5dd4dbb54c3d&txTime=6AAFB4B9
-#EXTINF:-1 tvg-id="4555261-74135" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 17:00 WIB - Kawasaki Frontale vs Kashima Antlers (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/72149740_3a20f2558e547b70aeae4f3f87b52cb7_1080p.m3u8?auth_key=1789827731-0-0-8fc4a59c81612fa15a0b9fe9de1218e8
-#EXTINF:-1 tvg-id="4570684-74261" tvg-name="Italian Campionato Primavera 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Italian Campionato Primavera 1 - 19 Sep 2026 17:00 WIB - Lazio U20 vs Juventus Youth (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/69759ig4xjjugk2_03e64d21fe5ce4fe2bfbef3f2a3c2687_1080p.m3u8?auth_key=1789825999-0-0-8158c369a0fb6fe7a2ea554bb05fe8cc
-#EXTINF:-1 tvg-id="4570685-74180" tvg-name="Italian Campionato Primavera 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Italian Campionato Primavera 1 - 19 Sep 2026 17:00 WIB - Lecce U20 vs Fiorentina U20 (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/69759ig4xjjugk2_03e64d21fe5ce4fe2bfbef3f2a3c2687_1080p.m3u8?auth_key=1789827733-0-0-bcd322fb647fe887e63b4206577e06aa
-#EXTINF:-1 tvg-id="4624917-72575" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 19 Sep 2026 17:00 WIB - Azul Claro Numazu vs Criacao Shinjuku (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4624917.m3u8?txSecret=35d93d19c0de6a2a875056c5b78d3fc4&txTime=6AAFB4B9
-#EXTINF:-1 tvg-id="4624917-74175" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 19 Sep 2026 17:00 WIB - Azul Claro Numazu vs Criacao Shinjuku (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live4.dyrur1.com/live/72664942_48b5cb0af6a616b4fdd23491a4c78635_1080p.m3u8?auth_key=1789827731-0-0-56bb06ca496792753c03dea5c9e88da4
-#EXTINF:-1 tvg-id="4624918-74257" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 19 Sep 2026 17:00 WIB - Reinmeer Aomori FC vs Honda FC (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4624918.m3u8?txSecret=c01e85b3fb9fa920aee8d00f2d8d5b01&txTime=6AAFB4B9
-#EXTINF:-1 tvg-id="4624918-74260" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 19 Sep 2026 17:00 WIB - Reinmeer Aomori FC vs Honda FC (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/72664944_7f826b2632821c69c9da991357558f1c_1080p.m3u8?auth_key=1789825948-0-0-31c2d3b9bfc4cb10593990e20e1a23ee
-#EXTINF:-1 tvg-id="4624919-72576" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 19 Sep 2026 17:00 WIB - Veertien Mie vs Yokogawa Musashino FC (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4624919.m3u8?txSecret=20dfbfa154ed55970d7e3a1d8422c4b9&txTime=6AAFB4B9
-#EXTINF:-1 tvg-id="4624919-74177" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 19 Sep 2026 17:00 WIB - Veertien Mie vs Yokogawa Musashino FC (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live5.dyrur1.com/live/72664946_c05302dbc266b2639eaf32e16897f7e3_1080p.m3u8?auth_key=1789827731-0-0-454880ccf9d37892727457b9e6eb3dd2
-#EXTINF:-1 tvg-id="4624920-72577" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 19 Sep 2026 17:00 WIB - J-Lease FC vs Verspah Oita (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4624920.m3u8?txSecret=02acd78bd71a4a10186cc932e8054ca9&txTime=6AAFB4B9
-#EXTINF:-1 tvg-id="4624920-74136" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 19 Sep 2026 17:00 WIB - J-Lease FC vs Verspah Oita (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/72664948_f752dadbc1b442682c73c4a57a3de284_1080p.m3u8?auth_key=1789827731-0-0-2d564f1945e4e16e41efe11796514488
-#EXTINF:-1 tvg-id="4624921-74258" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 19 Sep 2026 17:00 WIB - VONDS Ichihara vs Maruyasu Okazaki (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4624921.m3u8?txSecret=ca610e9fee7afc1a8945077ddb64e576&txTime=6AAFB4B9
-#EXTINF:-1 tvg-id="4624921-74259" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 19 Sep 2026 17:00 WIB - VONDS Ichihara vs Maruyasu Okazaki (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/72664950_13ced6257c6477a497a0bad6b3b7cc61_1080p.m3u8?auth_key=1789824407-0-0-4eee4e628f3cde76c35535e02d4d5261
-#EXTINF:-1 tvg-id="4632004-72578" tvg-name="Vietnam National Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Vietnam National Cup - 19 Sep 2026 17:00 WIB - Dong Tam Long An vs Bac Ninh (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4632004.m3u8?txSecret=75578e69692482c802f154b3bc125dc9&txTime=6AAFB4B9
-#EXTINF:-1 tvg-id="4632004-74174" tvg-name="Vietnam National Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Vietnam National Cup - 19 Sep 2026 17:00 WIB - Dong Tam Long An vs Bac Ninh (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/73550044_a02836fb9dd087f08fa39d18efd43d24_1080p.m3u8?auth_key=1789827732-0-0-5c9aa08bc27eccf921be38193f5de1f6
-#EXTINF:-1 tvg-id="4640154-72963" tvg-name="Chinese Football League 2" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football League 2 - 19 Sep 2026 17:00 WIB - Dalian Kewei vs Shenzhen 2028 (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4640154.m3u8?txSecret=df9f276bd06e33ecbcd92156bf1d71a9&txTime=6AAFB4B9
-#EXTINF:-1 tvg-id="4640154-74176" tvg-name="Chinese Football League 2" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football League 2 - 19 Sep 2026 17:00 WIB - Dalian Kewei vs Shenzhen 2028 (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/74454966_de67055726032fd67294add163c12862_1080p.m3u8?auth_key=1789827732-0-0-7af5344a11c37ff2e49f757e8ef3b9f8
-#EXTINF:-1 tvg-id="4646929-74250" tvg-name="Bangladesh Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Bangladesh Premier League - 19 Sep 2026 17:00 WIB - Arambagh KS vs Bashundhara Kings (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646929.m3u8?txSecret=8f846782ded20e36afc86570ce5327c6&txTime=6AAFB4B9
-#EXTINF:-1 tvg-id="4646929-74251" tvg-name="Bangladesh Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Bangladesh Premier League - 19 Sep 2026 17:00 WIB - Arambagh KS vs Bashundhara Kings (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/zrkn6i1r91mswql_1375001b2e4f7a4bde380056022787f4_1080p.m3u8?auth_key=1789827733-0-0-712530dc1bb81190adf972ac188555f8
 #EXTINF:-1 tvg-id="3926023-74417" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 19 Sep 2026 17:30 WIB - Melbourne United vs Adelaide 36ers (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3926023.m3u8?txSecret=aa78848e73c6464ec8cdbbe723475d37&txTime=6AAFB4B9
+https://pul-tenm.gkykp.com/live/sd-2-3926023.m3u8?txSecret=f439ee25da25d28706220686014d1c5e&txTime=6AAFBF81
 #EXTINF:-1 tvg-id="3926023-74264" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 19 Sep 2026 17:30 WIB - Melbourne United vs Adelaide 36ers (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live4.dyrur1.com/live/72016760_fb343671819aa732486c0a71f30540b4_1080p.m3u8?auth_key=1789827734-0-0-405dac2da6528ac4c21fffe412fd1deb
+https://live4.dyrur1.com/live/72016760_fb343671819aa732486c0a71f30540b4_1080p.m3u8?auth_key=1789830697-0-0-d101d2057fa74edee421916eb4545840
 #EXTINF:-1 tvg-id="3941892-74430" tvg-name="Philippines University Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines University Athletic Association - 19 Sep 2026 17:30 WIB - Ateneo Blue Eagles vs UP Fighting Maroons (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3941892.m3u8?txSecret=2bf4d371a36e796cd70d2eb34329009a&txTime=6AAFB4B9
+https://pul-tenm.gkykp.com/live/sd-2-3941892.m3u8?txSecret=c45ff40f388f9979e6efb07d528c6a37&txTime=6AAFBF81
 #EXTINF:-1 tvg-id="3941892-74457" tvg-name="Philippines University Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines University Athletic Association - 19 Sep 2026 17:30 WIB - Ateneo Blue Eagles vs UP Fighting Maroons (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74250298_276734c62a5363e7c7bf009f37eb3783_1080p.m3u8?auth_key=1789827729-0-0-4939360f976c6f3092900bd989516982
+https://live.dyrur1.com/live/74250298_276734c62a5363e7c7bf009f37eb3783_1080p.m3u8?auth_key=1789830709-0-0-8e0ca5c41299fb1df1097245a672253c
 #EXTINF:-1 tvg-id="4555184-72671" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 17:30 WIB - Urawa Red Diamonds vs Tokyo Verdy (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4555184.m3u8?txSecret=12ab58709c03900aa4d502aa55b6d2e6&txTime=6AAFB4B9
+https://pul-tenm.gkykp.com/live/sd-1-4555184.m3u8?txSecret=2410a58a73f2ee2725e0535fdf8861f3&txTime=6AAFBF81
 #EXTINF:-1 tvg-id="4555184-74267" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 17:30 WIB - Urawa Red Diamonds vs Tokyo Verdy (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/72149736_03af276afabd6c1ba4e1bf743433f4f0_1080p.m3u8?auth_key=1789827733-0-0-a453e9221eabe0c11ebdaa5bfe2f7ad3
+https://live2.dyrur1.com/live/72149736_03af276afabd6c1ba4e1bf743433f4f0_1080p.m3u8?auth_key=1789830697-0-0-86454d48cd12686076c6369d62c1f52f
 #EXTINF:-1 tvg-id="4555226-72672" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 17:30 WIB - Shimizu S-Pulse vs JEF United Ichihara Chiba (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4555226.m3u8?txSecret=ef87d5f9332135d6689eb56b6af684ec&txTime=6AAFB4B9
+https://pul-tenm.gkykp.com/live/sd-1-4555226.m3u8?txSecret=37a0ea978e6a3537e34dd7d02aa1d536&txTime=6AAFBF81
 #EXTINF:-1 tvg-id="4555226-74265" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 17:30 WIB - Shimizu S-Pulse vs JEF United Ichihara Chiba (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/72149744_1d34af49cfef768f0a17dd69b18ffda6_1080p.m3u8?auth_key=1789827733-0-0-af81a46dd7d261ad256fca20abeac5cc
+https://live.dyrur1.com/live/72149744_1d34af49cfef768f0a17dd69b18ffda6_1080p.m3u8?auth_key=1789830697-0-0-e43e8c3f38c51f473e36338081029979
 #EXTINF:-1 tvg-id="4555265-72666" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 17:30 WIB - V-Varen Nagasaki vs Cerezo Osaka (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4555265.m3u8?txSecret=562faa5a731fdcdf78bc2abe97b92aef&txTime=6AAFB4B9
+https://pul-tenm.gkykp.com/live/sd-1-4555265.m3u8?txSecret=b4750bb0f369cda46019ad47d7454290&txTime=6AAFBF81
 #EXTINF:-1 tvg-id="4555265-74266" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 17:30 WIB - V-Varen Nagasaki vs Cerezo Osaka (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
 #EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/72149752_144fe8940411ec6782e756d5eabf644e_1080p.m3u8?auth_key=1789827733-0-0-c0fa27e1ba7069b7f2fa9692a3c5beec
+https://live1.dyrur1.com/live/72149752_144fe8940411ec6782e756d5eabf644e_1080p.m3u8?auth_key=1789830697-0-0-de61e53bb4b1cc41cec6f04607ea340f
 #EXTINF:-1 tvg-id="4555645-72673" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 17:30 WIB - Fujieda MYFC vs RB Omiya Ardija (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4555645.m3u8?txSecret=a403fd813f96eaee9ac2137b879a3247&txTime=6AAFB4B9
+https://pul-tenm.gkykp.com/live/sd-1-4555645.m3u8?txSecret=64f50d71a73b39846258c70b6914474c&txTime=6AAFBF81
 #EXTINF:-1 tvg-id="4555645-74384" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 17:30 WIB - Fujieda MYFC vs RB Omiya Ardija (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/72151162_d3c4457a5ebccc0aeaf5e84298c22f74_1080p.m3u8?auth_key=1789827733-0-0-97c6a5eb2cd02fa1e785d9fad35f44f8
+https://live.dyrur1.com/live/72151162_d3c4457a5ebccc0aeaf5e84298c22f74_1080p.m3u8?auth_key=1789830697-0-0-fa9033b6057c1e3ed3c8cd1f695ea2de
 #EXTINF:-1 tvg-id="4555997-72553" tvg-name="Japanese J3 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J3 League - 19 Sep 2026 17:30 WIB - Ehime FC vs Kamatamare Sanuki (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4555997.m3u8?txSecret=dad82c22637b381783e46f9c41fff9eb&txTime=6AAFB4B9
+https://pul-tenm.gkykp.com/live/sd-1-4555997.m3u8?txSecret=43efb90c39ec687d6eeac1410b18dbe4&txTime=6AAFBF81
 #EXTINF:-1 tvg-id="4555997-74302" tvg-name="Japanese J3 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J3 League - 19 Sep 2026 17:30 WIB - Ehime FC vs Kamatamare Sanuki (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/72151986_18ae7c596e4eb7010e24e20d964a350a_1080p.m3u8?auth_key=1789827733-0-0-e9c9c0aa2172725881fef7745c0af22f
+https://live.dyrur1.com/live/72151986_18ae7c596e4eb7010e24e20d964a350a_1080p.m3u8?auth_key=1789830697-0-0-34247ee787261f1fc66b651681c6a85b
 #EXTINF:-1 tvg-id="4480449-74435" tvg-name="Korean K League 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean K League 1 - 19 Sep 2026 18:00 WIB - FC Anyang vs Ulsan HD FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4480449.m3u8?txSecret=972966651006b04fef27d023b5b3fb44&txTime=6AAFB4B9
+https://pul-tenm.gkykp.com/live/sd-1-4480449.m3u8?txSecret=20c43c76a6d5a2a76b754eeca5e55865&txTime=6AAFBF81
 #EXTINF:-1 tvg-id="4480449-74406" tvg-name="Korean K League 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean K League 1 - 19 Sep 2026 18:00 WIB - FC Anyang vs Ulsan HD FC (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/67817884_3277b98cb550364cfa97f24d23361001_1080p.m3u8?auth_key=1789827722-0-0-513207cebd09e606cf933ca4f94970b9
+https://live3.dyrur1.com/live/67817884_3277b98cb550364cfa97f24d23361001_1080p.m3u8?auth_key=1789830698-0-0-0b3afaf01c51ff70be0b795d885c85d0
 #EXTINF:-1 tvg-id="4481204-72554" tvg-name="Korean K League 2" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean K League 2 - 19 Sep 2026 18:00 WIB - Gimpo FC vs Busan I Park (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4481204.m3u8?txSecret=da456ff93435da2b609c2a20e9250cd4&txTime=6AAFB4B9
+https://pul-tenm.gkykp.com/live/sd-1-4481204.m3u8?txSecret=aa7ea21e2efff8666d59e14ba675ca85&txTime=6AAFBF81
 #EXTINF:-1 tvg-id="4481204-74410" tvg-name="Korean K League 2" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean K League 2 - 19 Sep 2026 18:00 WIB - Gimpo FC vs Busan I Park (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live5.dyrur1.com/live/68046756_4b9bcf4d8c8641d54b3928ad032b58b4_1080p.m3u8?auth_key=1789827723-0-0-71390e49e7b3145d9195c8cbad9e9e66
+https://live3.dyrur1.com/live/72664950_13ced6257c6477a497a0bad6b3b7cc61_1080p.m3u8?auth_key=1789824407-0-0-4eee4e628f3cde76c35535e02d4d5261
 #EXTINF:-1 tvg-id="4481205-72555" tvg-name="Korean K League 2" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean K League 2 - 19 Sep 2026 18:00 WIB - Seoul E-Land FC vs Daegu Football Club (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4481205.m3u8?txSecret=c8349679e4c4180f7b0153ce06343634&txTime=6AAFB4B9
+https://pul-tenm.gkykp.com/live/sd-1-4481205.m3u8?txSecret=c31696651944d7384bc3acd1548066df&txTime=6AAFBF81
 #EXTINF:-1 tvg-id="4481205-74407" tvg-name="Korean K League 2" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean K League 2 - 19 Sep 2026 18:00 WIB - Seoul E-Land FC vs Daegu Football Club (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live4.dyrur1.com/live/68046754_ca8015c09e9e40bdce29a92faa72ed51_1080p.m3u8?auth_key=1789827723-0-0-c27f3c54f1418af50adf1477cf170476
+https://live2.dyrur1.com/live/72664944_7f826b2632821c69c9da991357558f1c_1080p.m3u8?auth_key=1789825948-0-0-31c2d3b9bfc4cb10593990e20e1a23ee
+#EXTINF:-1 tvg-id="4511868-72579" tvg-name="Russian Women's Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Russian Women's Premier League - 19 Sep 2026 18:00 WIB - Krylya Sovetov Samara Women vs Lokomotiv Moscow Women (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4511868.m3u8?txSecret=71585b27dd203b73a8d7ede30acf296e&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4511868-74414" tvg-name="Russian Women's Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Russian Women's Premier League - 19 Sep 2026 18:00 WIB - Krylya Sovetov Samara Women vs Lokomotiv Moscow Women (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live4.dyrur1.com/live/69592640_b1c74f93b0463d52536877a9b98e0ecd_1080p.m3u8?auth_key=1789830702-0-0-1edc9b89fc1430fbd1eef13f787b7f2f
+#EXTINF:-1 tvg-id="4511871-72589" tvg-name="Russian Women's Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Russian Women's Premier League - 19 Sep 2026 18:00 WIB - Ryazan-VDV Women vs Spartak Moscow Women (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4511871.m3u8?txSecret=196cd4c74b738b734303e221bdbec792&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4511871-74420" tvg-name="Russian Women's Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Russian Women's Premier League - 19 Sep 2026 18:00 WIB - Ryazan-VDV Women vs Spartak Moscow Women (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live4.dyrur1.com/live/wv78xiv1edycokr_451e5b278537faa7f47379b898dda41a_1080p.m3u8?auth_key=1789830697-0-0-ab267f3e7e16e237640069d57221ac12
+#EXTINF:-1 tvg-id="4555192-72675" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 18:00 WIB - Fagiano Okayama vs Kyoto Sanga (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4555192.m3u8?txSecret=b42613e50a1db04d43ca716d25d52dd2&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4555192-74411" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 18:00 WIB - Fagiano Okayama vs Kyoto Sanga (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live2.dyrur1.com/live/72149748_d90863653746a341edb04cb39ad836d6_1080p.m3u8?auth_key=1789830698-0-0-a03ef33e31152ade74b901e347ef1579
+#EXTINF:-1 tvg-id="4555214-72676" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 18:00 WIB - FC Tokyo vs Nagoya Grampus (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4555214.m3u8?txSecret=019ab773db0c814897c62a6723aed4f0&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4555214-74416" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 18:00 WIB - FC Tokyo vs Nagoya Grampus (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/72149734_2d1300c47dbb39afea53275b5fe94e0e_1080p.m3u8?auth_key=1789830698-0-0-6bdbcec1f975cfffa20883e61b2eef55
+#EXTINF:-1 tvg-id="4555563-72677" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 18:00 WIB - Montedio Yamagata vs Kataller Toyama (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4555563.m3u8?txSecret=0de46d0f365c4f33f2aaf4d99c91becb&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4555563-74455" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 18:00 WIB - Montedio Yamagata vs Kataller Toyama (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/14454154_95644b7ea40381f5840dcad381a202eb_1080p.m3u8?auth_key=1789827197-0-0-c9713c0527a429d85ce5a481f87643bf
+#EXTINF:-1 tvg-id="4555599-72678" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 18:00 WIB - Yokohama FC vs FC Imabari (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4555599.m3u8?txSecret=47ab292a69ed18e6379bc77422eefe14&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4555599-74440" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 18:00 WIB - Yokohama FC vs FC Imabari (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/72151154_2d5074e3409ffa44d96e5147f2f67f6f_1080p.m3u8?auth_key=1789830699-0-0-b218e151107c138272ec1031c2738159
+#EXTINF:-1 tvg-id="4555606-72679" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 18:00 WIB - Ventforet Kofu vs Tokushima Vortis (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4555606.m3u8?txSecret=dadd1af7bfa20856547f2a0cef916b75&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4555606-74454" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 18:00 WIB - Ventforet Kofu vs Tokushima Vortis (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/63kv9i6z988fx7e_78fecaac8a92bb28c440002feb407a87_1080p.m3u8?auth_key=1789821017-0-0-afb797fd54412320d8b4c8dcc621f042
+#EXTINF:-1 tvg-id="4555609-72680" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 18:00 WIB - Sagan Tosu vs Iwaki FC (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4555609.m3u8?txSecret=adaf6bee22368c8082f3940654bbd623&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4555609-74462" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 18:00 WIB - Sagan Tosu vs Iwaki FC (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live3.dyrur1.com/live/72151164_7d3204ebd45f7fb3284fed20abcff190_1080p.m3u8?auth_key=1789830699-0-0-7475d33d4b6482a9aabf68a6e3e22fd7
+#EXTINF:-1 tvg-id="4555628-72681" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 18:00 WIB - Shonan Bellmare vs Blaublitz Akita (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4555628.m3u8?txSecret=0004bbb1037e3ca199ac7d52c5202134&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4555628-74438" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 18:00 WIB - Shonan Bellmare vs Blaublitz Akita (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live2.dyrur1.com/live/72151156_edc700916106bbc30acf71f1c8828ed8_1080p.m3u8?auth_key=1789830699-0-0-03dd89dfe22814802d6c17fa0aedcfe5
+#EXTINF:-1 tvg-id="4555647-72682" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 18:00 WIB - Albirex Niigata vs Jubilo Iwata (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4555647.m3u8?txSecret=180f2ce5f09d58d95d98f8b0387884fa&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4555647-74439" tvg-name="Japanese J2 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J2 League - 19 Sep 2026 18:00 WIB - Albirex Niigata vs Jubilo Iwata (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live4.dyrur1.com/live/72151160_1da3684a73561390c3c325df0356f783_1080p.m3u8?auth_key=1789830699-0-0-4d83fa0eb693d0656d4afe137cb9aa43
+#EXTINF:-1 tvg-id="4555941-72556" tvg-name="Japanese J3 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J3 League - 19 Sep 2026 18:00 WIB - Gainare Tottori vs Nara Club (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4555941.m3u8?txSecret=6588b1f91f714a4ae0b8d17bafa1d9a6&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4555941-74437" tvg-name="Japanese J3 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J3 League - 19 Sep 2026 18:00 WIB - Gainare Tottori vs Nara Club (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/72151984_9cb424277b53584b4393ac0cfe1df279_1080p.m3u8?auth_key=1789830699-0-0-3bf725a6e59af41565ac19bb1b39a4d6
+#EXTINF:-1 tvg-id="4555982-72557" tvg-name="Japanese J3 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J3 League - 19 Sep 2026 18:00 WIB - Thespa Kusatsu Gunma vs Kochi United (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4555982.m3u8?txSecret=8e7199338aa22e0883627b1ee193dd40&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4555982-74419" tvg-name="Japanese J3 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J3 League - 19 Sep 2026 18:00 WIB - Thespa Kusatsu Gunma vs Kochi United (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live2.dyrur1.com/live/72151972_3beda9370bf029853d80eaefbbcb2fc7_1080p.m3u8?auth_key=1789830699-0-0-9d0dbe116dc6c39872139360824eef5b
+#EXTINF:-1 tvg-id="4556026-72558" tvg-name="Japanese J3 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J3 League - 19 Sep 2026 18:00 WIB - Kagoshima United vs Tochigi SC (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4556026.m3u8?txSecret=511917707fd31470259d7048cf7c0e4c&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4556026-74418" tvg-name="Japanese J3 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J3 League - 19 Sep 2026 18:00 WIB - Kagoshima United vs Tochigi SC (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/72151990_d82512a8ebd9aa37b9931f39d756d692_1080p.m3u8?auth_key=1789830699-0-0-e0cac8fb4a57ae3492e374e0d8c105f3
+#EXTINF:-1 tvg-id="4569675-72559" tvg-name="Ukrainian Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Ukrainian Premier League - 19 Sep 2026 18:00 WIB - Metalist 1925 Kharkiv vs FC Bukovyna Chernivtsi (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4569675.m3u8?txSecret=9fee5d9f5152a2f46e785893b317d691&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4569675-74387" tvg-name="Ukrainian Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Ukrainian Premier League - 19 Sep 2026 18:00 WIB - Metalist 1925 Kharkiv vs FC Bukovyna Chernivtsi (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/72409698_47f7f6d59eda7214d1bda2fcf63dfcff_1080p.m3u8?auth_key=1789830698-0-0-82d6f4e218e20b9810550a7333feaf50
+#EXTINF:-1 tvg-id="4609500-72590" tvg-name="Portuguese U23 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Portuguese U23 League - 19 Sep 2026 18:00 WIB - Rio Ave U23 vs Braga U23 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4609500.m3u8?txSecret=00808134a1a15535313f54f71d43c519&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4609500-74405" tvg-name="Portuguese U23 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Portuguese U23 League - 19 Sep 2026 18:00 WIB - Rio Ave U23 vs Braga U23 (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live2.dyrur1.com/live/o17pjiowd9mby7j_4f3647529c2aa012bda3066af9c81065_1080p.m3u8?auth_key=1789830704-0-0-8a9e64d965ca70fe7edf1f5adaae5109
+#EXTINF:-1 tvg-id="4632005-72591" tvg-name="Vietnam National Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Vietnam National Cup - 19 Sep 2026 18:00 WIB - Khatoco Khanh Hoa vs Van Hien University (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4632005.m3u8?txSecret=68eb4c7f06acfffc027baa2fbd842359&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4632005-74412" tvg-name="Vietnam National Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Vietnam National Cup - 19 Sep 2026 18:00 WIB - Khatoco Khanh Hoa vs Van Hien University (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live3.dyrur1.com/live/73550062_81c4ddd173300cc6c1a80d8970fb5c32_1080p.m3u8?auth_key=1789830701-0-0-8334d19dbf9b0f91cf31b5787896011d
+#EXTINF:-1 tvg-id="4632006-72592" tvg-name="Vietnam National Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Vietnam National Cup - 19 Sep 2026 18:00 WIB - CLB Thanh Hoa vs Becamex Ho Chi Minh City (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4632006.m3u8?txSecret=d607a9c0279b4c1ae95e50b26a9b129a&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4632006-74409" tvg-name="Vietnam National Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Vietnam National Cup - 19 Sep 2026 18:00 WIB - CLB Thanh Hoa vs Becamex Ho Chi Minh City (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/14286364_1efee8128bbe80028a7582351e1bc849_1080p.m3u8?auth_key=1789830709-0-0-2d5cd241eece6bf9f8e03de63c752994
+#EXTINF:-1 tvg-id="4640393-74436" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 19 Sep 2026 18:00 WIB - Shanghai Shenhua U20 vs Tianjin Jinmen Tiger U20 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4640393.m3u8?txSecret=743f968d7d8c17da809b92692a6fa207&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4640393-74415" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 19 Sep 2026 18:00 WIB - Shanghai Shenhua U20 vs Tianjin Jinmen Tiger U20 (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/14409822_c5faed9b5bd2d7aeb01f38a3760a89d9_1080p.m3u8?auth_key=1789830697-0-0-48e3993040ffdc34af5ae2bb1b44586c
+#EXTINF:-1 tvg-id="4644830-72593" tvg-name="Portuguese Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Portuguese Cup - 19 Sep 2026 18:00 WIB - Imortal vs CD Tondela (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4644830.m3u8?txSecret=a1a266c3dde36bb9e375a7a42bfafbcc&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4644830-74408" tvg-name="Portuguese Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Portuguese Cup - 19 Sep 2026 18:00 WIB - Imortal vs CD Tondela (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/73441646_7479c29208c84f5b8fc8cbcedcc3c942_1080p.m3u8?auth_key=1789830700-0-0-b98a4215886439e6a8e9514395af98f4
+#EXTINF:-1 tvg-id="4555179-72683" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 18:30 WIB - Yokohama F. Marinos vs Mito Hollyhock (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4555179.m3u8?txSecret=09b63cc5330d6967b87d957cfffc75a5&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4555179-74463" tvg-name="Japanese J1 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J1 League - 19 Sep 2026 18:30 WIB - Yokohama F. Marinos vs Mito Hollyhock (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/72149742_ececb00d0487b8d7b7b1b4f48c7391a5_1080p.m3u8?auth_key=1789830708-0-0-44fbf81ae8ce351b466dcecfc74ed3c0
+#EXTINF:-1 tvg-id="4646881-72594" tvg-name="Australia Darwin Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Australia Darwin Premier League - 19 Sep 2026 18:40 WIB - University Azzurri FC vs Mindil Aces (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4646881.m3u8?txSecret=96090369799666d5490f2cfb86515437&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4646881-74469" tvg-name="Australia Darwin Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Australia Darwin Premier League - 19 Sep 2026 18:40 WIB - University Azzurri FC vs Mindil Aces (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live2.dyrur1.com/live/74683724_557b6a6f3b571741604370b6f799e9fe_1080p.m3u8?auth_key=1789830708-0-0-0c5237520dc7fd0455c554b85e423761
+#EXTINF:-1 tvg-id="3930470-72425" tvg-name="Turkish Basketball First League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Turkish Basketball First League - 19 Sep 2026 19:00 WIB - Ormanspor Genc Ankara vs Goztepe (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3930470.m3u8?txSecret=28677f3b64b6dc4d6e4420304377536d&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="3930470-74597" tvg-name="Turkish Basketball First League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Turkish Basketball First League - 19 Sep 2026 19:00 WIB - Ormanspor Genc Ankara vs Goztepe (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/73529368_49b409d66e3dd6ad10dfc6b5567dd330_1080p.m3u8?auth_key=1789830545-0-0-189062195b24d3ed1856229806200280
+#EXTINF:-1 tvg-id="4466496-74593" tvg-name="Sweden Damallsvenskan" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Sweden Damallsvenskan - 19 Sep 2026 19:00 WIB - AIK Solna Women vs Hammarby Women (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live3.dyrur1.com/live/66918304_865b27bfb500938b110f4a6b903b0388_1080p.m3u8?auth_key=1789830700-0-0-8e249b18cca1186418e58d2d635ba763
+#EXTINF:-1 tvg-id="4466502-70657" tvg-name="Sweden Damallsvenskan" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Sweden Damallsvenskan - 19 Sep 2026 19:00 WIB - Vittsjo GIK Women vs Vaxjo Women (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4466502.m3u8?txSecret=166f8de92d2918198657344b36e36038&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4466502-74590" tvg-name="Sweden Damallsvenskan" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Sweden Damallsvenskan - 19 Sep 2026 19:00 WIB - Vittsjo GIK Women vs Vaxjo Women (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live2.dyrur1.com/live/66918316_c172c99573d828312a93d5f9b21bbe27_1080p.m3u8?auth_key=1789830700-0-0-99a01ad7ed2e689f917e9a72411f514a
+#EXTINF:-1 tvg-id="4469446-72407" tvg-name="Sweden Superettan" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Sweden Superettan - 19 Sep 2026 19:00 WIB - Nordic United FC vs Landskrona BoIS (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4469446.m3u8?txSecret=4aada2aeb683ce507aa8a80735ae55a0&txTime=6AAFBF81
+#EXTINF:-1 tvg-id="4469446-74594" tvg-name="Sweden Superettan" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Sweden Superettan - 19 Sep 2026 19:00 WIB - Nordic United FC vs Landskrona BoIS (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/67126386_b0ef681ad3ae91438d47cce4a20e7087_1080p.m3u8?auth_key=1789830700-0-0-b08a7dedc5843e7949277d39d03ea6ba
+#EXTINF:-1 tvg-id="4469448-72408" tvg-name="Sweden Superettan" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Sweden Superettan - 19 Sep 2026 19:00 WIB - Osters IF vs IFK Norrkoping FK (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4469448.m3u8?txSecret=6df3a3f1ab76ba3dc8fe5d74a52eaa0e&txTime=6AAFBF81
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/a31d8680851118728518f72f2030a154.png!w80",07:00 | Hàn Quốc vs Iran
 https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",15:00 | CLB Vaasa VPS vs CLB AC Oulu
 https://live05.meung.app/live/59444581.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",15:00 | CLB Lahti vs TPS
-https://live05.meung.app/live/99121525.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80",16:00 | Jaro vs CLB Gnistan Helsinki
 https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",16:00 | Inter Turku vs SJK
 https://live05.meung.app/live/82054853.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",23:00 | Panama vs Croatia
+https://live05.meung.app/live/78905744.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80",07:00 | Tauranga Whai vs Southland Sharks
 https://live05.meung.app/live/90865415.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80",12:00 | Chengdu Rongcheng B vs Guangzhou Dandelion Alpha FC
-https://live05.meung.app/live/75748097.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f4f29caf210db9a418ece37a7025eb5f.png!w80",11:30 | Shenzhen 2028 vs Hangzhou Linping
+https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/e903d5740a60e44291b4126c4cce980a.png!w80",12:00 | Borneo Hornbills vs Pelita Jaya
 https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782232522-0-0-8b640fe1cf47df1166734db5f3d09d2b
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782232522-0-0-2977642b49a40977f77b1672f1607866
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) m3u8
 https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782232522-0-0-56e4b93b1d457bb424d110ca6730a379
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) hdM3u8
@@ -706,12 +984,14 @@ https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782232522-0-0-1302
 https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782232522-0-0-f598b06b81c74dd73b6238f5ccbdd34d
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",11:00 | Singapore vs Đông Timor
 https://live05.meung.app/live/16226575.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/81b70b4f4179ca979f173ceae24222c4.png!w80",15:00 | Tukums-2000 vs Rigas Futbola skola
-https://live05.meung.app/live/99121525.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/d639bb3f26ed6f1600de1e55885fa4be.png!w80",15:00 | FK Andijon vs Buxoro FK
-https://live05.meung.app/live/75748097.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80",13:30 | Indonesia vs Campuchia
+https://live05.meung.app/live/14830711.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6f927eb040bdd5c972a9343fd9c8b873.png!w80",15:30 | CFR vs CS Voluntari
+https://live05.meung.app/live/78905744.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5c1b71658722f554a095a3687b548717.png!w80",16:00 | Dunav Ruse vs Ludogorets Razgrad
 https://live05.meung.app/live/59444581.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",16:00 | Grobina vs Ogre United
+https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",22:30 | Atletico Clube Goianiense vs Operario
 https://live05.meung.app/live/90865415.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",22:30 | Sport Club Recife PE vs Cuiaba
@@ -726,17 +1006,23 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 https://live05.meung.app/live/16226575.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Đông Timor (BLV FANTA) [hls 2]
 https://live05.miekgo.app/live/16226575.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 Tukums-2000 vs Rigas Futbola skola (BLV BÍ ĐAO) [flv]
-https://live05.meung.app/live/99121525.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 Tukums-2000 vs Rigas Futbola skola (BLV BÍ ĐAO) [hls 2]
-https://live05.miekgo.app/live/99121525.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 FK Andijon vs Buxoro FK (BLV SPRITE) [flv]
-https://live05.meung.app/live/75748097.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 FK Andijon vs Buxoro FK (BLV SPRITE) [hls 2]
-https://live05.miekgo.app/live/75748097.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Campuchia (BLV GIÀ LÀNG) [flv]
+https://live05.meung.app/live/14830711.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Campuchia (BLV GIÀ LÀNG) [hls 2]
+https://live05.miekgo.app/live/14830711.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR vs CS Voluntari (BLV 7UP) [flv]
+https://live05.meung.app/live/78905744.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR vs CS Voluntari (BLV 7UP) [hls 2]
+https://live05.miekgo.app/live/78905744.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Dunav Ruse vs Ludogorets Razgrad (BLV PEPSI) [flv]
 https://live05.meung.app/live/59444581.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Dunav Ruse vs Ludogorets Razgrad (BLV PEPSI) [hls 2]
 https://live05.miekgo.app/live/59444581.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (BLV C2) [flv]
+https://live05.meung.app/live/08552895.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (BLV C2) [hls 2]
+https://live05.miekgo.app/live/08552895.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (Nguyễn Lữ)
 https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 FC Dunav Ruse vs Ludogorets Razgrad (Doanh Chính)
+https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
