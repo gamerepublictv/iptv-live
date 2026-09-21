@@ -144,87 +144,146 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7b5e8d
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/YMMMQQQQQQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hàn Quốc Nữ vs Triều Tiên Nữ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fb437ffed2118de872b1efc03d23413e9.png%21w80&size=300&scale=1.5", Hàn Quốc Nữ vs Triều Tiên Nữ (Đại hội Thể thao Nữ Châu Á)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https
+#EXTINF:-1 tvg-id="" tvg-name="BLV SPRITE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fb437ffed2118de872b1efc03d23413e9.png%21w80&size=300&scale=1.5", Hàn Quốc Nữ vs Triều Tiên Nữ - BLV SPRITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/75748097_tsc.m3u8
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/liga_bri.png" ,BRI Super League - Persijap vs Persib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
 https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=284bfbae96c416a804a2cd3e75721e5b&wsABSTime=1789950591
+#EXTINF:-1 tvg-id="4644093-77937" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 21 Sep 2026 13:00 WIB - Khovd Broncos vs Central Stallions (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4644093.m3u8?txSecret=a2c82ac7ddec16145dec355febb8a3e9&txTime=6AB21FF0
+#EXTINF:-1 tvg-id="4644093-77939" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 21 Sep 2026 13:00 WIB - Khovd Broncos vs Central Stallions (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/vrqwni4wx2yu4qn_81ecd625b4bf1aac5a2c21c759f5f190_1080p.m3u8?auth_key=1789985141-0-0-ab443075340b0541b012146b5f4aecd5
 #EXTINF:-1 tvg-id="4648734-77934" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 21 Sep 2026 13:30 WIB - FC Agniputhra vs South United (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4648734.m3u8?txSecret=6470a27855e6c91dcf3d398fdb8f82d9&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/sd-1-4648734.m3u8?txSecret=8d29ccd9acfefe1ffe4227d791da187b&txTime=6AB21FF0
 #EXTINF:-1 tvg-id="4648734-77935" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 21 Sep 2026 13:30 WIB - FC Agniputhra vs South United (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/14432619_49f69ea75b99d5f7a8687cc6788c4876_1080p.m3u8?auth_key=1789983107-0-0-ee616f0b7e23336da3eb5de7a3a5be80
+https://live.dyrur1.com/live/14432619_49f69ea75b99d5f7a8687cc6788c4876_1080p.m3u8?auth_key=1789986444-0-0-dace5d679801136af9b62d6364b9ba99
+#EXTINF:-1 tvg-id="3942826-77940" tvg-name="Club Friendship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Club Friendship - 21 Sep 2026 14:00 WIB - Huaqiao University vs National Formasa University (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3942826.m3u8?txSecret=542b8b4c31f781cf5784858c836a00f2&txTime=6AB21FF0
+#EXTINF:-1 tvg-id="3942826-77949" tvg-name="Club Friendship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Club Friendship - 21 Sep 2026 14:00 WIB - Huaqiao University vs National Formasa University (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/74801202_67cef2337deebe35a6677b554d6c7f9f_1080p.m3u8?auth_key=1789986440-0-0-d044a0834bbe35c521e13701e088d03a
 #EXTINF:-1 tvg-id="4624923-77825" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 21 Sep 2026 14:00 WIB - Okinawa SV vs FC Tiamo Hirakata (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4624923.m3u8?txSecret=1afa57929569a168148da65dc9ffe9a5&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/sd-1-4624923.m3u8?txSecret=5214b494899c4c646105ade4fdf6d899&txTime=6AB21FF0
+#EXTINF:-1 tvg-id="4624923-77944" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 21 Sep 2026 14:00 WIB - Okinawa SV vs FC Tiamo Hirakata (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/72664954_9b4f2652f96dd1f738de56bd09000362_1080p.m3u8?auth_key=1789986444-0-0-5e0393ea5c06727904d18e15ac3a2de7
+#EXTINF:-1 tvg-id="4648650-77948" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 21 Sep 2026 14:00 WIB - Japan U17 vs New Zealand U17 (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/jr7owiyx2p4ugq0_063da3d5467ef50357f01194c994f410_1080p.m3u8?auth_key=1789985141-0-0-ddad0fc8e29b788065dac4470bfb0cd4
 #EXTINF:-1 tvg-id="3931226-77834" tvg-name="Asian Games - Women's Basketball" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Asian Games - Women's Basketball - 21 Sep 2026 15:00 WIB - Malaysia Women vs Chinese Taipei Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3931226.m3u8?txSecret=a0d944f125161851a85550d9a8f75a1b&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/hd-en-2-3931226.m3u8?txSecret=dfc26b58cd7f3b517483d3d6cceb7faa&txTime=6AB21FF0
 #EXTINF:-1 tvg-id="4594088-77831" tvg-name="OCA Women's Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Women's Asian Games - 21 Sep 2026 15:00 WIB - Bangladesh Women vs Myanmar Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4594088.m3u8?txSecret=b40b3cf03395beb2b73c371f77ac5116&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/hd-en-1-4594088.m3u8?txSecret=bb21690161aec2138ce1b054afd451da&txTime=6AB21FF0
 #EXTINF:-1 tvg-id="4594089-77832" tvg-name="OCA Women's Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Women's Asian Games - 21 Sep 2026 15:00 WIB - China Women vs Philippines Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4594089.m3u8?txSecret=2e51a50dae7666e5d627b80f95f8a3fb&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/hd-en-1-4594089.m3u8?txSecret=7a01f6058e0b29e4174ce4a839648170&txTime=6AB21FF0
 #EXTINF:-1 tvg-id="4594094-77833" tvg-name="OCA Women's Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Women's Asian Games - 21 Sep 2026 15:00 WIB - Uzbekistan Women vs China Hong Kong Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4594094.m3u8?txSecret=6cb14883e2de117eabe70182d9676c4b&txTime=6AB215A0
-#EXTINF:-1 tvg-id="4644093-77937" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 21 Sep 2026 16:00 WIB - Khovd Broncos vs Central Stallions (HD-B)
+https://pul-tenm.gkykp.com/live/hd-en-1-4594094.m3u8?txSecret=f7453d7ba9942eb72a263d63798685bc&txTime=6AB21FF0
+#EXTINF:-1 tvg-id="3942814-77941" tvg-name="Club Friendship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Club Friendship - 21 Sep 2026 15:50 WIB - Chinese Taiwan Normal University(w) vs CTBC Business School Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4644093.m3u8?txSecret=4fe5dbd9ce132795c411eecd18d9caa8&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/sd-2-3942814.m3u8?txSecret=f322f5de3ab5feb73efa4bb926e1179f&txTime=6AB21FF0
 #EXTINF:-1 tvg-id="4644740-77931" tvg-name="CAF U20 Africa Cup of Nations qualification" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF U20 Africa Cup of Nations qualification - 21 Sep 2026 17:00 WIB - Zambia U20 vs Comoros U20 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4644740.m3u8?txSecret=ba7381a42664b6a681a7e312e6b048c9&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/sd-1-4644740.m3u8?txSecret=86311d6b8db198e61f681038b17f0576&txTime=6AB21FF0
 #EXTINF:-1 tvg-id="3926018-77848" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 21 Sep 2026 17:30 WIB - Tasmania JackJumpers vs South East Melbourne Phoenix (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3926018.m3u8?txSecret=88fe813f8dd9e7b2413d54aa6a5056f1&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/sd-2-3926018.m3u8?txSecret=d8937a02877eaffe427bb4a92d577f7d&txTime=6AB21FF0
+#EXTINF:-1 tvg-id="3942818-77943" tvg-name="Club Friendship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Club Friendship - 21 Sep 2026 17:40 WIB - Shanghai Jiao Tong University vs National Taiwan University of Arts (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3942818.m3u8?txSecret=0812165f63cb8cf7761035b76b0c0022&txTime=6AB21FF0
 #EXTINF:-1 tvg-id="4609501-77849" tvg-name="Portuguese U23 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Portuguese U23 League - 21 Sep 2026 18:00 WIB - Vizela U23 vs Farense U23 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4609501.m3u8?txSecret=cc211fd2d7e88055b700b63b6ca6d264&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/sd-1-4609501.m3u8?txSecret=93b08cf8c0ccdd05ebbd9099185ef37c&txTime=6AB21FF0
 #EXTINF:-1 tvg-id="4594073-77850" tvg-name="OCA Women's Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Women's Asian Games - 21 Sep 2026 18:30 WIB - Japan Women vs Chinese Taipei Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4594073.m3u8?txSecret=e333162bcd34e553b220a61bd9888f8f&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/sd-1-4594073.m3u8?txSecret=8edd3050bd987af112b23756382e561a&txTime=6AB21FF0
 #EXTINF:-1 tvg-id="4594078-77851" tvg-name="OCA Women's Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Women's Asian Games - 21 Sep 2026 18:30 WIB - Vietnam Women vs Thailand Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4594078.m3u8?txSecret=f86a714f3d80ca9228612d9c067e7f7f&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/sd-1-4594078.m3u8?txSecret=1b0675058a93a86921a2414b872aa62a&txTime=6AB21FF0
 #EXTINF:-1 tvg-id="4475359-77414" tvg-name="Sweden Division 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Sweden Division 1 - 22 Sep 2026 01:00 WIB - Angelholms FF vs Eskilsminne IF (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4475359.m3u8?txSecret=182b95391577a82acb298f731d01e2e6&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/sd-1-4475359.m3u8?txSecret=f3f000c239fa163f03a5dcc523f0056d&txTime=6AB21FF0
 #EXTINF:-1 tvg-id="4475363-77415" tvg-name="Sweden Division 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Sweden Division 1 - 22 Sep 2026 01:00 WIB - Jonkopings Sodra IF vs Skovde AIK (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4475363.m3u8?txSecret=546b9c227f15489e1a8c1df9f3164c3f&txTime=6AB215A0
+https://pul-tenm.gkykp.com/live/sd-1-4475363.m3u8?txSecret=7b3a6e042c15eb2b13cea82750e7b268&txTime=6AB21FF0
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80",12:00 | Chengdu Rongcheng B vs Guangzhou Dandelion Alpha FC
+https://live05.meung.app/live/75748097.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782232522-0-0-8b640fe1cf47df1166734db5f3d09d2b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782232522-0-0-2977642b49a40977f77b1672f1607866
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/d639bb3f26ed6f1600de1e55885fa4be.png!w80",15:00 | FK Andijon vs Buxoro FK
+https://live05.meung.app/live/75748097.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/7a2eadc57b3a330eda4b7189352ce344.png!w80",17:00 | Rosenborg vs Fredrikstad
+https://live05.meung.app/live/75915087.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 FK Andijon vs Buxoro FK (BLV SPRITE) [flv]
+https://live05.meung.app/live/75748097.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 FK Andijon vs Buxoro FK (BLV SPRITE) [hls 2]
+https://live05.miekgo.app/live/75748097.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 28/07 Rosenborg vs Fredrikstad (BLV MONSTER) [flv]
+https://live05.meung.app/live/75915087.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
