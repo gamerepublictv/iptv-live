@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="[Men's Badminton - 1st Round] Malaysia vs Mongolia - Server 1 (HD) • LIVE 07:25" tvg-logo="https://openwindows037.serv00.net/logo/badminton.png" group-title="Event-LIVE-NOW",[Men's Badminton - 1st Round] Malaysia vs Mongolia - Server 1 (HD) • LIVE 07:25
+#EXTINF:-1 tvg-id="" tvg-name="[Men's Badminton - 1st Round] Thailand vs Macau - Server 1 (HD) • LIVE 07:25" tvg-logo="https://openwindows037.serv00.net/logo/badminton.png" group-title="Event-LIVE-NOW",[Men's Badminton - 1st Round] Thailand vs Macau - Server 1 (HD) • LIVE 07:25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/11f1dd35-2eb0-4ae5-ad32-1753813f049f/HLS_ENC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Men's Badminton - 1st Round] Malaysia vs Mongolia - Server 1 (HD) • LIVE 07:25" tvg-logo="https://openwindows037.serv00.net/logo/badminton.png" group-title="Event-LIVE-NOW",[Men's Badminton - 1st Round] Malaysia vs Mongolia - Server 1 (HD) • LIVE 07:25
+#EXTINF:-1 tvg-id="" tvg-name="[Men's Badminton - 1st Round] Thailand vs Macau - Server 1 (HD) • LIVE 07:25" tvg-logo="https://openwindows037.serv00.net/logo/badminton.png" group-title="Event-LIVE-NOW",[Men's Badminton - 1st Round] Thailand vs Macau - Server 1 (HD) • LIVE 07:25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/11f1dd35-2eb0-4ae5-ad32-1753813f049f/HLS_ENC/index.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1905305167571906561%2Fuf8ZOlCD_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Inter Miami vs San Diego FC --- CH 1 - MLS League 06.00 WIB
@@ -150,50 +150,34 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7b5e8d
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/YMMMQQQQQQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pachuca vs Club Tijuana" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F324d7a463a24c4cd35ef83456a1b8d05.png%21w80&size=300&scale=1.5", Pachuca vs Club Tijuana (Giải Vô địch Bóng đá Quốc gia Mexico)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/72055186_4e5892fa5bcaa8593e2d880b9a2c2027_autoChange.m3u8?auth_key=1789968506-0-0-475f7c22c144bea040cc9259a11a9c1b
-#EXTINF:-1 tvg-id="" tvg-name="BLV PEPSI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F324d7a463a24c4cd35ef83456a1b8d05.png%21w80&size=300&scale=1.5", Pachuca vs Club Tijuana - BLV PEPSI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Toluca vs Santos Laguna" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F324d7a463a24c4cd35ef83456a1b8d05.png%21w80&size=300&scale=1.5", Toluca vs Santos Laguna (Giải Vô địch Bóng đá Quốc gia Mexico)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live4.dyrur1.com/live/72055188_28006cd436987ecebf837703a2d04662_autoChange.m3u8?auth_key=1789968505-0-0-7dc08c67dde3f74bcefef388dcd44cc9
-#EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F324d7a463a24c4cd35ef83456a1b8d05.png%21w80&size=300&scale=1.5", Toluca vs Santos Laguna - BLV MOUNTAIN DEW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/87547578_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLB Velez Sarsfield vs Club Atletico Tigre" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0276a00c0277c8f1cba7b63bd59e281d.png%21w80&size=300&scale=1.5", CLB Velez Sarsfield vs Club Atletico Tigre (Giải Bóng đá Vô địch Quốc gia Argentina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live3.dyrur1.com/live/73265316_24982deea96350f5c2d6407ce8e26169_autoChange.m3u8?auth_key=1789968505-0-0-0ab6569eb35145f2298f5056ace08541
+https://live3.dyrur1.com/live/73265316_24982deea96350f5c2d6407ce8e26169_autoChange.m3u8?auth_key=1789970961-0-0-605f495fe5df18825376fbb696c133ba
 #EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0276a00c0277c8f1cba7b63bd59e281d.png%21w80&size=300&scale=1.5", CLB Velez Sarsfield vs Club Atletico Tigre - BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/90865415_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Queretaro vs Club Leon" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F324d7a463a24c4cd35ef83456a1b8d05.png%21w80&size=300&scale=1.5", Queretaro vs Club Leon (Giải Vô địch Bóng đá Quốc gia Mexico)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live.dyrur1.com/live/13994957_1a55d4331d1923ce11427e2b518328ad_autoChange.m3u8?auth_key=1789970960-0-0-18a6bf15926ab71aa38b26d4618af771
+#EXTINF:-1 tvg-id="" tvg-name="BLV C2" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F324d7a463a24c4cd35ef83456a1b8d05.png%21w80&size=300&scale=1.5", Queretaro vs Club Leon - BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/08552895_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Llaneros FC vs Atletico Nacional" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fa43b934409a4d2475b0e5f69d1b2ec16.png%21w80&size=300&scale=1.5", Llaneros FC vs Atletico Nacional (Giải vô địch quốc gia Colombia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/72335138_502cc40c35d44ce5314e36e83313c708_autoChange.m3u8?auth_key=1789968505-0-0-d4b43e7cb5a20d44ba59f117688ae6e5
+https://live.dyrur1.com/live/72335138_502cc40c35d44ce5314e36e83313c708_autoChange.m3u8?auth_key=1789970961-0-0-3d16e37250cd02ffc4271b4202ef2dab
 #EXTINF:-1 tvg-id="" tvg-name="BLV HỔ VẰN" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fa43b934409a4d2475b0e5f69d1b2ec16.png%21w80&size=300&scale=1.5", Llaneros FC vs Atletico Nacional - BLV HỔ VẰN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Sparks vs Portland Fire" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Los Angeles Sparks vs Portland Fire (Hiệp hội bóng rổ quốc gia nữ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/68096418_fc346031c9494914f4896a41c34f1f7d_autoChange.m3u8?auth_key=1789968470-0-0-a742d41fe17ff925f5adbd4fa7fde24f
-#EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Los Angeles Sparks vs Portland Fire - BLV ROCKSTAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/82054853_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Las Vegas Aces vs Seattle Storm" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Las Vegas Aces vs Seattle Storm (Hiệp hội bóng rổ quốc gia nữ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.dyrur1.com/live/68096010_b3f399e4fedaa3f0b58c5d2d39f5c517_autoChange.m3u8?auth_key=1789968505-0-0-28c79542886691137d93e9c276136303
+https://live2.dyrur1.com/live/68096010_b3f399e4fedaa3f0b58c5d2d39f5c517_autoChange.m3u8?auth_key=1789970961-0-0-5845a6ffec812b915b1f62254ad34640
 #EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Las Vegas Aces vs Seattle Storm - BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -203,71 +187,11 @@ https://live05.meung.app/live/19919577_tsc.m3u8
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
 https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=284bfbae96c416a804a2cd3e75721e5b&wsABSTime=1789950591
-#EXTINF:-1 tvg-id="3909042-76887" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 21 Sep 2026 07:00 WIB - Portland Fire vs Los Angeles Sparks (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3909042.m3u8?txSecret=fef321913b25d43fee6bc228fbe3e68b&txTime=6AB1D9A0
-#EXTINF:-1 tvg-id="3924041-76890" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 21 Sep 2026 07:15 WIB - Astros de Jalisco vs Dorados de Chihuahua (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3924041.m3u8?txSecret=f772c5322f1205b0c1b896883b4c09b2&txTime=6AB1D9A0
-#EXTINF:-1 tvg-id="4615237-76891" tvg-name="Bolivian Copa LFPB" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Bolivian Copa LFPB - 21 Sep 2026 07:30 WIB - Oriente Petrolero vs Blooming (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4615237.m3u8?txSecret=accd414686e527dad00b4977d4e20011&txTime=6AB1D9A0
-#EXTINF:-1 tvg-id="4615237-77794" tvg-name="Bolivian Copa LFPB" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Bolivian Copa LFPB - 21 Sep 2026 07:30 WIB - Oriente Petrolero vs Blooming (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/73550376_938e063f96b96213a4173e552af76258_1080p.m3u8?auth_key=1789963522-0-0-7faceba7d90064d8aa6a5d047dd4f601
-#EXTINF:-1 tvg-id="4646937-77790" tvg-name="LigaPro Serie A" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",LigaPro Serie A - 21 Sep 2026 07:30 WIB - Liga Dep Universitaria Quito vs CD Universidad Católica (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74735080_400a3547e62e2e6b017cd32f671f2acf_1080p.m3u8?auth_key=1789967118-0-0-918190a2e3df573b61ef1619833fb696
-#EXTINF:-1 tvg-id="4646946-77455" tvg-name="Colombian Liga Betplay Femenina" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Liga Betplay Femenina - 21 Sep 2026 07:30 WIB - Millonarios Women vs Independiente Santa Fe (W) (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646946.m3u8?txSecret=56e4098f1ea008134e2645b876a1ef77&txTime=6AB1D9A0
-#EXTINF:-1 tvg-id="3923880-76894" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 21 Sep 2026 08:00 WIB - Abejas de León vs Freseros de Irapuato (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3923880.m3u8?txSecret=ca4ab2379628f83cd2bbd44251fd2c47&txTime=6AB1D9A0
-#EXTINF:-1 tvg-id="3923880-77800" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 21 Sep 2026 08:00 WIB - Abejas de León vs Freseros de Irapuato (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/6975lsn9p1wugk2_c2cc3c3023cad65e51324b2b5a720b06_1080p.m3u8?auth_key=1789967077-0-0-a9352063838323905ae7824682d0e7cd
-#EXTINF:-1 tvg-id="4553873-76892" tvg-name="Mexico Liga MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX - 21 Sep 2026 08:00 WIB - Pachuca vs Club Tijuana (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4553873.m3u8?txSecret=182681c562d6667be8c3b1c9dd27c87f&txTime=6AB1D9A0
-#EXTINF:-1 tvg-id="4553873-77795" tvg-name="Mexico Liga MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX - 21 Sep 2026 08:00 WIB - Pachuca vs Club Tijuana (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/72055186_4e5892fa5bcaa8593e2d880b9a2c2027_1080p.m3u8?auth_key=1789968490-0-0-138097adbd3219b0c6e78a3380b7aaf8
-#EXTINF:-1 tvg-id="4553874-76893" tvg-name="Mexico Liga MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX - 21 Sep 2026 08:00 WIB - Toluca vs Santos Laguna (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4553874.m3u8?txSecret=3a84a6f17c987e80f6a7edd3b8ee058e&txTime=6AB1D9A0
-#EXTINF:-1 tvg-id="4553874-77793" tvg-name="Mexico Liga MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX - 21 Sep 2026 08:00 WIB - Toluca vs Santos Laguna (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74735080_400a3547e62e2e6b017cd32f671f2acf_1080p.m3u8?auth_key=1789967118-0-0-918190a2e3df573b61ef1619833fb696
 #EXTINF:-1 tvg-id="3923999-76895" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 21 Sep 2026 08:05 WIB - Mineros de Zacatecas vs Gambusinos de Fresnillo (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3923999.m3u8?txSecret=f50409b073d6d8852d0a4e01a6c71c80&txTime=6AB1D9A0
+https://pul-tenm.gkykp.com/live/sd-2-3923999.m3u8?txSecret=32c91b53c40eeb502cc1df6ef02d1e56&txTime=6AB1E300
 #EXTINF:-1 tvg-id="3923999-77798" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 21 Sep 2026 08:05 WIB - Mineros de Zacatecas vs Gambusinos de Fresnillo (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
@@ -277,7 +201,7 @@ https://live.dyrur1.com/live/72154790_bee1caa01e363d5cdcf36c95f5a4f89d_1080p.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4539775.m3u8?txSecret=bbcb2b2840904d3d8b6048b6040b454d&txTime=6AB1D9A0
+https://pul-tenm.gkykp.com/live/sd-1-4539775.m3u8?txSecret=0899f7534850d81ede51996da78b82c8&txTime=6AB1E300
 #EXTINF:-1 tvg-id="4539775-77802" tvg-name="Argentine Division 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Division 1 - 21 Sep 2026 08:30 WIB - Velez Sarsfield vs Club Atletico Tigre (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
@@ -287,27 +211,27 @@ https://live3.dyrur1.com/live/73265316_24982deea96350f5c2d6407ce8e26169_1080p.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3908948.m3u8?txSecret=a24f8354253a8d50c23e88c8c2b5082f&txTime=6AB1D9A0
+https://pul-tenm.gkykp.com/live/sd-2-3908948.m3u8?txSecret=0f6e664fe7c16f4bd4e9aebadf23c12b&txTime=6AB1E300
 #EXTINF:-1 tvg-id="3908948-77809" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 21 Sep 2026 09:00 WIB - Seattle Storm vs Las Vegas Aces (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74735080_400a3547e62e2e6b017cd32f671f2acf_1080p.m3u8?auth_key=1789967118-0-0-918190a2e3df573b61ef1619833fb696
-#EXTINF:-1 tvg-id="3923922-77813" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 21 Sep 2026 09:00 WIB - Soles de Mexicali vs Panteras de Aguascalientes (HD-B)
+https://live.dyrur1.com/live/74486282_7369f6cff5d08e5534f46055bb7f83c8_1080p.m3u8?auth_key=1789970652-0-0-ad0976c18cb23de4cdd8ff13cfe1d48e
+#EXTINF:-1 tvg-id="3923922-77837" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 21 Sep 2026 09:00 WIB - Soles de Mexicali vs Panteras de Aguascalientes (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3923922.m3u8?txSecret=b664d81e939666a7ffdeb5eb4085c319&txTime=6AB1D9A0
-#EXTINF:-1 tvg-id="3923922-77804" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 21 Sep 2026 09:00 WIB - Soles de Mexicali vs Panteras de Aguascalientes (HD-J)
+https://pul-tenm.gkykp.com/live/sd-2-3923922.m3u8?txSecret=06be1c5904c72217db8df6f3566150a2&txTime=6AB1E300
+#EXTINF:-1 tvg-id="3923922-77838" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 21 Sep 2026 09:00 WIB - Soles de Mexicali vs Panteras de Aguascalientes (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/9gkl6s62xmdsmkx_6603bb347a9d81e5cf5982b9f7e75888_1080p.m3u8?auth_key=1789968046-0-0-92a85c7e64d4c845bde6761af821ad66
+https://live.dyrur1.com/live/9gkl6s62xmdsmkx_6603bb347a9d81e5cf5982b9f7e75888_1080p.m3u8?auth_key=1789970515-0-0-fb6338e6b2ddf133b87c028de7a46955
 #EXTINF:-1 tvg-id="3923957-76899" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 21 Sep 2026 09:00 WIB - Santos del Potosí vs Lobos de Puebla (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3923957.m3u8?txSecret=03d742cba58ad4fd872a7e943ac6d546&txTime=6AB1D9A0
+https://pul-tenm.gkykp.com/live/sd-2-3923957.m3u8?txSecret=a5423d319524cca690d2b653d45e8606&txTime=6AB1E300
 #EXTINF:-1 tvg-id="3923957-77807" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 21 Sep 2026 09:00 WIB - Santos del Potosí vs Lobos de Puebla (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
@@ -317,72 +241,116 @@ https://live3.dyrur1.com/live/72154794_848c9eb447fee4dbbe527cf6219cc2e1_1080p.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3942813.m3u8?txSecret=0e690df260957dd15cb2b9ddc45e6572&txTime=6AB1D9A0
+https://pul-tenm.gkykp.com/live/sd-2-3942813.m3u8?txSecret=23a585647f3752b82f2b3c24986120ec&txTime=6AB1E300
 #EXTINF:-1 tvg-id="3942813-77816" tvg-name="Club Friendship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Club Friendship - 21 Sep 2026 09:00 WIB - University of Taipei(w) vs Shih Hsin University Women (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
 https://live.dyrur1.com/live/74801092_1412012896d14a5db1e4f35fdca64543_1080p.m3u8?auth_key=1789968350-0-0-fb00b30eac599ae6c511f098a69e87d8
+#EXTINF:-1 tvg-id="4553990-77822" tvg-name="Costa Rica Primera Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Costa Rica Primera Division - 21 Sep 2026 09:00 WIB - AD San Carlos vs CS Cartagines (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4553990.m3u8?txSecret=c29232c07b0a5bd276ee4ca168cd1954&txTime=6AB1E300
 #EXTINF:-1 tvg-id="4553990-77808" tvg-name="Costa Rica Primera Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Costa Rica Primera Division - 21 Sep 2026 09:00 WIB - AD San Carlos vs CS Cartagines (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
 https://live.dyrur1.com/live/13995900_4a7ebc06d0ec1b67eee31f2edba5ddc3_1080p.m3u8?auth_key=1789967118-0-0-a0351b6f4770744c7ca01f51405f3321
+#EXTINF:-1 tvg-id="4571983-77820" tvg-name="Guatemala Liga Nacional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Guatemala Liga Nacional - 21 Sep 2026 09:00 WIB - Malacateco vs Deportivo Mixco (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4571983.m3u8?txSecret=cce351d8f5c07bb2cfcf416dd409f2b6&txTime=6AB1E300
+#EXTINF:-1 tvg-id="4571983-77821" tvg-name="Guatemala Liga Nacional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Guatemala Liga Nacional - 21 Sep 2026 09:00 WIB - Malacateco vs Deportivo Mixco (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/72474964_fca5307adcccc631435454ec52f7148c_1080p.m3u8?auth_key=1789967158-0-0-4f2361e60466b511e3db2399354ac19a
 #EXTINF:-1 tvg-id="4569303-76900" tvg-name="Categoría Primera A" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Categoría Primera A - 21 Sep 2026 09:15 WIB - Llaneros FC vs Atletico Nacional Medellin (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4569303.m3u8?txSecret=e2b8edbc3f975a9aa7246c18c8e37753&txTime=6AB1D9A0
+https://pul-tenm.gkykp.com/live/sd-1-4569303.m3u8?txSecret=10958862ed6f2dc1804a444d664014d9&txTime=6AB1E300
 #EXTINF:-1 tvg-id="4569303-77806" tvg-name="Categoría Primera A" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Categoría Primera A - 21 Sep 2026 09:15 WIB - Llaneros FC vs Atletico Nacional Medellin (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
 https://live.dyrur1.com/live/72335138_502cc40c35d44ce5314e36e83313c708_1080p.m3u8?auth_key=1789967751-0-0-3aeef6d1372b0e1bfd1100274a1ff328
+#EXTINF:-1 tvg-id="4638526-77829" tvg-name="Honduras Primera Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Honduras Primera Division - 21 Sep 2026 09:30 WIB - Juticalpa vs Marathon (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4638526.m3u8?txSecret=dcaa3970ae0c6e53efb6fedae8a89a5e&txTime=6AB1E300
+#EXTINF:-1 tvg-id="4638526-77830" tvg-name="Honduras Primera Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Honduras Primera Division - 21 Sep 2026 09:30 WIB - Juticalpa vs Marathon (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/74486282_7369f6cff5d08e5534f46055bb7f83c8_1080p.m3u8?auth_key=1789970652-0-0-ad0976c18cb23de4cdd8ff13cfe1d48e
+#EXTINF:-1 tvg-id="4553875-77824" tvg-name="Mexico Liga MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX - 21 Sep 2026 10:10 WIB - Queretaro FC vs Club Leon (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4553875.m3u8?txSecret=ebb7288e8cab3edad52ce4b42456b72c&txTime=6AB1E300
+#EXTINF:-1 tvg-id="4553875-77836" tvg-name="Mexico Liga MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX - 21 Sep 2026 10:10 WIB - Queretaro FC vs Club Leon (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/74486282_7369f6cff5d08e5534f46055bb7f83c8_1080p.m3u8?auth_key=1789970652-0-0-ad0976c18cb23de4cdd8ff13cfe1d48e
+#EXTINF:-1 tvg-id="4624923-77825" tvg-name="Japanese Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Football League - 21 Sep 2026 14:00 WIB - Okinawa SV vs FC Tiamo Hirakata (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4624923.m3u8?txSecret=c85c53496c8f4f148b58e6bb3fcd4c20&txTime=6AB1E300
+#EXTINF:-1 tvg-id="3931226-77834" tvg-name="Asian Games - Women's Basketball" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Asian Games - Women's Basketball - 21 Sep 2026 15:00 WIB - Malaysia Women vs Chinese Taipei Women (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3931226.m3u8?txSecret=8f4bcf1df148b32de82e8acc62ab953b&txTime=6AB1E300
+#EXTINF:-1 tvg-id="4594088-77831" tvg-name="OCA Women's Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Women's Asian Games - 21 Sep 2026 15:00 WIB - Bangladesh Women vs Myanmar Women (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4594088.m3u8?txSecret=5c6823b2b5619f265311ca2354a0f9c8&txTime=6AB1E300
+#EXTINF:-1 tvg-id="4594089-77832" tvg-name="OCA Women's Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Women's Asian Games - 21 Sep 2026 15:00 WIB - China Women vs Philippines Women (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4594089.m3u8?txSecret=b21ebc9a407e076cb120960e9b1fef5f&txTime=6AB1E300
+#EXTINF:-1 tvg-id="4594094-77833" tvg-name="OCA Women's Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Women's Asian Games - 21 Sep 2026 15:00 WIB - Uzbekistan Women vs China Hong Kong Women (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4594094.m3u8?txSecret=82dcfb25bd62ec57ba107a9cb543150d&txTime=6AB1E300
 #EXTINF:-1 tvg-id="4475359-77414" tvg-name="Sweden Division 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Sweden Division 1 - 22 Sep 2026 01:00 WIB - Angelholms FF vs Eskilsminne IF (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4475359.m3u8?txSecret=c189d906faf688280841302c23e8dd1c&txTime=6AB1D9A0
+https://pul-tenm.gkykp.com/live/sd-1-4475359.m3u8?txSecret=c4037f47ce31591220cf3e7b9ca4ee43&txTime=6AB1E300
 #EXTINF:-1 tvg-id="4475363-77415" tvg-name="Sweden Division 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Sweden Division 1 - 22 Sep 2026 01:00 WIB - Jonkopings Sodra IF vs Skovde AIK (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4475363.m3u8?txSecret=8bed0bab5587fd72a3488c6eb5717786&txTime=6AB1D9A0
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",08:00 | Lanzhou Longyuan vs Yichun Grand Tiger
-https://live05.meung.app/live/87547578_tsc.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4475363.m3u8?txSecret=49c47074fd41d3bd07d42a63dc028488&txTime=6AB1E300
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/a31d8680851118728518f72f2030a154.png!w80",07:00 | Hàn Quốc vs Iran
 https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",15:00 | CLB KuPs vs Ilves
-https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",15:00 | CLB Vaasa VPS vs CLB AC Oulu
-https://live05.meung.app/live/59444581.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80",16:00 | Jaro vs CLB Gnistan Helsinki
 https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80",07:00 | Tauranga Whai vs Southland Sharks
 https://live05.meung.app/live/90865415.m3u8
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) m3u8
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782232522-0-0-56e4b93b1d457bb424d110ca6730a379
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782232522-0-0-817442f1c8516fe936675b737e2b61ef
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5c1b71658722f554a095a3687b548717.png!w80",16:00 | Dunav Ruse vs Ludogorets Razgrad
-https://live05.meung.app/live/59444581.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9ba1f45cab5e3f52d783a5bfdbe10daa.png!w80",18:00 | Boca Juniors Nữ vs San Lorenzo Nữ
-https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f4f29caf210db9a418ece37a7025eb5f.png!w80",11:30 | Shenzhen 2028 vs Hangzhou Linping
+https://live05.meung.app/live/08552895.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",16:00 | Grobina vs Ogre United
+https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",22:30 | Atletico Clube Goianiense vs Operario
 https://live05.meung.app/live/90865415.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/e142922645466d58b5ad3a27570b5ac5.png!w80",22:00 | CLB Banfield vs Sarmiento Junin
 https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Dunav Ruse vs Ludogorets Razgrad (BLV PEPSI) [flv]
-https://live05.meung.app/live/59444581.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Dunav Ruse vs Ludogorets Razgrad (BLV PEPSI) [hls 2]
-https://live05.miekgo.app/live/59444581.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (BLV C2) [flv]
+https://live05.meung.app/live/08552895.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (BLV C2) [hls 2]
 https://live05.miekgo.app/live/08552895.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [flv]
-https://live05.meung.app/live/87547578.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [hls 2]
-https://live05.miekgo.app/live/87547578.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
