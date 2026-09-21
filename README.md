@@ -27,8 +27,10 @@ Building web scrapers, managing APIs, and maintaining hosting servers takes time
 Your contributions directly help keep the servers running, the automated bots scraping, and the playlists updated.
 
 [![Donate via Saweria](https://img.shields.io/badge/Donate-Saweria-F2A633?style=for-the-badge&logo=coffeescript&logoColor=white)](https://saweria.co/gamerepublic)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Jimmysheva)
 
 👉 **[Support Republic TV on Saweria!](https://saweria.co/gamerepublic)**
+👉 **[Support via PayPal!](https://paypal.me/Jimmysheva)**
 
 ## ⚠️ Disclaimer
 
