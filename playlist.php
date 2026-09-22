@@ -187,7 +187,7 @@ http://193.47.62.59/hls/K999.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLB Salford City vs Câu lạc bộ Bóng đá Sheffield Wednesday" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F77ba314de2b78b96acbb57db11119189.png%21w80&size=300&scale=1.5", CLB Salford City vs Câu lạc bộ Bóng đá Sheffield Wednesday (Giải vô địch Anh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/14284602_cbf16ecbe5db5851869c454cdf6c9a43_autoChange.m3u8?auth_key=1790118109-0-0-8f4bba684f61b65b20ba53a9056a2db3
+https://live.dyrur1.com/live/14284602_cbf16ecbe5db5851869c454cdf6c9a43_autoChange.m3u8?auth_key=1790120871-0-0-385eed80cca0633aa04e18fe1366a255
 #EXTINF:-1 tvg-id="" tvg-name="BLV BÍ ĐAO" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F77ba314de2b78b96acbb57db11119189.png%21w80&size=300&scale=1.5", CLB Salford City vs Câu lạc bộ Bóng đá Sheffield Wednesday - BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -195,7 +195,7 @@ https://live05.meung.app/live/99121525_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Juventus Nữ vs CF Benfica Nữ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fbdb0673ce9d467c477f7b5e5f97e8ac7.png%21w80&size=300&scale=1.5", Juventus Nữ vs CF Benfica Nữ (Champions League Nữ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/74403624_b19f2337b0518f11945cc0cb94770e72_autoChange.m3u8?auth_key=1790118108-0-0-f3eec57d5e31ef9e21f7df92a57a565b
+https://live.dyrur1.com/live/74403624_b19f2337b0518f11945cc0cb94770e72_autoChange.m3u8?auth_key=1790120862-0-0-72419238148048dcba7a766cf085c7ee
 #EXTINF:-1 tvg-id="" tvg-name="BLV WARRIOR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fbdb0673ce9d467c477f7b5e5f97e8ac7.png%21w80&size=300&scale=1.5", Juventus Nữ vs CF Benfica Nữ - BLV WARRIOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -203,7 +203,7 @@ https://live05.meung.app/live/97885009_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Madrid Nữ vs Paris Saint Germain nữ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fbdb0673ce9d467c477f7b5e5f97e8ac7.png%21w80&size=300&scale=1.5", Real Madrid Nữ vs Paris Saint Germain nữ (Champions League Nữ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.dyrur1.com/live/74371786_68ce15984424db2b897e101d2b1bdb72_autoChange.m3u8?auth_key=1790118108-0-0-9d9988f7e525d1c022c6ee450e7a3a05
+https://live2.dyrur1.com/live/74371786_68ce15984424db2b897e101d2b1bdb72_autoChange.m3u8?auth_key=1790120862-0-0-e27e67b3130cf1c65dfca48eae4a193e
 #EXTINF:-1 tvg-id="" tvg-name="BLV REVIVE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fbdb0673ce9d467c477f7b5e5f97e8ac7.png%21w80&size=300&scale=1.5", Real Madrid Nữ vs Paris Saint Germain nữ - BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -213,51 +213,41 @@ https://live05.meung.app/live/33982309_tsc.m3u8
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
 https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=284bfbae96c416a804a2cd3e75721e5b&wsABSTime=1789950591
-#EXTINF:-1 tvg-id="4599184-78583" tvg-name="Romanian Liga II" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Romanian Liga II - 23 Sep 2026 01:00 WIB - FCM Targu Mures vs CS Dinamo Bucuresti (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4599184.m3u8?txSecret=989a2924bbe180a3a69baa7cfebc9270&txTime=6AB422A0
-#EXTINF:-1 tvg-id="4572103-78589" tvg-name="Austrian 3.Liga" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Austrian 3.Liga - 23 Sep 2026 01:30 WIB - Traiskirchen vs Kremser (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4572103.m3u8?txSecret=6f78412edc8f4040666e8f4b35906983&txTime=6AB422A0
 #EXTINF:-1 tvg-id="4576775-78600" tvg-name="Austrian 3.Liga" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Austrian 3.Liga - 23 Sep 2026 01:45 WIB - SK Austria Klagenfurt vs SV Donau Klagenfurt (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4576775.m3u8?txSecret=f5ba1159f0dd7b014fc1737044558756&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4576775.m3u8?txSecret=b9ae4d92b7e3ac4959c09e03c4ba77b1&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="3943195-78596" tvg-name="Israel Basketball Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Israel Basketball Cup - 23 Sep 2026 01:55 WIB - Rishon Le Zion Maccabi vs Hapoel Beer Sheva (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3943195.m3u8?txSecret=fdc1cd2366062dc8cf59dedf4507babd&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-2-3943195.m3u8?txSecret=0d0ebd39cdcefd6111feaa9948cda5d3&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4568676-78459" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - York City vs Rotherham United (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4568676.m3u8?txSecret=6b7f25e4d1b8279fbd656379c301e568&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4568676.m3u8?txSecret=b0b73d74bf2822b076279f6eead7834d&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4568676-78612" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - York City vs Rotherham United (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/14284606_cf99c2f3aaae97ab0be23342e15b861a_1080p.m3u8?auth_key=1790118109-0-0-2cfe2dc7a2f75bef8ff3e438d9acbdf7
+https://live.dyrur1.com/live/14284606_cf99c2f3aaae97ab0be23342e15b861a_1080p.m3u8?auth_key=1790120940-0-0-c62e11a3b0bd6d9c81fa0214fcd214a4
 #EXTINF:-1 tvg-id="4568680-78460" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Chesterfield vs Port Vale (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4568680.m3u8?txSecret=e88496847db61cbfd1d347df76633880&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4568680.m3u8?txSecret=0465b28bdace0663f2c7da86ae2f2491&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4568680-78609" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Chesterfield vs Port Vale (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live4.dyrur1.com/live/14284158_0876c1c08b8cdef058f9569e5dc31446_1080p.m3u8?auth_key=1790118109-0-0-26a637db708793b6b4fdfd22536e9eb2
+https://live4.dyrur1.com/live/14284158_0876c1c08b8cdef058f9569e5dc31446_1080p.m3u8?auth_key=1790120940-0-0-478c828650f4af112c04cd5123675a88
 #EXTINF:-1 tvg-id="4568689-78461" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Tranmere Rovers vs Shrewsbury Town (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4568689.m3u8?txSecret=331b7ee0929d585d69dcbf34f8a09a89&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4568689.m3u8?txSecret=6fd5b40855251c3ee710fab26a1c64eb&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4568689-78602" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Tranmere Rovers vs Shrewsbury Town (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
@@ -267,17 +257,17 @@ https://live2.dyrur1.com/live/14284604_c311af1e3b3ccb47c8949ef4e9d997bc_1080p.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4568695.m3u8?txSecret=c66c56dd279beb6cab114e3c35772bdd&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4568695.m3u8?txSecret=228f0e8b9f11de2219bcc65cc320a46e&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4568695-78592" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Notts County vs Grimsby Town (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/14284599_3dc4f793914098b5f1c18649f4a55e2b_1080p.m3u8?auth_key=1790118109-0-0-c92c809dbff017c1283bf55007ad41b0
+https://live3.dyrur1.com/live/14284599_3dc4f793914098b5f1c18649f4a55e2b_1080p.m3u8?auth_key=1790120940-0-0-7e144823175803e20b340bb8febbaca8
 #EXTINF:-1 tvg-id="4568718-78465" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Walsall vs Stevenage Borough (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4568718.m3u8?txSecret=adeb87c4489247bdaafad4d2210c0e17&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4568718.m3u8?txSecret=ba09c00d7f5a03c1d48496f844672a7f&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4568718-78610" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Walsall vs Stevenage Borough (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
@@ -287,47 +277,47 @@ https://live5.dyrur1.com/live/14284605_e47e44c8c8c07457981a6885443211b6_1080p.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4568734.m3u8?txSecret=bab0a9594cebd316d428e2d5c178e583&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4568734.m3u8?txSecret=434eec07e37060fca2a0c9dfaf0bfbc5&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4568734-78611" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Plymouth Argyle vs Crystal Palace U21 (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live4.dyrur1.com/live/14284107_20d5b6b23cfe6434fca593de0c8859fa_1080p.m3u8?auth_key=1790118109-0-0-003eb37a8df01d58977c5744c7b66ed2
+https://live4.dyrur1.com/live/14284107_20d5b6b23cfe6434fca593de0c8859fa_1080p.m3u8?auth_key=1790120940-0-0-f1c635573298aae457dcfa48c43508aa
 #EXTINF:-1 tvg-id="4568737-78471" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Swindon Town vs Newport County (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4568737.m3u8?txSecret=27a88a1f9aade2e27dceac28fae14e7f&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4568737.m3u8?txSecret=4eee733ce430ef3509a245cf15b5c2a6&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4568737-78607" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Swindon Town vs Newport County (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/14284603_5a1d19db2b2c9e1a2653c2ccf261537a_1080p.m3u8?auth_key=1790118109-0-0-cf6744e717ff0d6ab4997c8e18deea6e
+https://live2.dyrur1.com/live/14284603_5a1d19db2b2c9e1a2653c2ccf261537a_1080p.m3u8?auth_key=1790120940-0-0-56de5f32babc5f8a8a8c2442566f6b06
 #EXTINF:-1 tvg-id="4568745-78472" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Gillingham vs Cambridge United (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4568745.m3u8?txSecret=c17f527f3b57a3e65aa05d5fed926886&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4568745.m3u8?txSecret=393fa0510348233240fc0e906ca64099&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4568745-78605" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Gillingham vs Cambridge United (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/14284597_f07d8943115a3dad4c01f741384053e4_1080p.m3u8?auth_key=1790118109-0-0-44f7487735e76ec3ce279831cc4139db
+https://live.dyrur1.com/live/14284597_f07d8943115a3dad4c01f741384053e4_1080p.m3u8?auth_key=1790120940-0-0-f6597ec81826d13788e13db848967647
 #EXTINF:-1 tvg-id="4568754-78468" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Milton Keynes Dons vs Crawley Town (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4568754.m3u8?txSecret=70aacb50ceb500c2147d1c3dfbcd8128&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4568754.m3u8?txSecret=23afddeedc615d32aa26da0a8241dd45&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4568754-78606" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Milton Keynes Dons vs Crawley Town (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
 #EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/14284598_86afec3be31260af60d89eef50962dd4_1080p.m3u8?auth_key=1790118109-0-0-4e98b88910ed0c7ba920d1846ae0d814
+https://live1.dyrur1.com/live/14284598_86afec3be31260af60d89eef50962dd4_1080p.m3u8?auth_key=1790120940-0-0-0811a920e9384cca1efcbb975751a069
 #EXTINF:-1 tvg-id="4638619-78483" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Salford City vs Sheffield Wednesday (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4638619.m3u8?txSecret=0307c99b15a14ad96a6aa3f4eb4b9bfc&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4638619.m3u8?txSecret=b7ea73fe65669ac2d7fe64c57f16056e&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4638619-78608" tvg-name="English Football League Trophy" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",English Football League Trophy - 23 Sep 2026 02:00 WIB - Salford City vs Sheffield Wednesday (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
@@ -337,7 +327,7 @@ https://live.dyrur1.com/live/14284602_cbf16ecbe5db5851869c454cdf6c9a43_1080p.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4647072.m3u8?txSecret=af8db4aac6cb96b5123ffcf15b91194c&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4647072.m3u8?txSecret=d8fa033a2983ba4f37556149aaca4d31&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4647072-78604" tvg-name="Argentine Reserve League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Reserve League - 23 Sep 2026 02:00 WIB - San Lorenzo Reserves vs Huracan Reserves (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
@@ -347,57 +337,57 @@ https://live.dyrur1.com/live/74308990_07030610790e8117dca9e5e6242b2722_1080p.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4647073.m3u8?txSecret=ce86d916020c2cb0e1bf93477be2478b&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4647073.m3u8?txSecret=e7a6b028d1b1ec3ebe742557cacc203a&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4647073-78603" tvg-name="Argentine Reserve League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Reserve League - 23 Sep 2026 02:00 WIB - Velez Sarsfield Reserves vs Ferro Carril Oeste Reserves (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live5.dyrur1.com/live/74308992_699ad4c94bb496bddeeadb80c5de3d6b_1080p.m3u8?auth_key=1790118111-0-0-5f3cc2b5f5b23f226926b2a14d76e49b
+https://live5.dyrur1.com/live/74308992_699ad4c94bb496bddeeadb80c5de3d6b_1080p.m3u8?auth_key=1790118645-0-0-6dc1f81c6f1b59f62806601328e9bdb3
 #EXTINF:-1 tvg-id="4646507-78487" tvg-name="UEFA Women's Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Women's Champions League - 23 Sep 2026 03:00 WIB - Arsenal Women vs HB Koge Woman's(w) (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646507.m3u8?txSecret=a3d7415983c70af590514a3603e6339f&txTime=6AB422A0
-#EXTINF:-1 tvg-id="4646508-78488" tvg-name="UEFA Women's Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Women's Champions League - 23 Sep 2026 03:00 WIB - Juventus Women vs SL Benfica Women (HD-B)
+https://pul-tenm.gkykp.com/live/sd-1-4646507.m3u8?txSecret=e6df34167cd4125b0bad81ee05812521&txTime=6AB42CF0
+#EXTINF:-1 tvg-id="4646508-78623" tvg-name="UEFA Women's Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Women's Champions League - 23 Sep 2026 03:00 WIB - Juventus Women vs SL Benfica Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646508.m3u8?txSecret=eb71a22b1851496fea11da3268803b39&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4646508.m3u8?txSecret=14f59742bc0e5138c3639ca297f28c50&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4646508-78620" tvg-name="UEFA Women's Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Women's Champions League - 23 Sep 2026 03:00 WIB - Juventus Women vs SL Benfica Women (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74403624_b19f2337b0518f11945cc0cb94770e72_1080p.m3u8?auth_key=1790118108-0-0-f3eec57d5e31ef9e21f7df92a57a565b
+https://live.dyrur1.com/live/74403624_b19f2337b0518f11945cc0cb94770e72_1080p.m3u8?auth_key=1790120939-0-0-fc5520b9597356f9f81e24eb71d1b5bb
 #EXTINF:-1 tvg-id="4646509-78489" tvg-name="UEFA Women's Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Women's Champions League - 23 Sep 2026 03:00 WIB - Real Madrid Women vs Paris Saint Germain Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646509.m3u8?txSecret=5735d9f798e09e444f5f60b080b68046&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4646509.m3u8?txSecret=54d17ccf723a4a322d2c351dfdd4a673&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4646509-78621" tvg-name="UEFA Women's Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Women's Champions League - 23 Sep 2026 03:00 WIB - Real Madrid Women vs Paris Saint Germain Women (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/74371786_68ce15984424db2b897e101d2b1bdb72_1080p.m3u8?auth_key=1790118108-0-0-9d9988f7e525d1c022c6ee450e7a3a05
+https://live2.dyrur1.com/live/74371786_68ce15984424db2b897e101d2b1bdb72_1080p.m3u8?auth_key=1790120939-0-0-7213e5e2c47b429e036c5409a71ecd03
 #EXTINF:-1 tvg-id="4596265-78477" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 23 Sep 2026 05:00 WIB - Independiente Yumbo vs Inter Palmira (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4596265.m3u8?txSecret=496b904a170bd9cea3cd792c7e7d028e&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4596265.m3u8?txSecret=2c7eaf22e49e13e588afe7d0fd8948b0&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4596266-78478" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 23 Sep 2026 05:00 WIB - Atletico FC vs Tigres Zipaquira (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4596266.m3u8?txSecret=58dca6fc7509faf9078a2d2629b48e41&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4596266.m3u8?txSecret=c92a713575cf02c0a7412c6e3476c7ef&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4596267-78479" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 23 Sep 2026 05:00 WIB - Real Santander vs Orsomarso (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4596267.m3u8?txSecret=d3c71cfeb3f3e93a83938e2924a94563&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4596267.m3u8?txSecret=d48a604528b6c13b8188b90e161970c8&txTime=6AB42CF0
 #EXTINF:-1 tvg-id="4647074-78554" tvg-name="Argentine Reserve League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Reserve League - 23 Sep 2026 06:00 WIB - Central Cordoba SdE Reserves vs Atletico Tucuman Reserves (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4647074.m3u8?txSecret=41c1879c1477d60d6a11f68d97109b74&txTime=6AB422A0
+https://pul-tenm.gkykp.com/live/sd-1-4647074.m3u8?txSecret=5bbaca5bef5d9979b497ce7fc6ca0c1d&txTime=6AB42CF0
 #EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/sTAx_nS6KqyD6VwODWPcuBH1XX4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5327216/e18a1d.jpg" tvg-logo="https://thumbor.prod.vidiocdn.com/sTAx_nS6KqyD6VwODWPcuBH1XX4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5327216/e18a1d.jpg" group-title="Event-LIVE-NOW", Arsenal vs HB Koge - UEFA Women's Champions League (02:00 - 04:00 * 23 September 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -430,16 +420,10 @@ https://live05.meung.app/live/08552895.m3u8
 https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782232522-0-0-130202a5975ac9955b09d7814b270010
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D1: Jaro vs Gnistan Helsinki [ĐỖ TÚ TÀI] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782232522-0-0-f598b06b81c74dd73b6238f5ccbdd34d
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/81b70b4f4179ca979f173ceae24222c4.png!w80",15:00 | Tukums-2000 vs Rigas Futbola skola
-https://live05.meung.app/live/99121525.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",16:00 | Grobina vs Ogre United
 https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 Tukums-2000 vs Rigas Futbola skola (BLV BÍ ĐAO) [flv]
-https://live05.meung.app/live/99121525.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 Tukums-2000 vs Rigas Futbola skola (BLV BÍ ĐAO) [hls 2]
-https://live05.miekgo.app/live/99121525.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (BLV C2) [flv]
 https://live05.meung.app/live/08552895.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (BLV C2) [hls 2]
