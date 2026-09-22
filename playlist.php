@@ -248,7 +248,7 @@ https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=284bfbae96c416a80
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4596265.m3u8?txSecret=2ee92071825410a38191e4699d7c61f9&txTime=6AB44208
+https://pul-tenm.gkykp.com/live/sd-1-4596265.m3u8?txSecret=b4bf5df02f23d74a50ec071fd25e5a8e&txTime=6AB44CD0
 #EXTINF:-1 tvg-id="4596265-78636" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 23 Sep 2026 05:00 WIB - Independiente Yumbo vs Inter Palmira (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
@@ -258,7 +258,7 @@ https://live.dyrur1.com/live/72636226_ba0d97b22dae7f835d004fa705989a48_1080p.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4596266.m3u8?txSecret=3dafd8f29eb2c129dcff63fe540a0d43&txTime=6AB44208
+https://pul-tenm.gkykp.com/live/sd-1-4596266.m3u8?txSecret=d9e5b8c4c536a326f93aee20d47cb1e3&txTime=6AB44CD0
 #EXTINF:-1 tvg-id="4596266-78637" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 23 Sep 2026 05:00 WIB - Atletico FC vs Tigres Zipaquira (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
@@ -268,7 +268,7 @@ https://live1.dyrur1.com/live/72636224_882460ccb38dac434a6a3b0e27529de2_1080p.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4596267.m3u8?txSecret=cc3a4f42f6a6b46e46d44b19f6d6a9a7&txTime=6AB44208
+https://pul-tenm.gkykp.com/live/sd-1-4596267.m3u8?txSecret=1ef7de9f25abf2b91edc6508805113b2&txTime=6AB44CD0
 #EXTINF:-1 tvg-id="4596267-78635" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 23 Sep 2026 05:00 WIB - Real Santander vs Orsomarso (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
@@ -278,17 +278,27 @@ https://live2.dyrur1.com/live/72636222_ee657cfa75f570366adcbc1f1430a2f6_1080p.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4641683.m3u8?txSecret=2ddf19e87e8ccc423ea7d3df0da065f8&txTime=6AB44208
+https://pul-tenm.gkykp.com/live/sd-1-4641683.m3u8?txSecret=869a1b4f8918062bf8b1db1648b58881&txTime=6AB44CD0
 #EXTINF:-1 tvg-id="4641683-78639" tvg-name="Chilean Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chilean Cup - 23 Sep 2026 05:00 WIB - Puerto Montt vs Nublense (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74321580_a854bf50fe8d4510bc2821b66dc9ee6b_1080p.m3u8?auth_key=1790126307-0-0-af97702041987b3e9365de493a78f701
+https://live.dyrur1.com/live/74321580_a854bf50fe8d4510bc2821b66dc9ee6b_1080p.m3u8?auth_key=1790129004-0-0-f7eb52359e8cd82181f36176c5addd95
 #EXTINF:-1 tvg-id="4647074-78554" tvg-name="Argentine Reserve League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Reserve League - 23 Sep 2026 06:00 WIB - Central Cordoba SdE Reserves vs Atletico Tucuman Reserves (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4647074.m3u8?txSecret=5ef8edb87c17ec7094805973046597b3&txTime=6AB44208
+https://pul-tenm.gkykp.com/live/sd-1-4647074.m3u8?txSecret=d79123042a8ca43ef2b9c88742a597c3&txTime=6AB44CD0
+#EXTINF:-1 tvg-id="4647074-78641" tvg-name="Argentine Reserve League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Reserve League - 23 Sep 2026 06:00 WIB - Central Cordoba SdE Reserves vs Atletico Tucuman Reserves (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/74308994_4dc8ad754e310f919e8b49b521317e23_1080p.m3u8?auth_key=1790128734-0-0-d759f0a929168b8a40d4c9657f311bd4
+#EXTINF:-1 tvg-id="4569302-78643" tvg-name="Categoría Primera A" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Categoría Primera A - 23 Sep 2026 07:00 WIB - Dep.Independiente Medellin vs Jaguares de Cordoba (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4569302.m3u8?txSecret=f2f34b3378958d1a383327e199069b9c&txTime=6AB44CD0
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
