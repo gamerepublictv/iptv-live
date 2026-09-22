@@ -239,111 +239,57 @@ http://193.47.62.59/hls/dvvv.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/K999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Juventus Nữ vs CF Benfica Nữ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fbdb0673ce9d467c477f7b5e5f97e8ac7.png%21w80&size=300&scale=1.5", Juventus Nữ vs CF Benfica Nữ (Champions League Nữ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/74403624_b19f2337b0518f11945cc0cb94770e72_autoChange.m3u8?auth_key=1790123620-0-0-71e72670edd0a49833f5245b22e5d973
-#EXTINF:-1 tvg-id="" tvg-name="BLV WARRIOR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fbdb0673ce9d467c477f7b5e5f97e8ac7.png%21w80&size=300&scale=1.5", Juventus Nữ vs CF Benfica Nữ - BLV WARRIOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/97885009_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid Nữ vs Paris Saint Germain nữ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fbdb0673ce9d467c477f7b5e5f97e8ac7.png%21w80&size=300&scale=1.5", Real Madrid Nữ vs Paris Saint Germain nữ (Champions League Nữ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.dyrur1.com/live/74371786_68ce15984424db2b897e101d2b1bdb72_autoChange.m3u8?auth_key=1790123620-0-0-24a1c22706f03d2a1e68c6769bc1b8fd
-#EXTINF:-1 tvg-id="" tvg-name="BLV REVIVE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fbdb0673ce9d467c477f7b5e5f97e8ac7.png%21w80&size=300&scale=1.5", Real Madrid Nữ vs Paris Saint Germain nữ - BLV REVIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/33982309_tsc.m3u8
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/liga_bri.png" ,BRI Super League - Persijap vs Persib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
 https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=284bfbae96c416a804a2cd3e75721e5b&wsABSTime=1789950591
-#EXTINF:-1 tvg-id="4646507-78487" tvg-name="UEFA Women's Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Women's Champions League - 23 Sep 2026 03:00 WIB - Arsenal Women vs HB Koge Woman's(w) (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646507.m3u8?txSecret=18572bfe5fee9ffdc1c5e1e72d618e83&txTime=6AB43740
-#EXTINF:-1 tvg-id="4646508-78623" tvg-name="UEFA Women's Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Women's Champions League - 23 Sep 2026 03:00 WIB - Juventus Women vs SL Benfica Women (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646508.m3u8?txSecret=c4212ff7a56420e6084918093fdde45e&txTime=6AB43740
-#EXTINF:-1 tvg-id="4646508-78620" tvg-name="UEFA Women's Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Women's Champions League - 23 Sep 2026 03:00 WIB - Juventus Women vs SL Benfica Women (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74403624_b19f2337b0518f11945cc0cb94770e72_1080p.m3u8?auth_key=1790123270-0-0-f0056585ba04e29d921daadef73896d7
-#EXTINF:-1 tvg-id="4646509-78489" tvg-name="UEFA Women's Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Women's Champions League - 23 Sep 2026 03:00 WIB - Real Madrid Women vs Paris Saint Germain Women (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646509.m3u8?txSecret=0e6cbb920e4e1657bf6f179ef66afc57&txTime=6AB43740
-#EXTINF:-1 tvg-id="4646509-78621" tvg-name="UEFA Women's Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Women's Champions League - 23 Sep 2026 03:00 WIB - Real Madrid Women vs Paris Saint Germain Women (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/74371786_68ce15984424db2b897e101d2b1bdb72_1080p.m3u8?auth_key=1790123270-0-0-f05a125fc372500a07389f37fe2dc4eb
 #EXTINF:-1 tvg-id="4596265-78477" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 23 Sep 2026 05:00 WIB - Independiente Yumbo vs Inter Palmira (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4596265.m3u8?txSecret=55071f9333220563b7265f423e3da8cd&txTime=6AB43740
+https://pul-tenm.gkykp.com/live/sd-1-4596265.m3u8?txSecret=2ee92071825410a38191e4699d7c61f9&txTime=6AB44208
+#EXTINF:-1 tvg-id="4596265-78636" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 23 Sep 2026 05:00 WIB - Independiente Yumbo vs Inter Palmira (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/72636226_ba0d97b22dae7f835d004fa705989a48_1080p.m3u8?auth_key=1790125014-0-0-6859cebd4946a16cae8d65091f586421
 #EXTINF:-1 tvg-id="4596266-78478" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 23 Sep 2026 05:00 WIB - Atletico FC vs Tigres Zipaquira (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4596266.m3u8?txSecret=c084d1d2d6652bcc1448bf30bd35b159&txTime=6AB43740
+https://pul-tenm.gkykp.com/live/sd-1-4596266.m3u8?txSecret=3dafd8f29eb2c129dcff63fe540a0d43&txTime=6AB44208
+#EXTINF:-1 tvg-id="4596266-78637" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 23 Sep 2026 05:00 WIB - Atletico FC vs Tigres Zipaquira (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/72636224_882460ccb38dac434a6a3b0e27529de2_1080p.m3u8?auth_key=1790125014-0-0-7e0a9f040c504ddadda0f04f38c15a68
 #EXTINF:-1 tvg-id="4596267-78479" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 23 Sep 2026 05:00 WIB - Real Santander vs Orsomarso (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4596267.m3u8?txSecret=15ef9a8313265e13ef5468dd3caaaff7&txTime=6AB43740
+https://pul-tenm.gkykp.com/live/sd-1-4596267.m3u8?txSecret=cc3a4f42f6a6b46e46d44b19f6d6a9a7&txTime=6AB44208
+#EXTINF:-1 tvg-id="4596267-78635" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 23 Sep 2026 05:00 WIB - Real Santander vs Orsomarso (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live2.dyrur1.com/live/72636222_ee657cfa75f570366adcbc1f1430a2f6_1080p.m3u8?auth_key=1790125014-0-0-f92dc0d8dd3d53a01695257992d69d4b
+#EXTINF:-1 tvg-id="4641683-78638" tvg-name="Chilean Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chilean Cup - 23 Sep 2026 05:00 WIB - Puerto Montt vs Nublense (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4641683.m3u8?txSecret=2ddf19e87e8ccc423ea7d3df0da065f8&txTime=6AB44208
+#EXTINF:-1 tvg-id="4641683-78639" tvg-name="Chilean Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chilean Cup - 23 Sep 2026 05:00 WIB - Puerto Montt vs Nublense (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/74321580_a854bf50fe8d4510bc2821b66dc9ee6b_1080p.m3u8?auth_key=1790126307-0-0-af97702041987b3e9365de493a78f701
 #EXTINF:-1 tvg-id="4647074-78554" tvg-name="Argentine Reserve League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Reserve League - 23 Sep 2026 06:00 WIB - Central Cordoba SdE Reserves vs Atletico Tucuman Reserves (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4647074.m3u8?txSecret=19d39532e47bb0671f1ed7bc4e1e5ff8&txTime=6AB43740
-#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/sTAx_nS6KqyD6VwODWPcuBH1XX4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5327216/e18a1d.jpg" tvg-logo="https://thumbor.prod.vidiocdn.com/sTAx_nS6KqyD6VwODWPcuBH1XX4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5327216/e18a1d.jpg" group-title="Event-LIVE-NOW", Arsenal vs HB Koge - UEFA Women's Champions League (02:00 - 04:00 * 23 September 2026)
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=6317&type=drm&token=6bf5bb369cfb4742b03b25f32460058c
-https://dusk.biz.id/fidyu/play.mpd?id=6317&type=dash&token=6bf5bb369cfb4742b03b25f32460058c
-#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/n0k0Q0xHt-VLWx6y98-qTv8OaQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328267/418b72.jpg" tvg-logo="https://thumbor.prod.vidiocdn.com/n0k0Q0xHt-VLWx6y98-qTv8OaQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328267/418b72.jpg" group-title="Event-LIVE-NOW", Real Madrid vs Paris Saint-Germain - UEFA Women's Champions League (02:00 - 04:00 * 23 September 2026)
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=6299&type=drm&token=6bf5bb369cfb4742b03b25f32460058c
-https://dusk.biz.id/fidyu/play.mpd?id=6299&type=dash&token=6bf5bb369cfb4742b03b25f32460058c
-#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/TlFU9egY4qpzVV_w-nkIRjS5VGI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328266/06c352.jpg" tvg-logo="https://thumbor.prod.vidiocdn.com/TlFU9egY4qpzVV_w-nkIRjS5VGI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328266/06c352.jpg" group-title="Event-LIVE-NOW", Juventus vs Benfica - UEFA Women's Champions League (02:00 - 04:00 * 23 September 2026)
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=17875&type=drm&token=6bf5bb369cfb4742b03b25f32460058c
-https://dusk.biz.id/fidyu/play.mpd?id=17875&type=dash&token=6bf5bb369cfb4742b03b25f32460058c
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f4f29caf210db9a418ece37a7025eb5f.png!w80",11:30 | Shenzhen 2028 vs Hangzhou Linping
-https://live05.meung.app/live/08552895.m3u8
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D1: Jaro vs Gnistan Helsinki [ĐỖ TÚ TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782232522-0-0-130202a5975ac9955b09d7814b270010
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D1: Jaro vs Gnistan Helsinki [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782232522-0-0-f598b06b81c74dd73b6238f5ccbdd34d
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",16:00 | Grobina vs Ogre United
-https://live05.meung.app/live/08552895.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4647074.m3u8?txSecret=5ef8edb87c17ec7094805973046597b3&txTime=6AB44208
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (BLV C2) [flv]
-https://live05.meung.app/live/08552895.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (BLV C2) [hls 2]
-https://live05.miekgo.app/live/08552895.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (Nguyễn Lữ)
-https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
