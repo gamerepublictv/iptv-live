@@ -154,18 +154,10 @@ http://193.47.62.59/hls/bbbbaqq.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/bbbbaq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Santos Laguna Nữ vs Cruz Azul Nữ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fa6350b03022c4e5344c808657c3282bb.png%21w80&size=300&scale=1.5", Santos Laguna Nữ vs Cruz Azul Nữ (Giải bóng đá nữ cao cấp Mexico)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/73204602_2c8172dd09fb4b49beb7fb611cc8a332_autoChange.m3u8?auth_key=1790059769-0-0-92cc291217ba56804c6af25b7d2be517
-#EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fa6350b03022c4e5344c808657c3282bb.png%21w80&size=300&scale=1.5", Santos Laguna Nữ vs Cruz Azul Nữ - BLV 7UP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/78905744_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Phoenix Mercury vs Dallas Wings" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Phoenix Mercury vs Dallas Wings (Hiệp hội bóng rổ quốc gia nữ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/edq0esdzzypiekx_3599aa18039aee318901ed97ca108847_autoChange.m3u8?auth_key=1790059769-0-0-fa749074b860d842aec1a058756a4c41
+https://live.dyrur1.com/live/edq0esdzzypiekx_3599aa18039aee318901ed97ca108847_autoChange.m3u8?auth_key=1790062113-0-0-1da967de1effc389a163617cdec2ff2d
 #EXTINF:-1 tvg-id="" tvg-name="BLV Cozy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Phoenix Mercury vs Dallas Wings - BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -175,88 +167,161 @@ https://live05.meung.app/live/87379114_tsc.m3u8
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
 https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=284bfbae96c416a804a2cd3e75721e5b&wsABSTime=1789950591
-#EXTINF:-1 tvg-id="3931221-78222" tvg-name="Asian Games - Women's Basketball" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Asian Games - Women's Basketball - 22 Sep 2026 09:00 WIB - Kazakhstan Women vs Hong Kong China Women (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3931221.m3u8?txSecret=bea1bc6d09b1d5661c3a671ae29b184f&txTime=6AB33DE0
-#EXTINF:-1 tvg-id="3931221-78257" tvg-name="Asian Games - Women's Basketball" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Asian Games - Women's Basketball - 22 Sep 2026 09:00 WIB - Kazakhstan Women vs Hong Kong China Women (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/73663374_b971c97533e95de57c39f238576c0750_1080p.m3u8?auth_key=1790059689-0-0-38aec180de7611d602dda237471c34f9
-#EXTINF:-1 tvg-id="4594571-78010" tvg-name="Costa Rica 2.Liga" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Costa Rica 2.Liga - 22 Sep 2026 09:00 WIB - Pitbulls vs AD Cariari Pococi (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4594571.m3u8?txSecret=08a866df13fcb951b7f7b53aa7d39927&txTime=6AB33DE0
-#EXTINF:-1 tvg-id="4594571-78266" tvg-name="Costa Rica 2.Liga" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Costa Rica 2.Liga - 22 Sep 2026 09:00 WIB - Pitbulls vs AD Cariari Pococi (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/73185406_d0649091ae111f059437dead80bc08c2_1080p.m3u8?auth_key=1790053560-0-0-ffba18091c54c365154322013babf791
-#EXTINF:-1 tvg-id="4647414-78216" tvg-name="Jamaica Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Jamaica Premier League - 22 Sep 2026 09:00 WIB - Arnett Gardens vs Dunbeholden FC (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4647414.m3u8?txSecret=0918fef3a4e8ca8367dbf2b38ff13dfa&txTime=6AB33DE0
-#EXTINF:-1 tvg-id="4647414-78267" tvg-name="Jamaica Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Jamaica Premier League - 22 Sep 2026 09:00 WIB - Arnett Gardens vs Dunbeholden FC (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74695422_bd378c44fab7be0be6f1985387af18bb_1080p.m3u8?auth_key=1790055127-0-0-7097f510a1f5191ce8130c84028eebd5
-#EXTINF:-1 tvg-id="4599484-78247" tvg-name="Mexico Liga MX Femenil" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX Femenil - 22 Sep 2026 09:05 WIB - Santos Laguna Women vs Cruz Azul Women(w) (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4599484.m3u8?txSecret=4a97e6762f3c41f86b58b627b9d5e4b1&txTime=6AB33DE0
-#EXTINF:-1 tvg-id="4599484-78260" tvg-name="Mexico Liga MX Femenil" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX Femenil - 22 Sep 2026 09:05 WIB - Santos Laguna Women vs Cruz Azul Women(w) (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/73204602_2c8172dd09fb4b49beb7fb611cc8a332_1080p.m3u8?auth_key=1790058437-0-0-1d4e20cf3e7d6a6f83c4d2fe53996e15
 #EXTINF:-1 tvg-id="3923992-78012" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 22 Sep 2026 09:15 WIB - El Calor de Cancún vs Diablos Rojos del México (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3923992.m3u8?txSecret=6ed0851c1c53b9d81ce1b27148ae0a7c&txTime=6AB33DE0
+https://pul-tenm.gkykp.com/live/sd-2-3923992.m3u8?txSecret=3f267c7323b7f1fbc15daafe2c1d538f&txTime=6AB34740
 #EXTINF:-1 tvg-id="3923992-78271" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 22 Sep 2026 09:15 WIB - El Calor de Cancún vs Diablos Rojos del México (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/72154798_549188034245adb0a4d71db120d37a49_1080p.m3u8?auth_key=1790059688-0-0-845154cba8a76993da7ffc01030ab43c
+https://live.dyrur1.com/live/72154798_549188034245adb0a4d71db120d37a49_1080p.m3u8?auth_key=1790061028-0-0-e6dce8af7a304850fd7dc5064caec542
 #EXTINF:-1 tvg-id="3908930-78273" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 22 Sep 2026 10:00 WIB - Dallas Wings vs Phoenix Mercury (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3908930.m3u8?txSecret=13b34b4505055122667519c440e6263c&txTime=6AB33DE0
+https://pul-tenm.gkykp.com/live/hd-en-2-3908930.m3u8?txSecret=b8b14216908128567a1d7ed5f7e76047&txTime=6AB34740
 #EXTINF:-1 tvg-id="3908930-78292" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 22 Sep 2026 10:00 WIB - Dallas Wings vs Phoenix Mercury (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74695422_bd378c44fab7be0be6f1985387af18bb_1080p.m3u8?auth_key=1790055127-0-0-7097f510a1f5191ce8130c84028eebd5
+https://live.dyrur1.com/live/edq0esdzzypiekx_3599aa18039aee318901ed97ca108847_1080p.m3u8?auth_key=1790060576-0-0-adc97ca0b3f78bd586718d0d0d0d49d1
 #EXTINF:-1 tvg-id="3923950-78274" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 22 Sep 2026 10:00 WIB - Abejas de León vs Freseros de Irapuato (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3923950.m3u8?txSecret=1fffb3920510248f324a56a45066b171&txTime=6AB33DE0
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",23:00 | Panama vs Croatia
-https://live05.meung.app/live/78905744.m3u8
+https://pul-tenm.gkykp.com/live/hd-en-2-3923950.m3u8?txSecret=c4bf8d1ea4aee080fcad1956c0dd6813&txTime=6AB34740
+#EXTINF:-1 tvg-id="3923950-78306" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 22 Sep 2026 10:00 WIB - Abejas de León vs Freseros de Irapuato (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/edq0esdjrnviekx_b79bdfcb96b15b94cf856fb89b5516d1_1080p.m3u8?auth_key=1790058329-0-0-66bb3443338036c894f107f0b393a0c8
+#EXTINF:-1 tvg-id="3924069-78275" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 22 Sep 2026 10:00 WIB - Santos del Potosí vs Lobos de Puebla (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/hd-en-2-3924069.m3u8?txSecret=2685d0c4f29cc765ec0565b8230c6c34&txTime=6AB34740
+#EXTINF:-1 tvg-id="3924069-78307" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 22 Sep 2026 10:00 WIB - Santos del Potosí vs Lobos de Puebla (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://live2.dyrur1.com/live/72154802_ff4d223f6bd5a06a475de30ff1c1251c_1080p.m3u8?auth_key=1790060439-0-0-c9213f9ee306a50bc503c72b0c291706
+#EXTINF:-1 tvg-id="3923927-78276" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 22 Sep 2026 10:05 WIB - Mineros de Zacatecas vs Gambusinos de Fresnillo (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/hd-en-2-3923927.m3u8?txSecret=62a62f2264745bc756d337ccf21bb46d&txTime=6AB34740
+#EXTINF:-1 tvg-id="3923927-78308" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 22 Sep 2026 10:05 WIB - Mineros de Zacatecas vs Gambusinos de Fresnillo (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/72154804_867a3dd87ffe31553fe634cc30c9a63a_1080p.m3u8?auth_key=1790057460-0-0-0fc6ca114c85675c42b5eefb62d48da5
+#EXTINF:-1 tvg-id="3943197-78313" tvg-name="Club Friendship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Club Friendship - 22 Sep 2026 10:40 WIB - National Taiwan Sport University vs National Taiwan University of Arts (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3943197.m3u8?txSecret=bd6973900fd3228ce6475601575f68da&txTime=6AB34740
+#EXTINF:-1 tvg-id="3943197-78315" tvg-name="Club Friendship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Club Friendship - 22 Sep 2026 10:40 WIB - National Taiwan Sport University vs National Taiwan University of Arts (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/74878760_12c1353e832ee9776a7c7d4c58d6262d_1080p.m3u8?auth_key=1790062107-0-0-964fd91d766aa62bf5b0b5990c525163
+#EXTINF:-1 tvg-id="3924046-78317" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 22 Sep 2026 11:00 WIB - Soles de Mexicali vs Panteras de Aguascalientes (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3924046.m3u8?txSecret=3bdf9b6549de79b72db7a8757e979de1&txTime=6AB34740
+#EXTINF:-1 tvg-id="3924046-78314" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 22 Sep 2026 11:00 WIB - Soles de Mexicali vs Panteras de Aguascalientes (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/72154806_883b5cd0ec74d126865e96cfb117e9b3_1080p.m3u8?auth_key=1790061320-0-0-09d2471c2131d2ee7a200180a2dc9bc0
+#EXTINF:-1 tvg-id="3931222-78316" tvg-name="Asian Games - Women's Basketball" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Asian Games - Women's Basketball - 22 Sep 2026 12:00 WIB - Japan Women vs Philippines Women (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3931222.m3u8?txSecret=a2122b592399dc83c327540e551fc4b5&txTime=6AB34740
+#EXTINF:-1 tvg-id="3934463-78280" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 22 Sep 2026 13:00 WIB - Alvark Tokyo vs Ryukyu Golden Kings (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3934463.m3u8?txSecret=9e1373285976e3e251f74b3369caa4cf&txTime=6AB34740
+#EXTINF:-1 tvg-id="4594064-78278" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 22 Sep 2026 13:00 WIB - Vietnam U23 vs Uzbekistan U23 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/hd-en-1-4594064.m3u8?txSecret=14b6c22b7eab728bb9f7393097895ae9&txTime=6AB34740
+#EXTINF:-1 tvg-id="4594069-78279" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 22 Sep 2026 13:00 WIB - Philippines U23 vs Kuwait U23 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/hd-en-1-4594069.m3u8?txSecret=2e21b0d7abe032030b5cb3ad070ee9c5&txTime=6AB34740
+#EXTINF:-1 tvg-id="3931227-78285" tvg-name="Asian Games - Women's Basketball" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Asian Games - Women's Basketball - 22 Sep 2026 15:00 WIB - South Korea Women vs Chinese Taipei Women (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/hd-en-2-3931227.m3u8?txSecret=ac2bfc4f9cf9c8f11b80b69a7efe0d69&txTime=6AB34740
+#EXTINF:-1 tvg-id="4647423-78283" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 22 Sep 2026 15:00 WIB - Qingdao West Coast U20 vs Liaoning Tieren U20 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4647423.m3u8?txSecret=98a2cd7ca2a496b28dcba401058f4eb7&txTime=6AB34740
+#EXTINF:-1 tvg-id="4647424-78281" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 22 Sep 2026 15:00 WIB - Qingdao Hainiu U20 vs Yunnan Yukun U20 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4647424.m3u8?txSecret=4f1a58f2c93480fd3171b161d478f069&txTime=6AB34740
+#EXTINF:-1 tvg-id="4647427-78284" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 22 Sep 2026 15:00 WIB - Ningbo FC U20 vs Jiangxi Lushan U20 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4647427.m3u8?txSecret=f96474ba3588fece09c6cf4b0c68e677&txTime=6AB34740
+#EXTINF:-1 tvg-id="3931111-78288" tvg-name="FIBA Intercontinental Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIBA Intercontinental Cup - 22 Sep 2026 15:30 WIB - Rytas Vilnius vs RSSB Tigers (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3931111.m3u8?txSecret=e77ed93494c37c3a6af9844111db09fd&txTime=6AB34740
+#EXTINF:-1 tvg-id="4647455-78286" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 22 Sep 2026 15:30 WIB - Lanzhou Longyuan Athletic U20 vs Shijiazhuang Gongfu U20 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4647455.m3u8?txSecret=151e787f967bf78909be025d4e8b3b32&txTime=6AB34740
+#EXTINF:-1 tvg-id="4647456-78287" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 22 Sep 2026 15:30 WIB - Wenzhou Yincai U20 vs Nantong Zhiyun U20 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4647456.m3u8?txSecret=9a6dca916d34ba113077f0d19c1bdcf0&txTime=6AB34740
+#EXTINF:-1 tvg-id="3926019-78289" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 22 Sep 2026 17:30 WIB - Brisbane Bullets vs New Zealand Breakers (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3926019.m3u8?txSecret=c0783ccc0af7ebb5bc9a96f05d32c644&txTime=6AB34740
+#EXTINF:-1 tvg-id="4594070-78291" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 22 Sep 2026 18:00 WIB - South Korea U23 vs Saudi Arabia U23 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4594070.m3u8?txSecret=636ae5f520c7599ad0242ce8acee6903&txTime=6AB34740
+#EXTINF:-1 tvg-id="4609502-78211" tvg-name="Portuguese U23 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Portuguese U23 League - 22 Sep 2026 19:00 WIB - Santa Clara U23 vs Portimonense U23 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4609502.m3u8?txSecret=ce7b5e6142112d2c91ed363ed8011a2c&txTime=6AB34740
+#EXTINF:-1 tvg-id="3931112-78212" tvg-name="FIBA Intercontinental Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIBA Intercontinental Cup - 22 Sep 2026 19:30 WIB - Beijing Royal Fighters vs Boca Juniors (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3931112.m3u8?txSecret=2bab006813ef247133bf726dff6cbbe5&txTime=6AB34740
+#EXTINF:-1 tvg-id="4520499-78264" tvg-name="RUS D3B" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",RUS D3B - 22 Sep 2026 21:00 WIB - FC Sevastopol vs Rubin Yalta (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4520499.m3u8?txSecret=e01b1446aa042e0c167cc1786ddd5133&txTime=6AB34740
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/e903d5740a60e44291b4126c4cce980a.png!w80",12:00 | Borneo Hornbills vs Pelita Jaya
 https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782232522-0-0-2b6cc00beb99e824aa1924926b75ae7b
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782232522-0-0-679c8588d0b330b0994ca6eb0bb2a344
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6f927eb040bdd5c972a9343fd9c8b873.png!w80",15:30 | CFR vs CS Voluntari
-https://live05.meung.app/live/78905744.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1eb717a2e3c704c2f687d4b4a5181030.png!w80",14:00 | FK Ilpar vs Metallurg Asha
 https://live05.meung.app/live/87379114.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR vs CS Voluntari (BLV 7UP) [flv]
-https://live05.meung.app/live/78905744.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR vs CS Voluntari (BLV 7UP) [hls 2]
-https://live05.miekgo.app/live/78905744.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
