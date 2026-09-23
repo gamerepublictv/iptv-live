@@ -219,100 +219,56 @@ http://193.47.62.59/hls/zggga.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/zggg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Las Vegas Aces vs Los Angeles Sparks" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Las Vegas Aces vs Los Angeles Sparks (Hiệp hội bóng rổ quốc gia nữ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/68096136_85df4a5e5c464f9db7aaee6ee7a75f1b_autoChange.m3u8?auth_key=1790150061-0-0-b4874c62efe18f1e5db7ae5e8e47c684
-#EXTINF:-1 tvg-id="" tvg-name="BLV Cozy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Las Vegas Aces vs Los Angeles Sparks - BLV Cozy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Portland Fire vs Golden State Valkyries" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Portland Fire vs Golden State Valkyries (Hiệp hội bóng rổ quốc gia nữ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/68096452_ccfb579807c7f8966b5633006aada43e_autoChange.m3u8?auth_key=1790150061-0-0-925ce54da8998ffddec3058f5c5163d4
-#EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Portland Fire vs Golden State Valkyries - BLV 247
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/liga_bri.png" ,BRI Super League - Persijap vs Persib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
 https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=284bfbae96c416a804a2cd3e75721e5b&wsABSTime=1789950591
-#EXTINF:-1 tvg-id="3909131-78684" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 23 Sep 2026 10:00 WIB - Los Angeles Sparks vs Las Vegas Aces (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3909131.m3u8?txSecret=17bc4dbd7dca9ad5054267ec87eb1df3&txTime=6AB49E60
-#EXTINF:-1 tvg-id="3909131-78690" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 23 Sep 2026 10:00 WIB - Los Angeles Sparks vs Las Vegas Aces (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/68096136_85df4a5e5c464f9db7aaee6ee7a75f1b_1080p.m3u8?auth_key=1790150012-0-0-f7fc773b1bc3c746a67b83019e8d6835
-#EXTINF:-1 tvg-id="3909164-78685" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 23 Sep 2026 10:00 WIB - Golden State Valkyries vs Portland Fire (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3909164.m3u8?txSecret=1fdaeede75692bd293c6123f659d29f1&txTime=6AB49E60
-#EXTINF:-1 tvg-id="3909164-78695" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 23 Sep 2026 10:00 WIB - Golden State Valkyries vs Portland Fire (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/68096452_ccfb579807c7f8966b5633006aada43e_1080p.m3u8?auth_key=1790150012-0-0-226029fd556b7cd15fc6287605b31676
 #EXTINF:-1 tvg-id="3934315-78686" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 23 Sep 2026 13:05 WIB - Alvark Tokyo vs Ryukyu Golden Kings (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3934315.m3u8?txSecret=73ad481c87dc77a188625905e9209acb&txTime=6AB49E60
+https://pul-tenm.gkykp.com/live/sd-2-3934315.m3u8?txSecret=93c96d417a4144c99c4cfd5afb2b2558&txTime=6AB4A928
 #EXTINF:-1 tvg-id="3935133-78669" tvg-name="B.League One" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League One - 23 Sep 2026 13:05 WIB - Tokushima Gambarous vs Yokohama Excellence (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935133.m3u8?txSecret=dbcd06a3b4988dbf646b9bd8697bf7f4&txTime=6AB49E60
+https://pul-tenm.gkykp.com/live/sd-2-3935133.m3u8?txSecret=e1e66642cd1900d8f251e621b164e835&txTime=6AB4A928
 #EXTINF:-1 tvg-id="4594058-78670" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 23 Sep 2026 13:30 WIB - China U23 vs United Arab Emirates U23 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4594058.m3u8?txSecret=24d72c22426b9ddad1ac685ff3251fe2&txTime=6AB49E60
+https://pul-tenm.gkykp.com/live/hd-en-1-4594058.m3u8?txSecret=9501c1265a88d01a239662f0181cdb71&txTime=6AB4A928
 #EXTINF:-1 tvg-id="4594063-78671" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 23 Sep 2026 13:30 WIB - Iran U23 vs North Korea U23 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4594063.m3u8?txSecret=998000d4149735c8626a1db18af07fc0&txTime=6AB49E60
+https://pul-tenm.gkykp.com/live/hd-en-1-4594063.m3u8?txSecret=ba325b14d1edae48e9b55f9dbf325a94&txTime=6AB4A928
 #EXTINF:-1 tvg-id="3931113-78672" tvg-name="FIBA Intercontinental Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIBA Intercontinental Cup - 23 Sep 2026 15:30 WIB - Shanghai Jiushi Sharks vs RSSB Tigers (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3931113.m3u8?txSecret=68144bb74604fca16e94a0dd288ff38c&txTime=6AB49E60
+https://pul-tenm.gkykp.com/live/sd-2-3931113.m3u8?txSecret=61f49d3c785897e37cd55b6663d9d70a&txTime=6AB4A928
 #EXTINF:-1 tvg-id="3926017-78673" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 23 Sep 2026 17:30 WIB - Cairns Taipans vs Tasmania JackJumpers (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3926017.m3u8?txSecret=59aab88673006449290d468acb36e41a&txTime=6AB49E60
+https://pul-tenm.gkykp.com/live/sd-2-3926017.m3u8?txSecret=a1833705deec8673699f05b99d1db714&txTime=6AB4A928
 #EXTINF:-1 tvg-id="3934165-78674" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 23 Sep 2026 18:05 WIB - Nagasaki Velca vs Shimane Susanoo Magic (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3934165.m3u8?txSecret=08a71223ca476d4e02a20b3fd7a5168a&txTime=6AB49E60
+https://pul-tenm.gkykp.com/live/sd-2-3934165.m3u8?txSecret=b5f229bed50aed6235419a2448892e29&txTime=6AB4A928
 #EXTINF:-1 tvg-id="4594052-78687" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 23 Sep 2026 18:30 WIB - Japan U23 vs Thailand U23 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4594052.m3u8?txSecret=b83a2fe2ceeca5b4252ff91fda254958&txTime=6AB49E60
+https://pul-tenm.gkykp.com/live/hd-en-1-4594052.m3u8?txSecret=a882dd934197000ad68b5c59891e1399&txTime=6AB4A928
 #EXTINF:-1 tvg-id="4594057-78688" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 23 Sep 2026 18:30 WIB - Kyrgyzstan U23 vs Hong Kong U23 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4594057.m3u8?txSecret=0b6b4d36b6eab9f0b813c53c964bb74a&txTime=6AB49E60
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/a31d8680851118728518f72f2030a154.png!w80",07:00 | Hàn Quốc vs Iran
-https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80",07:00 | Tauranga Whai vs Southland Sharks
-https://live05.meung.app/live/90865415.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/e903d5740a60e44291b4126c4cce980a.png!w80",12:00 | Borneo Hornbills vs Pelita Jaya
-https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",22:30 | Atletico Clube Goianiense vs Operario
-https://live05.meung.app/live/90865415.m3u8
+https://pul-tenm.gkykp.com/live/hd-en-1-4594057.m3u8?txSecret=6671a4c2999b2c66f63b978b8e109a4d&txTime=6AB4A928
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
