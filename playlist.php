@@ -199,34 +199,18 @@ http://193.47.62.59/hls/zggga.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/zggg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Medellin Independiente vs Jaguares de Cordoba" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fa43b934409a4d2475b0e5f69d1b2ec16.png%21w80&size=300&scale=1.5", Medellin Independiente vs Jaguares de Cordoba (Giải vô địch quốc gia Colombia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/74716100_ce771eb9848ccc147811d2077b312ad9_autoChange.m3u8?auth_key=1790136857-0-0-1520b9f91ca774bf9380b63c862331b6
-#EXTINF:-1 tvg-id="" tvg-name="BLV SAMURAI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fa43b934409a4d2475b0e5f69d1b2ec16.png%21w80&size=300&scale=1.5", Medellin Independiente vs Jaguares de Cordoba - BLV SAMURAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/07808742_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cobreloa vs Coquimbo Unido" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd63f2665f489d5a1c0a059feb0b0d0e4.png%21w80&size=300&scale=1.5", Cobreloa vs Coquimbo Unido (Cúp Chile)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/74321582_13acce36f41c9bdba245767f2508f609_autoChange.m3u8?auth_key=1790136857-0-0-a68351baf28757d875f6c499a7351ee3
+https://live.dyrur1.com/live/74321582_13acce36f41c9bdba245767f2508f609_autoChange.m3u8?auth_key=1790139523-0-0-94f329e3e729a0307c71b0f222d6eeb0
 #EXTINF:-1 tvg-id="" tvg-name="BLV SPRITE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd63f2665f489d5a1c0a059feb0b0d0e4.png%21w80&size=300&scale=1.5", Cobreloa vs Coquimbo Unido - BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A. Italiano vs Colo Colo" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd63f2665f489d5a1c0a059feb0b0d0e4.png%21w80&size=300&scale=1.5", A. Italiano vs Colo Colo (Cúp Chile)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/74321584_d203697ea7f178da76b604f1b522f275_autoChange.m3u8?auth_key=1790136857-0-0-4d977a2a83315c1dc0cbd580f6c48ea6
-#EXTINF:-1 tvg-id="" tvg-name="BLV AQUA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd63f2665f489d5a1c0a059feb0b0d0e4.png%21w80&size=300&scale=1.5", A. Italiano vs Colo Colo - BLV AQUA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/18812304_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Washington Mystics vs Connecticut Sun" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Washington Mystics vs Connecticut Sun (Hiệp hội bóng rổ quốc gia nữ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.dyrur1.com/live/68096448_f55e972c13c3f3f3e71fa6c7f389adf2_autoChange.m3u8?auth_key=1790136857-0-0-0fa6e753d03f50d097237f5a106879a0
+https://live2.dyrur1.com/live/68096448_f55e972c13c3f3f3e71fa6c7f389adf2_autoChange.m3u8?auth_key=1790139523-0-0-a81be7873d5ae052e0c47d0dc516765b
 #EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Washington Mystics vs Connecticut Sun - BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -234,7 +218,7 @@ https://live05.meung.app/live/82054853_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Indiana Fever vs Minnesota Lynx" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Indiana Fever vs Minnesota Lynx (Hiệp hội bóng rổ quốc gia nữ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/wv784sxrr4gfoqr_f985e777eab4159e2a3ae160c9593206_autoChange.m3u8?auth_key=1790136857-0-0-83e6295e4f73ab6d9301e196cb30fdc2
+https://live.dyrur1.com/live/wv784sxrr4gfoqr_f985e777eab4159e2a3ae160c9593206_autoChange.m3u8?auth_key=1790139523-0-0-861ad7677f9f85bb79a24f3e1aaaf754
 #EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Indiana Fever vs Minnesota Lynx - BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -244,56 +228,31 @@ https://live05.meung.app/live/19919577_tsc.m3u8
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
 https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=284bfbae96c416a804a2cd3e75721e5b&wsABSTime=1789950591
-#EXTINF:-1 tvg-id="4494722-78650" tvg-name="Brazilian Serie B" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Brazilian Serie B - 23 Sep 2026 06:30 WIB - Criciuma vs Operario Ferroviario PR (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/68823298_3e726f1a5d1b81a9882b15dfe9225fee_1080p.m3u8?auth_key=1790136210-0-0-52ce5815786662d85228562e8a28b5bd
-#EXTINF:-1 tvg-id="4569302-78643" tvg-name="Categoría Primera A" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Categoría Primera A - 23 Sep 2026 07:00 WIB - Dep.Independiente Medellin vs Jaguares de Cordoba (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4569302.m3u8?txSecret=82dd36e531a7fe288ca3b8b4f4e74a3e&txTime=6AB46AD0
-#EXTINF:-1 tvg-id="4569302-78653" tvg-name="Categoría Primera A" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Categoría Primera A - 23 Sep 2026 07:00 WIB - Dep.Independiente Medellin vs Jaguares de Cordoba (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/68823298_3e726f1a5d1b81a9882b15dfe9225fee_1080p.m3u8?auth_key=1790136210-0-0-52ce5815786662d85228562e8a28b5bd
-#EXTINF:-1 tvg-id="4615189-78644" tvg-name="Bolivian Copa LFPB" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Bolivian Copa LFPB - 23 Sep 2026 07:00 WIB - Nacional Potosi vs Real Potosi (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4615189.m3u8?txSecret=d077c6e8ee1ac9ac66e187402cca4a1a&txTime=6AB46AD0
-#EXTINF:-1 tvg-id="4615189-78665" tvg-name="Bolivian Copa LFPB" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Bolivian Copa LFPB - 23 Sep 2026 07:00 WIB - Nacional Potosi vs Real Potosi (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74131028_1c4e6c6a08d9ad3699deeafc62765816_1080p.m3u8?auth_key=1790136028-0-0-07553c1f79f5da361543258916cc3311
 #EXTINF:-1 tvg-id="3908962-78645" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 23 Sep 2026 07:30 WIB - Connecticut Sun vs Washington Mystics (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3908962.m3u8?txSecret=575e2cd1c9e986c59e772e71f1cf6437&txTime=6AB46AD0
+https://pul-tenm.gkykp.com/live/hd-en-2-3908962.m3u8?txSecret=9a5725938effc17e318e68da5b098601&txTime=6AB47598
 #EXTINF:-1 tvg-id="3908962-78662" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 23 Sep 2026 07:30 WIB - Connecticut Sun vs Washington Mystics (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/68096448_f55e972c13c3f3f3e71fa6c7f389adf2_1080p.m3u8?auth_key=1790136807-0-0-4a81e77fb3a3cd9c52085458c1cf4386
+https://live2.dyrur1.com/live/68096448_f55e972c13c3f3f3e71fa6c7f389adf2_1080p.m3u8?auth_key=1790139523-0-0-a81be7873d5ae052e0c47d0dc516765b
 #EXTINF:-1 tvg-id="4641685-78646" tvg-name="Chilean Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chilean Cup - 23 Sep 2026 07:30 WIB - Audax Italiano vs Colo Colo (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4641685.m3u8?txSecret=570bc15e1bbda4103383f196e7c570b1&txTime=6AB46AD0
+https://pul-tenm.gkykp.com/live/sd-1-4641685.m3u8?txSecret=1dd7a8482be4f922c853680a0de75f17&txTime=6AB47598
 #EXTINF:-1 tvg-id="4641685-78661" tvg-name="Chilean Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chilean Cup - 23 Sep 2026 07:30 WIB - Audax Italiano vs Colo Colo (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/14447751_a11b0cf45d328602bb5bb61f5e37614f_1080p.m3u8?auth_key=1790132578-0-0-2d8a4f2914eeb6264c7c7402f32376dc
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/74321584_d203697ea7f178da76b604f1b522f275_1080p.m3u8?auth_key=1790139174-0-0-b79e72486797c4dc82ca1800ac5ce41c
 #EXTINF:-1 tvg-id="4641687-78649" tvg-name="Chilean Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chilean Cup - 23 Sep 2026 07:30 WIB - Cobreloa vs Coquimbo Unido (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4641687.m3u8?txSecret=019dd11560bb30e30f5b0eaac3594c49&txTime=6AB46AD0
+https://pul-tenm.gkykp.com/live/sd-1-4641687.m3u8?txSecret=3f9c6ad9c6a3580d337a837a31f43c14&txTime=6AB47598
 #EXTINF:-1 tvg-id="4641687-78666" tvg-name="Chilean Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chilean Cup - 23 Sep 2026 07:30 WIB - Cobreloa vs Coquimbo Unido (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
@@ -303,27 +262,70 @@ https://live.dyrur1.com/live/74321582_13acce36f41c9bdba245767f2508f609_1080p.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3909198.m3u8?txSecret=3629123b1b86fe4e78f2dd48109bc276&txTime=6AB46AD0
+https://pul-tenm.gkykp.com/live/hd-en-2-3909198.m3u8?txSecret=f9aa4fe57821615cf9751d832fcdcd98&txTime=6AB47598
 #EXTINF:-1 tvg-id="3909198-78663" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 23 Sep 2026 08:00 WIB - Toronto Tempo vs Chicago Sky (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
 #EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/o17p8syddgesykj_50846449f6e53236026dbfceb29a506d_1080p.m3u8?auth_key=1790136808-0-0-a97b8184ed6ac77bed8e742e7d0968ca
+https://live1.dyrur1.com/live/o17p8syddgesykj_50846449f6e53236026dbfceb29a506d_1080p.m3u8?auth_key=1790139523-0-0-70adb5abb2ec943e8e463b70bea27e37
 #EXTINF:-1 tvg-id="3909232-78652" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 23 Sep 2026 08:00 WIB - Minnesota Lynx vs Indiana Fever (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3909232.m3u8?txSecret=c1b7bfbc6d4615f0a49376ad0fbcd57e&txTime=6AB46AD0
+https://pul-tenm.gkykp.com/live/hd-en-2-3909232.m3u8?txSecret=7b87b1e25e24cf3fc401c2cffa034da1&txTime=6AB47598
 #EXTINF:-1 tvg-id="3909232-78664" tvg-name="Women's National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Women's National Basketball Association - 23 Sep 2026 08:00 WIB - Minnesota Lynx vs Indiana Fever (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/wv784sxrr4gfoqr_f985e777eab4159e2a3ae160c9593206_1080p.m3u8?auth_key=1790136808-0-0-6489d805c42d4e1151024c79920a9b45
+https://live.dyrur1.com/live/wv784sxrr4gfoqr_f985e777eab4159e2a3ae160c9593206_1080p.m3u8?auth_key=1790139523-0-0-861ad7677f9f85bb79a24f3e1aaaf754
 #EXTINF:-1 tvg-id="4640958-78657" tvg-name="Categoría Primera A" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Categoría Primera A - 23 Sep 2026 09:00 WIB - Independiente Santa Fe vs Deportivo Cali (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4640958.m3u8?txSecret=6757977f1beea6bc4b95c62a7b603b6f&txTime=6AB46AD0
+https://pul-tenm.gkykp.com/live/sd-1-4640958.m3u8?txSecret=9ced5b222dfb31df4423bd1c7914bf71&txTime=6AB47598
+#EXTINF:-1 tvg-id="4640958-78681" tvg-name="Categoría Primera A" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Categoría Primera A - 23 Sep 2026 09:00 WIB - Independiente Santa Fe vs Deportivo Cali (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/74321584_d203697ea7f178da76b604f1b522f275_1080p.m3u8?auth_key=1790139174-0-0-b79e72486797c4dc82ca1800ac5ce41c
+#EXTINF:-1 tvg-id="3935133-78669" tvg-name="B.League One" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League One - 23 Sep 2026 13:05 WIB - Tokushima Gambarous vs Yokohama Excellence (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3935133.m3u8?txSecret=0060be346f88e1cfe591fbdc6bbefa78&txTime=6AB47598
+#EXTINF:-1 tvg-id="4594058-78670" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 23 Sep 2026 13:30 WIB - China U23 vs United Arab Emirates U23 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4594058.m3u8?txSecret=517e90c1ae0df491a798d9a25ef60d50&txTime=6AB47598
+#EXTINF:-1 tvg-id="4594063-78671" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 23 Sep 2026 13:30 WIB - Iran U23 vs North Korea U23 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4594063.m3u8?txSecret=7373dac7a9ab1187e695a3cf14e3d693&txTime=6AB47598
+#EXTINF:-1 tvg-id="3931113-78672" tvg-name="FIBA Intercontinental Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIBA Intercontinental Cup - 23 Sep 2026 15:30 WIB - Shanghai Jiushi Sharks vs RSSB Tigers (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3931113.m3u8?txSecret=efe15cb8b7700b81d29cbc4d0b2c9ecf&txTime=6AB47598
+#EXTINF:-1 tvg-id="3926017-78673" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 23 Sep 2026 17:30 WIB - Cairns Taipans vs Tasmania JackJumpers (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3926017.m3u8?txSecret=18ed568eaf2f00b4ce97a3efe3bd1e42&txTime=6AB47598
+#EXTINF:-1 tvg-id="3934165-78674" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 23 Sep 2026 18:05 WIB - Nagasaki Velca vs Shimane Susanoo Magic (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3934165.m3u8?txSecret=5f369e7c9ae842007339fc90ad9f97ee&txTime=6AB47598
+#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/I0OcS8bAwpO4jNv7VHmn4q3dyd8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328674/230f9b.png" tvg-logo="https://thumbor.prod.vidiocdn.com/I0OcS8bAwpO4jNv7VHmn4q3dyd8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328674/230f9b.png" group-title="Event-LIVE-NOW", Wang Zhiyi vs Putri Kusuma Wardani - Match 1 - Women's Badminton Team Semifinals | 20th Asian Games Aichi-Nagoya 2026 (07:30 - 08:20 * 23 September 2026)
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=22240&type=drm&token=ab4cd5efaf55e81c7fbf6b503a5d85df
+https://dusk.biz.id/fidyu/play.mpd?id=22240&type=dash&token=ab4cd5efaf55e81c7fbf6b503a5d85df
 #EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/a2zt8mldckd3_9f063d9a_20260918.png?v=9f063d9a",Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7 | 06:00 23/09
 https://eqr2hdarxfliv.vcdn.cloud/1789368641_hd/1789368641_hd@720p.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80",16:00 | Jaro vs CLB Gnistan Helsinki
@@ -332,8 +334,10 @@ https://live05.meung.app/live/19919577.m3u8
 https://live05.meung.app/live/82054853.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80",12:00 | Chengdu Rongcheng B vs Guangzhou Dandelion Alpha FC
 https://live05.meung.app/live/75748097.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80",10:30 | Qingdao Red Lions vs Beijing Technology
-https://live05.meung.app/live/07808742.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782232522-0-0-56e4b93b1d457bb424d110ca6730a379
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782232522-0-0-817442f1c8516fe936675b737e2b61ef
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/d639bb3f26ed6f1600de1e55885fa4be.png!w80",15:00 | FK Andijon vs Buxoro FK
 https://live05.meung.app/live/75748097.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",22:30 | Sport Club Recife PE vs Cuiaba
@@ -342,10 +346,6 @@ https://live05.meung.app/live/82054853.m3u8
 https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 27/07 Qingdao Red Lions vs Beijing Technology (BLV SAMURAI) [flv]
-https://live05.meung.app/live/07808742.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 27/07 Qingdao Red Lions vs Beijing Technology (BLV SAMURAI) [hls 2]
-https://live05.miekgo.app/live/07808742.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 FK Andijon vs Buxoro FK (BLV SPRITE) [flv]
 https://live05.meung.app/live/75748097.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 27/07 FK Andijon vs Buxoro FK (BLV SPRITE) [hls 2]
