@@ -219,6 +219,14 @@ http://193.47.62.59/hls/zggga.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/zggg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Iran U23 vs Triều Tiên U23" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F23fc1501bb2c9e45bfa90092c353fad5.png%21w80&size=300&scale=1.5", Iran U23 vs Triều Tiên U23 (Đại hội Thể thao Châu Á)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live.dyrur1.com/live/73841652_7a4f56cca94b9b54e295930a88058988_autoChange.m3u8?auth_key=1790155325-0-0-e3b333e60966fb2aa0df29e9d640434d
+#EXTINF:-1 tvg-id="" tvg-name="BLV FANTA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F23fc1501bb2c9e45bfa90092c353fad5.png%21w80&size=300&scale=1.5", Iran U23 vs Triều Tiên U23 - BLV FANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/16226575_tsc.m3u8
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://openwindows037.serv00.net/logo/liga_bri.png" ,BRI Super League - Persijap vs Persib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
@@ -228,48 +236,99 @@ https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=284bfbae96c416a80
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3934315.m3u8?txSecret=93c96d417a4144c99c4cfd5afb2b2558&txTime=6AB4A928
+https://pul-tenm.gkykp.com/live/sd-2-3934315.m3u8?txSecret=9e145432d0de3746489b13b26d1e235f&txTime=6AB4B378
+#EXTINF:-1 tvg-id="3934315-78729" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 23 Sep 2026 13:05 WIB - Alvark Tokyo vs Ryukyu Golden Kings (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/72695898_329203680d9610bbb61c0f178962a772_1080p.m3u8?auth_key=1790154720-0-0-027a9d1343af96d67eec9550e21daaf7
 #EXTINF:-1 tvg-id="3935133-78669" tvg-name="B.League One" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League One - 23 Sep 2026 13:05 WIB - Tokushima Gambarous vs Yokohama Excellence (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935133.m3u8?txSecret=e1e66642cd1900d8f251e621b164e835&txTime=6AB4A928
+https://pul-tenm.gkykp.com/live/sd-2-3935133.m3u8?txSecret=a3ec07b48112f19ff490cb8fbec480ce&txTime=6AB4B378
+#EXTINF:-1 tvg-id="3935133-78726" tvg-name="B.League One" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League One - 23 Sep 2026 13:05 WIB - Tokushima Gambarous vs Yokohama Excellence (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/14214144_fdc93498bfd9eae624c1ecca87cc22be_1080p.m3u8?auth_key=1790154730-0-0-eb55bf3dbfc7a4060345c02ed782159f
 #EXTINF:-1 tvg-id="4594058-78670" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 23 Sep 2026 13:30 WIB - China U23 vs United Arab Emirates U23 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4594058.m3u8?txSecret=9501c1265a88d01a239662f0181cdb71&txTime=6AB4A928
+https://pul-tenm.gkykp.com/live/hd-en-1-4594058.m3u8?txSecret=12d99020e2d862e691be1d6b1991c735&txTime=6AB4B378
 #EXTINF:-1 tvg-id="4594063-78671" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 23 Sep 2026 13:30 WIB - Iran U23 vs North Korea U23 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4594063.m3u8?txSecret=ba325b14d1edae48e9b55f9dbf325a94&txTime=6AB4A928
+https://pul-tenm.gkykp.com/live/hd-en-1-4594063.m3u8?txSecret=c9218998977c57f049de2280a0c31322&txTime=6AB4B378
+#EXTINF:-1 tvg-id="4594063-78731" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 23 Sep 2026 13:30 WIB - Iran U23 vs North Korea U23 (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/14214144_fdc93498bfd9eae624c1ecca87cc22be_1080p.m3u8?auth_key=1790154730-0-0-eb55bf3dbfc7a4060345c02ed782159f
 #EXTINF:-1 tvg-id="3931113-78672" tvg-name="FIBA Intercontinental Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIBA Intercontinental Cup - 23 Sep 2026 15:30 WIB - Shanghai Jiushi Sharks vs RSSB Tigers (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3931113.m3u8?txSecret=61f49d3c785897e37cd55b6663d9d70a&txTime=6AB4A928
+https://pul-tenm.gkykp.com/live/sd-2-3931113.m3u8?txSecret=bc477a983c7c7550d7b2c978a6e77b62&txTime=6AB4B378
 #EXTINF:-1 tvg-id="3926017-78673" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 23 Sep 2026 17:30 WIB - Cairns Taipans vs Tasmania JackJumpers (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3926017.m3u8?txSecret=a1833705deec8673699f05b99d1db714&txTime=6AB4A928
+https://pul-tenm.gkykp.com/live/sd-2-3926017.m3u8?txSecret=df6466f9e744ca0ae8c7e56c948c6f5f&txTime=6AB4B378
 #EXTINF:-1 tvg-id="3934165-78674" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 23 Sep 2026 18:05 WIB - Nagasaki Velca vs Shimane Susanoo Magic (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3934165.m3u8?txSecret=b5f229bed50aed6235419a2448892e29&txTime=6AB4A928
+https://pul-tenm.gkykp.com/live/sd-2-3934165.m3u8?txSecret=5444160b7ad5070bcf9f39ffbeb6627b&txTime=6AB4B378
 #EXTINF:-1 tvg-id="4594052-78687" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 23 Sep 2026 18:30 WIB - Japan U23 vs Thailand U23 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4594052.m3u8?txSecret=a882dd934197000ad68b5c59891e1399&txTime=6AB4A928
+https://pul-tenm.gkykp.com/live/hd-en-1-4594052.m3u8?txSecret=62017830a4e224aeaeaf6f783321d673&txTime=6AB4B378
 #EXTINF:-1 tvg-id="4594057-78688" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 23 Sep 2026 18:30 WIB - Kyrgyzstan U23 vs Hong Kong U23 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4594057.m3u8?txSecret=6671a4c2999b2c66f63b978b8e109a4d&txTime=6AB4A928
+https://pul-tenm.gkykp.com/live/hd-en-1-4594057.m3u8?txSecret=a6b3cee3b5a024a167abacdf4361a8c8&txTime=6AB4B378
+#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/Lf3vIgxJpuUmkErKXXi8UBiY390=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328268/67e0d9.jpg" tvg-logo="https://thumbor.prod.vidiocdn.com/Lf3vIgxJpuUmkErKXXi8UBiY390=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328268/67e0d9.jpg" group-title="Event-LIVE-NOW", Day 2 - WTA 500: Singapore Tennis Open 2026 (12:00 - 16:00 * 23 September 2026)
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=6786&type=drm&token=909e4781eb2149cc80e73fc9a25beb00
+https://dusk.biz.id/fidyu/play.mpd?id=6786&type=dash&token=909e4781eb2149cc80e73fc9a25beb00
+#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/Py2KqcMLo3ScMkwioTxAs95GK_4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328710/fc925a.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Py2KqcMLo3ScMkwioTxAs95GK_4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328710/fc925a.png" group-title="Event-LIVE-NOW", Sebastian Baez vs Jenson Brooksby - Round 1 | ATP 250: Chengdu Open 2026 (12:00 - 14:00 * 23 September 2026)
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=21896&type=drm&token=909e4781eb2149cc80e73fc9a25beb00
+https://dusk.biz.id/fidyu/play.mpd?id=21896&type=dash&token=909e4781eb2149cc80e73fc9a25beb00
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782232522-0-0-2b6cc00beb99e824aa1924926b75ae7b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782232522-0-0-679c8588d0b330b0994ca6eb0bb2a344
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782232522-0-0-ce583044375d834d1706b22452e075c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782232522-0-0-be25cfdb2864e1ff265f6fa5484e53b7
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",11:00 | Singapore vs Đông Timor
+https://live05.meung.app/live/16226575.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80",13:30 | Indonesia vs Campuchia
+https://live05.meung.app/live/14830711.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Đông Timor (BLV FANTA) [flv]
+https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Đông Timor (BLV FANTA) [hls 2]
+https://live05.miekgo.app/live/16226575.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Campuchia (BLV GIÀ LÀNG) [flv]
+https://live05.meung.app/live/14830711.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Campuchia (BLV GIÀ LÀNG) [hls 2]
+https://live05.miekgo.app/live/14830711.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
