@@ -73,52 +73,52 @@ https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=284bfbae96c416a80
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3943474.m3u8?txSecret=67938cf74b2741201fde3fad4966e632&txTime=6AB5FAA8
+https://pul-tenm.gkykp.com/live/hd-en-2-3943474.m3u8?txSecret=a5179badd26ab23667a04f26787efd30&txTime=6AB604F8
 #EXTINF:-1 tvg-id="3943474-79161" tvg-name="Asian Games - Women's Basketball" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Asian Games - Women's Basketball - 24 Sep 2026 12:00 WIB - Mongolia Women vs China Women (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74977664_eb6c95d2f18b6f32e24b0e05772823ab_1080p.m3u8?auth_key=1790237962-0-0-59be237c3ff1af0d4e95d5de9e645170
+https://live.dyrur1.com/live/74977664_eb6c95d2f18b6f32e24b0e05772823ab_1080p.m3u8?auth_key=1790240926-0-0-4dbae09c285883ef90e91ed76efb95cf
 #EXTINF:-1 tvg-id="3943549-79193" tvg-name="Club Friendship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Club Friendship - 24 Sep 2026 12:20 WIB - CTBC Business School Women vs University of Taipei(w) (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3943549.m3u8?txSecret=f87b60a4c4050379dcf4c995aa96171d&txTime=6AB5FAA8
-#EXTINF:-1 tvg-id="3943549-79194" tvg-name="Club Friendship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Club Friendship - 24 Sep 2026 12:20 WIB - CTBC Business School Women vs University of Taipei(w) (HD-J)
+https://pul-tenm.gkykp.com/live/sd-2-3943549.m3u8?txSecret=dbfcbc1e52508d3462a4607a738d2cf6&txTime=6AB604F8
+#EXTINF:-1 tvg-id="3943549-79195" tvg-name="Club Friendship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Club Friendship - 24 Sep 2026 12:20 WIB - CTBC Business School Women vs University of Taipei(w) (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74887864_9df81de959f7449217a3ad654c622b8b_1080p.m3u8?auth_key=1790238483-0-0-62d1e9638623f7886be00d6ea38f6680
+https://live.dyrur1.com/live/74887864_9df81de959f7449217a3ad654c622b8b_1080p.m3u8?auth_key=1790239479-0-0-9ba7a41567adefe0caf81253e4a15850
 #EXTINF:-1 tvg-id="3943475-79139" tvg-name="Asian Games - Women's Basketball" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Asian Games - Women's Basketball - 24 Sep 2026 15:00 WIB - Chinese Taipei Women vs Philippines Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3943475.m3u8?txSecret=19c6f4fb7e0db0dda9911948cad8d4ff&txTime=6AB5FAA8
+https://pul-tenm.gkykp.com/live/sd-2-3943475.m3u8?txSecret=01af8032592b65ed9179424b08b15ed5&txTime=6AB604F8
 #EXTINF:-1 tvg-id="3931124-79140" tvg-name="FIBA Intercontinental Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIBA Intercontinental Cup - 24 Sep 2026 15:30 WIB - Rytas Vilnius vs Shanghai Jiushi Sharks (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3931124.m3u8?txSecret=5b1bedc8e9638aabf267443ad2a0896b&txTime=6AB5FAA8
+https://pul-tenm.gkykp.com/live/sd-2-3931124.m3u8?txSecret=359e8077e9d003d7f4fe5f5c04f30b5f&txTime=6AB604F8
 #EXTINF:-1 tvg-id="3926016-79141" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 24 Sep 2026 17:30 WIB - South East Melbourne Phoenix vs Melbourne United (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3926016.m3u8?txSecret=970b2192726f09f7e2ef50cef1070702&txTime=6AB5FAA8
+https://pul-tenm.gkykp.com/live/sd-2-3926016.m3u8?txSecret=772666a957e7e26da2bc37dc840bc046&txTime=6AB604F8
 #EXTINF:-1 tvg-id="3935536-79142" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 24 Sep 2026 18:05 WIB - Gunma Crane Thunders vs Altiri Chiba (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935536.m3u8?txSecret=5824bf7c0bb6a068f5a9c135d405c104&txTime=6AB5FAA8
+https://pul-tenm.gkykp.com/live/sd-2-3935536.m3u8?txSecret=3e8a24559b1b51fb92b645788bc50b57&txTime=6AB604F8
 #EXTINF:-1 tvg-id="3943476-79143" tvg-name="Asian Games - Women's Basketball" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Asian Games - Women's Basketball - 24 Sep 2026 18:20 WIB - Japan Women vs Thailand Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3943476.m3u8?txSecret=bc1aea6196f22fe8ff49f19a19c744b4&txTime=6AB5FAA8
+https://pul-tenm.gkykp.com/live/sd-2-3943476.m3u8?txSecret=e3ac8f22d0d469e3ab155afabcdf46d3&txTime=6AB604F8
 #EXTINF:-1 tvg-id="4623502-78777" tvg-name="WAFF Arabian Gulf Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",WAFF Arabian Gulf Cup - 24 Sep 2026 23:55 WIB - United Arab Emirates vs Yemen (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4623502.m3u8?txSecret=8dc4bf48aaf6228ee43669f367909f9a&txTime=6AB5FAA8
+https://pul-tenm.gkykp.com/live/sd-1-4623502.m3u8?txSecret=a4198d116b479539f4bcc8330fa44a11&txTime=6AB604F8
 #EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/HNAbv2lwTysEYRU9CixGVXq2xZg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328611/94b231.png" tvg-logo="https://thumbor.prod.vidiocdn.com/HNAbv2lwTysEYRU9CixGVXq2xZg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328611/94b231.png" group-title="Event-LIVE-NOW", Ukraine vs Belgium - Billie Jean King Cup 2026 (09:00 - 15:00 * 24 September 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -135,14 +135,6 @@ https://dusk.biz.id/fidyu/play.mpd?id=6685&type=dash&token=70717f5a6d8dcc366e716
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=6686&type=drm&token=70717f5a6d8dcc366e716f6422ea4d8a
 https://dusk.biz.id/fidyu/play.mpd?id=6686&type=dash&token=70717f5a6d8dcc366e716f6422ea4d8a
-#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/rUoYWA-K8hcQGAsVJY0ksvQ5slE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5329805/59c4d6.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rUoYWA-K8hcQGAsVJY0ksvQ5slE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5329805/59c4d6.png" group-title="Event-LIVE-NOW", China vs Indonesia - Men's 3x3 Basketball Play-in | 20th Asian Games Aichi-Nagoya 2026 (11:15 - 11:40 * 24 September 2026)
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=22240&type=drm&token=70717f5a6d8dcc366e716f6422ea4d8a
-https://dusk.biz.id/fidyu/play.mpd?id=22240&type=dash&token=70717f5a6d8dcc366e716f6422ea4d8a
 #EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/gN7-clu2GQm9OqwXqRKsvsorfDU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5329768/932a27.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gN7-clu2GQm9OqwXqRKsvsorfDU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5329768/932a27.png" group-title="Event-LIVE-NOW", Ricko Saputra (INA) - Men's 60kg Final | 20th Asian Games Aichi-Nagoya 2026 (11:20 - 14:00 * 24 September 2026)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -151,6 +143,30 @@ https://dusk.biz.id/fidyu/play.mpd?id=22240&type=dash&token=70717f5a6d8dcc366e71
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=22242&type=drm&token=70717f5a6d8dcc366e716f6422ea4d8a
 https://dusk.biz.id/fidyu/play.mpd?id=22242&type=dash&token=70717f5a6d8dcc366e716f6422ea4d8a
+#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/1DGgRkT0TMorL8OkC_Fw5knxjV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5329810/768760.png" tvg-logo="https://thumbor.prod.vidiocdn.com/1DGgRkT0TMorL8OkC_Fw5knxjV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5329810/768760.png" group-title="Event-LIVE-NOW", Korea vs Indonesia - Women's Sepaktakraw Team Regu Semifinals | 20th Asian Games Aichi-Nagoya 2026 (12:00 - 15:00 * 24 September 2026)
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=22240&type=drm&token=70717f5a6d8dcc366e716f6422ea4d8a
+https://dusk.biz.id/fidyu/play.mpd?id=22240&type=dash&token=70717f5a6d8dcc366e716f6422ea4d8a
+#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/kaQKb_adGUApb-2URKM4agGhvrc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21896/round-1-atp-250-chengdu-open-2026-ef0c22.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kaQKb_adGUApb-2URKM4agGhvrc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21896/round-1-atp-250-chengdu-open-2026-ef0c22.png" group-title="Event-LIVE-NOW", Tallon Griekspoor vs Denis Shapovalov - Round 1 | ATP 250: Chengdu Open 2026 (12:00 - 14:00 * 24 September 2026)
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=21896&type=drm&token=70717f5a6d8dcc366e716f6422ea4d8a
+https://dusk.biz.id/fidyu/play.mpd?id=21896&type=dash&token=70717f5a6d8dcc366e716f6422ea4d8a
+#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/NsWAkH0Np4GFi19CckKc2x2k2ZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328274/cc0844.jpg" tvg-logo="https://thumbor.prod.vidiocdn.com/NsWAkH0Np4GFi19CckKc2x2k2ZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5328274/cc0844.jpg" group-title="Event-LIVE-NOW", Day 3 - WTA 500: Singapore Tennis Open 2026 (12:00 - 16:00 * 24 September 2026)
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/fidyu/play.drm?id=6786&type=drm&token=70717f5a6d8dcc366e716f6422ea4d8a
+https://dusk.biz.id/fidyu/play.mpd?id=6786&type=dash&token=70717f5a6d8dcc366e716f6422ea4d8a
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
