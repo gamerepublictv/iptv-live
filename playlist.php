@@ -460,8 +460,6 @@ https://pul-tenm.gkykp.com/live/sd-1-4336498.m3u8?txSecret=adf53eafbfd44f1c6e597
 https://pul-tenm.gkykp.com/live/sd-2-3926827.m3u8?txSecret=11abbe561a92e5cc2dd66987bc3efb20&txTime=6AB7D9B9
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/a31d8680851118728518f72f2030a154.png!w80",07:00 | Hàn Quốc vs Iran
 https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",15:00 | CLB Lahti vs TPS
-https://live05.meung.app/live/99121525.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80",07:00 | Tauranga Whai vs Southland Sharks
 https://live05.meung.app/live/90865415.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",22:30 | Atletico Clube Goianiense vs Operario
