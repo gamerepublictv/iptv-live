@@ -235,12 +235,7 @@ https://www.rtmpcdn.com/live/df76e533-de1c-4227-af03-204bb80fda46.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.50/hls/DIIIAAAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2063908461281189888%2F_KMpScrr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Tunisia vs Botswana --- CH 2 - Africa Cup of Nations Qualification 02.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/5465f3e2-5af7-4fc4-ab1e-84964c2ace61.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1477333156609073154%2F9DO9jLf7_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Guadeloupe vs Barbados - CONCACAF Nations League 02.00 WIB
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1477333156609073154%2F9DO9jLf7_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Guadeloupe vs Barbados --- CH 1 - CONCACAF Nations League 02.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -265,35 +260,10 @@ http://193.47.62.50/hls/H222QQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.50/hls/H222QQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1493176766755741700%2F_fRPxhSg_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Fredericia vs Sonderjyske - Denmark Handbold Ligaen 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/faaaQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1493176766755741700%2F_fRPxhSg_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Ribe-Esbjerg vs GOG - Denmark Handbold Ligaen 23.40 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/faaa.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1830558187436625920%2FRjp4pvzP_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Denmark U21 vs Belarus U21 - Euro U21 Qualification 23.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/H222.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 1 - Horse Racing 19.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.194/hls/vavavava.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 2 - Horse Racing 19.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.194/hls/vavavavaq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bỉ vs Pháp" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Bỉ vs Pháp (Giải vô địch bóng đá các quốc gia châu Âu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live4.dyrur1.com/live/13596779_16a4f9bf1470b1a0ba1ff957a536c068_autoChange.m3u8?auth_key=1790635479-0-0-8d2ac86fd7ff2e4fb15e7d219a98257b
+https://live4.dyrur1.com/live/68931476_99d0066bfe9fb41f898d2dfff77f7fe5_autoChange.m3u8?auth_key=1790638236-0-0-77df6de05693474becba24219a6f1929
 #EXTINF:-1 tvg-id="" tvg-name="BLV C2" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Bỉ vs Pháp - BLV C2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -305,7 +275,7 @@ https://live05.meung.app/live/14830711_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thổ nhĩ kỳ vs ĐTQG Ý" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Thổ nhĩ kỳ vs ĐTQG Ý (Giải vô địch bóng đá các quốc gia châu Âu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live3.dyrur1.com/live/68931480_4cf10f458ce96cf64f4550f6f1188b26_autoChange.m3u8?auth_key=1790635770-0-0-3426212b60aeb21228ab6d61bddb8dac
+https://live3.dyrur1.com/live/68931480_4cf10f458ce96cf64f4550f6f1188b26_autoChange.m3u8?auth_key=1790638236-0-0-96bd6c0c8ac4a7a4d21f7acda12781f2
 #EXTINF:-1 tvg-id="" tvg-name="BLV REVIVE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Thổ nhĩ kỳ vs ĐTQG Ý - BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -317,7 +287,7 @@ https://live05.meung.app/live/07428422_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thụy Điển vs ĐTQG Ba Lan" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Thụy Điển vs ĐTQG Ba Lan (Giải vô địch bóng đá các quốc gia châu Âu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/68932616_cb472ccf5d58d1e7526d4daa3f813f78_autoChange.m3u8?auth_key=1790635770-0-0-2c7796f323753ff912f47f12cf94e275
+https://live.dyrur1.com/live/68932616_cb472ccf5d58d1e7526d4daa3f813f78_autoChange.m3u8?auth_key=1790638236-0-0-773a1d5092838e551a61d999bd8ce9fe
 #EXTINF:-1 tvg-id="" tvg-name="BLV AQUA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Thụy Điển vs ĐTQG Ba Lan - BLV AQUA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -325,7 +295,7 @@ https://live05.meung.app/live/18812304_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ĐTQG Bắc Ireland vs ĐTQG Hungary" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", ĐTQG Bắc Ireland vs ĐTQG Hungary (Giải vô địch bóng đá các quốc gia châu Âu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/68932756_3a4e01399b3134460867fb4f2ef06406_autoChange.m3u8?auth_key=1790635770-0-0-bee7bf350989669df13163073477eea9
+https://live1.dyrur1.com/live/68932756_3a4e01399b3134460867fb4f2ef06406_autoChange.m3u8?auth_key=1790638236-0-0-7b582cabc2ea923fbe7f072e2283cd57
 #EXTINF:-1 tvg-id="" tvg-name="BLV SODA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", ĐTQG Bắc Ireland vs ĐTQG Hungary - BLV SODA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -333,7 +303,7 @@ https://live05.meung.app/live/02456966_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLB Romania vs ĐTQG Bosnia Herzegovina" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", CLB Romania vs ĐTQG Bosnia Herzegovina (Giải vô địch bóng đá các quốc gia châu Âu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.dyrur1.com/live/68932614_69c83bc7934ae619e6d739486e68f3cc_autoChange.m3u8?auth_key=1790635770-0-0-54b016c4d5c9e46cb54eeff08e603c4a
+https://live2.dyrur1.com/live/68932614_69c83bc7934ae619e6d739486e68f3cc_autoChange.m3u8?auth_key=1790638236-0-0-371194af8704f8eb67a08558bc5d28f3
 #EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", CLB Romania vs ĐTQG Bosnia Herzegovina - BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -341,31 +311,16 @@ https://live05.meung.app/live/78905744_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLB Leganes vs Castellon" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fe8d38514cbb040848b373ab571a0f11c.png%21w80&size=300&scale=1.5", CLB Leganes vs Castellon (Giải bóng đá Hạng nhì Tây Ban Nha)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/72477440_af0626786e65fbc0697bf70c1c665701_autoChange.m3u8?auth_key=1790635772-0-0-eeca4bf64648a0c600cbb8c6cb466245
+https://live.dyrur1.com/live/72477440_af0626786e65fbc0697bf70c1c665701_autoChange.m3u8?auth_key=1790638236-0-0-70dbfac51903f12eb24c416923bb3aef
 #EXTINF:-1 tvg-id="" tvg-name="BLV PEPSI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fe8d38514cbb040848b373ab571a0f11c.png%21w80&size=300&scale=1.5", CLB Leganes vs Castellon - BLV PEPSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="3943460-83486" tvg-name="Israel Basketball League Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Israel Basketball League Cup - 29 Sep 2026 01:00 WIB - Ironi Nes Ziona vs Galil Elyon (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3943460.m3u8?txSecret=071e698953a26abd37632d3e2b0b4955&txTime=6ABC07E0
-#EXTINF:-1 tvg-id="4560722-83522" tvg-name="Slovenia 2.Liga" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Slovenia 2.Liga - 29 Sep 2026 01:00 WIB - NK Rudar Velenje vs Dravinja (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4560722.m3u8?txSecret=0e85fd59caf5c0d3939465fa64e0194f&txTime=6ABC07E0
-#EXTINF:-1 tvg-id="4560722-83523" tvg-name="Slovenia 2.Liga" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Slovenia 2.Liga - 29 Sep 2026 01:00 WIB - NK Rudar Velenje vs Dravinja (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74952090_1a66e31027052d4bb35b4b413507c034_1080p.m3u8?auth_key=1790632020-0-0-a07522668850234fab46ed1e5180dd1b
 #EXTINF:-1 tvg-id="3943534-83377" tvg-name="West Asia Super League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",West Asia Super League - 29 Sep 2026 01:45 WIB - Kuwait SC vs Al Riyadi Beirut (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3943534.m3u8?txSecret=62c61fcbe356d1118ad1b24a841c07a8&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-2-3943534.m3u8?txSecret=23945f70299771aab645e4f50cf21891&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="3943534-83519" tvg-name="West Asia Super League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",West Asia Super League - 29 Sep 2026 01:45 WIB - Kuwait SC vs Al Riyadi Beirut (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
@@ -375,7 +330,7 @@ https://live.dyrur1.com/live/74929740_1fb9367faf9560efea6bca22b55fe971_1080p.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4489262.m3u8?txSecret=7c4ca7d9fb49e09e3a86a592e0e3d7ba&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4489262.m3u8?txSecret=93b67e0869b044e3835fb6bdd6dde57b&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4489262-83532" tvg-name="Argentine Group B Tebolidun League Manchester" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Group B Tebolidun League Manchester - 29 Sep 2026 02:00 WIB - Flandria vs Sportivo Dock Sud (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
@@ -385,7 +340,7 @@ https://live1.dyrur1.com/live/67119776_ab308a631c227853a6dd80209249a9a4_1080p.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4489930.m3u8?txSecret=febb8a83eaa63acc049b98513c3296b8&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4489930.m3u8?txSecret=cc07cdc24069d8074d0627494c5e8dca&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4489930-83524" tvg-name="Argentine Group C Tebolidun League Manchester" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Group C Tebolidun League Manchester - 29 Sep 2026 02:00 WIB - Centro Espanol vs Defensores de Cambaceres (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
@@ -395,112 +350,122 @@ https://live2.dyrur1.com/live/67123562_4d1ba46379e23c36e4dc186775158431_1080p.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4567285.m3u8?txSecret=7cc13c2e57c23eb5790c71191a8be343&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4567285.m3u8?txSecret=2ecf8b251163688dc57acf2cd1d13c2f&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4567285-83529" tvg-name="Spanish Segunda Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Spanish Segunda Division - 29 Sep 2026 02:30 WIB - CD Leganes vs Castellon (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/72477440_af0626786e65fbc0697bf70c1c665701_1080p.m3u8?auth_key=1790635720-0-0-dbe3f1b7e065909044c86da0e20552f2
+https://live.dyrur1.com/live/72477440_af0626786e65fbc0697bf70c1c665701_1080p.m3u8?auth_key=1790638236-0-0-70dbfac51903f12eb24c416923bb3aef
 #EXTINF:-1 tvg-id="4517960-83367" tvg-name="UEFA Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Nations League - 29 Sep 2026 02:45 WIB - Belgium vs France (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4517960.m3u8?txSecret=edc9d0741a15ec36c70340061eb6397f&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/hd-en-1-4517960.m3u8?txSecret=338eb82e579d42e1ea16d555ec7a8c2f&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4517960-83539" tvg-name="UEFA Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Nations League - 29 Sep 2026 02:45 WIB - Belgium vs France (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live4.dyrur1.com/live/68931476_99d0066bfe9fb41f898d2dfff77f7fe5_1080p.m3u8?auth_key=1790635720-0-0-ece915c0112c42d06775e9bb53b1a2c5
+https://live4.dyrur1.com/live/68931476_99d0066bfe9fb41f898d2dfff77f7fe5_1080p.m3u8?auth_key=1790638236-0-0-77df6de05693474becba24219a6f1929
 #EXTINF:-1 tvg-id="4517961-83368" tvg-name="UEFA Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Nations League - 29 Sep 2026 02:45 WIB - Turkiye vs Italy (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4517961.m3u8?txSecret=44e464f2abccc9944d8458d20eee70e8&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/hd-en-1-4517961.m3u8?txSecret=87f5084ef001dd72bc28f34989ce7b78&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4517961-83536" tvg-name="UEFA Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Nations League - 29 Sep 2026 02:45 WIB - Turkiye vs Italy (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/68931480_4cf10f458ce96cf64f4550f6f1188b26_1080p.m3u8?auth_key=1790635720-0-0-6664b1a8fa1ec60ea985316c44a46578
+https://live3.dyrur1.com/live/68931480_4cf10f458ce96cf64f4550f6f1188b26_1080p.m3u8?auth_key=1790638236-0-0-96bd6c0c8ac4a7a4d21f7acda12781f2
 #EXTINF:-1 tvg-id="4517963-83369" tvg-name="UEFA Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Nations League - 29 Sep 2026 02:45 WIB - Northern Ireland vs Hungary (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4517963.m3u8?txSecret=5176bca9762a2072c772d3aad2a910f9&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/hd-en-1-4517963.m3u8?txSecret=8cfa2937b3bc6d406e4b2c16a69149ea&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4517963-83535" tvg-name="UEFA Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Nations League - 29 Sep 2026 02:45 WIB - Northern Ireland vs Hungary (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
 #EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/68932756_3a4e01399b3134460867fb4f2ef06406_1080p.m3u8?auth_key=1790635720-0-0-d4e581b6d4d0ddd5610f654de74e4719
+https://live1.dyrur1.com/live/68932756_3a4e01399b3134460867fb4f2ef06406_1080p.m3u8?auth_key=1790638236-0-0-7b582cabc2ea923fbe7f072e2283cd57
 #EXTINF:-1 tvg-id="4517964-83370" tvg-name="UEFA Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Nations League - 29 Sep 2026 02:45 WIB - Romania vs Bosnia and Herzegovina (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4517964.m3u8?txSecret=f523e4877e18f2335f7211fb4df57757&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/hd-en-1-4517964.m3u8?txSecret=88aacf1f2bccae1a10e095c6856e20ea&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4517964-83538" tvg-name="UEFA Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Nations League - 29 Sep 2026 02:45 WIB - Romania vs Bosnia and Herzegovina (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/68932614_69c83bc7934ae619e6d739486e68f3cc_1080p.m3u8?auth_key=1790635720-0-0-4a8735b35d5efe1e0bd7afe3bd360a7d
+https://live2.dyrur1.com/live/68932614_69c83bc7934ae619e6d739486e68f3cc_1080p.m3u8?auth_key=1790638236-0-0-371194af8704f8eb67a08558bc5d28f3
 #EXTINF:-1 tvg-id="4517965-83372" tvg-name="UEFA Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Nations League - 29 Sep 2026 02:45 WIB - Sweden vs Poland (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4517965.m3u8?txSecret=44a5baa79e222b51adb00adc20acebac&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/hd-en-1-4517965.m3u8?txSecret=e030b5a52aec2dfd2ffa7a953f4a46f6&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4517965-83537" tvg-name="UEFA Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",UEFA Nations League - 29 Sep 2026 02:45 WIB - Sweden vs Poland (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/68932616_cb472ccf5d58d1e7526d4daa3f813f78_1080p.m3u8?auth_key=1790635720-0-0-fd53847996c0193473976fa2726ed9d8
+https://live.dyrur1.com/live/68932616_cb472ccf5d58d1e7526d4daa3f813f78_1080p.m3u8?auth_key=1790638236-0-0-773a1d5092838e551a61d999bd8ce9fe
 #EXTINF:-1 tvg-id="4642637-83386" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 29 Sep 2026 03:00 WIB - Guadeloupe vs Barbados (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642637.m3u8?txSecret=ca9021d627d180c52bd854dbc1fb4176&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4642637.m3u8?txSecret=8e0f642b6ed38793931f8b2f3ad18b5e&txTime=6ABC12A8
+#EXTINF:-1 tvg-id="4642637-83543" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 29 Sep 2026 03:00 WIB - Guadeloupe vs Barbados (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/73220870_290cc7c48eae19fc5e42434cec5bde13_1080p.m3u8?auth_key=1790636256-0-0-52e9d92b545e4e90b1d766bf0c166a84
+#EXTINF:-1 tvg-id="4642700-83542" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 29 Sep 2026 03:00 WIB - Botswana vs Tunisia (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/74607218_f72d2e27ba3543d29db510cd20616f8d_1080p.m3u8?auth_key=1790638236-0-0-145cf28e8ec23b90bb6bc0d3d84f8610
 #EXTINF:-1 tvg-id="4642793-83379" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 29 Sep 2026 03:00 WIB - Tunisia vs Botswana (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642793.m3u8?txSecret=4c1631508739f62ead84d317e11948d9&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4642793.m3u8?txSecret=a352144588fddac947814901dedc5130&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4631191-83380" tvg-name="Paraguayan Primera Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Paraguayan Primera Division - 29 Sep 2026 03:30 WIB - Sportivo San Lorenzo vs Deportivo Recoleta (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4631191.m3u8?txSecret=416561fbe37fc276802fc9047d961c23&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4631191.m3u8?txSecret=7aded0956f8fa078298a7ee088028e5e&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4596275-83387" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 29 Sep 2026 04:30 WIB - Independiente Yumbo vs Orsomarso (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4596275.m3u8?txSecret=98f7db0959c9a2b645f7fdbb09ebf54b&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4596275.m3u8?txSecret=c6577ce2b44a90a119e7b7b9f0981df9&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4642596-83381" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 29 Sep 2026 05:00 WIB - Cuba vs Bonaire (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642596.m3u8?txSecret=9fb5511d96785313df34dd823074dcc9&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4642596.m3u8?txSecret=f2854e370e19bc52bf9e8d54baa85794&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4600724-83382" tvg-name="Mexico Liga MX Femenil" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX Femenil - 29 Sep 2026 05:45 WIB - Atlante W vs Unam Pumas Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4600724.m3u8?txSecret=e8bdddb9549b57afcd67517779282c4d&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4600724.m3u8?txSecret=aa07dc9713be1c436606f8d213064a77&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4631188-83298" tvg-name="Paraguayan Primera Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Paraguayan Primera Division - 29 Sep 2026 06:00 WIB - Club Libertad Asunción vs Olimpia Asuncion (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4631188.m3u8?txSecret=b83ab480e49cbb2ebeed640a7cff8dd1&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4631188.m3u8?txSecret=fbf8e19fb6415f10f79591a207b79993&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4642641-83388" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 29 Sep 2026 06:00 WIB - Suriname vs Martinique (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642641.m3u8?txSecret=18fb57d382d849bf738a3738e0cbc41c&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4642641.m3u8?txSecret=56556a5fc84b3df10337636feba41101&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4494729-83299" tvg-name="Brazilian Serie B" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Brazilian Serie B - 29 Sep 2026 06:30 WIB - America MG vs Esporte Clube Juventude (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4494729.m3u8?txSecret=cc8acb90318acdcb708f8fd95ea15ecc&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4494729.m3u8?txSecret=473e640891e47c2fad33d4f4f108a77f&txTime=6ABC12A8
 #EXTINF:-1 tvg-id="4599491-83300" tvg-name="Mexico Liga MX Femenil" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX Femenil - 29 Sep 2026 07:00 WIB - Leon Women vs Club America Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4599491.m3u8?txSecret=d0f0e077626c37a326ed431a0e3ee5f4&txTime=6ABC07E0
+https://pul-tenm.gkykp.com/live/sd-1-4599491.m3u8?txSecret=9e86e4ec797efe269180ae3111ef3598&txTime=6ABC12A8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",15:00 | CLB Vaasa VPS vs CLB AC Oulu
 https://live05.meung.app/live/59444581.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",23:00 | Panama vs Croatia
