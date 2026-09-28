@@ -12,35 +12,7 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/PkMRe", 23:00 WIB Ilbank W vs Aras Kargo W
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel82.m3u8
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Major League Soccer [CH1] - 28 Sep 06:00 WIB - Columbus Crew vs Inter Miami CF
-#EXTVLCOPT:http-header=host: live2.edgeburstcdn.com
-#EXTVLCOPT:http-referer=https://xlz.morvexstream.com/
-#EXTVLCOPT:http-origin=https://xlz.morvexstream.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-http://43.152.182.139/live/channel19.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH1] - 28 Sep 08:00 WIB - Indonesia vs Kyrgyzstan
-#EXTVLCOPT:http-header=host: live2.edgeburstcdn.com
-#EXTVLCOPT:http-referer=https://xlz.morvexstream.com/
-#EXTVLCOPT:http-origin=https://xlz.morvexstream.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-http://43.152.182.139/live/channel33.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH2] - 28 Sep 08:00 WIB - India vs Hong Kong
-#EXTVLCOPT:http-header=Host: live1.quickscoreboardz.com
-#EXTVLCOPT:http-referer=https://xlz.livebytexscore.com/
-#EXTVLCOPT:http-origin=https://xlz.livebytexscore.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-http://42.117.246.9/live/channel80.flv?wsSecret=0883a7383ffd1707bdfff88a314c19fd&wsABSTime=1780974954
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH3] - 28 Sep 11:00 WIB - Pakistan vs Uzbekistan
-#EXTVLCOPT:http-header=Host: live1.quickscoreboardz.com
-#EXTVLCOPT:http-referer=https://xlz.livebytexscore.com/
-#EXTVLCOPT:http-origin=https://xlz.livebytexscore.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-http://42.117.246.9/live/channel80.flv?wsSecret=0883a7383ffd1707bdfff88a314c19fd&wsABSTime=1780974954
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH4] - 28 Sep 11:00 WIB - China vs Philippines
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH1] - 28 Sep 14:00 WIB - Vietnam vs Qatar
 #EXTVLCOPT:http-header=host: live2.edgeburstcdn.com
 #EXTVLCOPT:http-referer=https://xlz.morvexstream.com/
 #EXTVLCOPT:http-origin=https://xlz.morvexstream.com
@@ -55,7 +27,7 @@ http://43.152.182.139/live/channel33.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-http://43.152.182.139/live/channel33.flv
+http://43.152.182.139/live/channel25.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",FIFA Asean Cup [CH1] - 28 Sep 16:00 WIB - Singapore vs Bangladesh
 #EXTVLCOPT:http-referer=https://www.mewatch.sg/
 #EXTVLCOPT:http-origin=https://www.mewatch.sg
@@ -63,6 +35,20 @@ http://43.152.182.139/live/channel33.flv
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH2] - 28 Sep 17:00 WIB - Chinese Taipei vs South Korea
+#EXTVLCOPT:http-header=host: live2.edgeburstcdn.com
+#EXTVLCOPT:http-referer=https://xlz.morvexstream.com/
+#EXTVLCOPT:http-origin=https://xlz.morvexstream.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+http://43.152.182.139/live/channel33.flv
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH6] - 28 Sep 17:20 WIB - Kazakhstan vs Japan
+#EXTVLCOPT:http-header=Host: live1.quickscoreboardz.com
+#EXTVLCOPT:http-referer=https://xlz.livebytexscore.com/
+#EXTVLCOPT:http-origin=https://xlz.livebytexscore.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+http://42.117.246.9/live/channel81.flv?wsSecret=ee820e40eda54fd1d5c8dd1fe21a74f9&wsABSTime=1780609220
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",FIFA Asean Cup [CH2] - 28 Sep 19:30 WIB - Malaysia vs Indonesia
 #EXTVLCOPT:http-referer=https://www.mewatch.sg/
 #EXTVLCOPT:http-origin=https://www.mewatch.sg
@@ -219,21 +205,26 @@ http://193.47.62.50/hls/BHBHBHA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.50/hls/BHBHBH.m3u8
+#EXTINF:-1 tvg-id="3944137-83250" tvg-name="Korean University Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean University Basketball League - 28 Sep 2026 15:00 WIB - Dankook University vs Hanyang University (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3944137.m3u8?txSecret=e8004c53cab642a1d9a902dff87856ff&txTime=6ABB5818
 #EXTINF:-1 tvg-id="3944527-83247" tvg-name="Philippines National Collegiate Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines National Collegiate Athletic Association - 28 Sep 2026 15:00 WIB - San Beda Red Lions vs Mapua Cardinals (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3944527.m3u8?txSecret=923f2b0a48cc95f17fbe00fd6571878a&txTime=6ABB4D50
+https://pul-tenm.gkykp.com/live/sd-2-3944527.m3u8?txSecret=bf3327be4edfee741772074c0d543275&txTime=6ABB5818
 #EXTINF:-1 tvg-id="4639758-83191" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 28 Sep 2026 17:00 WIB - Singapore vs Bangladesh (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4639758.m3u8?txSecret=a7179e4c562b823a35f4f319bac2d566&txTime=6ABB4D50
+https://pul-tenm.gkykp.com/live/hd-en-1-4639758.m3u8?txSecret=c1c05f6e873e2f930497b1b6bdd94380&txTime=6ABB5818
 #EXTINF:-1 tvg-id="4601360-83190" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 28 Sep 2026 18:25 WIB - Japan vs Venezuela (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4601360.m3u8?txSecret=7641e16f0f755c3b3ba42315eb72e4df&txTime=6ABB4D50
+https://pul-tenm.gkykp.com/live/sd-1-4601360.m3u8?txSecret=a1e839312418629502a0273e53e3d423&txTime=6ABB5818
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
