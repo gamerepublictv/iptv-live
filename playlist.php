@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/yKOXu", 19:30 WIB Indonesia vs Malaysia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/yKOXu", 19:30 WIB Indonesia vs Malaysia
 https://live.dyrur1.com/live/74557126_5c32e12daa8fdb8791a124cf58442d15_1080p.m3u8?auth_key=1790612717-0-0-dab8bfb24af8c62ca66277fdfa037746
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/yKOXu", 19:30 WIB Indonesia vs Malaysia
 https://pul-tenm.gkykp.com/live/hd-en-1-4639759.m3u8?txSecret=2a777145b578ac7d57def5579a892804&txTime=6ABBACF0
@@ -241,7 +245,7 @@ http://193.47.62.55/hls/NUUUQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Malaysia vs Indonesia" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F75b6ce8a3018d34793e1aa86ec375795.png%21w80&size=300&scale=1.5", Malaysia vs Indonesia (ASEAN Cup)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/74557126_5c32e12daa8fdb8791a124cf58442d15_autoChange.m3u8?auth_key=1790614763-0-0-d328f57f47b13e381d394e7a49948874
+https://live.dyrur1.com/live/74557126_5c32e12daa8fdb8791a124cf58442d15_autoChange.m3u8?auth_key=1790617450-0-0-aa7b87d839d5e5c0721c754b7091c5da
 #EXTINF:-1 tvg-id="" tvg-name="BLV SAMURAI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F75b6ce8a3018d34793e1aa86ec375795.png%21w80&size=300&scale=1.5", Malaysia vs Indonesia - BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -253,7 +257,7 @@ https://live05.meung.app/live/14830711_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Graficar Beograd vs Teleoptik" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Feeff411759fcef3be14861e55069675c.png%21w80&size=300&scale=1.5", Graficar Beograd vs Teleoptik (Giải hạng nhất quốc gia Serbia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/14021033_4516cdbb2a15aeec86dd372cfab52cbf_autoChange.m3u8?auth_key=1790614763-0-0-9e90282c56e7d623d975e479a7b225ac
+https://live1.dyrur1.com/live/72120900_8e10811454b630b8773a660474abf666_autoChange.m3u8?auth_key=1790617450-0-0-85e8a2a83904f5cd116bde283788bdbc
 #EXTINF:-1 tvg-id="" tvg-name="BLV PEPSI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Feeff411759fcef3be14861e55069675c.png%21w80&size=300&scale=1.5", Graficar Beograd vs Teleoptik - BLV PEPSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -262,52 +266,62 @@ https://live05.meung.app/live/59444581_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4639759.m3u8?txSecret=8ed02ae63194c40230034a0b1fb00e92&txTime=6ABBB5D8
+https://pul-tenm.gkykp.com/live/hd-en-1-4639759.m3u8?txSecret=84746b56a70b9ff18a2092775c70a027&txTime=6ABBC0A0
 #EXTINF:-1 tvg-id="4639759-83309" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 28 Sep 2026 20:30 WIB - Malaysia vs Indonesia (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74557126_5c32e12daa8fdb8791a124cf58442d15_1080p.m3u8?auth_key=1790614712-0-0-acf1fc00429d3c5b87a1edb173393075
+https://live.dyrur1.com/live/74557126_5c32e12daa8fdb8791a124cf58442d15_1080p.m3u8?auth_key=1790617378-0-0-63df65d7ba60aafc108f6e5829608bd8
 #EXTINF:-1 tvg-id="4603418-83304" tvg-name="Serbian Mozzart Bet Prva Liga" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Serbian Mozzart Bet Prva Liga - 28 Sep 2026 21:00 WIB - FK Graficar Beograd vs Teleoptik (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4603418.m3u8?txSecret=cf1f6296df9bf297509bc52b899c6aea&txTime=6ABBB5D8
+https://pul-tenm.gkykp.com/live/sd-1-4603418.m3u8?txSecret=2ba0ad54711a1f417d4ddfa74ff1ab1c&txTime=6ABBC0A0
 #EXTINF:-1 tvg-id="4603418-83310" tvg-name="Serbian Mozzart Bet Prva Liga" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Serbian Mozzart Bet Prva Liga - 28 Sep 2026 21:00 WIB - FK Graficar Beograd vs Teleoptik (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/72120900_8e10811454b630b8773a660474abf666_1080p.m3u8?auth_key=1790614712-0-0-09f40e6755039a97bf278d1205648bda
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/14021033_4516cdbb2a15aeec86dd372cfab52cbf_1080p.m3u8?auth_key=1790614813-0-0-1b96ee827e6a18995edc3f6c65d316f8
+#EXTINF:-1 tvg-id="3944543-83313" tvg-name="Russia Basketball Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Russia Basketball Cup - 28 Sep 2026 21:30 WIB - Tver Polytechnic vs BC Moscow (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/xvkjvsz45o6s8k9_d77c4738bd527989ab299d8fd355e49c_1080p.m3u8?auth_key=1790617409-0-0-40f7fdf941d90ad6aff4b32a99c73761
 #EXTINF:-1 tvg-id="4650045-83288" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 28 Sep 2026 21:30 WIB - Croatia U19 vs France U19 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4650045.m3u8?txSecret=4cc6035f7ec7097ce3cab29b2fe3917d&txTime=6ABBB5D8
+https://pul-tenm.gkykp.com/live/sd-1-4650045.m3u8?txSecret=2e038136a20e5e0bbb1929902fcb4211&txTime=6ABBC0A0
+#EXTINF:-1 tvg-id="4650045-83312" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 28 Sep 2026 21:30 WIB - Croatia U19 vs France U19 (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/74748960_b6663022e1437ad254c99085ee12ee15_1080p.m3u8?auth_key=1790616635-0-0-97a001fe8a16bb7c44efe4045f974246
 #EXTINF:-1 tvg-id="4650103-83289" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 28 Sep 2026 22:00 WIB - Kyrgyzstan vs Maldives (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4650103.m3u8?txSecret=6b6372e092d69f67f531adcba64e4327&txTime=6ABBB5D8
+https://pul-tenm.gkykp.com/live/sd-1-4650103.m3u8?txSecret=60185c17e368b4f7ab62a93ea4976c55&txTime=6ABBC0A0
 #EXTINF:-1 tvg-id="4651363-83292" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 28 Sep 2026 22:00 WIB - North Macedonia U21 vs Russia U21 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4651363.m3u8?txSecret=090623cbf7e1fc71b78ea28093c2e9c4&txTime=6ABBB5D8
+https://pul-tenm.gkykp.com/live/sd-1-4651363.m3u8?txSecret=781e37aed94caebdd71fa21d2b4ff0dd&txTime=6ABBC0A0
 #EXTINF:-1 tvg-id="4631188-83298" tvg-name="Paraguayan Primera Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Paraguayan Primera Division - 29 Sep 2026 06:00 WIB - Club Libertad Asunción vs Olimpia Asuncion (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4631188.m3u8?txSecret=4995d503f75ae7b4ed1e1753907b6f13&txTime=6ABBB5D8
+https://pul-tenm.gkykp.com/live/sd-1-4631188.m3u8?txSecret=a467d3ce91f5ce909c19198b832b2139&txTime=6ABBC0A0
 #EXTINF:-1 tvg-id="4494729-83299" tvg-name="Brazilian Serie B" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Brazilian Serie B - 29 Sep 2026 06:30 WIB - America MG vs Esporte Clube Juventude (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4494729.m3u8?txSecret=99050704f7b6be70a4cf8115d773aea0&txTime=6ABBB5D8
+https://pul-tenm.gkykp.com/live/sd-1-4494729.m3u8?txSecret=ea073d8c5cfd162b670176087e1a1b1c&txTime=6ABBC0A0
 #EXTINF:-1 tvg-id="4599491-83300" tvg-name="Mexico Liga MX Femenil" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX Femenil - 29 Sep 2026 07:00 WIB - Leon Women vs Club America Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4599491.m3u8?txSecret=42206d8e7eba92a3fb27de42bf4ba115&txTime=6ABBB5D8
+https://pul-tenm.gkykp.com/live/sd-1-4599491.m3u8?txSecret=aca4cdf8e331d21c2b6314896f375d1a&txTime=6ABBC0A0
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",15:00 | CLB Vaasa VPS vs CLB AC Oulu
 https://live05.meung.app/live/59444581.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80",10:30 | Qingdao Red Lions vs Beijing Technology
