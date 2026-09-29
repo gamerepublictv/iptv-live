@@ -158,56 +158,31 @@ https://toutatis.rctiplus.com/vid-cont-api-superapp/api/v3/player?permalink=http
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
 https://toutatis.rctiplus.com/vid-cont-api-superapp/api/v3/player?permalink=http%3A%2F%2Fwww.rctiplus.com%2Fvideoplus%2Flivetv%3Fchannel%3D1011
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2063908461281189888%2F_KMpScrr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Congo vs Cameroon --- CH 2 - Africa Cup of Nations Qualification 02.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/ac3431da-4a0b-41a5-9e00-f8ccabdebea5.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2063908461281189888%2F_KMpScrr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Somalia vs Ivory Coast --- CH 2 - Africa Cup of Nations Qualification 02.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/8e67f8bf-2089-4593-ade1-d206fab4d201.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2063908461281189888%2F_KMpScrr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Liberia vs Mali --- CH 2 - Africa Cup of Nations Qualification 02.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/962ed314-8003-466c-9f75-2594b10f914e.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2063908461281189888%2F_KMpScrr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Gabon vs Niger --- CH 2 - Africa Cup of Nations Qualification 02.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/08d797f4-634f-4268-b7fc-0caa32be4d20.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2063908461281189888%2F_KMpScrr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Benin vs Mauritania --- CH 1 - Africa Cup of Nations Qualification 02.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/UDDDA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2063908461281189888%2F_KMpScrr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Benin vs Mauritania --- CH 2 - Africa Cup of Nations Qualification 02.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/e62ef467-383f-4e21-9200-8ecd23d4ce2a.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2098622913641414665%2FOqB33HYM_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Real Potosi vs Academia del Balompie - Bolivia Copa 05.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/RFFFQQQQ.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1394013208701243395%2F3ocIDVAb_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Botafogo SP vs Ponte Preta - Brazil Serie B 05.30 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/RFFFQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2071354600800587776%2FEbbqt2Ki_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Carolina Hurricanes vs Florida Panthers - NHL Hockey 04.00 WIB
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2098622913641414665%2FOqB33HYM_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Real Potosi vs Academia del Balompie - Bolivia Copa 05.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/RFFFQQQQq.m3u8
+http://193.47.62.41/hls/RFFFQQQQ.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1979034974964559874%2FE0AdeiBy_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Houston Astros vs Chicago White Sox - MLB Baseball 04.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2071354600800587776%2FEbbqt2Ki_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Carolina Hurricanes vs Florida Panthers - NHL Hockey 04.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/RFFFQQQQq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2071354600800587776%2FEbbqt2Ki_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Carolina Hurricanes vs Florida Panthers --- RU HD - NHL Hockey 04.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0b9f060b-dceb-459b-9736-2e7dc2a13e04/master.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1897743697929740288%2F9-yBKTUL_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", D Puerto Montt vs Colo Colo - Chile Copa 04.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -228,140 +203,37 @@ http://193.47.62.41/hls/RFFF.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/TATATAAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1477333156609073154%2F9DO9jLf7_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", British Virgin Islands vs Turks and Caicos Islands - CONCACAF Nations League 02.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/TATATAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2098622913641414665%2FOqB33HYM_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Universitario de Vinto vs Guabira - Bolivia Copa 02.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/TATATA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1979034974964559874%2FE0AdeiBy_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Atlanta Braves vs Philadelphia Phillies - MLB Baseball 01.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1945520203653165057%2FBRp76d7W_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Darts World Grand Prix - Darts 00.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/ZRRRAAAAAx.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2063908461281189888%2F_KMpScrr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Gabon vs Niger --- CH 2 - Africa Cup of Nations Qualification 02.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/08d797f4-634f-4268-b7fc-0caa32be4d20.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Quần đảo Virgin Mỹ vs Bahamas" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5fa8174c859d9a2ca7c3fdfd333b0d13.png%21w80&size=300&scale=1.5", Quần đảo Virgin Mỹ vs Bahamas (Liên minh bóng đá quốc gia châu Mỹ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/73221076_831709e844235eabc50f3729ef70bbce_autoChange.m3u8?auth_key=1790729225-0-0-25239bdd8e8a14fe826ebe03a46382ec
+https://live1.dyrur1.com/live/73221076_831709e844235eabc50f3729ef70bbce_autoChange.m3u8?auth_key=1790732066-0-0-318bf3b88136c34a9101190843f6ae7c
 #EXTINF:-1 tvg-id="" tvg-name="BLV PEPSI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5fa8174c859d9a2ca7c3fdfd333b0d13.png%21w80&size=300&scale=1.5", Quần đảo Virgin Mỹ vs Bahamas - BLV PEPSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Quần đảo Virgin Anh vs Quần đảo Turks & Caicos" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5fa8174c859d9a2ca7c3fdfd333b0d13.png%21w80&size=300&scale=1.5", Quần đảo Virgin Anh vs Quần đảo Turks & Caicos (Liên minh bóng đá quốc gia châu Mỹ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live5.dyrur1.com/live/73220980_6935a1b3a0c8763e52507262a50eadc7_autoChange.m3u8?auth_key=1790729226-0-0-8a7b80c912c4836a6757496dfcb3810b
-#EXTINF:-1 tvg-id="" tvg-name="BLV FANTA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5fa8174c859d9a2ca7c3fdfd333b0d13.png%21w80&size=300&scale=1.5", Quần đảo Virgin Anh vs Quần đảo Turks & Caicos - BLV FANTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/16226575_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="French Guiana vs Sint Maarten" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5fa8174c859d9a2ca7c3fdfd333b0d13.png%21w80&size=300&scale=1.5", French Guiana vs Sint Maarten (Liên minh bóng đá quốc gia châu Mỹ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https
+https://live.dyrur1.com/live/73220906_0edf3d09a483e741a2ae8f6f1ca218ec_autoChange.m3u8?auth_key=1790732066-0-0-db421bdbd370d5b1de3dfa8f90a28bd6
 #EXTINF:-1 tvg-id="" tvg-name="BLV MONSTER" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5fa8174c859d9a2ca7c3fdfd333b0d13.png%21w80&size=300&scale=1.5", French Guiana vs Sint Maarten - BLV MONSTER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 tvg-id="3926729-84128" tvg-name="EuroLeague" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",EuroLeague - 30 Sep 2026 02:45 WIB - Paris vs Partizan Mozzart Bet Beograd (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/14242816_782efbb8650af5b1981442cd4e98dbbc_1080p.m3u8?auth_key=1790729224-0-0-971cd9ad91cc8d7656b16f58bbdf8b66
-#EXTINF:-1 tvg-id="4615259-84153" tvg-name="Bolivian Copa LFPB" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Bolivian Copa LFPB - 30 Sep 2026 03:00 WIB - Universitario De Vinto vs Club Guabira (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4615259.m3u8?txSecret=42956169afcdd948818e9533b65fc374&txTime=6ABD7580
-#EXTINF:-1 tvg-id="4615259-84154" tvg-name="Bolivian Copa LFPB" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Bolivian Copa LFPB - 30 Sep 2026 03:00 WIB - Universitario De Vinto vs Club Guabira (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/73550398_fe4ba4de4e87eea8515ee909f6c133a1_1080p.m3u8?auth_key=1790723334-0-0-8c1c12990517ce813fbc1315cad71a6e
-#EXTINF:-1 tvg-id="4642621-83894" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 30 Sep 2026 03:00 WIB - British Virgin Islands vs Turks and Caicos Islands (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642621.m3u8?txSecret=9f5eca8e85695967a3719ec112d1e83a&txTime=6ABD7580
-#EXTINF:-1 tvg-id="4642621-84145" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 30 Sep 2026 03:00 WIB - British Virgin Islands vs Turks and Caicos Islands (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live5.dyrur1.com/live/73220980_6935a1b3a0c8763e52507262a50eadc7_1080p.m3u8?auth_key=1790729226-0-0-8a7b80c912c4836a6757496dfcb3810b
-#EXTINF:-1 tvg-id="4642713-84037" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 30 Sep 2026 03:00 WIB - Benin vs Mauritania (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642713.m3u8?txSecret=e89a886dec27a358e1244d1473d81be2&txTime=6ABD7580
-#EXTINF:-1 tvg-id="4642713-84144" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 30 Sep 2026 03:00 WIB - Benin vs Mauritania (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74372526_ee0d32c7f0bcf25f863be7ed7ee8b178_1080p.m3u8?auth_key=1790729226-0-0-7dbc15e2b7ee32d62b463b1f6f39e3f8
-#EXTINF:-1 tvg-id="4642714-83888" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 30 Sep 2026 03:00 WIB - Republic of the Congo vs Cameroon (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642714.m3u8?txSecret=20d84eaa3654f921b2fccdf9a867ee39&txTime=6ABD7580
-#EXTINF:-1 tvg-id="4642714-84148" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 30 Sep 2026 03:00 WIB - Republic of the Congo vs Cameroon (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live4.dyrur1.com/live/74372534_d1ea3fde088abc0ea23132c6f6ddabfd_1080p.m3u8?auth_key=1790729226-0-0-1d39a63c94124b4a5db9c7269811ec7e
-#EXTINF:-1 tvg-id="4642715-83889" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 30 Sep 2026 03:00 WIB - Gabon vs Niger (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642715.m3u8?txSecret=200fee5b907809d2bf679522235d68be&txTime=6ABD7580
-#EXTINF:-1 tvg-id="4642715-84158" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 30 Sep 2026 03:00 WIB - Gabon vs Niger (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/74372478_1fdd0246a933a583861aee0c6ee582fb_1080p.m3u8?auth_key=1790725783-0-0-581e09ec7d7f8ba92dbe547901962a36
-#EXTINF:-1 tvg-id="4642716-83890" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 30 Sep 2026 03:00 WIB - Somalia vs Cote d'Ivoire (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642716.m3u8?txSecret=4b1fb189b07aec8ac6cac3ae36b16743&txTime=6ABD7580
-#EXTINF:-1 tvg-id="4642716-84146" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 30 Sep 2026 03:00 WIB - Somalia vs Cote d'Ivoire (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/74372494_50d3e6819794d7ee4163282bcd5efb42_1080p.m3u8?auth_key=1790729226-0-0-6f5953b4c9a591b2d781e784706c2134
-#EXTINF:-1 tvg-id="4642717-83891" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 30 Sep 2026 03:00 WIB - Liberia vs Mali (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642717.m3u8?txSecret=a0621a60eee17c59e80a1dd07b75c3db&txTime=6ABD7580
-#EXTINF:-1 tvg-id="4642717-84147" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 30 Sep 2026 03:00 WIB - Liberia vs Mali (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/74372552_2183fc0dc6ca94f34f2810124ac13d0b_1080p.m3u8?auth_key=1790724272-0-0-96846e9a3b73f3c865731860226c685c
-#EXTINF:-1 tvg-id="4609699-83901" tvg-name="Portuguese U23 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Portuguese U23 League - 30 Sep 2026 03:15 WIB - Rio Ave U23 vs Penafiel U23 (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4609699.m3u8?txSecret=5f06409a0f5512a1fafa555784226ea4&txTime=6ABD7580
-#EXTINF:-1 tvg-id="4609699-84155" tvg-name="Portuguese U23 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Portuguese U23 League - 30 Sep 2026 03:15 WIB - Rio Ave U23 vs Penafiel U23 (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74961498_234402fe158f6d681e23956624fe829b_1080p.m3u8?auth_key=1790727840-0-0-432da9500018fb42f4f26be23bc11091
 #EXTINF:-1 tvg-id="4642601-84160" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 30 Sep 2026 04:00 WIB - US Virgin Islands vs Bahamas (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642601.m3u8?txSecret=0ef617307be1de0dd7e4e0243c329d24&txTime=6ABD7580
+https://pul-tenm.gkykp.com/live/sd-1-4642601.m3u8?txSecret=822a4f5ad431a679140277a49e0c3636&txTime=6ABD8048
 #EXTINF:-1 tvg-id="4642601-84159" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 30 Sep 2026 04:00 WIB - US Virgin Islands vs Bahamas (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
@@ -371,32 +243,42 @@ https://live1.dyrur1.com/live/73221076_831709e844235eabc50f3729ef70bbce_1080p.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4569224.m3u8?txSecret=a1e3d61632f2281807964871dd4b4c9c&txTime=6ABD7580
+https://pul-tenm.gkykp.com/live/sd-1-4569224.m3u8?txSecret=b1fbbc43fa86c541045c827331a580a8&txTime=6ABD8048
 #EXTINF:-1 tvg-id="4569224-84161" tvg-name="Categoría Primera A" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Categoría Primera A - 30 Sep 2026 04:30 WIB - Deportivo Pereira vs Independiente Santa Fe (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74497748_db465475039501fea7f48f6e50a063de_1080p.m3u8?auth_key=1790729227-0-0-a26f930360899260063c5c66d8c25e13
+https://live.dyrur1.com/live/74497748_db465475039501fea7f48f6e50a063de_1080p.m3u8?auth_key=1790732009-0-0-787f52a7d37c27338e36933d3bb521dd
 #EXTINF:-1 tvg-id="4642627-83902" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 30 Sep 2026 05:00 WIB - French Guiana vs Sint Maarten (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642627.m3u8?txSecret=fbeeacec84b42bd9e2f07e4ab457dc49&txTime=6ABD7580
+https://pul-tenm.gkykp.com/live/sd-1-4642627.m3u8?txSecret=2479a3e866a173d26621d7d813e3a02d&txTime=6ABD8048
+#EXTINF:-1 tvg-id="4642627-84163" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 30 Sep 2026 05:00 WIB - French Guiana vs Sint Maarten (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/73220906_0edf3d09a483e741a2ae8f6f1ca218ec_1080p.m3u8?auth_key=1790732009-0-0-42dfc1784ebd5d4745f2da63b36350ad
 #EXTINF:-1 tvg-id="4651797-83903" tvg-name="Chilean Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chilean Cup - 30 Sep 2026 05:00 WIB - Puerto Montt vs Colo Colo (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4651797.m3u8?txSecret=9611e593148006c0ada98ebce063f9ac&txTime=6ABD7580
+https://pul-tenm.gkykp.com/live/sd-1-4651797.m3u8?txSecret=b1502b2a5ab4a640726e23c041891ba4&txTime=6ABD8048
+#EXTINF:-1 tvg-id="4651797-84164" tvg-name="Chilean Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chilean Cup - 30 Sep 2026 05:00 WIB - Puerto Montt vs Colo Colo (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/75071914_af71164164b0849a9f3a86b544bd33f6_1080p.m3u8?auth_key=1790732009-0-0-592c1fa3795939196fea1bbe64f97ec7
 #EXTINF:-1 tvg-id="4615261-83905" tvg-name="Bolivian Copa LFPB" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Bolivian Copa LFPB - 30 Sep 2026 06:00 WIB - Real Potosi vs Academia del Balompié Boliviano (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4615261.m3u8?txSecret=1a3770776ed2f3d1a3d7764aba094dd7&txTime=6ABD7580
+https://pul-tenm.gkykp.com/live/sd-1-4615261.m3u8?txSecret=392f7930f75cb3eeb62fe346d84a5fa5&txTime=6ABD8048
 #EXTINF:-1 tvg-id="3929086-83863" tvg-name="EuroCup Basketball" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",EuroCup Basketball - 30 Sep 2026 23:30 WIB - Siauliai vs London Lions (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3929086.m3u8?txSecret=ff342784af05dfdea3e0d7ffb6078d0a&txTime=6ABD7580
+https://pul-tenm.gkykp.com/live/sd-2-3929086.m3u8?txSecret=c8392081b62f36a2932532f290860964&txTime=6ABD8048
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80",08:30 | Arema Malang vs CLB Persik Kediri
 https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",15:00 | CLB Vaasa VPS vs CLB AC Oulu
