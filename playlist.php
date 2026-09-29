@@ -224,203 +224,167 @@ http://193.47.62.50/hls/DDDDQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.50/hls/DDDDQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Guatemala vs El Salvador" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5fa8174c859d9a2ca7c3fdfd333b0d13.png%21w80&size=300&scale=1.5", Guatemala vs El Salvador (Liên minh bóng đá quốc gia châu Mỹ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/73220776_0e550f5f50187fc82e3bd933d4cc99be_autoChange.m3u8?auth_key=1790666925-0-0-fde748956566d19834b15af6a7a84da2
-#EXTINF:-1 tvg-id="" tvg-name="BLV STING" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5fa8174c859d9a2ca7c3fdfd333b0d13.png%21w80&size=300&scale=1.5", Guatemala vs El Salvador - BLV STING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/14707124_tsc.m3u8
 #EXTINF:-1 tvg-id="3943235-83635" tvg-name="Argentinian Liga Nacional de Bosquetbol" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentinian Liga Nacional de Bosquetbol - 29 Sep 2026 09:05 WIB - Atletico Lanus vs Gimnasia Comodoro (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
 https://live.dyrur1.com/live/14365751_e8ae41f46a8b55c7b6f9f37384581e19_1080p.m3u8?auth_key=1790662332-0-0-66a43cf2bab4b5d2657a8cf91bf93e8e
-#EXTINF:-1 tvg-id="3944643-83694" tvg-name="Costa Rica Championship U24" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Costa Rica Championship U24 - 29 Sep 2026 10:00 WIB - Grecia U24 vs Universidad de costa rica U24 (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3944643.m3u8?txSecret=44fff213b623127f04b32bf5462455c7&txTime=6ABC81C0
-#EXTINF:-1 tvg-id="3944643-83693" tvg-name="Costa Rica Championship U24" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Costa Rica Championship U24 - 29 Sep 2026 10:00 WIB - Grecia U24 vs Universidad de costa rica U24 (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/75110424_e627653f367d7634ffc71b31880e784d_1080p.m3u8?auth_key=1790664387-0-0-2abef7b828a8dce1202ea78792c66883
-#EXTINF:-1 tvg-id="4642643-83640" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 29 Sep 2026 10:00 WIB - Guatemala vs El Salvador (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642643.m3u8?txSecret=da581edb614a9fb9d54aea522bea20ef&txTime=6ABC81C0
-#EXTINF:-1 tvg-id="4642643-83680" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 29 Sep 2026 10:00 WIB - Guatemala vs El Salvador (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/73220776_0e550f5f50187fc82e3bd933d4cc99be_1080p.m3u8?auth_key=1790666924-0-0-fdbfa104aa73649f249d732419dbefb2
 #EXTINF:-1 tvg-id="4639760-83641" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 29 Sep 2026 17:00 WIB - Philippines vs Pakistan (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4639760.m3u8?txSecret=44b8e88fde62b30ab07fe69b468de59e&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/hd-en-1-4639760.m3u8?txSecret=a6cfd2a2b4b9a62cedc645a3e2daecc3&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4625602-83699" tvg-name="Elite League U20" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Elite League U20 - 29 Sep 2026 17:30 WIB - France U20 vs England U20 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4625602.m3u8?txSecret=4cac6d13bad3eafb07b8f5397344be54&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4625602.m3u8?txSecret=095e7e6f5beb36469aca84e92e63a93e&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4565077-83642" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 29 Sep 2026 18:00 WIB - Australia vs Brazil (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4565077.m3u8?txSecret=0c1972049953384e3572d03152f3d91f&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/hd-en-1-4565077.m3u8?txSecret=b81ee773e797cb16e2aa7d42a08de8bd&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4625601-83700" tvg-name="Elite League U20" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Elite League U20 - 29 Sep 2026 18:00 WIB - Portugal U20 vs Switzerland U20 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4625601.m3u8?txSecret=4054581d9578b6c771dbba82ced33b52&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4625601.m3u8?txSecret=913abf1f49d842ee5dd9400ab776fd38&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646682-83650" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Tochigi City vs Sanfrecce Hiroshima (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646682.m3u8?txSecret=b87b83f32111be20924f3b70a976ee99&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646682.m3u8?txSecret=8388d4ef781dc9545ea08b6d3f5205b3&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646683-83644" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Hokkaido Consadole Sapporo vs Fagiano Okayama (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646683.m3u8?txSecret=6827d6a3351f439dab490499c393d16d&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646683.m3u8?txSecret=3dfb1673a234fd28c5433abeaa2222cd&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646684-83645" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Montedio Yamagata vs Yokohama F. Marinos (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646684.m3u8?txSecret=ca91c75e686a35993bf1960cd5cfbad7&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646684.m3u8?txSecret=82afd390ae0398f032206688f7816e9e&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646685-83646" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Kataller Toyama vs Urawa Red Diamonds (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646685.m3u8?txSecret=d7c44488c80d611ccdd29db1577fade0&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646685.m3u8?txSecret=8271398b890a09a48f5e292aa7b726a0&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646686-83651" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Jubilo Iwata vs JEF United Ichihara Chiba (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646686.m3u8?txSecret=2dffebdd6b0fb17a4d56d80a2e0ee7b3&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646686.m3u8?txSecret=5d0df50fedab0d84d2098652a57c7430&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646687-83652" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Fujieda MYFC vs Cerezo Osaka (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646687.m3u8?txSecret=da9135d8453af0f67b9c04426fe42c99&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646687.m3u8?txSecret=c72243efa20b7f67a2b25e0e02d1eac6&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646688-83658" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Sagan Tosu vs Tokyo Verdy (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646688.m3u8?txSecret=38e8d856cc148ba9cbd169d59c6ca62d&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646688.m3u8?txSecret=6670262e9223af6156c8ee3adab48083&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646689-83653" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Fukushima United FC vs Mito Hollyhock (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646689.m3u8?txSecret=1f664d52010bc5f3cec16b4b839e6529&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646689.m3u8?txSecret=2a18ca6e7161386078b1c84138d73071&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646690-83647" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Matsumoto Yamaga FC vs Albirex Niigata (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646690.m3u8?txSecret=8622ba8f80b07a636375f1a98ea0c70b&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646690.m3u8?txSecret=ff2e49aba5b84a0cd78cf64fac8f9365&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646691-83654" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Zweigen Kanazawa FC vs Shimizu S-Pulse (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646691.m3u8?txSecret=8236113a16fd897e952f219b5b56865d&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646691.m3u8?txSecret=343dfd65fbfb5352751abe2d4560d1c0&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646697-83648" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - FC Gifu vs Yokohama FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646697.m3u8?txSecret=e8ec721dfa2abcb14e6f8da555ab327b&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646697.m3u8?txSecret=9a0a9554019dd7c73a740a5613578996&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646698-83643" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - FC Osaka vs Avispa Fukuoka (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646698.m3u8?txSecret=ab837c254e878d92f624466fc4dc6b35&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646698.m3u8?txSecret=07f28b4cd05471cf87bd000a00a6f62e&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646699-83655" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Gainare Tottori vs V-Varen Nagasaki (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646699.m3u8?txSecret=f8eaee70437b8730ca6436b717cc101e&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646699.m3u8?txSecret=6b9b4a44358626e143e176032084440b&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646700-83656" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Ehime FC vs FC Tokyo (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646700.m3u8?txSecret=d05525d4362534752b30fcb16bd2f669&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646700.m3u8?txSecret=deb88218644ae8c2329d327b592746f8&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646701-83649" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Giravanz Kitakyushu vs Nagoya Grampus (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646701.m3u8?txSecret=c7f088ae55001ba360ae09571636eeaf&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646701.m3u8?txSecret=3b4ff674466dc88141450b44a5f827f9&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4646702-83657" tvg-name="J.League Yamazaki Biscuit Levain Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",J.League Yamazaki Biscuit Levain Cup - 29 Sep 2026 18:00 WIB - Roasso Kumamoto vs Kawasaki Frontale (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4646702.m3u8?txSecret=cef6673025a6128815fbd488b0a26df9&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4646702.m3u8?txSecret=fadef97cb31e36c90f3f73dc12ef82c1&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4650303-83559" tvg-name="OCA Women's Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Women's Asian Games - 29 Sep 2026 18:30 WIB - Japan Women vs South Korea Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4650303.m3u8?txSecret=c594257d81e6e7c99b1e93cce8f14208&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4650303.m3u8?txSecret=4fe80e1b21d68ce3d17fe623d39b21d6&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4505358-83574" tvg-name="Chinese Football League 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football League 1 - 29 Sep 2026 19:00 WIB - Wuxi Wugo vs Ningbo Professional Football Club (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4505358.m3u8?txSecret=9c8a3f31fe2d336772724ddef8f008d6&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4505358.m3u8?txSecret=27832f4f67a4e5af0ee1c1e3df5ce48c&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4609692-83593" tvg-name="Portuguese U23 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Portuguese U23 League - 29 Sep 2026 19:00 WIB - Santa Clara U23 vs Felgueiras U23 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4609692.m3u8?txSecret=bc68e85cbaf2843ee25f18948408a7b5&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4609692.m3u8?txSecret=530fd9aaf9d7c26305ed5c1d21fb1117&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4642701-83565" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 29 Sep 2026 20:00 WIB - Comoros vs Namibia (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642701.m3u8?txSecret=47140f5b23a72208c0148998215cce99&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4642701.m3u8?txSecret=2297045221f48e57e3f7a2c5d6c0f5f5&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4639761-83575" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 29 Sep 2026 20:30 WIB - Thailand vs Vietnam (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4639761.m3u8?txSecret=75823444898e99a2a0f059ec0c9fa39b&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/hd-en-1-4639761.m3u8?txSecret=1d9adfdbfbb2f3c75b09f6368e805d80&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4642702-83569" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 29 Sep 2026 21:00 WIB - Burundi vs Algeria (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642702.m3u8?txSecret=f9fbf5c2cc1dbfd5d374eb9c7ce978f1&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4642702.m3u8?txSecret=924dc996085354f529973ea6d18da685&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4642703-83566" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 29 Sep 2026 21:00 WIB - South Sudan vs Egypt (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642703.m3u8?txSecret=d80e68cf69b46974f07c4bd23c59759b&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4642703.m3u8?txSecret=7302b0e24f10c60301af113aae7d7014&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4642704-83570" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 29 Sep 2026 21:00 WIB - Lesotho vs Morocco (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642704.m3u8?txSecret=2ae3e77abca3115b602ee0129d5160a8&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4642704.m3u8?txSecret=d17bf7e8431dca0cc54dad942d81c8b3&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4642705-83571" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 29 Sep 2026 21:00 WIB - Mozambique vs Sudan (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642705.m3u8?txSecret=359f723b5373d254a6416a98f836ae9f&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4642705.m3u8?txSecret=8bb8def098528566c6be1749f6d4720e&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4642706-83567" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 29 Sep 2026 21:00 WIB - Ethiopia vs Senegal (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642706.m3u8?txSecret=727406d6779c707db9db041396085fd7&txTime=6ABC81C0
+https://pul-tenm.gkykp.com/live/sd-1-4642706.m3u8?txSecret=9a41a69e8ee9845e757cea1f22f689d0&txTime=6ABC8C88
 #EXTINF:-1 tvg-id="4642707-83572" tvg-name="CAF Africa Cup of Nations" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CAF Africa Cup of Nations - 29 Sep 2026 21:00 WIB - Madagascar vs Tanzania (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642707.m3u8?txSecret=2d42551506c3d00cf10fcf44c3b1b676&txTime=6ABC81C0
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782232522-0-0-8b640fe1cf47df1166734db5f3d09d2b
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782232522-0-0-2977642b49a40977f77b1672f1607866
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/502144248e65e9d4c4f26a04f2021d69.png!w80",17:00 | Randers FC vs Silkeborg
-https://live05.meung.app/live/14707124.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4642707.m3u8?txSecret=1337a7033481ce13cb20de8e175ef89f&txTime=6ABC8C88
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 28/07 Randers FC vs Silkeborg (BLV STING) [flv]
-https://live05.meung.app/live/14707124.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
