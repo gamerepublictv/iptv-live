@@ -294,22 +294,10 @@ http://193.47.62.55/hls/NUUUQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/NUUUQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Đông Timor vs Campuchia" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F75b6ce8a3018d34793e1aa86ec375795.png%21w80&size=300&scale=1.5", Đông Timor vs Campuchia (ASEAN Cup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/74557480_bc0215ab38c282f1c8d6a5e9bf8bb723_autoChange.m3u8?auth_key=1790779115-0-0-9833a6dd74066d4f09d7768beb5e3520
-#EXTINF:-1 tvg-id="" tvg-name="BLV HỔ VẰN" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F75b6ce8a3018d34793e1aa86ec375795.png%21w80&size=300&scale=1.5", Đông Timor vs Campuchia - BLV HỔ VẰN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLV C2" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F75b6ce8a3018d34793e1aa86ec375795.png%21w80&size=300&scale=1.5", Đông Timor vs Campuchia - BLV C2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/08552895_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sydney vs Brisbane Bullets" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F75ea0c3c22789700eeaf2c8047450d82.png%21w80&size=300&scale=1.5", Sydney vs Brisbane Bullets (Liên đoàn Bóng rổ Quốc gia Úc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live2.dyrur1.com/live/72016788_dd7992fdf9e173b59bd92fcbfe2edab9_autoChange.m3u8?auth_key=1790779115-0-0-d174dc3af04f3e20c96946df8f75332b
+https://live2.dyrur1.com/live/72016788_dd7992fdf9e173b59bd92fcbfe2edab9_autoChange.m3u8?auth_key=1790781812-0-0-1a2387bb081bb15216de27b91e81bdd2
 #EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F75ea0c3c22789700eeaf2c8047450d82.png%21w80&size=300&scale=1.5", Sydney vs Brisbane Bullets - BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -317,56 +305,16 @@ https://live05.meung.app/live/82054853_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Uzbekistan U23 vs Nhật Bản U23" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F23fc1501bb2c9e45bfa90092c353fad5.png%21w80&size=300&scale=1.5", Uzbekistan U23 vs Nhật Bản U23 (Đại hội Thể thao Châu Á)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/75066460_5205f4e5ec90125d1524b9a3a21323cb_autoChange.m3u8?auth_key=1790779113-0-0-9646f86b96920b36eb0ac49c26e1df99
+https://live.dyrur1.com/live/75066460_5205f4e5ec90125d1524b9a3a21323cb_autoChange.m3u8?auth_key=1790782170-0-0-b3ae1c78ceb6ee128966f929a3cc3a71
 #EXTINF:-1 tvg-id="" tvg-name="BLV AQUA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F23fc1501bb2c9e45bfa90092c353fad5.png%21w80&size=300&scale=1.5", Uzbekistan U23 vs Nhật Bản U23 - BLV AQUA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-id="4639762-84282" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 30 Sep 2026 17:00 WIB - Timor Leste vs Cambodia (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4639762.m3u8?txSecret=caab9b5bc6acaba94515d303fa68b1ff&txTime=6ABE3970
-#EXTINF:-1 tvg-id="4639762-84290" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 30 Sep 2026 17:00 WIB - Timor Leste vs Cambodia (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/74557480_bc0215ab38c282f1c8d6a5e9bf8bb723_1080p.m3u8?auth_key=1790779115-0-0-9833a6dd74066d4f09d7768beb5e3520
-#EXTINF:-1 tvg-id="4650061-84292" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 30 Sep 2026 17:00 WIB - Korea Republic U18 vs England U18 (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/oj7x9im1d1xf47g_c4e50b62f6af576177dfe451db355c87_1080p.m3u8?auth_key=1790779115-0-0-a48ca4c4f387f588798ee268bea4b832
-#EXTINF:-1 tvg-id="4650063-84291" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 30 Sep 2026 17:00 WIB - Colombia U18 vs Egypt U18 (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/o17pji46n6lsy7j_583e589e0a6656747eb5bfe98ec68795_1080p.m3u8?auth_key=1790779115-0-0-e2b5e260b5dd1725ed246dda4ad778fb
-#EXTINF:-1 tvg-id="4651529-84295" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 30 Sep 2026 17:00 WIB - Scotland U19 vs Ukraine U19 (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4651529.m3u8?txSecret=58ed1d9bff4f297ab0de42f5defb1a92&txTime=6ABE3970
-#EXTINF:-1 tvg-id="4651529-84300" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 30 Sep 2026 17:00 WIB - Scotland U19 vs Ukraine U19 (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74981490_cef711740c8076cb26d6f2c958df4655_1080p.m3u8?auth_key=1790776148-0-0-877149a5212ebe8974e8efbb73a6e07d
-#EXTINF:-1 tvg-id="3926009-84289" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 30 Sep 2026 17:30 WIB - Sydney Kings vs Brisbane Bullets (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3926009.m3u8?txSecret=b4c1e10d5f9cf92eb42f5c4cdb5d4aa6&txTime=6ABE3970
-#EXTINF:-1 tvg-id="3926009-84301" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 30 Sep 2026 17:30 WIB - Sydney Kings vs Brisbane Bullets (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/72016788_dd7992fdf9e173b59bd92fcbfe2edab9_1080p.m3u8?auth_key=1790779115-0-0-d174dc3af04f3e20c96946df8f75332b
 #EXTINF:-1 tvg-id="3944737-84307" tvg-name="Philippines University Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines University Athletic Association - 30 Sep 2026 17:30 WIB - FEU Tamaraws vs DLSU Green Archers (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3944737.m3u8?txSecret=1af9e5daeb54a3278146753e16484ff6&txTime=6ABE3970
+https://pul-tenm.gkykp.com/live/sd-2-3944737.m3u8?txSecret=811f252e5c7414b4681f6d8bf99faf9e&txTime=6ABE43C0
 #EXTINF:-1 tvg-id="3944737-84309" tvg-name="Philippines University Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines University Athletic Association - 30 Sep 2026 17:30 WIB - FEU Tamaraws vs DLSU Green Archers (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
@@ -376,31 +324,42 @@ https://live.dyrur1.com/live/jek3psdz5v6t9qo_9aedf116ef15e506ff8a9a325288158f_10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4649993.m3u8?txSecret=d4eef202702c5ab041ac07a8f7f61332&txTime=6ABE3970
+https://pul-tenm.gkykp.com/live/hd-en-1-4649993.m3u8?txSecret=0606730063651f518df90755ab34e147&txTime=6ABE43C0
 #EXTINF:-1 tvg-id="4649993-84312" tvg-name="OCA Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Asian Games - 30 Sep 2026 18:30 WIB - Uzbekistan U23 vs Japan U23 (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/75066460_5205f4e5ec90125d1524b9a3a21323cb_1080p.m3u8?auth_key=1790779113-0-0-9646f86b96920b36eb0ac49c26e1df99
+https://live.dyrur1.com/live/75066460_5205f4e5ec90125d1524b9a3a21323cb_1080p.m3u8?auth_key=1790782133-0-0-158f498f069d4992707a60dbcb475c3d
 #EXTINF:-1 tvg-id="4651978-84311" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 30 Sep 2026 18:30 WIB - Technico FF vs FC United Stars (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4651978.m3u8?txSecret=010d87cd406fbd8cefd57b08f653d5ca&txTime=6ABE3970
+https://pul-tenm.gkykp.com/live/sd-1-4651978.m3u8?txSecret=fc376e340fc87a50701f3018a0a56094&txTime=6ABE43C0
 #EXTINF:-1 tvg-id="4651978-84313" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 30 Sep 2026 18:30 WIB - Technico FF vs FC United Stars (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/14432686_6a66b6c4d8c2d1aafdd63c38a9e12645_1080p.m3u8?auth_key=1790779113-0-0-980c3bd1e9ee4ea9faf4e01c26ec9330
+https://live.dyrur1.com/live/14432686_6a66b6c4d8c2d1aafdd63c38a9e12645_1080p.m3u8?auth_key=1790779762-0-0-85f1a71a87290d0040729bd8ab53a4bf
+#EXTINF:-1 tvg-id="4601444-84518" tvg-name="CFA Member Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CFA Member Champions League - 30 Sep 2026 19:30 WIB - Qingdao Fuli vs Xinjiang Jindun (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/j374oi0gg4gigqo_4674cdc09b0d78282b58ed98936ce9c6_1080p.m3u8?auth_key=1790782133-0-0-11a8f0b456fa46f955f246fc75400f8b
+#EXTINF:-1 tvg-id="4601445-84517" tvg-name="CFA Member Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CFA Member Champions League - 30 Sep 2026 19:30 WIB - Xingtai Wanshuai vs Xinjiang Bingchao (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/g6763i5zzpxco7r_d3865d0fc9e6b7b8dfe555f00012c44d_1080p.m3u8?auth_key=1790782133-0-0-2356d89a121077f08f2926545842cf74
+#EXTINF:-1 tvg-id="4623498-84516" tvg-name="Shenyang Peace Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Shenyang Peace Cup - 30 Sep 2026 19:35 WIB - China U16 vs Australia U16 (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/oj7x9ix405la47g_1185612ff1c2967bb892b08c170b84bd_1080p.m3u8?auth_key=1790782133-0-0-8affbd5a3814650100b5b8b3801b44f0
 #EXTINF:-1 tvg-id="3929086-83863" tvg-name="EuroCup Basketball" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",EuroCup Basketball - 30 Sep 2026 23:30 WIB - Siauliai vs London Lions (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3929086.m3u8?txSecret=b7e45c14984058719ad7f83d2da09383&txTime=6ABE3970
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",16:00 | Inter Turku vs SJK
-https://live05.meung.app/live/82054853.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f4f29caf210db9a418ece37a7025eb5f.png!w80",11:30 | Shenzhen 2028 vs Hangzhou Linping
-https://live05.meung.app/live/08552895.m3u8
+https://pul-tenm.gkykp.com/live/sd-2-3929086.m3u8?txSecret=3aae86b5637248f9485057b324864ae9&txTime=6ABE43C0
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) m3u8
 https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782232522-0-0-2b6cc00beb99e824aa1924926b75ae7b
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) hdM3u8
@@ -409,8 +368,6 @@ https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782232522-0-0-679c
 https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782232522-0-0-ce583044375d834d1706b22452e075c9
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV FIREMAN] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782232522-0-0-be25cfdb2864e1ff265f6fa5484e53b7
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",22:30 | Sport Club Recife PE vs Cuiaba
-https://live05.meung.app/live/82054853.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
