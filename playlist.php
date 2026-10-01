@@ -473,7 +473,7 @@ http://193.47.62.55/hls/NUUUQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nhật Bản vs Ecuador" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F7cf3ef0849225d11dd96f8e64c540c78.png%21w80&size=300&scale=1.5", Nhật Bản vs Ecuador (Cốc kỳ lân)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/74764066_30d3931593990ac679b0869b1791ed4b_autoChange.m3u8?auth_key=1790868864-0-0-0d50be5ffb399bc7190e30eb72241f20
+https://live.dyrur1.com/live/74764066_30d3931593990ac679b0869b1791ed4b_autoChange.m3u8?auth_key=1790871563-0-0-f1c78976732649be6dc186887f676c1f
 #EXTINF:-1 tvg-id="" tvg-name="BLV HỔ VẰN" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F7cf3ef0849225d11dd96f8e64c540c78.png%21w80&size=300&scale=1.5", Nhật Bản vs Ecuador - BLV HỔ VẰN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -482,39 +482,45 @@ https://live05.meung.app/live/07428422_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/14830711_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tasmania JackNgười Nhảy vs Melbourne Tigers" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F75ea0c3c22789700eeaf2c8047450d82.png%21w80&size=300&scale=1.5", Tasmania JackNgười Nhảy vs Melbourne Tigers (Liên đoàn Bóng rổ Quốc gia Úc)
+#EXTINF:-1 tvg-id="" tvg-name="Malaysia vs Singapore" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F75b6ce8a3018d34793e1aa86ec375795.png%21w80&size=300&scale=1.5", Malaysia vs Singapore (ASEAN Cup)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/72016790_74053aeafec4a8a209c3dd576e3673d6_autoChange.m3u8?auth_key=1790868865-0-0-34d3392f344f02dd322f5bb37bcf0800
-#EXTINF:-1 tvg-id="" tvg-name="BLV Cozy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F75ea0c3c22789700eeaf2c8047450d82.png%21w80&size=300&scale=1.5", Tasmania JackNgười Nhảy vs Melbourne Tigers - BLV Cozy
+https
+#EXTINF:-1 tvg-id="" tvg-name="BLV REVIVE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F75b6ce8a3018d34793e1aa86ec375795.png%21w80&size=300&scale=1.5", Malaysia vs Singapore - BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-id="3926008-84583" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 01 Oct 2026 17:30 WIB - Tasmania JackJumpers vs Melbourne United (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3926008.m3u8?txSecret=e6e985a9139f79fa0b9eb545a77a8a9f&txTime=6ABF96A8
-#EXTINF:-1 tvg-id="3926008-85110" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 01 Oct 2026 17:30 WIB - Tasmania JackJumpers vs Melbourne United (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/72016790_74053aeafec4a8a209c3dd576e3673d6_1080p.m3u8?auth_key=1790868804-0-0-101a24119c4c6989de2d9f9bee2acc8b
+https://live05.meung.app/live/33982309_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLV FANTA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F75b6ce8a3018d34793e1aa86ec375795.png%21w80&size=300&scale=1.5", Malaysia vs Singapore - BLV FANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/16226575_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indonesia vs Bangladesh" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F75b6ce8a3018d34793e1aa86ec375795.png%21w80&size=300&scale=1.5", Indonesia vs Bangladesh (ASEAN Cup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https
+#EXTINF:-1 tvg-id="" tvg-name="BLV PEPSI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F75b6ce8a3018d34793e1aa86ec375795.png%21w80&size=300&scale=1.5", Indonesia vs Bangladesh - BLV PEPSI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/59444581_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLV SODA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F75b6ce8a3018d34793e1aa86ec375795.png%21w80&size=300&scale=1.5", Indonesia vs Bangladesh - BLV SODA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/02456966_tsc.m3u8
 #EXTINF:-1 tvg-id="4647603-85061" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 01 Oct 2026 18:10 WIB - Japan vs Ecuador (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4647603.m3u8?txSecret=8a22adbdf232022d5347af23b4555b0b&txTime=6ABF96A8
-#EXTINF:-1 tvg-id="4647603-85129" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 01 Oct 2026 18:10 WIB - Japan vs Ecuador (HD-J)
+https://pul-tenm.gkykp.com/live/hd-en-1-4647603.m3u8?txSecret=0520f0696b98c44e9b8f1b8484d9a907&txTime=6ABFA0F8
+#EXTINF:-1 tvg-id="4647603-85160" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 01 Oct 2026 18:10 WIB - Japan vs Ecuador (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74764066_30d3931593990ac679b0869b1791ed4b_1080p.m3u8?auth_key=1790868804-0-0-4b7f7e71c9773b6efd5b5048acb1d059
+https://live.dyrur1.com/live/74764066_30d3931593990ac679b0869b1791ed4b_1080p.m3u8?auth_key=1790871559-0-0-da0d6ab99b534d1a5b87a0111dbc5bee
 #EXTINF:-1 tvg-id="4652153-85057" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 01 Oct 2026 18:30 WIB - Parikrma FC vs Asc And Center FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4652153.m3u8?txSecret=20556f8690456f1b43e2deab3ffb5793&txTime=6ABF96A8
+https://pul-tenm.gkykp.com/live/sd-1-4652153.m3u8?txSecret=ca5458b96711eb56c97847e219dda8f7&txTime=6ABFA0F8
 #EXTINF:-1 tvg-id="4652153-85137" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 01 Oct 2026 18:30 WIB - Parikrma FC vs Asc And Center FC (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
@@ -524,66 +530,72 @@ https://live.dyrur1.com/live/14432691_10abf38ecd6eda66c2de7b7e53097fae_1080p.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4601443.m3u8?txSecret=6965e3dbd665eca52b2f6c00622d7dd2&txTime=6ABF96A8
+https://pul-tenm.gkykp.com/live/sd-1-4601443.m3u8?txSecret=51635373427a1ea397c4385e7e206e8a&txTime=6ABFA0F8
 #EXTINF:-1 tvg-id="4601443-85149" tvg-name="CFA Member Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CFA Member Champions League - 01 Oct 2026 19:00 WIB - Yulin Mobei Miners vs Dalian Juxing Shengheng (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
 #EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/ndqmliwee96arkv_279676ec1e02479850007fe30d8c4599_1080p.m3u8?auth_key=1790868804-0-0-01aa7e9cc19f949104e5bd815d4518a3
+https://live1.dyrur1.com/live/ndqmliwee96arkv_279676ec1e02479850007fe30d8c4599_1080p.m3u8?auth_key=1790871559-0-0-de6de33bdf734964ff1ae57217bfb3af
 #EXTINF:-1 tvg-id="4639764-85127" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 01 Oct 2026 20:30 WIB - Indonesia vs Bangladesh (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4639764.m3u8?txSecret=08b5c2d3b9b8e935299bc8c259efe8d2&txTime=6ABF96A8
+https://pul-tenm.gkykp.com/live/hd-en-1-4639764.m3u8?txSecret=0e52afacfbda01414743c65d9744ab4c&txTime=6ABFA0F8
 #EXTINF:-1 tvg-id="4639765-85130" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 01 Oct 2026 20:30 WIB - Malaysia vs Singapore (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4639765.m3u8?txSecret=a3e3657fa4afeb7dfa4e24899779d860&txTime=6ABF96A8
+https://pul-tenm.gkykp.com/live/hd-en-1-4639765.m3u8?txSecret=289d537c03a3bfd78757e94718fad899&txTime=6ABFA0F8
 #EXTINF:-1 tvg-id="3939791-85131" tvg-name="Basketball Super League 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Basketball Super League 1 - 01 Oct 2026 21:00 WIB - Temp Sumz Revda vs Sibirtelekom-Lokomotiv (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3939791.m3u8?txSecret=d9ab7d0ed0e483bc7343fc5a3a5e0692&txTime=6ABF96A8
+https://pul-tenm.gkykp.com/live/sd-2-3939791.m3u8?txSecret=7f7aa280595d5776764da9dab13b02c7&txTime=6ABFA0F8
 #EXTINF:-1 tvg-id="4642832-85134" tvg-name="United Arab Emirates ADIB Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United Arab Emirates ADIB Cup - 01 Oct 2026 21:15 WIB - Al-Sharjah vs Al Dhafra FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642832.m3u8?txSecret=ef4fd737eac91228aa55233060c9e0a4&txTime=6ABF96A8
+https://pul-tenm.gkykp.com/live/sd-1-4642832.m3u8?txSecret=92e40c04bd284a0975d07cbc1e076c8b&txTime=6ABFA0F8
 #EXTINF:-1 tvg-id="4650081-85142" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 01 Oct 2026 22:00 WIB - Maldives vs Lebanon (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4650081.m3u8?txSecret=8dc3033295dd0e0d8ee847677a292fa0&txTime=6ABF96A8
+https://pul-tenm.gkykp.com/live/sd-1-4650081.m3u8?txSecret=d7cb3124fb215604d16bdb9489a446bd&txTime=6ABFA0F8
 #EXTINF:-1 tvg-id="4650082-85143" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 01 Oct 2026 22:00 WIB - Uzbekistan vs Syria (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4650082.m3u8?txSecret=edffbbfdff6ec689d032da82e8dfc40a&txTime=6ABF96A8
+https://pul-tenm.gkykp.com/live/sd-1-4650082.m3u8?txSecret=6ae27eb10a3f2b4de48a0c9dd3850301&txTime=6ABFA0F8
 #EXTINF:-1 tvg-id="4652089-85146" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 01 Oct 2026 22:00 WIB - Qatar U19 vs Republic of Ireland U19 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4652089.m3u8?txSecret=21291903cf03ca4c3c429cc124face44&txTime=6ABF96A8
+https://pul-tenm.gkykp.com/live/sd-1-4652089.m3u8?txSecret=ce89be1cf16031b17fb2db948760ad46&txTime=6ABFA0F8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",15:00 | CLB Vaasa VPS vs CLB AC Oulu
+https://live05.meung.app/live/59444581.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b196a9a7e627dc15cfa96268035c454e.png!w80",09:00 | Hà Nội Nữ vs Tp. Hồ Chí Minh 2 Nữ
 https://live05.meung.app/live/02456966.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80",12:00 | Chengdu Rongcheng B vs Guangzhou Dandelion Alpha FC
-https://live05.meung.app/live/75748097.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/e903d5740a60e44291b4126c4cce980a.png!w80",12:00 | Borneo Hornbills vs Pelita Jaya
-https://live05.meung.app/live/87379114.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782232522-0-0-2b6cc00beb99e824aa1924926b75ae7b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782232522-0-0-679c8588d0b330b0994ca6eb0bb2a344
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) m3u8
 https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782232522-0-0-8b640fe1cf47df1166734db5f3d09d2b
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782232522-0-0-2977642b49a40977f77b1672f1607866
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80",13:30 | Indonesia vs Campuchia
-https://live05.meung.app/live/14830711.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1eb717a2e3c704c2f687d4b4a5181030.png!w80",14:00 | FK Ilpar vs Metallurg Asha
-https://live05.meung.app/live/87379114.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",11:00 | Singapore vs Đông Timor
+https://live05.meung.app/live/16226575.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5c1b71658722f554a095a3687b548717.png!w80",16:00 | Dunav Ruse vs Ludogorets Razgrad
+https://live05.meung.app/live/59444581.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Campuchia (BLV GIÀ LÀNG) [flv]
-https://live05.meung.app/live/14830711.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Campuchia (BLV GIÀ LÀNG) [hls 2]
-https://live05.miekgo.app/live/14830711.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Đông Timor (BLV FANTA) [flv]
+https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Đông Timor (BLV FANTA) [hls 2]
+https://live05.miekgo.app/live/16226575.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Dunav Ruse vs Ludogorets Razgrad (BLV PEPSI) [flv]
+https://live05.meung.app/live/59444581.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Dunav Ruse vs Ludogorets Razgrad (BLV PEPSI) [hls 2]
+https://live05.miekgo.app/live/59444581.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
