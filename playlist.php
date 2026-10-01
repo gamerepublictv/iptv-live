@@ -456,69 +456,76 @@ http://193.47.62.44/hls/grrrA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/grrr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Panama vs New Zealand" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F7cf3ef0849225d11dd96f8e64c540c78.png%21w80&size=300&scale=1.5", Panama vs New Zealand (Cốc kỳ lân)
+#EXTINF:-1 tvg-id="" tvg-name="Khaan Khuns-Erchim vs Central Stallions" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F70f03bd4da7c486b8ca8f11ab251ce34.png%21w80&size=300&scale=1.5", Khaan Khuns-Erchim vs Central Stallions (Giải ngoại hạng Mông Cổ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/74297752_675da81e413f862ec31d87348afcd0c2_autoChange.m3u8?auth_key=1790855661-0-0-cae787f69c02e22f9d91a2b83fab1c4f
-#EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F7cf3ef0849225d11dd96f8e64c540c78.png%21w80&size=300&scale=1.5", Panama vs New Zealand - BLV 7UP
+https://live.dyrur1.com/live/75104340_6fedb6804d64884a0af963adb24d9b49_autoChange.m3u8?auth_key=1790858319-0-0-390c3ae90fd5ef41451a98103786cc5d
+#EXTINF:-1 tvg-id="" tvg-name="BLV SAMURAI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F70f03bd4da7c486b8ca8f11ab251ce34.png%21w80&size=300&scale=1.5", Khaan Khuns-Erchim vs Central Stallions - BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/78905744_tsc.m3u8
-#EXTINF:-1 tvg-id="4647602-84992" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 01 Oct 2026 14:10 WIB - Panama vs New Zealand (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4647602.m3u8?txSecret=7e66f061313e955cec0d6b5760cdd15b&txTime=6ABF6318
-#EXTINF:-1 tvg-id="4647602-85062" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 01 Oct 2026 14:10 WIB - Panama vs New Zealand (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74297752_675da81e413f862ec31d87348afcd0c2_1080p.m3u8?auth_key=1790855638-0-0-332e4f87f3c9fb5953e633a3396f4624
+https://live05.meung.app/live/07808742_tsc.m3u8
 #EXTINF:-1 tvg-id="3944711-85067" tvg-name="Korean University Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean University Basketball League - 01 Oct 2026 15:00 WIB - Myongji University vs Konkuk University (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3944711.m3u8?txSecret=b3d46a235f09657672e01af5ba475bb9&txTime=6ABF6318
+https://pul-tenm.gkykp.com/live/sd-2-3944711.m3u8?txSecret=5f10252a3412ac4185c2c861bda7b34d&txTime=6ABF6D68
 #EXTINF:-1 tvg-id="3944711-85065" tvg-name="Korean University Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean University Basketball League - 01 Oct 2026 15:00 WIB - Myongji University vs Konkuk University (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
 https://live.dyrur1.com/live/75178990_4904c06b025f482c96328cca9513631a_1080p.m3u8?auth_key=1790853489-0-0-32dfad6949afa4ba77073d516f23be95
+#EXTINF:-1 tvg-id="4601449-85070" tvg-name="CFA Member Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CFA Member Champions League - 01 Oct 2026 16:00 WIB - Guangdong Wuchuan Youth vs Jiangsu Changjin (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4601449.m3u8?txSecret=14dbb332cf2fa2d1247a4a2c6c5970c6&txTime=6ABF6D68
+#EXTINF:-1 tvg-id="4601449-85072" tvg-name="CFA Member Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CFA Member Champions League - 01 Oct 2026 16:00 WIB - Guangdong Wuchuan Youth vs Jiangsu Changjin (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/m2q15izyy62ie76_e6eb223ce71938b1fd7c9faa132a82bc_1080p.m3u8?auth_key=1790856103-0-0-67cb03ca5636c969bb4e07cf108a1326
+#EXTINF:-1 tvg-id="4644102-85071" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 01 Oct 2026 16:00 WIB - Khaan Khuns-Erchim FC vs Central Stallions (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4644102.m3u8?txSecret=f8a6b7565d0c300820fa0eef865bd0cb&txTime=6ABF6D68
+#EXTINF:-1 tvg-id="4644102-85080" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 01 Oct 2026 16:00 WIB - Khaan Khuns-Erchim FC vs Central Stallions (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/75104340_6fedb6804d64884a0af963adb24d9b49_1080p.m3u8?auth_key=1790858299-0-0-541f8e3b366a6e494b782a5071d8c5a2
 #EXTINF:-1 tvg-id="4652111-85056" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 01 Oct 2026 16:00 WIB - Hal FC vs FC Bengaluru United (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4652111.m3u8?txSecret=360578fb1681cea610540fdf4d6749d6&txTime=6ABF6318
+https://pul-tenm.gkykp.com/live/sd-1-4652111.m3u8?txSecret=365019f85b02a98addc0258523a99d08&txTime=6ABF6D68
+#EXTINF:-1 tvg-id="4652111-85075" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 01 Oct 2026 16:00 WIB - Hal FC vs FC Bengaluru United (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/14432690_9e89164aa1c2e7a431ef2773220d9d7a_1080p.m3u8?auth_key=1790858299-0-0-a59ad507cc6e0591f1ba8cc821a4d3f5
 #EXTINF:-1 tvg-id="3926008-84583" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 01 Oct 2026 17:30 WIB - Tasmania JackJumpers vs Melbourne United (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3926008.m3u8?txSecret=d3f48de20714aab916bd2b9cf20f97a0&txTime=6ABF6318
+https://pul-tenm.gkykp.com/live/sd-2-3926008.m3u8?txSecret=20d23c41e7f8c0f59f14dd56a67877f5&txTime=6ABF6D68
 #EXTINF:-1 tvg-id="4647603-85061" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 01 Oct 2026 18:10 WIB - Japan vs Ecuador (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4647603.m3u8?txSecret=72e5d2bacbfa5b067e34b9a16d6c0f5c&txTime=6ABF6318
+https://pul-tenm.gkykp.com/live/sd-1-4647603.m3u8?txSecret=dc10187a953cd5b2630f3f06a493ef9b&txTime=6ABF6D68
 #EXTINF:-1 tvg-id="4652153-85057" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 01 Oct 2026 18:30 WIB - Parikrma FC vs Asc And Center FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4652153.m3u8?txSecret=408229571f8f90c734bf7b56a8c974b7&txTime=6ABF6318
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",23:00 | Panama vs Croatia
-https://live05.meung.app/live/78905744.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4652153.m3u8?txSecret=808dcbc481c04b6138077a12500336d4&txTime=6ABF6D68
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80",10:30 | Qingdao Red Lions vs Beijing Technology
 https://live05.meung.app/live/07808742.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6f927eb040bdd5c972a9343fd9c8b873.png!w80",15:30 | CFR vs CS Voluntari
-https://live05.meung.app/live/78905744.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 27/07 Qingdao Red Lions vs Beijing Technology (BLV SAMURAI) [flv]
 https://live05.meung.app/live/07808742.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 27/07 Qingdao Red Lions vs Beijing Technology (BLV SAMURAI) [hls 2]
 https://live05.miekgo.app/live/07808742.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR vs CS Voluntari (BLV 7UP) [flv]
-https://live05.meung.app/live/78905744.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR vs CS Voluntari (BLV 7UP) [hls 2]
-https://live05.miekgo.app/live/78905744.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
