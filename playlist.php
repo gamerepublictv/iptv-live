@@ -26,44 +26,6 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 https://live2.zundrixmediapipeline.com/live/channel33.m3u8
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB Thailand vs China
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",International Friendly [CH1] - 01 Okt 07:00 WIB - Argentina vs Bolivia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH1] - 01 Okt 08:00 WIB - Kazakhstan vs Hong Kong
-#EXTVLCOPT:http-header=Host: live1.quickscoreboardz.com
-#EXTVLCOPT:http-referer=https://xlz.livebytexscore.com/
-#EXTVLCOPT:http-origin=https://xlz.livebytexscore.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-http://42.117.246.9/live/channel80.flv?wsSecret=0883a7383ffd1707bdfff88a314c19fd&wsABSTime=1780974954
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH2] - 01 Okt 08:00 WIB - India vs Pakistan
-#EXTVLCOPT:http-header=host: live2.edgeburstcdn.com
-#EXTVLCOPT:http-referer=https://xlz.morvexstream.com/
-#EXTVLCOPT:http-origin=https://xlz.morvexstream.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-http://43.152.182.139/live/channel33.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH3] - 01 Okt 11:00 WIB - Kyrgyzstan vs Chinese Taipei
-#EXTVLCOPT:http-header=Host: live1.quickscoreboardz.com
-#EXTVLCOPT:http-referer=https://xlz.livebytexscore.com/
-#EXTVLCOPT:http-origin=https://xlz.livebytexscore.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-http://42.117.246.9/live/channel81.flv?wsSecret=ee820e40eda54fd1d5c8dd1fe21a74f9&wsABSTime=1780609220
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH4] - 01 Okt 11:00 WIB - South Korea vs Iran
-#EXTVLCOPT:http-header=host: live2.edgeburstcdn.com
-#EXTVLCOPT:http-referer=https://xlz.morvexstream.com/
-#EXTVLCOPT:http-origin=https://xlz.morvexstream.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-http://43.152.182.139/live/channel33.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",MotoGP [CH1] - 01 Okt 13:30 WIB - Japan - GearUp / Pre-Event Press Conference
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH5] - 01 Okt 14:00 WIB - Vietnam vs Uzbekistan
 #EXTVLCOPT:http-header=host: live2.edgeburstcdn.com
 #EXTVLCOPT:http-referer=https://xlz.morvexstream.com/
@@ -94,6 +56,18 @@ http://43.152.182.139/live/channel33.flv
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 http://43.152.182.139/live/channel33.flv
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",FIFA Asean Cup [CH1] - 01 Okt 19:30 WIB - Malaysia vs Singapore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",FIFA Asean Cup [CH2] - 01 Okt 19:30 WIB - Indonesia vs Bangladesh
+#EXTVLCOPT:http-referer=https://www.mewatch.sg/
+#EXTVLCOPT:http-origin=https://www.mewatch.sg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",CAF Africa Cup [CH2] - 01 Okt 23:00 WIB - Guinea vs Kenya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -132,6 +106,16 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",MotoGP [CH3] - 02 Okt 11:15 WIB - Japan - Practice
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",Formula 1 [CH1] - 02 Okt 11:30 WIB - Bahrain - Practice 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",UEFA Nations League [CH7] - 27 Sep 01:45 WIB - North Macedonia vs Switzerland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -159,6 +143,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #EXTVLCOPT:http-origin=https://xlz.livebytexscore.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 http://42.117.246.9/live/channel28.flv?wsSecret=e2f19be44cfa85ce3ca8bcfe3e4ef8a4&wsABSTime=1775408982
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH1] - 27 Sep 08:00 WIB - Iran vs Kyrgyzstan
+#EXTVLCOPT:http-header=Host: live1.quickscoreboardz.com
+#EXTVLCOPT:http-referer=https://xlz.livebytexscore.com/
+#EXTVLCOPT:http-origin=https://xlz.livebytexscore.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+http://42.117.246.9/live/channel80.flv?wsSecret=0883a7383ffd1707bdfff88a314c19fd&wsABSTime=1780974954
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH2] - 27 Sep 08:00 WIB - Qatar vs Hong Kong
 #EXTVLCOPT:http-header=Host: live1.quickscoreboardz.com
 #EXTVLCOPT:http-referer=https://xlz.livebytexscore.com/
@@ -171,11 +161,14 @@ http://42.117.246.9/live/channel81.flv?wsSecret=ee820e40eda54fd1d5c8dd1fe21a74f9
 #EXTVLCOPT:http-origin=https://xlz.livebytexscore.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 http://42.117.246.9/live/channel80.flv?wsSecret=0883a7383ffd1707bdfff88a314c19fd&wsABSTime=1780974954
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",FIFA Asean Cup [CH1] - 27 Sep 14:00 WIB - Hong Kong vs Laos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH4] - 27 Sep 11:00 WIB - South Korea vs Philippines
+#EXTVLCOPT:http-header=host: live2.edgeburstcdn.com
+#EXTVLCOPT:http-referer=https://xlz.morvexstream.com/
+#EXTVLCOPT:http-origin=https://xlz.morvexstream.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+http://43.152.182.139/live/channel33.flv
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="ts",Volleyball: Asian Games 2026 [CH6] - 27 Sep 14:00 WIB - Indonesia vs Thailand
 #EXTVLCOPT:http-header=host: live2.edgeburstcdn.com
 #EXTVLCOPT:http-referer=https://xlz.morvexstream.com/
@@ -331,16 +324,6 @@ http://43.152.136.207/live/channel1.flv
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 http://43.152.182.139/live/channel12.flv
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",MotoGP [CH3] - 02 Okt 11:15 WIB - Japan - Practice
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",Formula 1 [CH1] - 02 Okt 11:30 WIB - Bahrain - Practice 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",Formula 1 [CH2] - 02 Okt 15:00 WIB - Bahrain - Practice 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -416,16 +399,56 @@ https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1944943931969372160%2FfiLGcaCR_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Indonesia vs Bangladesh - ASEAN Championship 19.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/iiiiaAAA.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1944943931969372160%2FfiLGcaCR_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Malaysia vs Singapore - ASEAN Championship 19.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/iiiiaAA.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 1 - Horse Racing 19.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.194/hls/vavavava.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1597146257889312773%2Fb_9FkAVp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Horse Racing --- CH 2 - Horse Racing 19.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.194/hls/vavavavaq.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2102312615414304768%2FXJZf8j_A_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Golf Alfred Dunhill Links Championship - Golf 18.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/iiiiaA.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F1%2F19%2FAsian_Games_logo.svg%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dindex%26utm_content%3Doriginal&size=400&scale=1.5" group-title="Event-LIVE-NOW", Japan vs Qatar - Volleyball Asian Games 17.20 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/iiiia.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F683411718987476993%2FlZKQkOal_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Japan vs Ecuador --- CH 1 - Friendly Match 17.10 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/iiii.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1818146563342139392%2FHfVvVvXW_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Tasmania JackJumpers vs Melbourne United - Basketball NBL 16.30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/hhhhaa.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F947267863395495937%2FRxOUX-F7_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Carlton Blues W vs Hawthorn Hawks W - AFL Aussie Rules 16.15 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/hhhha.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1483055679443251202%2F_C4WKaR8_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", World Rally Championship Italy - World Rally 14.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1605720616560009218%2FP4LuoDhq_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Otago vs Auckland - Rugby NZ NPC 13.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/hhhh.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1995612160613920768%2FjdwbOzZi_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Tennis ATP Tokyo - Tennis ATP --:--
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -456,90 +479,82 @@ http://193.47.62.44/hls/grrrA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/grrr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Khaan Khuns-Erchim vs Central Stallions" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F70f03bd4da7c486b8ca8f11ab251ce34.png%21w80&size=300&scale=1.5", Khaan Khuns-Erchim vs Central Stallions (Giải ngoại hạng Mông Cổ)
+#EXTINF:-1 tvg-id="" tvg-name="Nhật Bản vs Ecuador" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F7cf3ef0849225d11dd96f8e64c540c78.png%21w80&size=300&scale=1.5", Nhật Bản vs Ecuador (Cốc kỳ lân)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/75104340_6fedb6804d64884a0af963adb24d9b49_autoChange.m3u8?auth_key=1790861041-0-0-511ca9a0f1d7ec4ff4c6d6d6caa962b7
-#EXTINF:-1 tvg-id="" tvg-name="BLV SAMURAI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F70f03bd4da7c486b8ca8f11ab251ce34.png%21w80&size=300&scale=1.5", Khaan Khuns-Erchim vs Central Stallions - BLV SAMURAI
+https://live.dyrur1.com/live/74764066_30d3931593990ac679b0869b1791ed4b_autoChange.m3u8?auth_key=1790863685-0-0-928eedbbfb6a678307389f32f925c980
+#EXTINF:-1 tvg-id="" tvg-name="BLV HỔ VẰN" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F7cf3ef0849225d11dd96f8e64c540c78.png%21w80&size=300&scale=1.5", Nhật Bản vs Ecuador - BLV HỔ VẰN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-id="4601449-85070" tvg-name="CFA Member Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CFA Member Champions League - 01 Oct 2026 16:00 WIB - Guangdong Wuchuan Youth vs Jiangsu Changjin (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4601449.m3u8?txSecret=25ee79a2a342c69e1c823805a65ece90&txTime=6ABF7830
-#EXTINF:-1 tvg-id="4601449-85072" tvg-name="CFA Member Champions League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CFA Member Champions League - 01 Oct 2026 16:00 WIB - Guangdong Wuchuan Youth vs Jiangsu Changjin (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/m2q15izyy62ie76_e6eb223ce71938b1fd7c9faa132a82bc_1080p.m3u8?auth_key=1790856103-0-0-67cb03ca5636c969bb4e07cf108a1326
+https://live05.meung.app/live/07428422_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLV GIÀ LÀNG" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F7cf3ef0849225d11dd96f8e64c540c78.png%21w80&size=300&scale=1.5", Nhật Bản vs Ecuador - BLV GIÀ LÀNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/14830711_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tasmania JackNgười Nhảy vs Melbourne Tigers" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F75ea0c3c22789700eeaf2c8047450d82.png%21w80&size=300&scale=1.5", Tasmania JackNgười Nhảy vs Melbourne Tigers (Liên đoàn Bóng rổ Quốc gia Úc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live.dyrur1.com/live/72016790_74053aeafec4a8a209c3dd576e3673d6_autoChange.m3u8?auth_key=1790863684-0-0-905c0b21c16a7d8040d17b5f02562e28
+#EXTINF:-1 tvg-id="" tvg-name="BLV Cozy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F75ea0c3c22789700eeaf2c8047450d82.png%21w80&size=300&scale=1.5", Tasmania JackNgười Nhảy vs Melbourne Tigers - BLV Cozy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/87379114_tsc.m3u8
 #EXTINF:-1 tvg-id="4638914-85083" tvg-name="Chinese Hong Kong League Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Hong Kong League Cup - 01 Oct 2026 16:00 WIB - North District vs Southern District (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4638914.m3u8?txSecret=ec09444868798b997a9119365d7e40cd&txTime=6ABF7830
-#EXTINF:-1 tvg-id="4638914-85084" tvg-name="Chinese Hong Kong League Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Hong Kong League Cup - 01 Oct 2026 16:00 WIB - North District vs Southern District (HD-J)
+https://pul-tenm.gkykp.com/live/sd-1-4638914.m3u8?txSecret=e5c3bb4276f7a149f2daf44f68cc8302&txTime=6ABF8280
+#EXTINF:-1 tvg-id="4652300-85126" tvg-name="Cambodia Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Cambodia Cup - 01 Oct 2026 16:30 WIB - Koh Kong vs Kep (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/74780504_dd73c7247b263408e07c80cc364e0e1b_1080p.m3u8?auth_key=1790859215-0-0-a2c0b24a587597a55540409f5cd14e4c
-#EXTINF:-1 tvg-id="4644102-85071" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 01 Oct 2026 16:00 WIB - Khaan Khuns-Erchim FC vs Central Stallions (HD-B)
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/14266729_0c09c97e1e7a2b51bc6630f6881374e7_1080p.m3u8?auth_key=1790863685-0-0-75eb62d126dd6fb1ec209eeb23fc15ac
+#EXTINF:-1 tvg-id="3944792-85114" tvg-name="Philippines National Collegiate Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines National Collegiate Athletic Association - 01 Oct 2026 17:20 WIB - CSB trailblazer vs UPHSD Altas (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4644102.m3u8?txSecret=fdd7bcef7e98225ac9a36aadf26780e1&txTime=6ABF7830
-#EXTINF:-1 tvg-id="4644102-85080" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 01 Oct 2026 16:00 WIB - Khaan Khuns-Erchim FC vs Central Stallions (HD-J)
+https://pul-tenm.gkykp.com/live/sd-2-3944792.m3u8?txSecret=2b5043c26ea94935726c42af2378c47d&txTime=6ABF8280
+#EXTINF:-1 tvg-id="3944792-85115" tvg-name="Philippines National Collegiate Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines National Collegiate Athletic Association - 01 Oct 2026 17:20 WIB - CSB trailblazer vs UPHSD Altas (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/75104340_6fedb6804d64884a0af963adb24d9b49_1080p.m3u8?auth_key=1790861041-0-0-511ca9a0f1d7ec4ff4c6d6d6caa962b7
-#EXTINF:-1 tvg-id="4652111-85056" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 01 Oct 2026 16:00 WIB - Hal FC vs FC Bengaluru United (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4652111.m3u8?txSecret=9d7b48b68138daed5a1309974f797f8c&txTime=6ABF7830
-#EXTINF:-1 tvg-id="4652111-85075" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 01 Oct 2026 16:00 WIB - Hal FC vs FC Bengaluru United (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/14432690_9e89164aa1c2e7a431ef2773220d9d7a_1080p.m3u8?auth_key=1790858731-0-0-1c5ca4fb3888f625a37bb5bfb263eb49
-#EXTINF:-1 tvg-id="4652299-85087" tvg-name="Cambodia Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Cambodia Cup - 01 Oct 2026 16:30 WIB - Kampot vs Preah Sihanouk (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74888606_e87f77760f90415ae7bb66eeb6670565_1080p.m3u8?auth_key=1790861041-0-0-4184ed65f4ebbcb1b17bf9d8fb075761
-#EXTINF:-1 tvg-id="4652300-85088" tvg-name="Cambodia Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Cambodia Cup - 01 Oct 2026 16:30 WIB - Koh Kong vs Kep (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/14266729_0c09c97e1e7a2b51bc6630f6881374e7_1080p.m3u8?auth_key=1790861041-0-0-bba803d9dafaed679323606902e1e20a
+https://live.dyrur1.com/live/vrqw9s9yl0ls47n_967c42e8280c610106a3372b633de3fc_1080p.m3u8?auth_key=1790863684-0-0-ab3d7a437fd0074ce2580b9181f243c0
 #EXTINF:-1 tvg-id="3926008-84583" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 01 Oct 2026 17:30 WIB - Tasmania JackJumpers vs Melbourne United (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3926008.m3u8?txSecret=7a8770dd76ad7f30fb20381b18d5a48c&txTime=6ABF7830
+https://pul-tenm.gkykp.com/live/hd-en-2-3926008.m3u8?txSecret=f2f5249f63a989fbda5836fe328f25ad&txTime=6ABF8280
+#EXTINF:-1 tvg-id="3926008-85110" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 01 Oct 2026 17:30 WIB - Tasmania JackJumpers vs Melbourne United (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/72016790_74053aeafec4a8a209c3dd576e3673d6_1080p.m3u8?auth_key=1790863684-0-0-905c0b21c16a7d8040d17b5f02562e28
 #EXTINF:-1 tvg-id="4647603-85061" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 01 Oct 2026 18:10 WIB - Japan vs Ecuador (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4647603.m3u8?txSecret=6e8b7cf0a30db3fdcc475356a56c0b2d&txTime=6ABF7830
+https://pul-tenm.gkykp.com/live/hd-en-1-4647603.m3u8?txSecret=a43b73997297f1e02a1a6744e79459cc&txTime=6ABF8280
+#EXTINF:-1 tvg-id="4647603-85125" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 01 Oct 2026 18:10 WIB - Japan vs Ecuador (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/74764066_30d3931593990ac679b0869b1791ed4b_1080p.m3u8?auth_key=1790863685-0-0-928eedbbfb6a678307389f32f925c980
 #EXTINF:-1 tvg-id="4652153-85057" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 01 Oct 2026 18:30 WIB - Parikrma FC vs Asc And Center FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4652153.m3u8?txSecret=a7b7e7a0329baa4573b6299798891024&txTime=6ABF7830
+https://pul-tenm.gkykp.com/live/sd-1-4652153.m3u8?txSecret=d6c0731d8dea0d3a90df2cea1848a527&txTime=6ABF8280
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/e903d5740a60e44291b4126c4cce980a.png!w80",12:00 | Borneo Hornbills vs Pelita Jaya
 https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80",10:30 | Qingdao Red Lions vs Beijing Technology
-https://live05.meung.app/live/07808742.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80",13:30 | Indonesia vs Campuchia
+https://live05.meung.app/live/14830711.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1eb717a2e3c704c2f687d4b4a5181030.png!w80",14:00 | FK Ilpar vs Metallurg Asha
 https://live05.meung.app/live/87379114.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 27/07 Qingdao Red Lions vs Beijing Technology (BLV SAMURAI) [flv]
-https://live05.meung.app/live/07808742.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 27/07 Qingdao Red Lions vs Beijing Technology (BLV SAMURAI) [hls 2]
-https://live05.miekgo.app/live/07808742.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Campuchia (BLV GIÀ LÀNG) [flv]
+https://live05.meung.app/live/14830711.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Campuchia (BLV GIÀ LÀNG) [hls 2]
+https://live05.miekgo.app/live/14830711.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
