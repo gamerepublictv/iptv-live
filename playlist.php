@@ -1,45 +1,26 @@
 #EXTM3U
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/yKOXu", 19:30 WIB Indonesia vs Bangladesh
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://iili.io/3cSp4Lu.md.png", 12:55 WIB MotoGP Practice: Motul Grand Prix of Japan - MotoGP 2026 Round 16
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/yKOXu", 15:00 WIB Thailand vs Filipina
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/yKOXu", 19:30 WIB Malaysia vs Singapura
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/yKOXu", 15:00 WIB Vietnam vs Pakistan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 23:00 WIB Azerbaijan vs Liechtenstein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Jerman vs Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Republik Irlandia vs Austria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
-https://pu1se1.xn--ukq5h.shop/puk5/usergen0grnd8l2y6gw.m3u8
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Denmark vs Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Yunani vs Belanda
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Wales vs Norwegia
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 21:00 WIB Kazakhstan vs Moldova
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 23:00 WIB Latvia vs Montenegro
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 23:00 WIB Siprus vs Armenia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -47,9 +28,50 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Bosnia Herzegovina vs Swedia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Hungaria vs Georgia
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Ukraina vs Irlandia Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/puk5/usergen0grnd8l2y6gw.m3u8
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Belgia vs Turki
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Perancis vs Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/3336/brand.gif?itok=qou1UWIb" group-title="Event-LIVE-NOW",MEKKAH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB Pakistan vs Iran
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel33.m3u8
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB Kazakhstan vs Taiwan
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/32-EQ", 17:00 WIB Vietnam vs Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel33.flv
+#EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/32-EQ", 17:20 WIB Jepang vs China
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
 #EXTINF:-1 tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW" tvg-country="EV" tvg-live="1" tvg-premium="1" tvg-type="dash-clearkey",CAF Africa Cup [CH2] - 01 Okt 23:00 WIB - Guinea vs Kenya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -530,107 +552,107 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0a6d37
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/baeb94a7-3ded-42b7-8e6d-74778eb63da3/master.m3u8
-#EXTINF:-1 tvg-id="29652-85652" tvg-name="NHL" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",NHL - 02 Oct 2026 10:00 WIB - Florida Panthers vs San Jose Sharks (HD-Z)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://a16.kora-plus.li/livecenter/240-1.m3u8?token=4BDNyAJsNhaVLjoY-DcxRqCy5o8&exp=1790918659
-#EXTINF:-1 tvg-id="29653-85489" tvg-name="NHL" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",NHL - 02 Oct 2026 10:00 WIB - Edmonton Oilers vs Vancouver Canucks (HD-Z)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://a13.kora-plus.li/livecenter/241-1.m3u8?token=Yk1qW5ETnk7eL5F3oKJ_p21M9Tk&exp=1790918659
-#EXTINF:-1 tvg-id="3923898-85793" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 02 Oct 2026 10:30 WIB - Panteras de Aguascalientes vs Dorados de Chihuahua (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/9gkl6s62x9dcmkx_96a7ad716ea9d40d9d9203cfd354d27a_1080p.m3u8?auth_key=1790929252-0-0-0a7bd4d614842a4342852c402f73ef72
+#EXTINF:-1 tvg-id="" tvg-name="Trung Quốc Nữ vs Hàn Quốc Nữ" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fb437ffed2118de872b1efc03d23413e9.png%21w80&size=300&scale=1.5", Trung Quốc Nữ vs Hàn Quốc Nữ (Đại hội Thể thao Nữ Châu Á)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https
+#EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fb437ffed2118de872b1efc03d23413e9.png%21w80&size=300&scale=1.5", Trung Quốc Nữ vs Hàn Quốc Nữ - BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/87547578_tsc.m3u8
 #EXTINF:-1 tvg-id="3923898-85792" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 02 Oct 2026 10:30 WIB - Panteras de Aguascalientes vs Dorados de Chihuahua (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3923898.m3u8?txSecret=d77ebe8a498358d3637aa9e0dd0a3092&txTime=6AC08A68
-#EXTINF:-1 tvg-id="3924018-85747" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 02 Oct 2026 11:00 WIB - Soles de Mexicali vs Diablos Rojos del México (HD-J)
+https://pul-tenm.gkykp.com/live/sd-2-3923898.m3u8?txSecret=f5c40dcb908debbf4a2adcaf8e5f408c&txTime=6AC094B8
+#EXTINF:-1 tvg-id="4652196-85795" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 02 Oct 2026 13:30 WIB - Rebels FC vs Stride (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/72154846_0ee39debef0e0b815156b1b0c38b869c_1080p.m3u8?auth_key=1790931231-0-0-aa5693b23df24539a2044ca1ce0e9cb0
-#EXTINF:-1 tvg-id="3924018-85702" tvg-name="Liga Nacional de Baloncesto Profesional" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Nacional de Baloncesto Profesional - 02 Oct 2026 11:00 WIB - Soles de Mexicali vs Diablos Rojos del México (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3924018.m3u8?txSecret=6d030d734af7d619b4911a55e38cca5e&txTime=6AC08A68
+https://live.dyrur1.com/live/14432692_7f5dd109b29154b34d9ed5ce4be341db_1080p.m3u8?auth_key=1790933204-0-0-88e230b5dab9ef738e9c44bc87b73712
 #EXTINF:-1 tvg-id="4652196-85729" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 02 Oct 2026 13:30 WIB - Rebels FC vs Stride (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4652196.m3u8?txSecret=fcccdadd5ff886c714f91d9c9dc26d35&txTime=6AC08A68
+https://pul-tenm.gkykp.com/live/sd-1-4652196.m3u8?txSecret=5c4f97ea6aca9f1d99ecb50b928d194e&txTime=6AC094B8
 #EXTINF:-1 tvg-id="4650304-85789" tvg-name="OCA Women's Asian Games" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",OCA Women's Asian Games - 02 Oct 2026 14:00 WIB - China Women vs South Korea Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4650304.m3u8?txSecret=a111519a544dc1bd32a08478ef853528&txTime=6AC08A68
+https://pul-tenm.gkykp.com/live/hd-en-1-4650304.m3u8?txSecret=fd0d7aa86cd12c9f783d40fd11338fce&txTime=6AC094B8
 #EXTINF:-1 tvg-id="3938249-85719" tvg-name="New Zealand Basketball League Womens" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",New Zealand Basketball League Womens - 02 Oct 2026 14:30 WIB - Tauranga Whai Women vs Southern Hoiho Women (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3938249.m3u8?txSecret=23b2d6481bab2a8fd9a25f9a144b5827&txTime=6AC08A68
+https://pul-tenm.gkykp.com/live/sd-2-3938249.m3u8?txSecret=c0c4bbc150e3fba6969ee9c9f79e52c1&txTime=6AC094B8
 #EXTINF:-1 tvg-id="4652197-85730" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 02 Oct 2026 16:00 WIB - Bengaluru B vs Bangalore City (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4652197.m3u8?txSecret=2f98a74e5b22b822bdab8000e09b5eda&txTime=6AC08A68
+https://pul-tenm.gkykp.com/live/sd-1-4652197.m3u8?txSecret=211113ca8485566f7634d7b04bab75e2&txTime=6AC094B8
 #EXTINF:-1 tvg-id="4639766-85731" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 02 Oct 2026 17:00 WIB - Thailand vs Philippines (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4639766.m3u8?txSecret=ff5997b5c2203ade50ad0fb321e63c24&txTime=6AC08A68
+https://pul-tenm.gkykp.com/live/hd-en-1-4639766.m3u8?txSecret=61f33a4ea62b28e357ee8b2142f87d3d&txTime=6AC094B8
 #EXTINF:-1 tvg-id="4639768-85732" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 02 Oct 2026 17:00 WIB - Vietnam vs Pakistan (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4639768.m3u8?txSecret=96f7100368f2a4c4fa453af6f9e960df&txTime=6AC08A68
+https://pul-tenm.gkykp.com/live/hd-en-1-4639768.m3u8?txSecret=ceff8e1ca5f5957de2752c1159551982&txTime=6AC094B8
 #EXTINF:-1 tvg-id="4651432-85738" tvg-name="International Club Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Club Friendly - 02 Oct 2026 17:00 WIB - Gornik Zabrze vs Odra Opole (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4651432.m3u8?txSecret=ad445144d8f8bdb3e4c58ff4be31c529&txTime=6AC08A68
+https://pul-tenm.gkykp.com/live/sd-1-4651432.m3u8?txSecret=eff0d76acc376d81e0072e392fd6b5bd&txTime=6AC094B8
 #EXTINF:-1 tvg-id="4495489-85745" tvg-name="Korean K League 3" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean K League 3 - 02 Oct 2026 18:00 WIB - Daejeon Korail vs Gangneung Citizen (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4495489.m3u8?txSecret=5b87e55d7bf3bcee84391c564042cd74&txTime=6AC08A68
+https://pul-tenm.gkykp.com/live/sd-1-4495489.m3u8?txSecret=0255365ca745b4f252ae1d5571c45cf2&txTime=6AC094B8
 #EXTINF:-1 tvg-id="4555970-85746" tvg-name="Japanese J3 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese J3 League - 02 Oct 2026 18:00 WIB - Reilac Shiga FC vs Roasso Kumamoto (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4555970.m3u8?txSecret=33cf3062b9bdb958f7ccb181952edf99&txTime=6AC08A68
+https://pul-tenm.gkykp.com/live/sd-1-4555970.m3u8?txSecret=c77888847080ec94f2428815de6d2be1&txTime=6AC094B8
 #EXTINF:-1 tvg-id="29674-85766" tvg-name="NHL" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",NHL - 03 Oct 2026 06:30 WIB - New York Rangers vs Detroit Red Wings (HD-Z)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://a16.kora-plus.li/livecenter/262-1.m3u8?token=770k7W2zj9SUszS1rFRjR3K8qhs&exp=1790918659
+https://a16.kora-plus.li/livecenter/262-1.m3u8?token=j9AUL57A_qSbFlr-pOntXfOECrk&exp=1790921369
 #EXTINF:-1 tvg-id="29675-85767" tvg-name="NHL" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",NHL - 03 Oct 2026 07:00 WIB - Washington Capitals vs Carolina Hurricanes (HD-Z)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://edgestream7.pro/hls/hjksgdfauzy51.m3u8?st=ZUQ9K4AynTanoShR5uni6Q5wvS_J5EhZGt4r3Hvw9hY&e=1790927659
+https://edgestream6.pro/hls/hjksgdfauzy51.m3u8?st=uAupIyvGAgGItSZudyugkd7TvGI2cfhEijw77Bhfu8Q&e=1790930370
 #EXTINF:-1 tvg-id="29676-85768" tvg-name="NHL" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",NHL - 03 Oct 2026 08:00 WIB - Boston Bruins vs Winnipeg Jets (HD-Z)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://a11.kora-plus.li/livecenter/264-1.m3u8?token=D0FKikIFXsYBrCzS80BOxp42IZ0&exp=1790918659
+https://a11.kora-plus.li/livecenter/264-1.m3u8?token=h_DBEaynhb2shCFb0qIyUEgUm2M&exp=1790921369
 #EXTINF:-1 tvg-id="29677-85769" tvg-name="NHL" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",NHL - 03 Oct 2026 09:00 WIB - St. Louis Blues vs Dallas Stars (HD-Z)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://edgestream6.pro/hls/rtzaeyvhb53.m3u8?st=ouu2ZzVQXoSxEQ-9FlA7QnM_1qJg7vLD6tJaaYDNSOo&e=1790927659
+https://edgestream7.pro/hls/rtzaeyvhb53.m3u8?st=At31yn2uvV1tpM6aKIJ0XbNzlPdAB5mGXBXMQFlKm_U&e=1790930369
 #EXTINF:-1 tvg-id="29678-85770" tvg-name="NHL" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",NHL - 03 Oct 2026 10:00 WIB - Anaheim Ducks vs Vegas Golden Knights (HD-Z)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://a12.kora-plus.li/livecenter/266-1.m3u8?token=E6Qlzn6-KY80nkglg81_yKhzmpY&exp=1790918659
+https://a12.kora-plus.li/livecenter/266-1.m3u8?token=FKexY-E3eKCaB4BLdxr0jiteWUY&exp=1790921369
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",08:00 | Lanzhou Longyuan vs Yichun Grand Tiger
+https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",15:00 | CLB KuPs vs Ilves
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9ba1f45cab5e3f52d783a5bfdbe10daa.png!w80",18:00 | Boca Juniors Nữ vs San Lorenzo Nữ
+https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [flv]
+https://live05.meung.app/live/87547578.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [hls 2]
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 FC Dunav Ruse vs Ludogorets Razgrad (Doanh Chính)
+https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
