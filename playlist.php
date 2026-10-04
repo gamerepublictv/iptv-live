@@ -347,150 +347,94 @@ http://43.152.136.207/live/channel1.flv
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 http://43.152.182.139/live/channel12.flv
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F683411718987476993%2FlZKQkOal_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Egypt vs South Africa --- CH 2 - Friendly Match 01.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/cae677b9-3c86-4d1f-8a4a-55627008c54b.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F683411718987476993%2FlZKQkOal_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Morocco vs Mali --- CH 2 - Friendly Match 01.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/bf31d277-1715-4960-847c-39e0ca7e754c.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2090021852122951681%2FBVRTRk0B_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Kosovo vs Austria --- CH 1 - UEFA Nations League 23.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/BFFFAAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2090021852122951681%2FBVRTRk0B_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Kosovo vs Austria --- CH 2 - UEFA Nations League 23.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/2bcbd926-37be-4db6-912e-ab8f6fd68492.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2090021852122951681%2FBVRTRk0B_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Malta vs Andorra --- CH 1 - UEFA Nations League 23.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/BFFFAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2090021852122951681%2FBVRTRk0B_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Malta vs Andorra --- CH 2 - UEFA Nations League 23.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/b8e43cb7-bde3-456b-bca7-d93d29511c7f.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1897743697929740288%2F9-yBKTUL_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", OHiggins vs D Concepcion - Chile Copa 01.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/RLLLLQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2043888491394641921%2FServdT8c_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Atlanta Dream W vs New York Liberty W --- CH 1 - WNBA Basketball 01.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/RLLLL.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2043888491394641921%2FServdT8c_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Atlanta Dream W vs New York Liberty W --- CH 2 - WNBA Basketball 01.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/2f1987b3-09dd-47c2-ac04-56374197bdbb.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1788917844987596800%2FsmSNUUNt_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Huracan vs Aldosivi - Argentina Liga Profesional 00.45 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/BFFFAAAAAAQQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2034221282649116672%2F9gcwTqQp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Valencia W vs Real Sociedad W - Spanish Liga F Women 00.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/BFFFAAAAAAQQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2034221282649116672%2F9gcwTqQp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Barcelona W vs Real Madrid W - Spanish Liga F Women 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/BFFFAAAAAAQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2071354600800587776%2FEbbqt2Ki_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Detroit Red Wings vs Winnipeg Jets - NHL Hockey 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f34c4ab2-f55e-4542-a95b-7fe351eb7be0/master.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2077467408940634112%2FTndSUbGL_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Gotham W vs Angel City W - USA NWSL Women 00.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/BFFFAAAAAAQQ.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2043992816377049088%2Fr9FnBdQu_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Las Palmas vs Valladolid - Spanish Segunda Liga 23.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/BFFFAAAAAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2043992816377049088%2Fr9FnBdQu_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Castellon vs Ceuta - Spanish Segunda Liga 23.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/BFFFAAAAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F880436063424131074%2FECth5ahp_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", FC Nurnberg W vs Hoffenheim W - German Women Bundesliga 23.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/BFFFAAAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1404378291599937536%2Fb-r3SWlW_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", India vs England - Cricket 23.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/TGGGAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1861375185980379136%2FUPqGyGOt_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Como W vs Inter W - Italy Women Serie A 23.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/BFFFA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1909299166997626881%2F9voDL6wS_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Boston River vs Juventud - Uruguay Liga AUF 23.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/BFFF.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2095475297214758912%2FFzYuFMEr_400x400.jpg&size=400&scale=1.5" group-title="Event-LIVE-NOW", Manchester City W vs Arsenal W - English Women Super League 22.40 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/ZEEEAAAQQQAA.m3u8
-#EXTINF:-1 tvg-id="" group-logo="https://i.imgur.com/nJ7n6hX.png" tvg-name="" tvg-logo="https://gatotkaca007.serv00.net/sc/logo.php?src=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ffr%2Fc%2Fcf%2FScottish_Premiership.png&size=400&scale=1.5" group-title="Event-LIVE-NOW", SPFL Tennents Sixes - Scottish Premiership 19.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/TGGGAAA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bồ Đào Nha vs Na Uy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Bồ Đào Nha vs Na Uy (Giải vô địch bóng đá các quốc gia châu Âu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live.dyrur1.com/live/68932044_7608b7779bd64e3a3eb5548512573ba6_autoChange.m3u8?auth_key=1791154746-0-0-18c9bba0c80c58633aa6c6c5357a3fc3
+#EXTINF:-1 tvg-id="" tvg-name="BLV C2" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Bồ Đào Nha vs Na Uy - BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/08552895_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLV GIÀ LÀNG" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Bồ Đào Nha vs Na Uy - BLV GIÀ LÀNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/14830711_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Bồ Đào Nha vs Na Uy - BLV 7UP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/78905744_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ĐTQG Hà Lan vs Serbia" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", ĐTQG Hà Lan vs Serbia (Giải vô địch bóng đá các quốc gia châu Âu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live3.dyrur1.com/live/68931582_45eb5353e14e5e1f6f3527981fa1b87a_autoChange.m3u8?auth_key=1791154746-0-0-68c8899a9ca2d02724eee6cbe4263ed8
+#EXTINF:-1 tvg-id="" tvg-name="BLV REVIVE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", ĐTQG Hà Lan vs Serbia - BLV REVIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/33982309_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLV SODA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", ĐTQG Hà Lan vs Serbia - BLV SODA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLB Greece vs Đức" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", CLB Greece vs Đức (Giải vô địch bóng đá các quốc gia châu Âu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live1.dyrur1.com/live/68931532_64fcdd245ee63bb19c0de9092ab45f18_autoChange.m3u8?auth_key=1791154746-0-0-362c996a3feafb8f98a3d58cff20cbb1
+#EXTINF:-1 tvg-id="" tvg-name="BLV HỔ VẰN" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", CLB Greece vs Đức - BLV HỔ VẰN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/07428422_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLV PEPSI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", CLB Greece vs Đức - BLV PEPSI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/59444581_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xứ Wales vs ĐTQG Đan Mạch" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Xứ Wales vs ĐTQG Đan Mạch (Giải vô địch bóng đá các quốc gia châu Âu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live2.dyrur1.com/live/68932046_7c3ca57180ca4e4ca2d261da717e4c45_autoChange.m3u8?auth_key=1791154746-0-0-3e18140f8cc682c8c8b48686492d387e
+#EXTINF:-1 tvg-id="" tvg-name="BLV MONSTER" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Xứ Wales vs ĐTQG Đan Mạch - BLV MONSTER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ai Cập vs Nam Phi" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F4e7c9460ee862d47c2ce6debfef6aace.png%21w80&size=300&scale=1.5", Ai Cập vs Nam Phi (Giao hữu Quốc tế)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/74931226_52f97f4445d9ee604b78d92ffa5daf81_autoChange.m3u8?auth_key=1791151791-0-0-40051ba0e4fc9a0f1d3fd6cb8396203a
+https://live1.dyrur1.com/live/74931226_52f97f4445d9ee604b78d92ffa5daf81_autoChange.m3u8?auth_key=1791154749-0-0-e5b49df701e80497dcd10eda1e43a03d
 #EXTINF:-1 tvg-id="" tvg-name="BLV SPRITE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F4e7c9460ee862d47c2ce6debfef6aace.png%21w80&size=300&scale=1.5", Ai Cập vs Nam Phi - BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLB Las Palmas vs Real Valladolid" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fe8d38514cbb040848b373ab571a0f11c.png%21w80&size=300&scale=1.5", CLB Las Palmas vs Real Valladolid (Giải bóng đá Hạng nhì Tây Ban Nha)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/72477464_ade60be5d31d47e912745379e5032e7d_autoChange.m3u8?auth_key=1791151794-0-0-0f5ca332deb5da6e296def44a8231fdf
-#EXTINF:-1 tvg-id="" tvg-name="BLV FANTA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fe8d38514cbb040848b373ab571a0f11c.png%21w80&size=300&scale=1.5", CLB Las Palmas vs Real Valladolid - BLV FANTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Castellon vs Ceuta" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fe8d38514cbb040848b373ab571a0f11c.png%21w80&size=300&scale=1.5", Castellon vs Ceuta (Giải bóng đá Hạng nhì Tây Ban Nha)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live1.dyrur1.com/live/72477456_00da1449b9509be9aa2da64809e4d620_autoChange.m3u8?auth_key=1791151794-0-0-b7896ceba7964527fcc28cc1fb37f5fd
-#EXTINF:-1 tvg-id="" tvg-name="BLV 7UP" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fe8d38514cbb040848b373ab571a0f11c.png%21w80&size=300&scale=1.5", Castellon vs Ceuta - BLV 7UP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/78905744_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Atlanta Dream vs New York Liberty" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Atlanta Dream vs New York Liberty (Hiệp hội bóng rổ quốc gia nữ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/ezk90sp8mjxa1kn_af9a99f58336180f7e5740e2534ebf21_autoChange.m3u8?auth_key=1791151793-0-0-069755e71ff032d5e69be272d1a4d586
+https://live.dyrur1.com/live/ezk90sp8mjxa1kn_af9a99f58336180f7e5740e2534ebf21_autoChange.m3u8?auth_key=1791154748-0-0-74eb681e7e3bf6a2239161a915210a21
 #EXTINF:-1 tvg-id="" tvg-name="BLV Cozy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F86f522333da4c3e2c144996fc4d2520b.png%21w80&size=300&scale=1.5", Atlanta Dream vs New York Liberty - BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80",08:30 | Arema Malang vs CLB Persik Kediri
-https://live05.meung.app/live/75915087_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ireland vs ĐTQG Israel" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Ireland vs ĐTQG Israel (Giải vô địch bóng đá các quốc gia châu Âu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live4.dyrur1.com/live/68932734_da92314863d32c6b22a2c6a47a855adb_autoChange.m3u8?auth_key=1791154746-0-0-53ad0392540adb21f1317061be886ef0
+#EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F245bff452fbdc34d417164e361097ae7.png%21w80&size=300&scale=1.5", Ireland vs ĐTQG Israel - BLV ROCKSTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/82054853_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLB Girona vs RCD Mallorca" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fe8d38514cbb040848b373ab571a0f11c.png%21w80&size=300&scale=1.5", CLB Girona vs RCD Mallorca (Giải bóng đá Hạng nhì Tây Ban Nha)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live2.dyrur1.com/live/72477462_36d992c34c435ab8bc37cdd4a1799086_autoChange.m3u8?auth_key=1791154746-0-0-292f32af1c254b2c24e88c35afc560ac
+#EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fe8d38514cbb040848b373ab571a0f11c.png%21w80&size=300&scale=1.5", CLB Girona vs RCD Mallorca - BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Guyana vs Dominica" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5fa8174c859d9a2ca7c3fdfd333b0d13.png%21w80&size=300&scale=1.5", Guyana vs Dominica (Liên minh bóng đá quốc gia châu Mỹ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live4.dyrur1.com/live/73220858_3afa20aa0f6f464e8c173d0c48ec86b9_autoChange.m3u8?auth_key=1791154746-0-0-c88f27042926911f13ea438123dda1f3
+#EXTINF:-1 tvg-id="" tvg-name="BLV FANTA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5fa8174c859d9a2ca7c3fdfd333b0d13.png%21w80&size=300&scale=1.5", Guyana vs Dominica - BLV FANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/16226575_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/a31d8680851118728518f72f2030a154.png!w80",07:00 | Hàn Quốc vs Iran
 https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",15:00 | CLB KuPs vs Ilves
@@ -527,6 +471,8 @@ https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782232522-0-0-0619
 https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782232522-0-0-130202a5975ac9955b09d7814b270010
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D1: Jaro vs Gnistan Helsinki [ĐỖ TÚ TÀI] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782232522-0-0-f598b06b81c74dd73b6238f5ccbdd34d
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",11:00 | Singapore vs Đông Timor
+https://live05.meung.app/live/16226575.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80",13:30 | Indonesia vs Campuchia
 https://live05.meung.app/live/14830711.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/d639bb3f26ed6f1600de1e55885fa4be.png!w80",15:00 | FK Andijon vs Buxoro FK
@@ -549,6 +495,10 @@ https://live05.meung.app/live/82054853.m3u8
 https://live05.meung.app/live/87379114.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Đông Timor (BLV FANTA) [flv]
+https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Đông Timor (BLV FANTA) [hls 2]
+https://live05.miekgo.app/live/16226575.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Campuchia (BLV GIÀ LÀNG) [flv]
 https://live05.meung.app/live/14830711.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Campuchia (BLV GIÀ LÀNG) [hls 2]
