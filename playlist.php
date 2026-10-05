@@ -470,57 +470,19 @@ http://193.47.62.41/hls/odddd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nicaragua vs Cộng hòa Dominican" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5fa8174c859d9a2ca7c3fdfd333b0d13.png%21w80&size=300&scale=1.5", Nicaragua vs Cộng hòa Dominican (Liên minh bóng đá quốc gia châu Mỹ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/73220764_c0d8639485c8365577e7eac91d847b64_autoChange.m3u8?auth_key=1791180562-0-0-b1a2ecd8a7dedcaf8637b879354cbe6e
+https://live.dyrur1.com/live/73220764_c0d8639485c8365577e7eac91d847b64_autoChange.m3u8?auth_key=1791183202-0-0-9d28603fd7a17d146328dfcadea5d1e8
 #EXTINF:-1 tvg-id="" tvg-name="BLV REVIVE" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5fa8174c859d9a2ca7c3fdfd333b0d13.png%21w80&size=300&scale=1.5", Nicaragua vs Cộng hòa Dominican - BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estudiantes Rio Cuarto vs Racing Club" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0276a00c0277c8f1cba7b63bd59e281d.png%21w80&size=300&scale=1.5", Estudiantes Rio Cuarto vs Racing Club (Giải Bóng đá Vô địch Quốc gia Argentina)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/73265362_fe2c21ad5f246704cd02bbec2412e598_autoChange.m3u8?auth_key=1791180562-0-0-5dff44038c7c0493ed2e599b47c60236
-#EXTINF:-1 tvg-id="" tvg-name="BLV AQUA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F0276a00c0277c8f1cba7b63bd59e281d.png%21w80&size=300&scale=1.5", Estudiantes Rio Cuarto vs Racing Club - BLV AQUA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/18812304_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Llaneros FC vs CLB America de Cali" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fa43b934409a4d2475b0e5f69d1b2ec16.png%21w80&size=300&scale=1.5", Llaneros FC vs CLB America de Cali (Giải vô địch quốc gia Colombia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/72335174_c16a45e6cba479adb888250de449eb2c_autoChange.m3u8?auth_key=1791180562-0-0-c3a2e2f66d94b6c71351cec1b6ced352
+https://live.dyrur1.com/live/72335174_c16a45e6cba479adb888250de449eb2c_autoChange.m3u8?auth_key=1791183202-0-0-7941ab134db829e9b39062b472d9aac9
 #EXTINF:-1 tvg-id="" tvg-name="BLV SAMURAI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fa43b934409a4d2475b0e5f69d1b2ec16.png%21w80&size=300&scale=1.5", Llaneros FC vs CLB America de Cali - BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-id="4539783-90148" tvg-name="Argentine Division 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Division 1 - 05 Oct 2026 08:30 WIB - AA Estudiantes (Río Cuarto) vs Racing Club de Avellaneda (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/73265362_fe2c21ad5f246704cd02bbec2412e598_1080p.m3u8?auth_key=1791180530-0-0-ea080569499b057d30288989591663bc
-#EXTINF:-1 tvg-id="4539783-90058" tvg-name="Argentine Division 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Division 1 - 05 Oct 2026 08:30 WIB - AA Estudiantes (Río Cuarto) vs Racing Club de Avellaneda (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4539783.m3u8?txSecret=a252b89f64d221245d7eafd8037742bf&txTime=6AC45800
-#EXTINF:-1 tvg-id="4649086-90152" tvg-name="Jamaica Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Jamaica Premier League - 05 Oct 2026 08:30 WIB - Mount Pleasant FA vs Cavalier FC (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/74695442_4964d4d9ef7651b91de91f609e3097fe_1080p.m3u8?auth_key=1791174784-0-0-ee697dbb6ae16df805ff423428f125de
-#EXTINF:-1 tvg-id="4649086-90060" tvg-name="Jamaica Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Jamaica Premier League - 05 Oct 2026 08:30 WIB - Mount Pleasant FA vs Cavalier FC (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4649086.m3u8?txSecret=d8fbd160d425272e2735945841cc77af&txTime=6AC45800
-#EXTINF:-1 tvg-id="3940152-90150" tvg-name="Liga Sudamericana de Básquetbol" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Sudamericana de Básquetbol - 05 Oct 2026 08:40 WIB - Independiente de Oliva vs Mogi das Cruzes (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74781132_1e068f12dd9b50735848e65e7d9af174_1080p.m3u8?auth_key=1791180542-0-0-b510918a6e66c891e9695aae2a0264a5
-#EXTINF:-1 tvg-id="3940152-90095" tvg-name="Liga Sudamericana de Básquetbol" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Liga Sudamericana de Básquetbol - 05 Oct 2026 08:40 WIB - Independiente de Oliva vs Mogi das Cruzes (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3940152.m3u8?txSecret=9e60369d1a4d97c8f9391055b3b2a781&txTime=6AC45800
 #EXTINF:-1 tvg-id="4599500-90156" tvg-name="Mexico Liga MX Femenil" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX Femenil - 05 Oct 2026 09:00 WIB - Pachuca Women vs Toluca Women (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
@@ -530,7 +492,7 @@ https://live.dyrur1.com/live/73204638_4ad0d3eb9163ad05e629c4f42c2dd5a5_1080p.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4599500.m3u8?txSecret=36de2c2c99e18a1ab8900a77b54f33c5&txTime=6AC45800
+https://pul-tenm.gkykp.com/live/sd-1-4599500.m3u8?txSecret=f25f6c23538378c0886a85793de301a7&txTime=6AC462C8
 #EXTINF:-1 tvg-id="4569323-90161" tvg-name="Categoría Primera A" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Categoría Primera A - 05 Oct 2026 09:15 WIB - Llaneros FC vs America de Cali (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
@@ -540,45 +502,66 @@ https://live.dyrur1.com/live/edq09i2xlmeieqx_a629569b7b56e71702c88f562eecea9d_10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4569323.m3u8?txSecret=efd9d5611a52d8a38fdb6fce13da3b3d&txTime=6AC45800
+https://pul-tenm.gkykp.com/live/sd-1-4569323.m3u8?txSecret=4c956fb406c22c7508010d08e49d67b9&txTime=6AC462C8
 #EXTINF:-1 tvg-id="4642650-90171" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 05 Oct 2026 10:00 WIB - Nicaragua vs Dominican Republic (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/73220764_c0d8639485c8365577e7eac91d847b64_1080p.m3u8?auth_key=1791180530-0-0-312b1c79c736040609091b7ca96c0d41
+https://live.dyrur1.com/live/73220764_c0d8639485c8365577e7eac91d847b64_1080p.m3u8?auth_key=1791183202-0-0-9d28603fd7a17d146328dfcadea5d1e8
 #EXTINF:-1 tvg-id="4642650-90162" tvg-name="CONCACAF Nations League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",CONCACAF Nations League - 05 Oct 2026 10:00 WIB - Nicaragua vs Dominican Republic (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4642650.m3u8?txSecret=1c9a65ce9d4537df7036b9061d00b4ee&txTime=6AC45800
+https://pul-tenm.gkykp.com/live/sd-1-4642650.m3u8?txSecret=63c357d8dba324cb866f21d3f6fdf783&txTime=6AC462C8
 #EXTINF:-1 tvg-id="3933441-90167" tvg-name="Korean Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean Basketball League - 05 Oct 2026 13:00 WIB - Ulsan Mobis Phoebus vs Busan KCC Egis (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3933441.m3u8?txSecret=60e994310213da93ff802fab9310ff1b&txTime=6AC45800
+https://pul-tenm.gkykp.com/live/sd-2-3933441.m3u8?txSecret=5961938261275d919115b21a968f3586&txTime=6AC462C8
+#EXTINF:-1 tvg-id="4653325-90180" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 05 Oct 2026 13:30 WIB - South United vs MEG (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4653325.m3u8?txSecret=62b655857e0557bd87ff8a379ce75520&txTime=6AC462C8
+#EXTINF:-1 tvg-id="4652341-90177" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 05 Oct 2026 14:30 WIB - Ecuador vs Panama (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4652341.m3u8?txSecret=3cf2bb58690d39bfa3fcb6d831819a56&txTime=6AC462C8
 #EXTINF:-1 tvg-id="3933390-90175" tvg-name="Korean Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean Basketball League - 05 Oct 2026 15:30 WIB - Daegu KOGAS Pegasus vs Anyang JungKwanJang Red Boosters (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3933390.m3u8?txSecret=0df4969ffaf01a4b189ed8277aec5081&txTime=6AC45800
+https://pul-tenm.gkykp.com/live/sd-2-3933390.m3u8?txSecret=379c2ba578fd3c334297af7cdc8e6c3f&txTime=6AC462C8
 #EXTINF:-1 tvg-id="4640410-90174" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 05 Oct 2026 15:30 WIB - Wuhan Three Towns U20 vs Shanghai Port U20 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4640410.m3u8?txSecret=e6b240ca2d52c96d9ff6e6ee5c8d33f2&txTime=6AC45800
+https://pul-tenm.gkykp.com/live/sd-1-4640410.m3u8?txSecret=d1881895b087d33113579f08d5ebe96c&txTime=6AC462C8
 #EXTINF:-1 tvg-id="4644106-90176" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 05 Oct 2026 16:00 WIB - Hunters FC vs Amtat FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4644106.m3u8?txSecret=7918a406cb656906e4bc83ded0ca3b5c&txTime=6AC45800
+https://pul-tenm.gkykp.com/live/sd-1-4644106.m3u8?txSecret=d5c7b1994d3d708b453b0190d15375a0&txTime=6AC462C8
+#EXTINF:-1 tvg-id="4654265-90181" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 05 Oct 2026 16:00 WIB - FC United Stars vs Bengaluru Roots FC (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4654265.m3u8?txSecret=9bfcd1deda35fe1ea1077f3043dff97a&txTime=6AC462C8
+#EXTINF:-1 tvg-id="4652618-90185" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 05 Oct 2026 17:00 WIB - Malaysia vs Vietnam (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/hd-en-1-4652618.m3u8?txSecret=e9ba5fcbcca67e8fc4e5fd1979270bdb&txTime=6AC462C8
+#EXTINF:-1 tvg-id="4653326-90182" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 05 Oct 2026 18:30 WIB - Kodagu FC vs Technico FF (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4653326.m3u8?txSecret=81b1cdc0d8ef07ce1f5cc3c5aef868bb&txTime=6AC462C8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) m3u8
 https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782232522-0-0-2b6cc00beb99e824aa1924926b75ae7b
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782232522-0-0-679c8588d0b330b0994ca6eb0bb2a344
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) m3u8
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782232522-0-0-56e4b93b1d457bb424d110ca6730a379
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782232522-0-0-817442f1c8516fe936675b737e2b61ef
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80",10:30 | Qingdao Red Lions vs Beijing Technology
 https://live05.meung.app/live/07808742.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
