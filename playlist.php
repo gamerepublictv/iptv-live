@@ -92,66 +92,76 @@ http://193.47.62.55/hls/JJJJJ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nhật Bản vs New Zealand" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F7cf3ef0849225d11dd96f8e64c540c78.png%21w80&size=300&scale=1.5", Nhật Bản vs New Zealand (Cốc kỳ lân)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/75222126_4a49c5995e7007eb9e939c9ec5982643_autoChange.m3u8?auth_key=1791213858-0-0-2d80d4a6ca680eb2f7421243888a2fb8
+https://live.dyrur1.com/live/75222126_4a49c5995e7007eb9e939c9ec5982643_autoChange.m3u8?auth_key=1791216255-0-0-e26753da454905e0ef5baf84a9389b29
 #EXTINF:-1 tvg-id="" tvg-name="BLV SAMURAI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F7cf3ef0849225d11dd96f8e64c540c78.png%21w80&size=300&scale=1.5", Nhật Bản vs New Zealand - BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-id="3924438-90591" tvg-name="FIBA U18 Women's Asian Championship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIBA U18 Women's Asian Championship - 05 Oct 2026 16:30 WIB - Chinese Taipei U18 Women vs China U18 Women (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/14408492_3e751b8293ed1d3a843f471d22fc0e5b_1080p.m3u8?auth_key=1791209887-0-0-1d28d773d0cfa33a3c9499d9e55a4bd4
-#EXTINF:-1 tvg-id="3945438-90639" tvg-name="Philippines National Collegiate Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines National Collegiate Athletic Association - 05 Oct 2026 17:00 WIB - San Beda Red Lions vs CSJL Knight (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/74250376_d8a75f0624882b8bab3cfcb43e4bd048_1080p.m3u8?auth_key=1791208495-0-0-dd2265a27b1ba108081718fd7feda7aa
-#EXTINF:-1 tvg-id="3945438-90638" tvg-name="Philippines National Collegiate Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines National Collegiate Athletic Association - 05 Oct 2026 17:00 WIB - San Beda Red Lions vs CSJL Knight (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3945438.m3u8?txSecret=72233ddbb2f718d65c466f2fd931f673&txTime=6AC4DA50
 #EXTINF:-1 tvg-id="4652322-90680" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 05 Oct 2026 18:30 WIB - Japan vs New Zealand (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/wv784sx9ln0aoqr_e730def563d342ae88675fd0ee36631d_1080p.m3u8?auth_key=1791213527-0-0-c98cacfbf58cd9b2f805ae212106780f
+https://live2.dyrur1.com/live/wv784sx9ln0aoqr_e730def563d342ae88675fd0ee36631d_1080p.m3u8?auth_key=1791213883-0-0-c6e971c112c3c9f8f51b0d8a7ee603dc
 #EXTINF:-1 tvg-id="4652322-90564" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 05 Oct 2026 18:30 WIB - Japan vs New Zealand (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4652322.m3u8?txSecret=deec623dd9ebb0701518f6332f1ce248&txTime=6AC4DA50
+https://pul-tenm.gkykp.com/live/hd-en-1-4652322.m3u8?txSecret=29774dec7a91a66ffaa75da36c62b5c6&txTime=6AC4E3B0
+#EXTINF:-1 tvg-id="3944731-90694" tvg-name="Philippines MPBL" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines MPBL - 05 Oct 2026 19:00 WIB - San Juan Knights vs Bataan Risers (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/wv784sxl5x9ioqr_7894377bd128c7b2e65eed9d6d8a7713_1080p.m3u8?auth_key=1791216225-0-0-daa50f45a7d49f3ae752cf9c76886252
+#EXTINF:-1 tvg-id="3944731-90690" tvg-name="Philippines MPBL" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines MPBL - 05 Oct 2026 19:00 WIB - San Juan Knights vs Bataan Risers (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3944731.m3u8?txSecret=722012de7de19e5236e36d66ba7d08af&txTime=6AC4E3B0
 #EXTINF:-1 tvg-id="4640407-90683" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 05 Oct 2026 19:00 WIB - Shenzhen Peng City U20 vs Tianjin Jinmen Tiger U20 (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
 #EXTVLCOPT:http-origin=https://live1.dyrur1.com
 https://live1.dyrur1.com/live/14410332_9c76ad1bf835a3c18af08c459bb8df6a_1080p.m3u8?auth_key=1791213220-0-0-70dfe614ec6fd0d6872c2a17bb17a098
+#EXTINF:-1 tvg-id="4640407-90687" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 05 Oct 2026 19:00 WIB - Shenzhen Peng City U20 vs Tianjin Jinmen Tiger U20 (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4640407.m3u8?txSecret=376b51ecb257f4fcc3111c6cbc3c9f90&txTime=6AC4E3B0
+#EXTINF:-1 tvg-id="4648248-90693" tvg-name="Northeast China Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Northeast China Football League - 05 Oct 2026 19:35 WIB - Dalian Team vs Changchun Team (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/ndkz6i2mxwmcxq3_fb08b5e44f4a86c53c317a72bf9ece47_1080p.m3u8?auth_key=1791214548-0-0-226e4164823d8bd549d277beb467612a
+#EXTINF:-1 tvg-id="4648248-90695" tvg-name="Northeast China Football League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Northeast China Football League - 05 Oct 2026 19:35 WIB - Dalian Team vs Changchun Team (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4648248.m3u8?txSecret=dafda84866d28b3ebe70b7a5ce5d1c49&txTime=6AC4E3B0
 #EXTINF:-1 tvg-id="4589953-90674" tvg-name="Ukrainian First League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Ukrainian First League - 05 Oct 2026 20:30 WIB - Fenix Mariupol vs Nyva Ternopil (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4589953.m3u8?txSecret=dc3a18d1e589570b575d342443473f2b&txTime=6AC4DA50
+https://pul-tenm.gkykp.com/live/sd-1-4589953.m3u8?txSecret=e192599de5362ceabf414938df8b37b5&txTime=6AC4E3B0
 #EXTINF:-1 tvg-id="4603426-90678" tvg-name="Serbian Mozzart Bet Prva Liga" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Serbian Mozzart Bet Prva Liga - 05 Oct 2026 21:00 WIB - Semendrija 1924 vs FK Vozdovac Beograd (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4603426.m3u8?txSecret=44d55228714712e11e1ab2e1d373b2f7&txTime=6AC4DA50
+https://pul-tenm.gkykp.com/live/sd-1-4603426.m3u8?txSecret=ba40375178bb4fb7a6af60d28ccfb067&txTime=6AC4E3B0
 #EXTINF:-1 tvg-id="4650110-90667" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 05 Oct 2026 21:00 WIB - Uganda vs Democratic Republic of the Congo (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4650110.m3u8?txSecret=be3befeab010d4d58e0ca539f1354469&txTime=6AC4DA50
+https://pul-tenm.gkykp.com/live/sd-1-4650110.m3u8?txSecret=4cf32a44891c017fc2ab6b874d1b1670&txTime=6AC4E3B0
 #EXTINF:-1 tvg-id="4652619-90668" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 05 Oct 2026 21:00 WIB - Indonesia vs Thailand (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4652619.m3u8?txSecret=42987596bbdb666378bf8d6fa1129b1f&txTime=6AC4DA50
+https://pul-tenm.gkykp.com/live/hd-en-1-4652619.m3u8?txSecret=acb9c54200bd822b12e71fcebb57791f&txTime=6AC4E3B0
 #EXTINF:-1 tvg-id="4650111-90670" tvg-name="International Friendly" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",International Friendly - 05 Oct 2026 21:30 WIB - Ukraine U21 vs Albania U21 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4650111.m3u8?txSecret=618dbfd45d18c3e4b61e3b34f414cbd4&txTime=6AC4DA50
+https://pul-tenm.gkykp.com/live/sd-1-4650111.m3u8?txSecret=bb6ee5656baa7817c698d30fce32f09c&txTime=6AC4E3B0
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f4f29caf210db9a418ece37a7025eb5f.png!w80",11:30 | Shenzhen 2028 vs Hangzhou Linping
 https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku [BLV ANH TÀI] (Socolive) m3u8
@@ -164,6 +174,8 @@ https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782232522-0-0-98cb
 https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782232522-0-0-06191062a9fa74fbce2dda3615bc6361
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80",10:30 | Qingdao Red Lions vs Beijing Technology
 https://live05.meung.app/live/07808742.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6f927eb040bdd5c972a9343fd9c8b873.png!w80",15:30 | CFR vs CS Voluntari
+https://live05.meung.app/live/78905744.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/aaa5f2303372acf85e4a24568b5855a0.png!w80",16:00 | Grobina vs Ogre United
 https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
@@ -172,6 +184,10 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 https://live05.meung.app/live/07808742.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 27/07 Qingdao Red Lions vs Beijing Technology (BLV SAMURAI) [hls 2]
 https://live05.miekgo.app/live/07808742.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR vs CS Voluntari (BLV 7UP) [flv]
+https://live05.meung.app/live/78905744.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 27/07 CFR vs CS Voluntari (BLV 7UP) [hls 2]
+https://live05.miekgo.app/live/78905744.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (BLV C2) [flv]
 https://live05.meung.app/live/08552895.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (BLV C2) [hls 2]
