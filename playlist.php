@@ -172,51 +172,69 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/odddd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mobis Phoebus vs KCC Egis" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2Ff841aa3bd3c2aeffca04f78bfaeecaf7.png%21w80&size=300&scale=1.5", Mobis Phoebus vs KCC Egis (Giải bóng rổ nam Hàn Quốc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
+https://live.dyrur1.com/live/73657428_7fafc8f918243591be6c67e686d67208_autoChange.m3u8?auth_key=1791191502-0-0-e907a31c73a966039ebe9e30b2c7e5d0
+#EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2Ff841aa3bd3c2aeffca04f78bfaeecaf7.png%21w80&size=300&scale=1.5", Mobis Phoebus vs KCC Egis - BLV ROCKSTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/82054853_tsc.m3u8
+#EXTINF:-1 tvg-id="3933441-90527" tvg-name="Korean Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean Basketball League - 05 Oct 2026 13:00 WIB - Ulsan Mobis Phoebus vs Busan KCC Egis (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/73657428_7fafc8f918243591be6c67e686d67208_1080p.m3u8?auth_key=1791191502-0-0-e907a31c73a966039ebe9e30b2c7e5d0
 #EXTINF:-1 tvg-id="3933441-90167" tvg-name="Korean Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean Basketball League - 05 Oct 2026 13:00 WIB - Ulsan Mobis Phoebus vs Busan KCC Egis (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3933441.m3u8?txSecret=ae4be1ade2334985c9444625ba7d6e6a&txTime=6AC478D0
+https://pul-tenm.gkykp.com/live/sd-2-3933441.m3u8?txSecret=d1c95abbfb4dc68039422bd6dd520216&txTime=6AC48398
+#EXTINF:-1 tvg-id="4644105-90525" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 05 Oct 2026 13:00 WIB - FC Ulaanbaatar vs Ulaangom City (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/75239566_e81585d3516a41fc58387cad03cfe7e8_1080p.m3u8?auth_key=1791190838-0-0-60a8aca2692bde730c62dfc6694a750a
 #EXTINF:-1 tvg-id="4653325-90180" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 05 Oct 2026 13:30 WIB - South United vs MEG (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4653325.m3u8?txSecret=143bddbb998bc50ea6ccfdcb66e6c15b&txTime=6AC478D0
+https://pul-tenm.gkykp.com/live/sd-1-4653325.m3u8?txSecret=ede39f545e85b7c48f25d49ad55452a7&txTime=6AC48398
 #EXTINF:-1 tvg-id="4652341-90177" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 05 Oct 2026 14:30 WIB - Ecuador vs Panama (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4652341.m3u8?txSecret=51b5fde44c8bed8f01c542d286ffe9a4&txTime=6AC478D0
+https://pul-tenm.gkykp.com/live/sd-1-4652341.m3u8?txSecret=0f170c2a2b9d4446cf9e533298bf88a1&txTime=6AC48398
 #EXTINF:-1 tvg-id="3933390-90175" tvg-name="Korean Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean Basketball League - 05 Oct 2026 15:30 WIB - Daegu KOGAS Pegasus vs Anyang JungKwanJang Red Boosters (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3933390.m3u8?txSecret=2f0ae5da03863c3994f9e11f63a9d8da&txTime=6AC478D0
+https://pul-tenm.gkykp.com/live/sd-2-3933390.m3u8?txSecret=afcf243b499d98a9814545b5548f91eb&txTime=6AC48398
 #EXTINF:-1 tvg-id="4640410-90174" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 05 Oct 2026 15:30 WIB - Wuhan Three Towns U20 vs Shanghai Port U20 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4640410.m3u8?txSecret=827208654fa646862b527b955a1f6809&txTime=6AC478D0
+https://pul-tenm.gkykp.com/live/sd-1-4640410.m3u8?txSecret=a8c0ab832da83cb81666c299555bd251&txTime=6AC48398
 #EXTINF:-1 tvg-id="4644106-90176" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 05 Oct 2026 16:00 WIB - Hunters FC vs Amtat FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4644106.m3u8?txSecret=6e07937cddfbc81e5f2110256d09c42d&txTime=6AC478D0
+https://pul-tenm.gkykp.com/live/sd-1-4644106.m3u8?txSecret=6e92193c7be863d00f5b7a60bcc9c166&txTime=6AC48398
 #EXTINF:-1 tvg-id="4654265-90181" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 05 Oct 2026 16:00 WIB - FC United Stars vs Bengaluru Roots FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4654265.m3u8?txSecret=be08441314d5410617603fa7e56f5bc1&txTime=6AC478D0
+https://pul-tenm.gkykp.com/live/sd-1-4654265.m3u8?txSecret=63b10c6a33750effbb690948d340a184&txTime=6AC48398
 #EXTINF:-1 tvg-id="4652618-90185" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 05 Oct 2026 17:00 WIB - Malaysia vs Vietnam (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4652618.m3u8?txSecret=e29fecd3673366a9abe5d61eef816845&txTime=6AC478D0
+https://pul-tenm.gkykp.com/live/hd-en-1-4652618.m3u8?txSecret=e2576fd1be38af19b97bdc57a6541cf7&txTime=6AC48398
 #EXTINF:-1 tvg-id="4653326-90182" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 05 Oct 2026 18:30 WIB - Kodagu FC vs Technico FF (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4653326.m3u8?txSecret=c145a684ed927111318e97a068494f5e&txTime=6AC478D0
+https://pul-tenm.gkykp.com/live/sd-1-4653326.m3u8?txSecret=5a9a7528a765598f71d286738517db61&txTime=6AC48398
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",16:00 | Inter Turku vs SJK
 https://live05.meung.app/live/82054853.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",22:30 | Sport Club Recife PE vs Cuiaba
