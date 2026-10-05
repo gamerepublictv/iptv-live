@@ -77,105 +77,79 @@ http://193.47.62.55/hls/JJJJJ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ecuador vs Panama" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F7cf3ef0849225d11dd96f8e64c540c78.png%21w80&size=300&scale=1.5", Ecuador vs Panama (Cốc kỳ lân)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/75222388_badd2d727e5773d06f4021fdc209b85b_autoChange.m3u8?auth_key=1791197058-0-0-6b693b03b1bb035ea5c8e8f7fc9ce4e1
+https://live.dyrur1.com/live/75222388_badd2d727e5773d06f4021fdc209b85b_autoChange.m3u8?auth_key=1791199885-0-0-c99bb462c4b3b88727b64d95c3fb8263
 #EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F7cf3ef0849225d11dd96f8e64c540c78.png%21w80&size=300&scale=1.5", Ecuador vs Panama - BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mobis Phoebus vs KCC Egis" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2Ff841aa3bd3c2aeffca04f78bfaeecaf7.png%21w80&size=300&scale=1.5", Mobis Phoebus vs KCC Egis (Giải bóng rổ nam Hàn Quốc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/73657428_7fafc8f918243591be6c67e686d67208_autoChange.m3u8?auth_key=1791197058-0-0-c8a48408bec3f0b341fffa2b1b5786e0
-#EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2Ff841aa3bd3c2aeffca04f78bfaeecaf7.png%21w80&size=300&scale=1.5", Mobis Phoebus vs KCC Egis - BLV ROCKSTAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-id="3933441-90527" tvg-name="Korean Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean Basketball League - 05 Oct 2026 13:00 WIB - Ulsan Mobis Phoebus vs Busan KCC Egis (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/73657428_7fafc8f918243591be6c67e686d67208_1080p.m3u8?auth_key=1791196959-0-0-68c6152cdd955393377d38f1350f136b
-#EXTINF:-1 tvg-id="3933441-90167" tvg-name="Korean Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean Basketball League - 05 Oct 2026 13:00 WIB - Ulsan Mobis Phoebus vs Busan KCC Egis (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3933441.m3u8?txSecret=18e952142f954f8b5e5c694ff1b9795d&txTime=6AC498B0
 #EXTINF:-1 tvg-id="3944663-90531" tvg-name="Korea WKBL Summer Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korea WKBL Summer Cup - 05 Oct 2026 13:00 WIB - Fujitsu Redwave Women vs Samsunglife Blueminx (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
 https://live.dyrur1.com/live/m2q19srlv9zaek6_4c7f434349900423466aadb9b3707f19_1080p.m3u8?auth_key=1791196720-0-0-03090aef8ff38855e2dbbdbef0a03144
-#EXTINF:-1 tvg-id="3944663-90532" tvg-name="Korea WKBL Summer Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korea WKBL Summer Cup - 05 Oct 2026 13:00 WIB - Fujitsu Redwave Women vs Samsunglife Blueminx (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3944663.m3u8?txSecret=349b37944f5912169de81b54c2baf294&txTime=6AC498B0
-#EXTINF:-1 tvg-id="4644105-90525" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 05 Oct 2026 13:00 WIB - FC Ulaanbaatar vs Ulaangom City (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
-#EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/75239566_e81585d3516a41fc58387cad03cfe7e8_1080p.m3u8?auth_key=1791190838-0-0-60a8aca2692bde730c62dfc6694a750a
-#EXTINF:-1 tvg-id="4644105-90533" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 05 Oct 2026 13:00 WIB - FC Ulaanbaatar vs Ulaangom City (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4644105.m3u8?txSecret=f1213771302f597ed4981972e40e6dba&txTime=6AC498B0
-#EXTINF:-1 tvg-id="4653325-90534" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 05 Oct 2026 13:30 WIB - South United vs MEG (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/14432697_b626c028f696d1c9294c4e9deeb42ed3_1080p.m3u8?auth_key=1791192872-0-0-4d1c19e103d3c8690250790aeab9604b
-#EXTINF:-1 tvg-id="4653325-90180" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 05 Oct 2026 13:30 WIB - South United vs MEG (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4653325.m3u8?txSecret=8486cdb6d86a9967865482a32c635443&txTime=6AC498B0
 #EXTINF:-1 tvg-id="4652341-90553" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 05 Oct 2026 14:30 WIB - Ecuador vs Panama (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/75222388_badd2d727e5773d06f4021fdc209b85b_1080p.m3u8?auth_key=1791196959-0-0-b12dd82a4a02753db98da1192631bbb9
+https://live.dyrur1.com/live/75222388_badd2d727e5773d06f4021fdc209b85b_1080p.m3u8?auth_key=1791199840-0-0-af708c29f358346de509482ce722eb69
 #EXTINF:-1 tvg-id="4652341-90177" tvg-name="Japanese Kirin Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Kirin Cup - 05 Oct 2026 14:30 WIB - Ecuador vs Panama (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4652341.m3u8?txSecret=d0d69eb77ed54c9c0d405a9e68c628d1&txTime=6AC498B0
+https://pul-tenm.gkykp.com/live/hd-en-1-4652341.m3u8?txSecret=9c416a3d865bfa3f315ae6e65493ec7e&txTime=6AC4A468
+#EXTINF:-1 tvg-id="3945437-90555" tvg-name="Philippines National Collegiate Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines National Collegiate Athletic Association - 05 Oct 2026 15:00 WIB - San Sebastian Stags vs CSB trailblazer (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/74250374_0c846809914701602f6d93d064d3e771_1080p.m3u8?auth_key=1791199579-0-0-adc399bd06587b653cb7beb26efd15c0
+#EXTINF:-1 tvg-id="3945437-90557" tvg-name="Philippines National Collegiate Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines National Collegiate Athletic Association - 05 Oct 2026 15:00 WIB - San Sebastian Stags vs CSB trailblazer (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3945437.m3u8?txSecret=69aa572f57c2865928982584ae4f1409&txTime=6AC4A468
 #EXTINF:-1 tvg-id="3933390-90175" tvg-name="Korean Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Korean Basketball League - 05 Oct 2026 15:30 WIB - Daegu KOGAS Pegasus vs Anyang JungKwanJang Red Boosters (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3933390.m3u8?txSecret=b2cfa3cef82bc99ddaf5e282548da48e&txTime=6AC498B0
+https://pul-tenm.gkykp.com/live/sd-2-3933390.m3u8?txSecret=43c508928510704a3ed4a122a3291acf&txTime=6AC4A468
+#EXTINF:-1 tvg-id="4640410-90559" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 05 Oct 2026 15:30 WIB - Wuhan Three Towns U20 vs Shanghai Port U20 (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/14410350_2139d04656276fb07689158c79e1b630_1080p.m3u8?auth_key=1791199839-0-0-9d03ec753c77af58d8387d0a4a1fc9a1
 #EXTINF:-1 tvg-id="4640410-90174" tvg-name="Chinese Football Assorciation U-20 League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football Assorciation U-20 League - 05 Oct 2026 15:30 WIB - Wuhan Three Towns U20 vs Shanghai Port U20 (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4640410.m3u8?txSecret=129198d2553c21fb14d50d2b0315ca76&txTime=6AC498B0
+https://pul-tenm.gkykp.com/live/sd-1-4640410.m3u8?txSecret=035c0248bf9df69ebd4097c928c54b10&txTime=6AC4A468
 #EXTINF:-1 tvg-id="4644106-90176" tvg-name="Mongolia Premier League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mongolia Premier League - 05 Oct 2026 16:00 WIB - Hunters FC vs Amtat FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4644106.m3u8?txSecret=a07e5c2e39d25e1831500758b310318c&txTime=6AC498B0
+https://pul-tenm.gkykp.com/live/sd-1-4644106.m3u8?txSecret=1237cf4e197cb99157aa76de9c9e16e7&txTime=6AC4A468
 #EXTINF:-1 tvg-id="4654265-90181" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 05 Oct 2026 16:00 WIB - FC United Stars vs Bengaluru Roots FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4654265.m3u8?txSecret=7a0f20701c22c79f6cba3d62903261b8&txTime=6AC498B0
+https://pul-tenm.gkykp.com/live/sd-1-4654265.m3u8?txSecret=e7eae8e64321bffd93bc4f05a74fbb13&txTime=6AC4A468
 #EXTINF:-1 tvg-id="4652618-90185" tvg-name="FIFA ASEAN Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",FIFA ASEAN Cup - 05 Oct 2026 17:00 WIB - Malaysia vs Vietnam (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-1-4652618.m3u8?txSecret=f7ffdbdede31cf7779d8a7fad569ec64&txTime=6AC498B0
+https://pul-tenm.gkykp.com/live/hd-en-1-4652618.m3u8?txSecret=113b166d63ee26a653f42ebfd0695edb&txTime=6AC4A468
 #EXTINF:-1 tvg-id="4653326-90182" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 05 Oct 2026 18:30 WIB - Kodagu FC vs Technico FF (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4653326.m3u8?txSecret=6181eab74eba9cfbc1867ae8161e1701&txTime=6AC498B0
+https://pul-tenm.gkykp.com/live/sd-1-4653326.m3u8?txSecret=dfa02baf0b1a1febb96264b6fa541479&txTime=6AC4A468
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",08:00 | Lanzhou Longyuan vs Yichun Grand Tiger
 https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/a31d8680851118728518f72f2030a154.png!w80",07:00 | Hàn Quốc vs Iran
+https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",15:00 | CLB KuPs vs Ilves
 https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",16:00 | Inter Turku vs SJK
-https://live05.meung.app/live/82054853.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80",07:00 | Tauranga Whai vs Southland Sharks
+https://live05.meung.app/live/90865415.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f4f29caf210db9a418ece37a7025eb5f.png!w80",11:30 | Shenzhen 2028 vs Hangzhou Linping
 https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) m3u8
@@ -186,8 +160,8 @@ https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782232522-0-0-679c
 https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9ba1f45cab5e3f52d783a5bfdbe10daa.png!w80",18:00 | Boca Juniors Nữ vs San Lorenzo Nữ
 https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",22:30 | Sport Club Recife PE vs Cuiaba
-https://live05.meung.app/live/82054853.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",22:30 | Atletico Clube Goianiense vs Operario
+https://live05.meung.app/live/90865415.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 27/07 Grobina vs Ogre United (BLV C2) [flv]
