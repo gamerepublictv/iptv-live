@@ -22,63 +22,41 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
 #EXTINF:-1 group-title="Event-LIVE-NOW" tvg-logo="https://shorter.me/dbndV", 12:00 WIB CLASH OF CLANS Arctic Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers vs Golden State Warriors" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Portland Trail Blazers vs Golden State Warriors (Hiệp hội Bóng rổ Quốc gia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/73864150_b44df8bdc1a8e74616848e366f14eb47_autoChange.m3u8?auth_key=1791447253-0-0-b14494f39bd701c13528f2fdc4685bf1
-#EXTINF:-1 tvg-id="" tvg-name="BLV Cozy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Portland Trail Blazers vs Golden State Warriors - BLV Cozy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-id="3944621-93243" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 08 Oct 2026 10:00 WIB - Golden State Warriors vs Portland Trail Blazers (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/73864150_b44df8bdc1a8e74616848e366f14eb47_1080p.m3u8?auth_key=1791447152-0-0-26a3c9c3a65c6e0b2d845c0c5b30ee17
-#EXTINF:-1 tvg-id="3944621-93214" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 08 Oct 2026 10:00 WIB - Golden State Warriors vs Portland Trail Blazers (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3944621.m3u8?txSecret=78a5309f640db2c51d83320c1b78a3e3&txTime=6AC86A08
 #EXTINF:-1 tvg-id="3926001-93220" tvg-name="National Basketball League" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball League - 08 Oct 2026 16:30 WIB - Cairns Taipans vs Brisbane Bullets (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3926001.m3u8?txSecret=d942be7eb67125a48ba1e38ddcf3953f&txTime=6AC86A08
+https://pul-tenm.gkykp.com/live/sd-2-3926001.m3u8?txSecret=7765ee0ed76366d9d3c8c3af46824792&txTime=6AC87458
 #EXTINF:-1 tvg-id="3934761-93221" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 08 Oct 2026 18:05 WIB - Kobe Storks vs Chiba Jets (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3934761.m3u8?txSecret=5844d39d3ad201e04669c7e341296456&txTime=6AC86A08
+https://pul-tenm.gkykp.com/live/sd-2-3934761.m3u8?txSecret=92ae10f16fe42398c8b3420ff1b3a919&txTime=6AC87458
 #EXTINF:-1 tvg-id="3934911-93222" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 08 Oct 2026 18:05 WIB - Alvark Tokyo vs Saga Ballooners (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3934911.m3u8?txSecret=f63bcd23455e45b6fea20a5b987fca35&txTime=6AC86A08
+https://pul-tenm.gkykp.com/live/sd-2-3934911.m3u8?txSecret=f9e11e0df33593b605c9373639244084&txTime=6AC87458
 #EXTINF:-1 tvg-id="3935479-93223" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 08 Oct 2026 18:05 WIB - Nagasaki Velca vs Shinshu Brave Warriors (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935479.m3u8?txSecret=394612a58bece199a10e408e589c4ca6&txTime=6AC86A08
+https://pul-tenm.gkykp.com/live/sd-2-3935479.m3u8?txSecret=9e90070fa876a9e7e25728a2a11ffc6d&txTime=6AC87458
 #EXTINF:-1 tvg-id="3935329-93224" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 08 Oct 2026 18:30 WIB - Akita Northern Happinets vs Kawasaki Brave Thunders (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935329.m3u8?txSecret=f0365bea43efcc96d5f092f85dfa94d3&txTime=6AC86A08
+https://pul-tenm.gkykp.com/live/sd-2-3935329.m3u8?txSecret=80b13c16f2288f9c2f3e6c20977177bd&txTime=6AC87458
 #EXTINF:-1 tvg-id="3935180-93225" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 08 Oct 2026 18:35 WIB - Ryukyu Golden Kings vs Gunma Crane Thunders (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935180.m3u8?txSecret=72f4e2056b0f6be23924b21f5c3f2a53&txTime=6AC86A08
+https://pul-tenm.gkykp.com/live/sd-2-3935180.m3u8?txSecret=0d9585f95f93a62b6ddc17e336a7ff14&txTime=6AC87458
 #EXTINF:-1 tvg-id="4567496-92898" tvg-name="Romanian Super Liga" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Romanian Super Liga - 09 Oct 2026 01:30 WIB - CFR Cluj vs FC Universitatea Cluj (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4567496.m3u8?txSecret=e4c6d6ec0b09a6362d892a54a017387c&txTime=6AC86A08
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/e903d5740a60e44291b4126c4cce980a.png!w80",12:00 | Borneo Hornbills vs Pelita Jaya
-https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1eb717a2e3c704c2f687d4b4a5181030.png!w80",14:00 | FK Ilpar vs Metallurg Asha
-https://live05.meung.app/live/87379114.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4567496.m3u8?txSecret=4d5cd01813424b9e49d610457a201028&txTime=6AC87458
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
