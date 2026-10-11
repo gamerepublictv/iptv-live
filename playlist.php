@@ -58,42 +58,26 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 #EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pu1se1.xn--ukq5h.shop/puk4/usergendx3j2x4tqrnd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Inter Miami vs DC United" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", Inter Miami vs DC United (Major League Soccer)
+#EXTINF:-1 tvg-id="" tvg-name="Colorado Rapids vs San Jose Earthquakes" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", Colorado Rapids vs San Jose Earthquakes (Major League Soccer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live4.dyrur1.com/live/66299618_35ed41776dcd761ad2338ee3cd8a50f0_autoChange.m3u8?auth_key=1791696251-0-0-0c099d469068ff3c55913384162adb39
-#EXTINF:-1 tvg-id="" tvg-name="BLV STING" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", Inter Miami vs DC United - BLV STING
+https://live.dyrur1.com/live/66299634_d231150532104ef0e7f0e68f41a6a81b_autoChange.m3u8?auth_key=1791699444-0-0-fe1ad5934eaf85d6b758ffe9c5a59751
+#EXTINF:-1 tvg-id="" tvg-name="BLV SODA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", Colorado Rapids vs San Jose Earthquakes - BLV SODA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/14707124_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLB Sao Paulo vs CLB Vitoria BA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5ad7bd885c64690f15f6971a2827190d.png%21w80&size=300&scale=1.5", CLB Sao Paulo vs CLB Vitoria BA (Giải bóng đá Hạng nhất Brasil)
+https://live05.meung.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boston Celtics vs Philadelphia 76ers" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Boston Celtics vs Philadelphia 76ers (Hiệp hội Bóng rổ Quốc gia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live3.dyrur1.com/live/ndqmliw3xo4trkv_8e57ff19baa0a25030cdd9b4a337ef17_autoChange.m3u8?auth_key=1791696251-0-0-cffd6b897e55305a0de498196e575ed3
-#EXTINF:-1 tvg-id="" tvg-name="BLV MONSTER" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2F5ad7bd885c64690f15f6971a2827190d.png%21w80&size=300&scale=1.5", CLB Sao Paulo vs CLB Vitoria BA - BLV MONSTER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Washington Wizards vs Detroit Pistons" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Washington Wizards vs Detroit Pistons (Hiệp hội Bóng rổ Quốc gia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live4.dyrur1.com/live/73863884_967f53c0ee1917dc8c584fbb14c032c2_autoChange.m3u8?auth_key=1791696251-0-0-1d6308483c08bbbd2f5088f977987029
-#EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Washington Wizards vs Detroit Pistons - BLV ROCKSTAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Đội bóng rổ Boston Celtics vs Philadelphia 76ers" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Đội bóng rổ Boston Celtics vs Philadelphia 76ers (Hiệp hội Bóng rổ Quốc gia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/73323636_a790703ba02ca68965a451287175e641_autoChange.m3u8?auth_key=1791696253-0-0-426c5cd9c8682409e5524f029930d63a
-#EXTINF:-1 tvg-id="" tvg-name="BLV Cozy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Đội bóng rổ Boston Celtics vs Philadelphia 76ers - BLV Cozy
+https://live.dyrur1.com/live/73323636_a790703ba02ca68965a451287175e641_autoChange.m3u8?auth_key=1791699444-0-0-2b7594c4affc1f39bd317b917f4b3fe2
+#EXTINF:-1 tvg-id="" tvg-name="BLV Cozy" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Boston Celtics vs Philadelphia 76ers - BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/87379114_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Miami Heat vs Minnesota Timberwolves" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Miami Heat vs Minnesota Timberwolves (Hiệp hội Bóng rổ Quốc gia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/73323632_3b8f70391e9e7bda7ba18313e83e4053_autoChange.m3u8?auth_key=1791696252-0-0-27abadeab449aad2de4fdd8300606ff2
+https://live.dyrur1.com/live/73323632_3b8f70391e9e7bda7ba18313e83e4053_autoChange.m3u8?auth_key=1791699444-0-0-0b2001b4330af4eedc777e78c79acb3a
 #EXTINF:-1 tvg-id="" tvg-name="BLV POCARI" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Miami Heat vs Minnesota Timberwolves - BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
@@ -101,294 +85,235 @@ https://live05.meung.app/live/19919577_tsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden State Warriors vs Sacramento Kings" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Golden State Warriors vs Sacramento Kings (Hiệp hội Bóng rổ Quốc gia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://www.colatv88xd.cc/
-https://live.dyrur1.com/live/73323640_05cde839fe7efd84df60cf15ad79f7a4_autoChange.m3u8?auth_key=1791696252-0-0-f463973072c9b84d3cbbec3407afac0f
+https://live.dyrur1.com/live/73323640_05cde839fe7efd84df60cf15ad79f7a4_autoChange.m3u8?auth_key=1791699444-0-0-df4706e631214fba2f9304ad04f65e33
 #EXTINF:-1 tvg-id="" tvg-name="BLV 247" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Golden State Warriors vs Sacramento Kings - BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLV SODA" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", Colorado Rapids vs San Jose Earthquakes - BLV SODA
+#EXTINF:-1 tvg-id="" tvg-name="BLV MOUNTAIN DEW" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fcompetition%2Fd2fe5be131ad888084f50d6af533570c.png%21w80&size=300&scale=1.5", Los Angeles FC vs Vancouver Whitecaps - BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
-https://live05.meung.app/live/02456966_tsc.m3u8
-#EXTINF:-1 tvg-id="3925696-118980" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 11 Oct 2026 07:00 WIB - Atlanta Hawks vs Indiana Pacers (HD-J)
+https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLV ROCKSTAR" group-title="Event-LIVE-NOW" tvg-logo="https://gatotkaca007.serv00.net/cola/logo.php?src=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fcompetition%2F061f5ab5b1a975fc1004529ec3f11fca.png%21w80&size=300&scale=1.5", Phoenix suns vs San Antonio Spurs - BLV ROCKSTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
+#EXTVLCOPT:http-referrer=https://live5.msrktz.app/
+https://live05.meung.app/live/82054853_tsc.m3u8
+#EXTINF:-1 tvg-id="4553996-120101" tvg-name="Costa Rica Primera Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Costa Rica Primera Division - 11 Oct 2026 07:00 WIB - Puntarenas FC vs LD Alajuelense (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/73323628_7702bc872ec8b081e28cd2955e0aa05e_1080p.m3u8?auth_key=1791696087-0-0-84ada99d6995869223e1833de8f349ea
-#EXTINF:-1 tvg-id="3925696-118876" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 11 Oct 2026 07:00 WIB - Atlanta Hawks vs Indiana Pacers (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3925696.m3u8?txSecret=5fe901856f8b0c24daa5469afa8a1ba0&txTime=6ACC36B0
-#EXTINF:-1 tvg-id="3931444-118981" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 11 Oct 2026 07:00 WIB - Detroit Pistons vs Washington Wizards (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live4.dyrur1.com/live/73863884_967f53c0ee1917dc8c584fbb14c032c2_1080p.m3u8?auth_key=1791696087-0-0-8fb08bd91a95dede29906dd664aa0bd8
-#EXTINF:-1 tvg-id="3931444-118877" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 11 Oct 2026 07:00 WIB - Detroit Pistons vs Washington Wizards (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3931444.m3u8?txSecret=09eb3002ed32dc42e1a5838975941f96&txTime=6ACC36B0
-#EXTINF:-1 tvg-id="4460460-119080" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - Atlanta United vs FC Cincinnati (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live5.dyrur1.com/live/66299614_6f00627b9fefc80fbf56b81d6c4ce869_1080p.m3u8?auth_key=1791696087-0-0-bec18262b7e4fd76dd5f5de9d87bbacc
-#EXTINF:-1 tvg-id="4460460-118910" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - Atlanta United vs FC Cincinnati (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4460460.m3u8?txSecret=48fc21aa7e3c7146ac064d17a417d919&txTime=6ACC36B0
-#EXTINF:-1 tvg-id="4460462-119019" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - Charlotte FC vs FC Dallas (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/wv78xivmy41hokr_bfb24ae9eaf6ea953ffb8fb58c3459d7_1080p.m3u8?auth_key=1791696087-0-0-65e230715946d5b501bb19413c47729e
-#EXTINF:-1 tvg-id="4460462-118911" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - Charlotte FC vs FC Dallas (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4460462.m3u8?txSecret=195513df4aaba24930243aee7b3ff02c&txTime=6ACC36B0
-#EXTINF:-1 tvg-id="4460464-119018" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - Inter Miami CF vs DC United (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live4.dyrur1.com/live/66299618_35ed41776dcd761ad2338ee3cd8a50f0_1080p.m3u8?auth_key=1791696087-0-0-cfa0d7a43c37954c55a31aa635e235fb
-#EXTINF:-1 tvg-id="4460464-118912" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - Inter Miami CF vs DC United (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4460464.m3u8?txSecret=d1e2fb090b52f728f73e5f797088642b&txTime=6ACC36B0
-#EXTINF:-1 tvg-id="4460467-119020" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - New England Revolution vs Seattle Sounders (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/wv78xivmy49iokr_41002573252019f648ad26ea0f6edc65_1080p.m3u8?auth_key=1791696087-0-0-a5809db83e16513021e1ea2260578a52
-#EXTINF:-1 tvg-id="4460467-118913" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - New England Revolution vs Seattle Sounders (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4460467.m3u8?txSecret=b43c834f1b1eeb6840d35b88bea950e5&txTime=6ACC36B0
-#EXTINF:-1 tvg-id="4460469-118999" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - Orlando City vs Columbus Crew (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/66299624_afbb908ab4e4452b3d46b4b29cfd79b8_1080p.m3u8?auth_key=1791695924-0-0-06396493ad99762002db9955de6c33db
-#EXTINF:-1 tvg-id="4460469-118914" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - Orlando City vs Columbus Crew (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4460469.m3u8?txSecret=5dc6057e76c764d6f50989b75449f6ff&txTime=6ACC36B0
-#EXTINF:-1 tvg-id="4460476-119041" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - Philadelphia Union vs Real Salt Lake (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/66299624_afbb908ab4e4452b3d46b4b29cfd79b8_1080p.m3u8?auth_key=1791695924-0-0-06396493ad99762002db9955de6c33db
-#EXTINF:-1 tvg-id="4460476-118915" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - Philadelphia Union vs Real Salt Lake (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4460476.m3u8?txSecret=85535cdfe666a9532ae0f9e72282baa7&txTime=6ACC36B0
-#EXTINF:-1 tvg-id="4460596-119017" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - New York Red Bulls vs San Diego FC (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/66299622_c82c8f6543c1dcba766b793c60c619c0_1080p.m3u8?auth_key=1791694703-0-0-daed5c9244fa50c79754f7dfdb80640a
-#EXTINF:-1 tvg-id="4460596-118916" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 07:40 WIB - New York Red Bulls vs San Diego FC (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4460596.m3u8?txSecret=795699979815e12dc5f9b5c97e6e2502&txTime=6ACC36B0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/l6kegir9nrrtv75_8cb9ef64fc1ece2577314af3979ee774_1080p.m3u8?auth_key=1791698431-0-0-168c22a0b19e9c5636937ae084161b88
 #EXTINF:-1 tvg-id="3925697-119056" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 11 Oct 2026 08:00 WIB - Minnesota Timberwolves vs Miami Heat (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/73323632_3b8f70391e9e7bda7ba18313e83e4053_1080p.m3u8?auth_key=1791696088-0-0-1a5101e35f3893a13a9627b4eeda09c4
+https://live.dyrur1.com/live/73323632_3b8f70391e9e7bda7ba18313e83e4053_1080p.m3u8?auth_key=1791699444-0-0-0b2001b4330af4eedc777e78c79acb3a
 #EXTINF:-1 tvg-id="3925697-118883" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 11 Oct 2026 08:00 WIB - Minnesota Timberwolves vs Miami Heat (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3925697.m3u8?txSecret=512f74b5cf7e3a55970d6642ad855805&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/hd-en-2-3925697.m3u8?txSecret=b79c0e99f0c059a4ed2092bde02bc886&txTime=6ACC4359
 #EXTINF:-1 tvg-id="3925698-119076" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 11 Oct 2026 08:00 WIB - Philadelphia 76ers vs Boston Celtics (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/73323636_a790703ba02ca68965a451287175e641_1080p.m3u8?auth_key=1791696088-0-0-9fde6b1c042842019abed72a7a68305d
+https://live.dyrur1.com/live/73323636_a790703ba02ca68965a451287175e641_1080p.m3u8?auth_key=1791699444-0-0-2b7594c4affc1f39bd317b917f4b3fe2
 #EXTINF:-1 tvg-id="3925698-118881" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 11 Oct 2026 08:00 WIB - Philadelphia 76ers vs Boston Celtics (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3925698.m3u8?txSecret=e01a723b7948c23499bfb140f5a410e5&txTime=6ACC36B0
-#EXTINF:-1 tvg-id="3943285-119077" tvg-name="Argentinian Liga Nacional de Bosquetbol" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentinian Liga Nacional de Bosquetbol - 11 Oct 2026 08:00 WIB - Atletico Argentino Junin vs San Martin (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/66299624_afbb908ab4e4452b3d46b4b29cfd79b8_1080p.m3u8?auth_key=1791695924-0-0-06396493ad99762002db9955de6c33db
-#EXTINF:-1 tvg-id="3943285-119068" tvg-name="Argentinian Liga Nacional de Bosquetbol" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentinian Liga Nacional de Bosquetbol - 11 Oct 2026 08:00 WIB - Atletico Argentino Junin vs San Martin (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3943285.m3u8?txSecret=e5ac52da47dd47f79c8ab77d12771427&txTime=6ACC36B0
-#EXTINF:-1 tvg-id="4465800-119081" tvg-name="Brazilian Serie A" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Brazilian Serie A - 11 Oct 2026 08:00 WIB - São Paulo - SP vs Vitória - BA (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/ndqmliw3xo4trkv_8e57ff19baa0a25030cdd9b4a337ef17_1080p.m3u8?auth_key=1791696087-0-0-4e46aeb7da4a66337b7cbf1f324d5e16
-#EXTINF:-1 tvg-id="4465800-118920" tvg-name="Brazilian Serie A" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Brazilian Serie A - 11 Oct 2026 08:00 WIB - São Paulo - SP vs Vitória - BA (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4465800.m3u8?txSecret=8dd667a3082e865a0b08c151e161e8d3&txTime=6ACC36B0
-#EXTINF:-1 tvg-id="4550644-119101" tvg-name="Peruvian Liga 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Peruvian Liga 1 - 11 Oct 2026 08:00 WIB - Universitario De Deportes vs FBC Melgar (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/71936154_3ed4314da00f3f56835786f673e08d00_1080p.m3u8?auth_key=1791696088-0-0-9e20a09054de93c3e4677ad6d0f5225f
-#EXTINF:-1 tvg-id="4550644-118921" tvg-name="Peruvian Liga 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Peruvian Liga 1 - 11 Oct 2026 08:00 WIB - Universitario De Deportes vs FBC Melgar (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4550644.m3u8?txSecret=7c815d316090f1ba96f601cee124ce4e&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/hd-en-2-3925698.m3u8?txSecret=a0bde8af4d52aa4c4535d72cd19ba82c&txTime=6ACC4359
 #EXTINF:-1 tvg-id="3925699-119155" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 11 Oct 2026 08:30 WIB - Sacramento Kings vs Golden State Warriors (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/73323640_05cde839fe7efd84df60cf15ad79f7a4_1080p.m3u8?auth_key=1791696088-0-0-eb0f62313a0fdea67f352a9e659c6c5e
+https://live.dyrur1.com/live/73323640_05cde839fe7efd84df60cf15ad79f7a4_1080p.m3u8?auth_key=1791699444-0-0-df4706e631214fba2f9304ad04f65e33
 #EXTINF:-1 tvg-id="3925699-118884" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 11 Oct 2026 08:30 WIB - Sacramento Kings vs Golden State Warriors (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/hd-en-2-3925699.m3u8?txSecret=0551fe52e268476baf0d2a65e1dd5998&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/hd-en-2-3925699.m3u8?txSecret=fbbe55963c8443b7e0d59236a3cb400d&txTime=6ACC4359
 #EXTINF:-1 tvg-id="3943260-119156" tvg-name="Argentinian Liga Nacional de Bosquetbol" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentinian Liga Nacional de Bosquetbol - 11 Oct 2026 08:30 WIB - Racing de Chivilcoy vs Gimnasia Comodoro (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/14433046_a4ef424137ddb31b53cd3fa6ca5b737d_1080p.m3u8?auth_key=1791696088-0-0-ea1ee43030b42d299fd5cc3d762127d4
+https://live3.dyrur1.com/live/14433046_a4ef424137ddb31b53cd3fa6ca5b737d_1080p.m3u8?auth_key=1791699444-0-0-7ce84add91795047d80e31ae715507ae
 #EXTINF:-1 tvg-id="3943260-119126" tvg-name="Argentinian Liga Nacional de Bosquetbol" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentinian Liga Nacional de Bosquetbol - 11 Oct 2026 08:30 WIB - Racing de Chivilcoy vs Gimnasia Comodoro (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3943260.m3u8?txSecret=d18b2b87505f10ccfb1ffb3dd29e0b22&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/sd-2-3943260.m3u8?txSecret=931c0ed01933d1fa457b5c3a9950739a&txTime=6ACC4359
 #EXTINF:-1 tvg-id="4509356-119129" tvg-name="USL League One" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",USL League One - 11 Oct 2026 08:30 WIB - Corpus Christi FC vs FC Naples (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
 https://live.dyrur1.com/live/74781158_b55119576cf87c7f530e59a40c6e6e32_1080p.m3u8?auth_key=1791695617-0-0-3c58d0ee26375d5c19a3e8b63809dcdf
-#EXTINF:-1 tvg-id="4539800-119163" tvg-name="Argentine Division 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Division 1 - 11 Oct 2026 08:30 WIB - River Plate vs AA Estudiantes (Río Cuarto) (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/73265402_5a75cf302430fbb280fc5a8a52da1a4e_1080p.m3u8?auth_key=1791696088-0-0-f63746520ab9b60471c106833165b5b8
 #EXTINF:-1 tvg-id="4539800-118922" tvg-name="Argentine Division 1" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Argentine Division 1 - 11 Oct 2026 08:30 WIB - River Plate vs AA Estudiantes (Río Cuarto) (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4539800.m3u8?txSecret=13d15315a85af41a5bbc01aceec7ae67&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/sd-1-4539800.m3u8?txSecret=043f9a9daeb70f96adf5543cd9229d84&txTime=6ACC4359
 #EXTINF:-1 tvg-id="4460478-119181" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 08:40 WIB - Austin FC vs Nashville SC (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/66299624_afbb908ab4e4452b3d46b4b29cfd79b8_1080p.m3u8?auth_key=1791695924-0-0-06396493ad99762002db9955de6c33db
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/67172334_154249e9e98e150e0713d2a0a000c6f0_1080p.m3u8?auth_key=1791697851-0-0-dcd48047eab43cba671e69b96bfedc58
 #EXTINF:-1 tvg-id="4460478-118941" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 08:40 WIB - Austin FC vs Nashville SC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4460478.m3u8?txSecret=87097ee07dea0c27db7496f37a158127&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/sd-1-4460478.m3u8?txSecret=d0f19e55ea142160ed1b9b4c7ba354c6&txTime=6ACC4359
 #EXTINF:-1 tvg-id="4460479-119213" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 08:40 WIB - Sporting Kansas City vs Portland Timbers (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/ezk96i3gw8eh1kn_764260e18c832f95fbf5106bf7b97a2b_1080p.m3u8?auth_key=1791696088-0-0-b5e64f9121f35c494cfa98b5919e5c6f
+https://live.dyrur1.com/live/ezk96i3gw8eh1kn_764260e18c832f95fbf5106bf7b97a2b_1080p.m3u8?auth_key=1791698433-0-0-20608436a1a8f22303ccc243452027a2
 #EXTINF:-1 tvg-id="4460479-118942" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 08:40 WIB - Sporting Kansas City vs Portland Timbers (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4460479.m3u8?txSecret=b2294ffea382b51935c82bd7b7cf7d64&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/sd-1-4460479.m3u8?txSecret=eddcf6ec6e5335cd30c678b08a9f8b76&txTime=6ACC4359
 #EXTINF:-1 tvg-id="4460480-119195" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 08:40 WIB - Minnesota United FC vs Houston Dynamo (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/66299632_695d3f2f3cb8ff88177e0df287d0813a_1080p.m3u8?auth_key=1791696088-0-0-c4da52fe99cd498507306e0bbec9f36e
+https://live2.dyrur1.com/live/66299632_695d3f2f3cb8ff88177e0df287d0813a_1080p.m3u8?auth_key=1791698432-0-0-d6cdb6412879b4b1fd99ddbb94e5180f
 #EXTINF:-1 tvg-id="4460480-118943" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 08:40 WIB - Minnesota United FC vs Houston Dynamo (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4460480.m3u8?txSecret=92813016b55e9d5eb484f322e79a26e8&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/sd-1-4460480.m3u8?txSecret=f32431014b1050912c9bf0527cf33bc1&txTime=6ACC4359
 #EXTINF:-1 tvg-id="4473253-119317" tvg-name="USL Championship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",USL Championship - 11 Oct 2026 09:00 WIB - El Paso Locomotive FC vs Orange County SC (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/66299624_afbb908ab4e4452b3d46b4b29cfd79b8_1080p.m3u8?auth_key=1791695924-0-0-06396493ad99762002db9955de6c33db
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/67172334_154249e9e98e150e0713d2a0a000c6f0_1080p.m3u8?auth_key=1791697851-0-0-dcd48047eab43cba671e69b96bfedc58
 #EXTINF:-1 tvg-id="4473253-118945" tvg-name="USL Championship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",USL Championship - 11 Oct 2026 09:00 WIB - El Paso Locomotive FC vs Orange County SC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4473253.m3u8?txSecret=8eb33534286b9c02c01c7b81dca10017&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/sd-1-4473253.m3u8?txSecret=1e62d4ed85afd3262e56c8bcb157b48c&txTime=6ACC4359
 #EXTINF:-1 tvg-id="4553889-119217" tvg-name="Mexico Liga MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX - 11 Oct 2026 09:00 WIB - Atlas vs Club Deportivo Guadalajara (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/edq0esd3dzjaekx_b6fafbfd33d5096075ed0c98da2ad865_1080p.m3u8?auth_key=1791696088-0-0-77bfdfc393de07c51336afe0e1724c49
+https://live.dyrur1.com/live/edq0esd3dzjaekx_b6fafbfd33d5096075ed0c98da2ad865_1080p.m3u8?auth_key=1791697834-0-0-2048e475e888f23de66e28258cbc97b4
 #EXTINF:-1 tvg-id="4553889-118946" tvg-name="Mexico Liga MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Liga MX - 11 Oct 2026 09:00 WIB - Atlas vs Club Deportivo Guadalajara (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4553889.m3u8?txSecret=b8c01148cc6c02f0f3921b763014ba97&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/sd-1-4553889.m3u8?txSecret=eb36a9524094dc162f9534740b74b347&txTime=6ACC4359
 #EXTINF:-1 tvg-id="4578853-119458" tvg-name="Mexico Ascenso MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Ascenso MX - 11 Oct 2026 09:00 WIB - Club Deportivo Dorados de Sinaloa vs Cruz Azul Hidalgo (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live3.dyrur1.com/live/72661706_9dfb28d03d2974062817f3ecdf53564b_1080p.m3u8?auth_key=1791696088-0-0-eed0766642682663e1d185ae675301d0
+https://live3.dyrur1.com/live/72661706_9dfb28d03d2974062817f3ecdf53564b_1080p.m3u8?auth_key=1791698432-0-0-4e7c2d9f206b2ebacda527f1dd4bf3f0
 #EXTINF:-1 tvg-id="4578853-118947" tvg-name="Mexico Ascenso MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Ascenso MX - 11 Oct 2026 09:00 WIB - Club Deportivo Dorados de Sinaloa vs Cruz Azul Hidalgo (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4578853.m3u8?txSecret=c5dde62067d30ae071e7570908667178&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/sd-1-4578853.m3u8?txSecret=361344f57c16293a7bafcbdee0ff339d&txTime=6ACC4359
 #EXTINF:-1 tvg-id="4578854-119318" tvg-name="Mexico Ascenso MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Ascenso MX - 11 Oct 2026 09:00 WIB - Club Jaiba Brava vs Alacranes de Durango (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
 #EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/72661708_ad4fbd905f82f1799e96d2afe4031022_1080p.m3u8?auth_key=1791696088-0-0-9757bf9a1d1138a20ff6c292ec10b775
+https://live1.dyrur1.com/live/72661708_ad4fbd905f82f1799e96d2afe4031022_1080p.m3u8?auth_key=1791698432-0-0-acb4b5abb8b6b8dc106f37ea1163bbc5
 #EXTINF:-1 tvg-id="4578854-118948" tvg-name="Mexico Ascenso MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Ascenso MX - 11 Oct 2026 09:00 WIB - Club Jaiba Brava vs Alacranes de Durango (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4578854.m3u8?txSecret=7c4ef6cd49790d7391cb7c8dfcfadec3&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/sd-1-4578854.m3u8?txSecret=a334c043496ed2f9b001943654b3004a&txTime=6ACC4359
 #EXTINF:-1 tvg-id="4578856-119338" tvg-name="Mexico Ascenso MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Ascenso MX - 11 Oct 2026 09:00 WIB - Mineros de Zacatecas vs Cancun FC (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/72661710_6ec286206cfc954da8111dbcabe6491b_1080p.m3u8?auth_key=1791696088-0-0-6460c9cb40ef3e2d6bcea1aa29a5ecf6
+https://live2.dyrur1.com/live/72661710_6ec286206cfc954da8111dbcabe6491b_1080p.m3u8?auth_key=1791698432-0-0-d87a4a4203b70c114e4c709151b77662
 #EXTINF:-1 tvg-id="4578856-118944" tvg-name="Mexico Ascenso MX" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Mexico Ascenso MX - 11 Oct 2026 09:00 WIB - Mineros de Zacatecas vs Cancun FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4578856.m3u8?txSecret=fac8c580418e6030f760ecd1d46ce8e1&txTime=6ACC36B0
+https://pul-tenm.gkykp.com/live/sd-1-4578856.m3u8?txSecret=91d30ec22eaa80e62497de8b2844e00d&txTime=6ACC4359
 #EXTINF:-1 tvg-id="4473269-119437" tvg-name="USL Championship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",USL Championship - 11 Oct 2026 09:10 WIB - New Mexico United vs Monterey Bay FC (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live4.dyrur1.com/live/67173040_2cb4a59e32616d222831dd09ed30c577_1080p.m3u8?auth_key=1791696088-0-0-d4d47487bf7fac97b68a276643ac5a2c
+https://live4.dyrur1.com/live/67173040_2cb4a59e32616d222831dd09ed30c577_1080p.m3u8?auth_key=1791697247-0-0-0cc842bfc0827f81d6eb6fc63d1657b8
+#EXTINF:-1 tvg-id="4473269-118950" tvg-name="USL Championship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",USL Championship - 11 Oct 2026 09:10 WIB - New Mexico United vs Monterey Bay FC (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4473269.m3u8?txSecret=d51e1a7b517dc307e1ee4cfa6161e3b3&txTime=6ACC4359
 #EXTINF:-1 tvg-id="4596231-119439" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 11 Oct 2026 09:15 WIB - Bogota FC vs Patriotas FC (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/14441364_c529ad3fb68bcbb96d128b6fbc22eef3_1080p.m3u8?auth_key=1791696086-0-0-ae32a26923c1242a222c6e91581e8e98
+https://live.dyrur1.com/live/74458752_e83e37691f3c2a567480b8173db5764c_1080p.m3u8?auth_key=1791698432-0-0-27b54f70f485907be84dee1666e82a2f
 #EXTINF:-1 tvg-id="4596231-118951" tvg-name="Colombian Torneo BetPlay Dimayor" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Colombian Torneo BetPlay Dimayor - 11 Oct 2026 09:15 WIB - Bogota FC vs Patriotas FC (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4596231.m3u8?txSecret=d6c60515ee7fe6c7f9aadc476ea2179f&txTime=6ACC36B0
-#EXTINF:-1 tvg-id="4460481-119435" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 09:30 WIB - Colorado Rapids vs San Jose Earthquakes (HD-J)
+https://pul-tenm.gkykp.com/live/sd-1-4596231.m3u8?txSecret=e276f56c3d40dc8029f8513e5c75e9e0&txTime=6ACC4359
+#EXTINF:-1 tvg-id="4460481-119435" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 09:40 WIB - Colorado Rapids vs San Jose Earthquakes (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/67172334_154249e9e98e150e0713d2a0a000c6f0_1080p.m3u8?auth_key=1791697851-0-0-dcd48047eab43cba671e69b96bfedc58
+#EXTINF:-1 tvg-id="4460481-118952" tvg-name="United States Major League Soccer" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",United States Major League Soccer - 11 Oct 2026 09:40 WIB - Colorado Rapids vs San Jose Earthquakes (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/66299624_afbb908ab4e4452b3d46b4b29cfd79b8_1080p.m3u8?auth_key=1791695924-0-0-06396493ad99762002db9955de6c33db
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80",08:30 | Arema Malang vs CLB Persik Kediri
-https://live05.meung.app/live/75915087_tsc.m3u8
+https://pul-tenm.gkykp.com/live/hd-en-1-4460481.m3u8?txSecret=efed755ef446939caa4bd49b94dd102c&txTime=6ACC4359
+#EXTINF:-1 tvg-id="3938764-119657" tvg-name="New Zealand Basketball League Womens" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",New Zealand Basketball League Womens - 11 Oct 2026 10:00 WIB - Northern Kahu Women vs Mainland Pouakai Women (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/14166007_41f957fa8af07e780dda70c5c51d7d5e_1080p.m3u8?auth_key=1791699445-0-0-5aff43b0ee06c4492249af45b374a759
+#EXTINF:-1 tvg-id="3938764-119462" tvg-name="New Zealand Basketball League Womens" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",New Zealand Basketball League Womens - 11 Oct 2026 10:00 WIB - Northern Kahu Women vs Mainland Pouakai Women (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3938764.m3u8?txSecret=ce44fa0bf0caacb916b1b135c3ea3fd0&txTime=6ACC4359
+#EXTINF:-1 tvg-id="4473241-119843" tvg-name="USL Championship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",USL Championship - 11 Oct 2026 10:00 WIB - Oakland Roots vs San Antonio (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/wv78xivx1ppfokr_e67353afa9debe073bbe6a1bb8ddecfe_1080p.m3u8?auth_key=1791698416-0-0-8d2c27f9b1d5ec084d49b264ca81a165
+#EXTINF:-1 tvg-id="4473241-119459" tvg-name="USL Championship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",USL Championship - 11 Oct 2026 10:00 WIB - Oakland Roots vs San Antonio (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4473241.m3u8?txSecret=e7326ce30a96558763e778b068f586e3&txTime=6ACC4359
+#EXTINF:-1 tvg-id="4473242-119894" tvg-name="USL Championship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",USL Championship - 11 Oct 2026 10:00 WIB - Phoenix Rising FC vs Las Vegas Lights (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/13398625_0e1855ff5589e85837c5ded255d4f38f_1080p.m3u8?auth_key=1791698431-0-0-ddd976fe699a8303cb2555555ba0cbc1
+#EXTINF:-1 tvg-id="4473242-119457" tvg-name="USL Championship" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",USL Championship - 11 Oct 2026 10:00 WIB - Phoenix Rising FC vs Las Vegas Lights (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4473242.m3u8?txSecret=7eb3143cac129419108c1d380a58a012&txTime=6ACC4359
+#EXTINF:-1 tvg-id="4553993-119893" tvg-name="Costa Rica Primera Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Costa Rica Primera Division - 11 Oct 2026 10:00 WIB - CS Herediano vs AD San Carlos (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/13995903_c4f0c8fbaf3f32e6d9715827166da533_1080p.m3u8?auth_key=1791698431-0-0-a9c23e301877ea8860c1861397ab3399
+#EXTINF:-1 tvg-id="4553993-119461" tvg-name="Costa Rica Primera Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Costa Rica Primera Division - 11 Oct 2026 10:00 WIB - CS Herediano vs AD San Carlos (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4553993.m3u8?txSecret=5cc16c6e5ca6ec80da0dbfe137c9db7f&txTime=6ACC4359
+#EXTINF:-1 tvg-id="3925714-119465" tvg-name="National Basketball Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",National Basketball Association - 11 Oct 2026 10:30 WIB - San Antonio Spurs vs Phoenix Suns (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/hd-en-2-3925714.m3u8?txSecret=88d1868a1555ef3953a8af372d2ac662&txTime=6ACC4359
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",08:00 | Lanzhou Longyuan vs Yichun Grand Tiger
+https://live05.meung.app/live/87547578_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/a31d8680851118728518f72f2030a154.png!w80",07:00 | Hàn Quốc vs Iran
 https://live05.meung.app/live/90865415_tsc.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",15:00 | CLB KuPs vs Ilves
+https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80",16:00 | Jaro vs CLB Gnistan Helsinki
 https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",16:00 | Inter Turku vs SJK
@@ -397,27 +322,25 @@ https://live05.meung.app/live/82054853.m3u8
 https://live05.meung.app/live/90865415.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b196a9a7e627dc15cfa96268035c454e.png!w80",09:00 | Hà Nội Nữ vs Tp. Hồ Chí Minh 2 Nữ
 https://live05.meung.app/live/02456966.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/e903d5740a60e44291b4126c4cce980a.png!w80",12:00 | Borneo Hornbills vs Pelita Jaya
-https://live05.meung.app/live/87379114.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782232522-0-0-2b6cc00beb99e824aa1924926b75ae7b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782232522-0-0-679c8588d0b330b0994ca6eb0bb2a344
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) m3u8
 https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782232522-0-0-56e4b93b1d457bb424d110ca6730a379
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782232522-0-0-817442f1c8516fe936675b737e2b61ef
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/7a2eadc57b3a330eda4b7189352ce344.png!w80",17:00 | Rosenborg vs Fredrikstad
-https://live05.meung.app/live/75915087.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9ba1f45cab5e3f52d783a5bfdbe10daa.png!w80",18:00 | Boca Juniors Nữ vs San Lorenzo Nữ
+https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",22:30 | Atletico Clube Goianiense vs Operario
 https://live05.meung.app/live/90865415.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",22:30 | Sport Club Recife PE vs Cuiaba
 https://live05.meung.app/live/82054853.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/e142922645466d58b5ad3a27570b5ac5.png!w80",22:00 | CLB Banfield vs Sarmiento Junin
-https://live05.meung.app/live/19919577.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1eb717a2e3c704c2f687d4b4a5181030.png!w80",14:00 | FK Ilpar vs Metallurg Asha
-https://live05.meung.app/live/87379114.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 28/07 Rosenborg vs Fredrikstad (BLV MONSTER) [flv]
-https://live05.meung.app/live/75915087.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 28/07 Rosenborg vs Fredrikstad (BLV MONSTER) [hls 2]
-https://live05.miekgo.app/live/75915087.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [flv]
+https://live05.meung.app/live/87547578.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [hls 2]
+https://live05.miekgo.app/live/87547578.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
