@@ -33,32 +33,65 @@ https://live.dyrur1.com/live/72338940_28354ddfadab2f3d7f68613e1520dbfd_1080p.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4641738.m3u8?txSecret=d52e0aea63d988689a1200df71c55bbe&txTime=6ACDC3B8
+https://pul-tenm.gkykp.com/live/sd-1-4641738.m3u8?txSecret=2f872ab3674f93da9e8d266bbf537496&txTime=6ACDCF70
 #EXTINF:-1 tvg-id="3935239-128568" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 13:05 WIB - Shiga Lakes vs Shinshu Brave Warriors (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935239.m3u8?txSecret=97a5072c672981ad19194178d1ccaa14&txTime=6ACDC3B8
+https://pul-tenm.gkykp.com/live/sd-2-3935239.m3u8?txSecret=d1494af138c5bab09b59a44fdac64647&txTime=6ACDCF70
 #EXTINF:-1 tvg-id="3935388-129093" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 13:05 WIB - Saga Ballooners vs Gunma Crane Thunders (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
 #EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/72696060_5f8dc6c81f8037a425b0a2c4e1df197a_1080p.m3u8?auth_key=1791797789-0-0-0a237f5cb197da97dac6b4282f8bcfad
+https://live1.dyrur1.com/live/72696060_5f8dc6c81f8037a425b0a2c4e1df197a_1080p.m3u8?auth_key=1791800688-0-0-c5c3ba54dda3f85884046b9faa50855b
 #EXTINF:-1 tvg-id="3935388-128565" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 13:05 WIB - Saga Ballooners vs Gunma Crane Thunders (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935388.m3u8?txSecret=44d37c23b89ed96b3c9ee475cd4dff53&txTime=6ACDC3B8
+https://pul-tenm.gkykp.com/live/sd-2-3935388.m3u8?txSecret=78b5644e8f4f1914e594885bace5d0ea&txTime=6ACDCF70
 #EXTINF:-1 tvg-id="3935538-129080" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 13:05 WIB - Osaka Evessa vs Alvark Tokyo (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/72696058_ba7a6599e17e0b75daf6acd3bc725aa5_1080p.m3u8?auth_key=1791797789-0-0-b8a630afe1b27f7c6a37aac73f19527b
+https://live2.dyrur1.com/live/72696058_ba7a6599e17e0b75daf6acd3bc725aa5_1080p.m3u8?auth_key=1791800688-0-0-13e67f18afa460f8c5efd2bc046c2e11
 #EXTINF:-1 tvg-id="3935538-128566" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 13:05 WIB - Osaka Evessa vs Alvark Tokyo (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935538.m3u8?txSecret=175cbb0d6a4202aab43724bf55afe8b0&txTime=6ACDC3B8
+https://pul-tenm.gkykp.com/live/sd-2-3935538.m3u8?txSecret=76acb77f2e454850a6d673fa19d0b014&txTime=6ACDCF70
+#EXTINF:-1 tvg-id="4657091-129103" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 12 Oct 2026 13:25 WIB - SC Bengaluru vs FC Bengaluru United (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/jek33imxzedu9ko_a37732667badbec112df544cf2c10015_1080p.m3u8?auth_key=1791800805-0-0-7d19443c083495edc9ee349dfb7c386f
+#EXTINF:-1 tvg-id="3934077-129102" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 14:05 WIB - Yokohama B-Corsairs vs Chiba Jets (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/72696062_978ee681dec64fa07dac72ccba3b73b4_1080p.m3u8?auth_key=1791800688-0-0-99933fedd11b0a55971fa79d2963b7c9
+#EXTINF:-1 tvg-id="3934077-128559" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 14:05 WIB - Yokohama B-Corsairs vs Chiba Jets (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3934077.m3u8?txSecret=6dba1e3f917a0c158dd7e4901f77d187&txTime=6ACDCF70
+#EXTINF:-1 tvg-id="3935090-129101" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 14:05 WIB - Nagasaki Velca vs Kobe Storks (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live.dyrur1.com
+#EXTVLCOPT:http-origin=https://live.dyrur1.com
+https://live.dyrur1.com/live/72696064_c63c470cdb91b6130d86d400e0f0fd01_1080p.m3u8?auth_key=1791800688-0-0-ccac190416c0942c2b7883f0fb0ad0d3
+#EXTINF:-1 tvg-id="3935090-128567" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 14:05 WIB - Nagasaki Velca vs Kobe Storks (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3935090.m3u8?txSecret=2470809122cdd4b5bec4fe516779496a&txTime=6ACDCF70
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782232522-0-0-8b640fe1cf47df1166734db5f3d09d2b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782232522-0-0-2977642b49a40977f77b1672f1607866
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782232522-0-0-ce583044375d834d1706b22452e075c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782232522-0-0-be25cfdb2864e1ff265f6fa5484e53b7
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
