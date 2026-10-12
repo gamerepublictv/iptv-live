@@ -24,41 +24,26 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-id="4641738-129078" tvg-name="Japanese Nadeshiko League Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Nadeshiko League Cup - 12 Oct 2026 13:00 WIB - AS Elfen Saitama vs Albirex Niigata Ladies (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://live.dyrur1.com
-#EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/72338940_28354ddfadab2f3d7f68613e1520dbfd_1080p.m3u8?auth_key=1791795773-0-0-733f41fea96771fdd8c2163f6cfc5f53
-#EXTINF:-1 tvg-id="4641738-129068" tvg-name="Japanese Nadeshiko League Cup" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Japanese Nadeshiko League Cup - 12 Oct 2026 13:00 WIB - AS Elfen Saitama vs Albirex Niigata Ladies (HD-B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-1-4641738.m3u8?txSecret=2f872ab3674f93da9e8d266bbf537496&txTime=6ACDCF70
 #EXTINF:-1 tvg-id="3935239-128568" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 13:05 WIB - Shiga Lakes vs Shinshu Brave Warriors (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935239.m3u8?txSecret=d1494af138c5bab09b59a44fdac64647&txTime=6ACDCF70
+https://pul-tenm.gkykp.com/live/sd-2-3935239.m3u8?txSecret=b40f86954fb1b30ff448ae8df0d65043&txTime=6ACDD8D0
 #EXTINF:-1 tvg-id="3935388-129093" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 13:05 WIB - Saga Ballooners vs Gunma Crane Thunders (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
 #EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/72696060_5f8dc6c81f8037a425b0a2c4e1df197a_1080p.m3u8?auth_key=1791800688-0-0-c5c3ba54dda3f85884046b9faa50855b
+https://live1.dyrur1.com/live/72696060_5f8dc6c81f8037a425b0a2c4e1df197a_1080p.m3u8?auth_key=1791803205-0-0-d4200107c9837dffc59a6778bc69e80e
 #EXTINF:-1 tvg-id="3935388-128565" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 13:05 WIB - Saga Ballooners vs Gunma Crane Thunders (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935388.m3u8?txSecret=78b5644e8f4f1914e594885bace5d0ea&txTime=6ACDCF70
-#EXTINF:-1 tvg-id="3935538-129080" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 13:05 WIB - Osaka Evessa vs Alvark Tokyo (HD-J)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://oneball.live/
-#EXTVLCOPT:http-origin=https://oneball.live
-https://live2.dyrur1.com/live/72696058_ba7a6599e17e0b75daf6acd3bc725aa5_1080p.m3u8?auth_key=1791800688-0-0-13e67f18afa460f8c5efd2bc046c2e11
+https://pul-tenm.gkykp.com/live/sd-2-3935388.m3u8?txSecret=daa935c0190e728e61b17cb28fdc2eea&txTime=6ACDD8D0
 #EXTINF:-1 tvg-id="3935538-128566" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 13:05 WIB - Osaka Evessa vs Alvark Tokyo (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935538.m3u8?txSecret=76acb77f2e454850a6d673fa19d0b014&txTime=6ACDCF70
+https://pul-tenm.gkykp.com/live/sd-2-3935538.m3u8?txSecret=d6219027c3e47a46f45b86f24dae62ac&txTime=6ACDD8D0
 #EXTINF:-1 tvg-id="4657091-129103" tvg-name="Indian Bangalore Super Division" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Indian Bangalore Super Division - 12 Oct 2026 13:25 WIB - SC Bengaluru vs FC Bengaluru United (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
@@ -68,22 +53,42 @@ https://live.dyrur1.com/live/jek33imxzedu9ko_a37732667badbec112df544cf2c10015_10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live1.dyrur1.com
 #EXTVLCOPT:http-origin=https://live1.dyrur1.com
-https://live1.dyrur1.com/live/72696062_978ee681dec64fa07dac72ccba3b73b4_1080p.m3u8?auth_key=1791800688-0-0-99933fedd11b0a55971fa79d2963b7c9
+https://live1.dyrur1.com/live/72696062_978ee681dec64fa07dac72ccba3b73b4_1080p.m3u8?auth_key=1791803205-0-0-9451de465b4112bf5314fbec504c7669
 #EXTINF:-1 tvg-id="3934077-128559" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 14:05 WIB - Yokohama B-Corsairs vs Chiba Jets (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3934077.m3u8?txSecret=6dba1e3f917a0c158dd7e4901f77d187&txTime=6ACDCF70
+https://pul-tenm.gkykp.com/live/sd-2-3934077.m3u8?txSecret=fa4f6673b1cd8b9afc7f5b9f7a993adb&txTime=6ACDD8D0
 #EXTINF:-1 tvg-id="3935090-129101" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 14:05 WIB - Nagasaki Velca vs Kobe Storks (HD-J)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://live.dyrur1.com
 #EXTVLCOPT:http-origin=https://live.dyrur1.com
-https://live.dyrur1.com/live/72696064_c63c470cdb91b6130d86d400e0f0fd01_1080p.m3u8?auth_key=1791800688-0-0-ccac190416c0942c2b7883f0fb0ad0d3
+https://live.dyrur1.com/live/72696064_c63c470cdb91b6130d86d400e0f0fd01_1080p.m3u8?auth_key=1791803205-0-0-5a223603f85341bc9dec0ebce2c15b12
 #EXTINF:-1 tvg-id="3935090-128567" tvg-name="B.League Premier" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",B.League Premier - 12 Oct 2026 14:05 WIB - Nagasaki Velca vs Kobe Storks (HD-B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://oneball.live/
 #EXTVLCOPT:http-origin=https://oneball.live
-https://pul-tenm.gkykp.com/live/sd-2-3935090.m3u8?txSecret=2470809122cdd4b5bec4fe516779496a&txTime=6ACDCF70
+https://pul-tenm.gkykp.com/live/sd-2-3935090.m3u8?txSecret=39d7646df26694fdfa58c1dbef2474e3&txTime=6ACDD8D0
+#EXTINF:-1 tvg-id="3947111-129111" tvg-name="Philippines National Collegiate Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines National Collegiate Athletic Association - 12 Oct 2026 15:00 WIB - Mapua Cardinals vs CSJL Knight (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/74454982_c7f618ee0294d44a0c6cb8d74218faaa_1080p.m3u8?auth_key=1791802802-0-0-268c6aeb67a031938afaa1155ad31613
+#EXTINF:-1 tvg-id="3947111-129089" tvg-name="Philippines National Collegiate Athletic Association" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Philippines National Collegiate Athletic Association - 12 Oct 2026 15:00 WIB - Mapua Cardinals vs CSJL Knight (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-2-3947111.m3u8?txSecret=a3dff4fc039f1575a9799eda53aad578&txTime=6ACDD8D0
+#EXTINF:-1 tvg-id="4640171-129114" tvg-name="Chinese Football League 2" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football League 2 - 12 Oct 2026 15:00 WIB - Shanxi Chongde Ronghai vs Jiangxi Lushan (HD-J)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://live1.dyrur1.com
+#EXTVLCOPT:http-origin=https://live1.dyrur1.com
+https://live1.dyrur1.com/live/74454982_c7f618ee0294d44a0c6cb8d74218faaa_1080p.m3u8?auth_key=1791802802-0-0-268c6aeb67a031938afaa1155ad31613
+#EXTINF:-1 tvg-id="4640171-128569" tvg-name="Chinese Football League 2" tvg-logo="https://openwindows037.serv00.net/logo/live_event2.png" group-title="Event-LIVE-NOW",Chinese Football League 2 - 12 Oct 2026 15:00 WIB - Shanxi Chongde Ronghai vs Jiangxi Lushan (HD-B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://oneball.live/
+#EXTVLCOPT:http-origin=https://oneball.live
+https://pul-tenm.gkykp.com/live/sd-1-4640171.m3u8?txSecret=25481f8211f91826615e23c17ca39002&txTime=6ACDD8D0
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) m3u8
 https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782232522-0-0-8b640fe1cf47df1166734db5f3d09d2b
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) hdM3u8
