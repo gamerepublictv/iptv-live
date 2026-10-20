@@ -28,10 +28,6 @@ https://live05.zhwpg.app/live/33860426_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://live5.msrktz.app/
 https://live05.zhwpg.app/live/82054853_tsc.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",08:00 | Lanzhou Longyuan vs Yichun Grand Tiger
-https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",15:00 | CLB KuPs vs Ilves
-https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",16:00 | Inter Turku vs SJK
 https://live05.meung.app/live/82054853.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b196a9a7e627dc15cfa96268035c454e.png!w80",09:00 | Hà Nội Nữ vs Tp. Hồ Chí Minh 2 Nữ
@@ -50,19 +46,17 @@ https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782232522-0-0-8b64
 https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782232522-0-0-2977642b49a40977f77b1672f1607866
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",11:00 | Singapore vs Đông Timor
 https://live05.meung.app/live/16226575.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/502144248e65e9d4c4f26a04f2021d69.png!w80",17:00 | Randers FC vs Silkeborg
-https://live05.meung.app/live/14707124.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9ba1f45cab5e3f52d783a5bfdbe10daa.png!w80",18:00 | Boca Juniors Nữ vs San Lorenzo Nữ
-https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80",13:30 | Indonesia vs Campuchia
+https://live05.meung.app/live/14830711.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",22:30 | Sport Club Recife PE vs Cuiaba
 https://live05.meung.app/live/82054853.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1eb717a2e3c704c2f687d4b4a5181030.png!w80",14:00 | FK Ilpar vs Metallurg Asha
+https://live05.meung.app/live/87379114.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Đông Timor (BLV FANTA) [flv]
 https://live05.meung.app/live/16226575.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 28/07 Randers FC vs Silkeborg (BLV STING) [flv]
-https://live05.meung.app/live/14707124.flv
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [flv]
-https://live05.meung.app/live/87547578.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 27/07 Indonesia vs Campuchia (BLV GIÀ LÀNG) [flv]
+https://live05.meung.app/live/14830711.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
