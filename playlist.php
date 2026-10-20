@@ -32,8 +32,6 @@ https://live05.meung.app/live/75915087_tsc.m3u8
 https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",15:00 | CLB KuPs vs Ilves
 https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80",16:00 | Jaro vs CLB Gnistan Helsinki
-https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",16:00 | Inter Turku vs SJK
 https://live05.meung.app/live/82054853.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80",07:00 | Tauranga Whai vs Southland Sharks
@@ -46,8 +44,6 @@ https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782232522-0-0-679c
 https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782232522-0-0-8b640fe1cf47df1166734db5f3d09d2b
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Vaasa VPS vs AC Oulu [BLV CÒ] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782232522-0-0-2977642b49a40977f77b1672f1607866
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/7a2eadc57b3a330eda4b7189352ce344.png!w80",17:00 | Rosenborg vs Fredrikstad
-https://live05.meung.app/live/75915087.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/502144248e65e9d4c4f26a04f2021d69.png!w80",17:00 | Randers FC vs Silkeborg
 https://live05.meung.app/live/14707124.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9ba1f45cab5e3f52d783a5bfdbe10daa.png!w80",18:00 | Boca Juniors Nữ vs San Lorenzo Nữ
@@ -58,8 +54,6 @@ https://live05.meung.app/live/90865415.m3u8
 https://live05.meung.app/live/82054853.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 28/07 Rosenborg vs Fredrikstad (BLV MONSTER) [flv]
-https://live05.meung.app/live/75915087.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 28/07 Randers FC vs Silkeborg (BLV STING) [flv]
 https://live05.meung.app/live/14707124.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 28/07 Boca Juniors Nữ vs San Lorenzo Nữ (BLV MOUNTAIN DEW) [flv]
