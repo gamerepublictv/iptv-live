@@ -38,5 +38,7 @@ https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782232522-0-0-ce58
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782232522-0-0-be25cfdb2864e1ff265f6fa5484e53b7
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (Nguyễn Lữ)
+https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
