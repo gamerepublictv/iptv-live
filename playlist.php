@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku [BLV ANH TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782232162-0-0-d12353372aefcfda076ad6966c878255
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku [BLV ANH TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782232162-0-0-d0d87070e955fc9df64188fc31adad60
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) m3u8
 https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782232522-0-0-2b6cc00beb99e824aa1924926b75ae7b
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ALEX] (Socolive) hdM3u8
