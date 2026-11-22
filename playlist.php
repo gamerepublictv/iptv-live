@@ -104,9 +104,5 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782232162-0-0-d12353372aefcfda076ad6966c878255
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 Lahti vs TPS Turku [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782232162-0-0-d0d87070e955fc9df64188fc31adad60
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
