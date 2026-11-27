@@ -13,8 +13,8 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894972&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894973&extension=ts&play_token=uZdKG6fw6s
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",┃UCL┃ DAZN 1 HD [DE]
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894974&extension=ts&play_token=GiWXT38CQo
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",┃UCL┃ DAZN 2 HD [DE]
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894975&extension=ts&play_token=ZTaSxYfBAq
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",┃UCL┃ AMAZON PRIME EVENT HD [DE]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894976&extension=ts&play_token=ZiirqEyOLb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",┃UCL┃ TNT SPORTS 1 HD [UK]
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894977&extension=ts&play_token=qvpfyxg1cc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",┃UCL┃ TNT SPORTS 2 HD [UK]
@@ -207,8 +207,6 @@ http://141.94.193.53:80/Sport_2_HD/index.m3u8
 http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/880
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",ELEVEN SPORTS 2 (PL)
 http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/881
-#EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",ELEVEN SPORTS 4 (PL)
-http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/883
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",CANAL+SPORT (PL)
 http://31.43.191.125:8080/K7NbHu4NGss4/NVr2w4XFquZe/876
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",CANAL+SPORT 2 (PL)
@@ -290,8 +288,6 @@ http://royaltv.world:25461/live/S1048/9886/32309.ts
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158835
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",TW: ELTA SPORTs 3 FHD
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158836
-#EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",TW: ELTA Sports 4 FHD
-http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158837
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", TW: ELTA Sports Max 1 FHD
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158879
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", TW: ELTA Sports Max 2 FHD
@@ -330,6 +326,8 @@ http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032527&extension
 http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032526&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 5 (online)
 http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032525&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 6 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032524&extension=ts
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",UFC_ (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=132120&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", NOW SPORTS 1 (cloud)
@@ -441,6 +439,8 @@ https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
 https://video07.logicahost.com.br/rssports05/rssports05/playlist.m3u8
 #EXTINF:-1 group-title="Live Sport" tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",GOLF LIFE (FAST)
 https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", IR| PERSIANA SPORTS
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/742332
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",BEIN SPORTS 1•(afcon)
 http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368411.m3u8
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",BEIN SPORTS 2•(afcon)
@@ -483,6 +483,8 @@ http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",CCTV GOLF & TENNIS
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",GUANGDONG SPORTS
+http://107.150.60.122/live/gdty.m3u8
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",CCTV5 hd
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",CCTV 5+
@@ -505,16 +507,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="Матч! Игра.ru" group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", MATCH! IGRA 🇷🇺
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=076fd3d5688d47758ecf14a8935827a8:257b7de78413814d67227f7a834aaf04
-https://video.beeline.tv/live/d/channel510.isml/manifest-stb.mpd
-#EXTINF:-1 group-title="Live Sport" tvg-id="Матч! Футбол 1.ru" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", MATCH! FOOTBALL 1 🇷🇺
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CCTV 5+ (CHN)
 http://125.227.210.55:8177/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Adu Ayam (HI Sport)_ TH HD
@@ -543,220 +535,24 @@ https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=Mr
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=qd2MUJx2uKe8vQ1n81yoEA&e=2088940274&scheme=https
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",SKY SPORTS GOLF
 https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MY| ASTRO ARENA HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410915.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MY| ASTRO ARENA 2 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410916.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MY| ASTRO SPORTS PLUS HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410919.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MY| ASTRO FOOTBALL HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410917.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MY| ASTRO PREMIER LEAGUE 1 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470698.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MY| ASTRO PREMIER LEAGUE 2 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470699.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MY| ASTRO PREMIER LEAGUE 3 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470700.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MY| ASTRO PREMIER LEAGUE 4 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470701.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", NOW HK PREMIER SPORTS 03
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/164318.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", NOW HK PREMIER SPORTS 04
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/164317.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", NOW HK PREMIER SPORTS 07
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/164314.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", NOW HK NOW SPORTS 1
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/4451.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", NOW HK NOW SPORTS 6
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/4446.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", NOW HK NOW SPORTS 7
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/4445.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", NOW HK NOW SPORTS 4K 616
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/4452.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", NZ| SKY SPORT 1 4K
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1412271.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", NZ| SKY SPORT 1 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410928.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", NZ| SKY SPORT 2 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410929.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU| SKY RACING 1 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410926.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU| SKY RACING 2 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410927.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU| ESPN 1 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470702.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU| ESPN 2 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470703.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU| FOX SPORTS 501 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470704.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU| FOX SPORTS 505 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470705.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU| FOX SPORTS 502 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470706.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU| FOX SPORTS 503 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470707.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU| FOX SPORTS 504 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470708.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU| FOX SPORTS 506 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470709.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU| FOX SPORTS 507 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470710.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ID| SPOTV 2 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410918.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| SPORTS 18 FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410911.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| STAR SPORTS 2 FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470717.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| STAR SPORTS 3 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470718.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| STAR SPORTS SELECT 1 FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470719.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| STAR SPORTS SELECT 2  FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470720.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| STAR SPORTS 1 TELUGU FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470721.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| STAR SPORTS 1 TAMIL
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470722.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| STAR SPORTS 2 TAMIL
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470723.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| STAR SPORTS 1 KANNADA HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470724.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| T SPORTS
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470725.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| Hub Sports 1
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470711.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| Hub Sports 2
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470712.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| Hub Sports 3
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470713.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| Hub Sports 4
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470714.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IN| Hub Sports 5
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470715.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", PK| A SPORTS FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410913.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", PK| PTV SPORTS HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410914.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", PK| TEN SPORTS FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470726.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", PH| ONE SPORT HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410921.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AFG| RTA SPORTS HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410922.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IR| PERSIANA SPORTS
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470727.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IR| VARZISH SPORT FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470728.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 01 [EVENT ONLY]
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1326.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 02 [EVENT ONLY]
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1325.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 03 [EVENT ONLY]
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1324.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 04 [EVENT ONLY]
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1323.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 05 [EVENT ONLY]
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1322.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 06 [EVENT ONLY]
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1321.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 07 [EVENT ONLY]
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1320.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 08 [EVENT ONLY]
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1319.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 09 [EVENT ONLY]
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1318.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 10 [EVENT ONLY]
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1317.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HUB PREMIER 11 [EVENT ONLY]
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1316.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", DAZN LALIGA 1 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1415232.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MX| AYM SPORTS TV FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410748.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MX| AYM SPORTS 2 FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410746.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MX| HI Sports
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410747.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MX| ESPN HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410745.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ARG| DIRECT TV SPORTS
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410777.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ARG| ESPN 2
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410776.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CO| CLARO SPORTS
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410782.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", BR| FOX SPORTS HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410771.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", BR| SPORTV 1 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410772.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", BR| SPORTV 2 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410773.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", BR| SPORTV 3 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410774.ts
-#EXTINF:- tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",  ARG| TYC SPORTS HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410762.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CAR| ESPN CARIBBEAN FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410757.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CAR| ESPN 2 CARIBBEAN HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410758.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CAR| ESPN 3 CARIBBEAN HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410759.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CAR| FLOW SPORTS FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410760.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CAR| TVJ SPORTS JAMAICA HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410761.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ARG| TNT SPORTS HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410779.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CL| CHILEVISION HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410778.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ARG| DIRECT TV SPORTS 2
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410786.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CO| DIRECTV SPORTS 1 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410789.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CO| DIRECTV SPORTS 2 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410790.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ARG| DIRECT TV SPORTS PLUS
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410787.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CO| WIN SPORTS COLOMBIA HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410788.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CR| TELETICA 7 FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410750.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", BR| ESPN 2
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410765.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", BR| PREMIERE 2
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410763.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", BR| BAND SPORTS
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410767.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", BR| PREMIERE 1
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410764.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", BR| ESPN
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410766.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", EC| ECUAVISA
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410793.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", EC| TELEAMAZONAS FHD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410792.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", HT| SPORTS LAKAY
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410755.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MX| ADRENALINA SPORTS NETWORK
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410770.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MX| FOX SPORTS 1 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410752.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MX| FOX SPORTS 2 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410753.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ARG| FOX SPORT 3
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410783.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ARG| FOX SPORT 2
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410784.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ARG| FOX SPORT
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410785.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CAR| RUSH SPORTS 2
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410768.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CAR| RUSH SPORTS
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410769.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CO| WIN SPORTS+
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410780.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", UY| DIRECTV SPORTS
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410781.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", SUPERSPORTS FOOTBALL
+http://line.darktv-pro.cc/play/live.php?mac=A0:BB:3E:01:66:D9&stream=239083&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", SUPERSPORTS RUGBY
+http://line.darktv-pro.cc/play/live.php?mac=A0:BB:3E:01:66:D9&stream=239086&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", SUPERSPORTS UNIFI
+http://line.darktv-pro.cc/play/live.php?mac=A0:BB:3E:01:66:D9&stream=1016544&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", SUPERSPORTS GOLF
+http://line.darktv-pro.cc/play/live.php?mac=A0:BB:3E:01:66:D9&stream=425667&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", SUPERSPORTS ACTION
+http://line.darktv-pro.cc/play/live.php?mac=A0:BB:3E:01:66:D9&stream=425668&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", SUPERSPORTS LALIGA
+http://line.darktv-pro.cc/play/live.php?mac=A0:BB:3E:01:66:D9&stream=239076&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", SUPERSPORTS PSL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://line.darktv-pro.cc/play/live.php?mac=A0:BB:3E:01:66:D9&stream=425314&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SportsNet FHD (NITRO)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1193,13 +989,6 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 group-title="Live Sport" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",BEIN SPORTS 2 🇦🇺
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 group-title="Live Sport" tvg-id="" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",BEIN SPORTS 3 🇦🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1398,8 +1187,6 @@ http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/847.ts
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/853.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: BEIN SPORTS PREMIUM 2 (vip)
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/854.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: BEIN SPORTS PREMIUM 3 (vip)
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/855.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: BEIN SPORTS MAX 1 (vip)
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/835.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: BEIN SPORTS ENG 2 (vip)
@@ -1433,6 +1220,8 @@ http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6601.ts
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6602.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: AL KASS 4
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6603.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: JORDAN SPORT
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6558.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: IRAQIA SPORT
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6578.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: NILE SPORT
@@ -1445,6 +1234,8 @@ http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6703.ts
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6702.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: SAUDI SPORT
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6713.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: KSA SPORT 1
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6718.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: KSA SPORT 2
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6719.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: KSA SPORT 4
@@ -1459,8 +1250,6 @@ http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6765.ts
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6802.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: DUBAI RACING 1
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6819.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: DUBAI RACING 2
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6820.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: DUBAI RACING 3
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6821.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: DUBAI SPORT 1
@@ -1473,10 +1262,6 @@ http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6824.ts
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6856.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: BAHRAIN SPORT 2
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6857.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: LIBYA SPORT TV HD
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6880.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: AD SPORT 2
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6893.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: SHARJAH SPORT
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6913.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: ZAMALEK SPORT
@@ -1489,12 +1274,12 @@ http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6922.ts
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6921.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR: YAS SPORT
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/7048.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR-UAE: DUBA SPORT 2
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/130641.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR-UAE: DUBAI SPORT 1
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/130646.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR|SPORT: AL AHLY SPORTS HD
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131034.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR|SPORT: KSA SPORT 1
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131048.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR|SPORT: KSA SPORT 2
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131049.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AR|SPORT: KSA SPORT 3
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131050.ts
 #EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-name="beIN Sports" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BEIN SPORTS 1 (cloud)
@@ -1511,28 +1296,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=133117&uid=10223&deviceMac=00:1A:79:0
 http://tv.cloudcdn.me:80/live.ts?channelId=133045&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 #EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SPOTV 2 (cloud)
 http://tv.cloudcdn.me:80/live.ts?channelId=133046&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SPOTV (aflax)
-http://aflaxtv.xyz:8080/F33848/cbd9779b/165105
-#EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SPOTV 2 (aflax)
-http://aflaxtv.xyz:8080/F33848/cbd9779b/298506
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ANTV
-http://aflaxtv.xyz:8080/F33848/cbd9779b/165072
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", RCTI
-http://aflaxtv.xyz:8080/F33848/cbd9779b/157591
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MNC TV
-http://aflaxtv.xyz:8080/F33848/cbd9779b/165054
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Moji
-http://aflaxtv.xyz:8080/F33848/cbd9779b/298550
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", SCTV
-http://aflaxtv.xyz:8080/F33848/cbd9779b/162141
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Indosiar
-http://aflaxtv.xyz:8080/F33848/cbd9779b/162138
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", INews
-http://aflaxtv.xyz:8080/F33848/cbd9779b/157579
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", GTV
-http://aflaxtv.xyz:8080/F33848/cbd9779b/157578
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TV ONE
-http://aflaxtv.xyz:8080/F33848/cbd9779b/266808
 #EXTINF:-1 tvg-id="WSport.my" tvg-name="WSport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",W-SPORTS 馃嚫馃嚞
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
@@ -1637,10 +1400,6 @@ http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceSn=84F4AB37DF6E6&d
 http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ASTRO CRICKET
 http://tv.cloudcdn.me/live.ts?channelId=128494&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ASTRO FOOTBALL
-http://aflaxtv.xyz:8080/live/F33848/cbd9779b/157558.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", BEINSPORTS EXTRA
-http://aflaxtv.xyz:8080/live/F33848/cbd9779b/311281.ts
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",meWATCH 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
@@ -1738,34 +1497,40 @@ http://49.0.64.96:8007/HiSports
 https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
 #EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png",UFC
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| RMC SPORTS 1 ACCESS HD
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750861
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| RMC SPORTS 1 HD
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750860
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| RMC SPORTS 3 HD
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750857
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| RMC SPORTS 4 HD
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750856
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| BEIN SPORTS 1 HD
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750854
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| TRACE SPORT STARS HD
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750825
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| BEIN SPORTS 3 HD
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750852
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| EUROSPORT 1 HD
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750844
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| EUROSPORT 2 HD
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750843
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| GOLF CHANNEL HD
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750828
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| GOLF+ HD
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750829
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| INFOSPORT+ HD
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750842
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| CANAL+ 360 HD
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750863
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| CANAL+ FOOT HD
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750865
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| CANAL+ LEAGUE DES CHAMPIONS HD
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750866
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| DAZN 02
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/744346
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| DAZN 01
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/744347
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| DAZN 03
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/744345
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| DAZN 04
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/744344
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| DAZN 05
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/744343
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| EQUIDIA LIVE HD
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750827
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", FR| L'EQUIPE LIVE 2 HD
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/750838
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" tvg-country="FR" group-title="Live Sport",LE GRAND DIRECT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" tvg-country="FR" group-title="Live Sport",RACING GALOP
@@ -1804,58 +1569,44 @@ http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/524850
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/524834
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IT: SKY SPORT SERIE A VIP
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/524833
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IT: SKY SPORT UNO VIP
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/524832
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IT: SKY SUPER TENNIS VIP
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/524831
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IT: SPORT ITALIA +24 VIP
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/524826
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IT: SPORT ITALIA SOLO CALCIO VIP
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/524839
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", IT: SPORT ITALIA VIP
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/524827
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Dazn Rise HD
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/190803
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Dazn Red Bull TV HD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/190802
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", DFB.TV HD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/313533
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Sportdigital Scoore HD
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/313709
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Tennis Channel FHD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/313710
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Dyn Sport 1
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/181951
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Dyn Sport 2
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/181952
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", DYN Sport 3
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/184714
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AT: ORF SPORT+
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/198085
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", MOTORVISION HD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/195423
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", DAZN 1 SD
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/191943
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", DAZN 2 SD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/191944
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", EUROSPORT 1 SD
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/191945
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", EUROSPORT 2 SD
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/191946
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", DAZN UEFA Champions League 1
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/233775
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", DAZN UEFA Champions League 4
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/233772
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", DAZN UEFA Champions League 5
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/233771
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Dazn 1 HD LQ
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/17490
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Dazn 2 HD LQ
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/17489
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Motorvision LQ
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/8843
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", SKY Sport Austria HD LQ
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/5010
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Sky Sport Bundesliga 2 HD LQ
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/13566
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Sky Sport 3 HD LQ
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/17845
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", SKY Sport News HD LQ
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/8835
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Sky Sport Tennis FHD LQ
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/13569
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Sky Sport F1 HD
@@ -1870,14 +1621,8 @@ http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/75810
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/26097
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Eurosport 2 HD
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/26099
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Eurosport 2 HD Xtra
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/38375
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Auto Motor Sport HD
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/38408
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Sky Sport 1 HD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/75359
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Sky Sport 2 HD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/75360
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Sky Sport 3 HD
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/26134
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Sky Sport 4 HD
@@ -1886,18 +1631,8 @@ http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/26135
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/26136
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Sky Sport 6 HD
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/26137
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Magenta Sport 1 FHD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/51971
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Magenta Sport 2 FHD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/42280
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Magenta Sport 3 FHD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/42279
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Magenta Sport 4 FHD
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/51972
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Magenta Sport 5 FHD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/42277
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", WEDO TV SPORT FHD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/195416
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",┃NL┃ ESPN 1 HD ⏺ʳᵉᶜ
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=1287&extension=ts&play_token=7zvtXtnBYx
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",┃NL┃ ESPN 2 HD ⏺ʳᵉᶜ
@@ -1928,12 +1663,16 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=1272&extens
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/99475
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",ELEVEN SPORT 2
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/99476
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",ELEVEN SPORT 3
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/99477
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",ELEVEN SPORT 4
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/99478
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",ELEVEN SPORT 5
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/99479
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",ELEVEN SPORT 6
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/99480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",EUROSPORT 1
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/99481
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",EUROSPORT 2
-http://31.43.191.125:8080/VIP0199169358094917/21693580949/99482
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SPORT TV +
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/99483
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SPORT TV 1
@@ -1944,8 +1683,8 @@ http://31.43.191.125:8080/VIP0199169358094917/21693580949/99486
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/99487
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SPORT TV 5
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/99488
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SPORTING TV
-http://31.43.191.125:8080/VIP0199169358094917/21693580949/99490
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SPORT TV 6
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/99489
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BTV
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/99492
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",CANAL+ SPORT
@@ -1990,6 +1729,8 @@ http://31.43.191.125:8080/VIP0199169358094917/21693580949/884
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/885
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",FIGHTBOX
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/942
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GOLF ZONE
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/953
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",MOTOWIZJA
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/967
 #EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORTS 1" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: NOVA SPORTS 1
@@ -2004,8 +1745,6 @@ http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157416
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157417
 #EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORTS 6" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: NOVA SPORTS 6
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157418
-#EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORTS EXTRA 1" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: NOVA SPORTS EXTRA 1
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157419
 #EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORTS EXTRA 2" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: NOVA SPORTS EXTRA 2
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157420
 #EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORTS EXTRA 3" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: NOVA SPORTS EXTRA 3
@@ -2014,8 +1753,8 @@ http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157421
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157422
 #EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORTS NEWS" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: NOVA SPORTS NEWS
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157423
-#EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORTS PRIME" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: NOVA SPORTS PRIME
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157425
+#EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORTS PREMIER LEAGUE" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: NOVA SPORTS PREMIER LEAGUE
+http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157424
 #EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORTS START" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: NOVA SPORTS START
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157426
 #EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 1" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: COSMOTE SPORT 1
@@ -2032,68 +1771,20 @@ http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157431
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157432
 #EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 7" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: COSMOTE SPORT 7
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157433
-#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 8" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: COSMOTE SPORT 8
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157434
 #EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 9" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: COSMOTE SPORT 9
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157435
 #EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT HIGHLIGHTS" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: COSMOTE SPORT HIGHLIGHTS
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157436
-#EXTINF:-1 tvg-id="" tvg-name="GR: ERT SPORTS 1" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: ERT SPORTS 1
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157447
-#EXTINF:-1 tvg-id="" tvg-name="GR: ERT SPORTS 2" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: ERT SPORTS 2
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157448
 #EXTINF:-1 tvg-id="" tvg-name="GR: CABLENET SPORTS 1" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: CABLENET SPORTS 1
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157449
-#EXTINF:-1 tvg-id="" tvg-name="GR: CABLENET SPORTS 2" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: CABLENET SPORTS 2
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157450
-#EXTINF:-1 tvg-id="" tvg-name="GR: EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: EUROSPORT 1
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157451
 #EXTINF:-1 tvg-id="" tvg-name="GR: EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: EUROSPORT 2
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157452
-#EXTINF:-1 tvg-id="" tvg-name="GR: GINX ESPORTS" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: GINX ESPORTS
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157453
 #EXTINF:-1 tvg-id="" tvg-name="GR: MOTORVISION" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",GR: MOTORVISION
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/157454
 #EXTINF:-1 group-title="Live Sport" tvg-id="BandSports.br" tvg-name="Band Sports Alternativo 1" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", Band Sports Alternativo 1
 http://170.83.16.50/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORT" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BR: BAND SPORT (vip)
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/4835
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BR: ESPN 2(vip)
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/4855
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN4" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BR: ESPN4(vip)
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/4859
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BR: FOX SPORTS 2(vip)
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/4860
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BR: PREMIERE 2(vip)
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/4887
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BR: PREMIERE 3(vip)
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/4888
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 4" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BR: PREMIERE 4(vip)
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/4889
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BR: PREMIERE 5(vip)
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/4890
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BR: PREMIERE CLUBES(vip)
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/4892
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BR: SPORTV 1(vip)
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/4902
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BR: SPORTV 2(vip)
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/4903
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",BR: SPORTV 3(vip)
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/4904
-#EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", BR: COMBATE
-http://31.43.191.125:8080/VIP0199169358094917/21693580949/4838
-#EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", BR: ESPN 2
-http://31.43.191.125:8080/VIP0199169358094917/21693580949/4855
-#EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", BR: ESPN4
-http://31.43.191.125:8080/VIP0199169358094917/21693580949/4859
-#EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", BR: FOX SPORTS 2
-http://31.43.191.125:8080/VIP0199169358094917/21693580949/4860
-#EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", BR: SPORTV 1
-http://31.43.191.125:8080/VIP0199169358094917/21693580949/4902
-#EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", BR: SPORTV 2
-http://31.43.191.125:8080/VIP0199169358094917/21693580949/4903
-#EXTINF:-1 group-title="Live Sport" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png", BR: SPORTV 3
-http://31.43.191.125:8080/VIP0199169358094917/21693580949/4904
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AL: Arena Sport 1 HD (filex)
 https://filex.me:8443/live/1234567/7654321/303997.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AL: Arena Sport 2 HD (filex)
@@ -2106,8 +1797,6 @@ https://filex.me:8443/live/1234567/7654321/304000.ts
 https://filex.me:8443/live/1234567/7654321/304001.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AL: ART Sport 2 HD (filex)
 https://filex.me:8443/live/1234567/7654321/304002.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AL: ART Sport 3 HD (filex)
-https://filex.me:8443/live/1234567/7654321/304003.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AL: ART Sport 4 HD (filex)
 https://filex.me:8443/live/1234567/7654321/304004.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AL: ART Sport 5 HD (filex)
@@ -2138,14 +1827,12 @@ https://filex.me:8443/live/1234567/7654321/304018.ts
 https://filex.me:8443/live/1234567/7654321/304019.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AL: Supersport NEWS HD (filex)
 https://filex.me:8443/live/1234567/7654321/304020.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AL: Tring Sport 1 HD (filex)
+https://filex.me:8443/live/1234567/7654321/304021.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AL: Tring Sport 2 HD (filex)
 https://filex.me:8443/live/1234567/7654321/304022.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AL: Tring Sport 3 HD (filex)
 https://filex.me:8443/live/1234567/7654321/304023.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AL: Tring Sport 4 HD (filex)
-https://filex.me:8443/live/1234567/7654321/304024.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AL: RTSH Sport HD (filex)
-https://filex.me:8443/live/1234567/7654321/304012.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",supersports 1 £
 http://46.165.212.87:25448/sCLdpLC6k4Ss/82dynnds/90
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",supersports 2 £
@@ -2246,10 +1933,14 @@ https://filex.me:8443/live/1234567/7654321/495261.ts
 https://filex.me:8443/live/1234567/7654321/495262.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", UK: UFC Fight PASS HD (filex)
 https://filex.me:8443/live/1234567/7654321/495267.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", UK: HUB Premier 1 HD (filex)
+https://filex.me:8443/live/1234567/7654321/495230.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", UK: MUTV HD (filex)
 https://filex.me:8443/live/1234567/7654321/495237.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", UK: Premier Sports 2 HD (filex)
 https://filex.me:8443/live/1234567/7654321/495239.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", UK: Eurosport 1 HD (filex)
+https://filex.me:8443/live/1234567/7654321/495242.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", UK: Eurosport 2 HD (filex)
 https://filex.me:8443/live/1234567/7654321/495243.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", UK: Fight Network HD (filex)
@@ -2276,22 +1967,20 @@ https://filex.me:8443/live/1234567/7654321/495256.ts
 https://filex.me:8443/live/1234567/7654321/495257.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: A SPOR
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527854
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: AUTOMOTO (FR)
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527842
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: BEIN SPORTS 1
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527820
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: BEIN SPORTS 2
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527819
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: BEIN SPORTS 3
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527818
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: BEIN SPORTS 4
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527817
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: BEIN SPORTS HABER
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527816
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: EUROSPORT 1
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527862
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: EUROSPORT 2
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527863
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: EXXEN SPORTS 1
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527756
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: EXXEN SPORTS 2
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527755
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: EXXEN SPORTS 3
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527754
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: EXXEN SPORTS 4
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527753
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: FB TV
@@ -2300,14 +1989,20 @@ http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527749
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527736
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: SMART SPOR 1
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527616
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: S SPORT
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527659
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: S SPORT 2
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527658
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: TIVI BUSPOR 1
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527605
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: TIVI BUSPOR 3
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527603
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: TRT SPOR
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527584
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", TR: TRT SPOR 2
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/527583
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: TVA SPORTS
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529476
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: TSN 2
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529492
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: TSN 3
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529491
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: TSN 4
@@ -2316,26 +2011,20 @@ http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529490
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529489
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: WWE
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529420
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: COOKING CHANNEL
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529453
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: BEIN SPORTS
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529441
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: FIGHT NETWORK
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529505
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: FOOD NETWORK
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529469
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: FOX SPORTS RACING
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529431
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: GOLF CHANNEL
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529463
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: SPORTSNET 360
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529408
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: SPORTSNET EAST
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529401
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CA: SPORTSNET ONE
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529407
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AT: Sky Sport Austria 1 HD
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/26141
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AT: Sky Sport Austria 2 HD
-http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/72616
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AT: Sky Sport Austria 3 HD
 http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/72617
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AT: Sky Sport Austria 4 HD
@@ -2344,36 +2033,30 @@ http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/72618
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529545
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU: ESPN 2
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529544
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU: FOX SPORTS 501
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529542
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU: FOX SPORTS 502
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529541
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU: FOX SPORTS 503
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529540
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU: FOX SPORTS 504
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529539
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU: FOX SPORTS 507
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529536
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU: FOX SPORTS 506
+http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529537
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU: FOX SPORTS NEWS
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529535
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU: REDBULL TV
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529532
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU: SKY RACING 1
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529526
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", AU: SKY RACING 2
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529525
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US FOX Sports 1 " tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",US FOXSports 1 (fortv)
 http://fortv.cc:8080/live/gregbarnes727@hotmail.com/DKSjF8sPtxW/46792.m3u8
 #EXTINF:-1 tvg-id="wwe.us" tvg-name="24/7 WRESTLEMANIA" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",24/7 WRESTLEMANIA (fortv)
 http://fortv.cc:8080/live/gregbarnes727@hotmail.com/DKSjF8sPtxW/11645.m3u8
+#EXTINF:-1 tvg-id="nbcsportsnow.us" tvg-name="US NBC Sports Now" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", NBC Sports Now (fortv)
+http://fortv.cc:8080/live/gregbarnes727@hotmail.com/DKSjF8sPtxW/46725.m3u8
 #EXTINF:-1 tvg-id="espnnews.us" tvg-name="US ESPN NEWS" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ESPN NEWS(fortv)
 http://fortv.cc:8080/live/gregbarnes727@hotmail.com/DKSjF8sPtxW/17707.m3u8
 #EXTINF:-1 tvg-id="secnetwork.us" tvg-name="US ESPN SEC Network " tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ESPN SEC Network (fortv)
 http://fortv.cc:8080/live/gregbarnes727@hotmail.com/DKSjF8sPtxW/17608.m3u8
 #EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US Tennis Channel" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Tennis Channel (fortv)
 http://fortv.cc:8080/live/gregbarnes727@hotmail.com/DKSjF8sPtxW/20184.m3u8
-#EXTINF:-1 tvg-id="yes.network.us" tvg-name="US YES Network" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", YES Network (fortv)
-http://fortv.cc:8080/live/gregbarnes727@hotmail.com/DKSjF8sPtxW/57972.m3u8
-#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="US ACC Network (A)" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", ACC Network (fortv)
-http://fortv.cc:8080/live/gregbarnes727@hotmail.com/DKSjF8sPtxW/9273.m3u8
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="US Big Ten HD" tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Big Ten HD (fortv)
+http://fortv.cc:8080/live/gregbarnes727@hotmail.com/DKSjF8sPtxW/9828.m3u8
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", CBS Sports Network HD (fortv)
 http://fortv.cc:8080/live/gregbarnes727@hotmail.com/DKSjF8sPtxW/10454.m3u8
 #EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US Cooking Channel " tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport", Cooking Channel (fortv)
@@ -2526,6 +2209,8 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fd
 https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SKY SPORTS CRICKET HD (RUTUBE)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SKY SPORTS GOLF HD (RUTUBE)
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SKY SPORTS RACING HD (RUTUBE)
 https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gamerepublictv/logo/refs/heads/main/Live%20Sport.png" group-title="Live Sport",SKY SPORT TENNIS HD (RUTUBE)
@@ -2604,9 +2289,5 @@ https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782232162-0-0-d0d8
 https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782232522-0-0-56e4b93b1d457bb424d110ca6730a379
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 23/06 KuPs vs Ilves Tampere [BLV ENZO] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782232522-0-0-817442f1c8516fe936675b737e2b61ef
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D1: Inter Turku vs SJK Seinajoen [BLV GIÓ] (Socolive) m3u8
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1782232522-0-0-1232c89508e5bb6c146a421a02379084
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D1: Inter Turku vs SJK Seinajoen [BLV GIÓ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1782232522-0-0-2faf72d9069b9a72d2aaebeea7a60e3a
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 27/07 Singapore vs Timor Leste (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
